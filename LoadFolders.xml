@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loadFolders>
+	<v1.3>
+	<li>/</li>
+	</v1.3>	
+	<v1.4>
+	<li>/</li>
+	</v1.4>	
+	<v1.5>
+	<li>/</li>
+	</v1.5>	
+	<v1.6>
+	<li>/</li>	
+	
+		<!-- 1.4 -->
+		
+		<li IfModActive="Augmented.Vanilla.Injectors">Rus Mods/Augmented Vanilla Injectors</li>
+		<li IfModActive="Augmented.Vanilla.Firearms">Rus Mods/Augmented Vanilla - Firearms</li>	
+		
+		<!-- Rus Mods -->
+		<li IfModActive="diddily.poweralerts">Rus Mods/Power Alerts</li>
+        <li IfModActive="Mlie.Shoo">Rus Mods/Shoo! Continued</li>	
+		<li IfModActive="Mlie.HuntersUseMelee">Rus Mods/Hunters Use Melee! Continued</li>
+        <li IfModActive="Alias.Doormats">Rus Mods/Doormats</li>
+		<li IfModActive="automatic.gradienthair">Rus Mods/Gradient Hair</li>
+        <li IfModActive="cat2002.showhair">Rus Mods/Show Hair With Hats or Hide All Hats</li>		
+		<li IfModActive="Mlie.PicnicArea">Rus Mods/Picnic Area</li>
+        <li IfModActive="navyseal5.MoreHarvestDesignators">Rus Mods/More Harvest Designators!</li>	
+		<li IfModActive="DarthSergeant.NurseJob">Rus Mods/Nurse Job</li>
+        <li IfModActive="Owlchemist.ScatteredStones">Rus Mods/Scattered Stones</li>
+		<li IfModActive="Mlie.FlickableStorage">Rus Mods/Flickable Storage</li>
+        <li IfModActive="Mlie.AreaUnlocker">Rus Mods/Area Unlocker</li>
+        <li IfModActive="automatic.hairdye">Rus Mods/Hair Dye</li>		
+        <li IfModActive="handandfootwearcontinued.kv.rw">Rus Mods/Hand Footwear</li>
+        <li IfModActive="Merthsoft.TimeOfDaySwitch">Rus Mods/Time of Day Switches</li>
+		<li IfModActive="VIC.Thumper">Rus Mods/Thumper</li>
+        <li IfModActive="llunak.PathfindingAvoidance">Rus Mods/Pathfinding Avoidance</li>        
+		<li IfModActive="Cerule.CleaningAreaRelaunched">Rus Mods/Cleaning Area Relaunched</li>
+		<li IfModActive="Twokay.Plushies.Specific">Rus Mods/Plushies</li>
+        <li IfModActive="GodlyAnnihilator.AnimalMedicalBed">Rus Mods/Animal Medical Bed</li>
+        <li IfModActive="Mlie.NewLimbsNeedsTraining">Rus Mods/New Limbs Needs Training</li>
+		<li IfModActive="Cocaine.ElectricStonecuttingTable">Rus Mods/Electric Stonecutting Table</li>
+        <li IfModActive="itchyflea.medicaltraining">Rus Mods/Medical Training</li>
+        <li IfModActive="gguake.ai.dsfi">Rus Mods/Do Something for Idle</li>
+		<li IfModActive="5katz.CommsChat">Rus Mods/Chatting on Comms</li>       
+	    <li IfModActive="hatena.AnimalDiscovery">Rus Mods/Animal Discovery</li>
+        <li IfModActive="Mlie.ApexRimworldLegends">Rus Mods/Apex Rimworld Legends</li>
+		<li IfModActive="Owlchemist.BoundaryTraining">Rus Mods/Boundary Training</li>
+        <li IfModActive="Oldasur.CaravanOptions">Rus Mods/CaravanOptions</li>
+        <li IfModActive="Mlie.CustomPrisonerInteractions">Rus Mods/Custom Prisoner Interactions</li>
+		<li IfModActive="ilyvion.FarmingHysteresis">Rus Mods/Farming Hysteresis</li>       
+		<li IfModActive="Flyingstar.AutoMortarsUnofficial">Rus Mods/Auto Mortars</li>		
+		<li IfModActive="automatic.autocleaner">Rus Mods/Autocleaner</li>		
+		<li IfModActive="Mlie.BeamMeUpScotty">Rus Mods/Beam me up Scotty</li>		
+		<li IfModActive="Mlie.BuriedAlive">Rus Mods/Buried Alive</li>		
+		<li IfModActive="arakos.callatrader.acat">Rus Mods/Call A Trader</li>
+		<li IfModActive="Syrus.CaravanMoodBuff">Rus Mods/Caravan Mood Buff</li>
+		<li IfModActive="Wiri.compositableloadouts">Rus Mods/Compositable Loadouts</li>		
+		<li IfModActive="Syrus.CustomizeAnimals">Rus Mods/Customize Animals</li>		
+		<li IfModActive="aRandomKiwi.DownForMe">Rus Mods/Down For Me</li>		
+		<li IfModActive="Dubwise.DubsApparelTweaks">Rus Mods/Dubs Apparel Tweaks</li>		
+		<li IfModActive="Mlie.EasyUpgrades">Rus Mods/Easy Upgrades</li>
+		<li IfModActive="Inglix.FasterBiosculptingPod">Rus Mods/Faster Biosculpter Pod</li>
+		<li IfModActive="Mlie.FuelEconomy">Rus Mods/Fuel Economy</li>		
+		<li IfModActive="com.distman.gastrap">Rus Mods/Gas Traps And Shells</li>		
+		<li IfModActive="AgentBlac.MakePawnsPrisoners">Rus Mods/Imprisonment On The Go</li>		
+		<li IfModActive="Mlie.Industrialisation">Rus Mods/Industrialisation</li>		
+		<li IfModActive="Scorpio.ItemTeleporter">Rus Mods/Item Teleporter</li>
+		<li IfModActive="Dorely.EmergencySurgery">Rus Mods/Just cut it off Emergency Surgery</li>
+		<li IfModActive="aRandomKiwi.KillForMe">Rus Mods/Kill For Me</li>		
+		<li IfModActive="Scorpio.MakeAnythingBuildable">Rus Mods/Make Anything Buildable</li>	
+		<li IfModActive="Scorpio.MakeAnythingCraftable">Rus Mods/Make Anything Craftable</li>		
+		<li IfModActive="Mlie.MercerBackpacksNanoSuit">Rus Mods/Mercer's Backpacks + Nano Suit</li>
+		<li IfModActive="SA.Metaflora">Rus Mods/Metaflora</li>
+		<li IfModActive="Gunmar.MoreJackets">Rus Mods/More Jackets</li>
+		<li IfModActive="Gunmar.MoreSmallGuns">Rus Mods/More Small Guns</li>		
+		<li IfModActive="Mlie.XNDNocturnalAnimals">Rus Mods/Nocturnal Animals</li>		
+		<li IfModActive="AKreedz.Ra2Bunker">Rus Mods/Ra2Bunker</li>		
+		<li IfModActive="TRIBeagle.simpleslaverycollars">Rus Mods/Simple Slavery Collars</li>	
+		<li IfModActive="Alkolyte.Spawners">Rus Mods/Spawners and Drones</li>
+		<li IfModActive="kikohi.TamingArtifact15">Rus Mods/Taming Artifact</li>		
+		<li IfModActive="Murmur.TCU.kotobike">Rus Mods/Temperature Control Unit</li>		
+		<li IfModActive="Mlie.UNColony">Rus Mods/UN-Colony</li>
+		<li IfModActive="Mlie.UNFurniture">Rus Mods/UN-Furniture</li>		
+		<li IfModActive="Memegoddess.UseBedrolls">Rus Mods/Use Bedrolls</li>		
+		<li IfModActive="Arcjc007.WallStuff">Rus Mods/WallStuff</li>
+		<li IfModActive="Ogliss.g223.wanderingcaravans">Rus Mods/Wandering Caravans</li>		
+		<li IfModActive="PureMJ.MjRimMods.WhileYouAreNearby">Rus Mods/While You Are Nearby</li>		
+		<li IfModActive="RH2.HandToHand">Rus Mods/Hand to Hand</li>
+		<li IfModActive="moremonstergirls.daleim">Rus Mods/More Monster Girls</li>		
+		<li IfModActive="void.MoreThanCapable">Rus Mods/More Than Capable</li>		
+		<li IfModActive="telardo.NoLaggyBed">Rus Mods/No Laggy Bed</li>
+		<li IfModActive="Mlie.ReleaseWhenHealthy">Rus Mods/Release When Healthy</li>		
+		<li IfModActive="Ogliss.RescueeJoinsPlus">Rus Mods/RescueeJoinsPlus</li>		
+		<li IfModActive="Mlie.TwilekRace">Rus Mods/TwiLek</li>
+		
+		<!-- Переводы 2026 -->
+		<li IfModActive="bigbarza.vqegenerator.pipecompat">Rus Mods/VQE Generator - Pipe Network Compat</li>		
+		<li IfModActive="DoubleC.CoolerCooler">Rus Mods/Cooler Cooler</li>		
+		<li IfModActive="AlSweigart.FreeLunch">Rus Mods/Free Lunch</li>
+		<li IfModActive="Takei.Traits.OPTraits">Rus Mods/TKei OP One Man Army Traits</li>		
+		<li IfModActive="ray1203.SimpleCameraSetting">Rus Mods/SimpleCameraSetting</li>		
+		<li IfModActive="NuanKi.UnlimitedReborn">Rus Mods/Un-Limited Reborn</li>
+		<li IfModActive="Masternetra.CheatersResourceReplicator">Rus Mods/Cheaters Resource Replicator</li>		
+		<li IfModActive="Blue.adaptiveTPS">Rus Mods/Adaptive TPS</li>		
+		<li IfModActive="Mlie.RimFactoryNecerosPatch">Rus Mods/RimFactory Neceros Patch</li>
+		<li IfModActive="ben.nrcq">Rus Mods/No Random Construction Quality</li>		
+		<li IfModActive="quartz.floorstoragetanks">Rus Mods/Floor-Mounted Fuel Tanks</li>
+		<li IfModActive="Lauriichan.PriorityMaster">Rus Mods/PriorityMaster</li>
+		<li IfModActive="nestofmoon.jobslimittweak">Rus Mods/JobsLimitsTweakRU</li>
+		<li IfModActive="Mlie.CompactWorkTab">Rus Mods/Compact Work Tab</li>
+		<li IfModActive="DimonSever000.FiberCloth.Specific">Rus Mods/Woven plant fiber Better Edition</li>
+		<li IfModActive="dismarzero.vgp.vgpgardenfabrics">Rus Mods/Woven plant fiber Better Edition/Languages/Russian/DefInjected</li>
+		<li IfModActive="VEMP.pipenetwork">Rus Mods/Milk Pipe Network</li>
+		<li IfModActive="Parciwal.mfgu">Rus Mods/Milk Pipe Network</li>
+		<li IfModActive="Linnun.KeepConverting">Rus Mods/Keep Converting</li>
+		<li IfModActive="NuanKi.AdaptiveStorageGlobalSettings">Rus Mods/Adaptive Storage - Global Settings</li>
+		<li IfModActive="Natsuki.guangjue.deepdrill">Rus Mods/Wide Deep Drill</li>
+		<li IfModActive="trigger.supplybox">Rus Mods/Supply Box</li>
+		<li IfModActive="hailuan.mutifloorsgravship">Rus Mods/Supply Box/Muti-levels_gravship_Patches</li>
+		<li IfModActive="Fuu.AutoStripOnHaul">Rus Mods/Auto Strip on Haul</li>
+		<li IfModActive="klvlt.asf.storage.settings">Rus Mods/Settings for Various ASF Storage Mods</li>
+		<li IfModActive="ferny.progressioncore">Rus Mods/Progression Core</li>
+		
+		</v1.6>
+</loadFolders>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
