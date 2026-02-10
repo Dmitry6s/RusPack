@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Change-Over WorstAllowedFPS method -->
+	<AdaptiveTPS.MethodMode>Переход на метод WorstAllowedFPS</AdaptiveTPS.MethodMode>
+	<!-- EN: Tick rate adjustment method\nTime Scale → WorstAllowedFPS\n\nThis method increases the FPS by changing the 'WorstAllowedFPS' from 22 to 60.\nThe result is similar to FPS Stabilizer, where this method secures FPS by consuming a small amount of TPS.\nHowever, like FPS Stabilizer, It might not guarantee 60FPS depending on CPU usage. -->
+	<AdaptiveTPS.MethodMode.Tooltip>Метод регулировки частоты тактов\nМасштаб времени → WorstAllowedFPS\n\nЭтот метод увеличивает FPS, изменяя параметр «WorstAllowedFPS» с 22 до 60.\nРезультат аналогичен моду FPS Stabilizer, где данный метод обеспечивает стабильный FPS за счёт небольшого снижения TPS.\nОднако, как и в случае с FPS Stabilizer, это может не гарантировать 60 FPS в зависимости от загрузки процессора.</AdaptiveTPS.MethodMode.Tooltip>
+	<!-- EN: If you activate this, it will change from the Time Scale method to WorstAllowedFPS method. -->
+	<AdaptiveTPS.MethodMode.Label1>Если активировать это, произойдёт переключение с метода Масштаба времени на метод WorstAllowedFPS.</AdaptiveTPS.MethodMode.Label1>
+	<!-- EN: Recommended if you want to secure FPS while maintaining TPS as much as possible, rather than adjusting Time Scale -->
+	<AdaptiveTPS.MethodMode.Label2>Рекомендуется, если вы хотите обеспечить стабильный FPS, сохраняя TPS насколько это возможно, вместо изменения Масштаба времени</AdaptiveTPS.MethodMode.Label2>
+	<!-- EN: Boost TPS Enable (aggressive) -->
+	<AdaptiveTPS.BoostTPS>Включить ускорение TPS (агрессивно)</AdaptiveTPS.BoostTPS>
+	<!-- EN: Boost TPS method\nFPS → TPS -->
+	<AdaptiveTPS.BoostTPS.Tooltip>Метод ускорения TPS\nFPS → TPS</AdaptiveTPS.BoostTPS.Tooltip>
+	<!-- EN: If you activate this, When the Player is idle at a high speed Time Scale -->
+	<AdaptiveTPS.BoostTPS.Label1>Если активировать это, когда Игрок бездействует на высокой скорости Масштаба времени</AdaptiveTPS.BoostTPS.Label1>
+	<!-- EN: Consumes FPS to boost maximum TPS. Once the player starts control, it immediately returns to the original state. -->
+	<AdaptiveTPS.BoostTPS.Label2>Потребляет FPS для повышения максимального TPS. Как только игрок начинает управление, игра немедленно возвращается в исходное состояние.</AdaptiveTPS.BoostTPS.Label2>
+	<!-- EN: Active moment (seconds):  -->
+	<AdaptiveTPS.RestoreDelay>Время задержки активности (сек): </AdaptiveTPS.RestoreDelay>
+	<!-- EN: This is how long Adaptive TPS reacts to and maintains the UI. (0.00 to 2.00 seconds). -->
+	<AdaptiveTPS.RestoreDelay.Label1>Это время, в течение которого Adaptive TPS реагирует на действия и поддерживает интерфейс (от 0.00 до 2.00 секунд).</AdaptiveTPS.RestoreDelay.Label1>
+	<!-- EN: [ Input that Affects Adaptive TPS Tick Adjustment ] -->
+	<AdaptiveTPS.TickAdjustment>[ Ввод, влияющий на регулировку тактов Adaptive TPS ]</AdaptiveTPS.TickAdjustment>
+	<!-- EN: Include Left/Right Mouse Clicks (aggressive) -->
+	<AdaptiveTPS.MouseClicks>Учитывать нажатия ЛКМ/ПКМ (агрессивно)</AdaptiveTPS.MouseClicks>
+	<!-- EN: (When controls, commands, etc)\nCheck this to include left and right mouse button presses as input that triggers Adaptive TPS to adjust the tick. -->
+	<AdaptiveTPS.MouseClicks.Tooltip>(При управлении, командах и т.д.)\nВключите это, чтобы нажатия левой и правой кнопок мыши считались вводом, который заставляет Adaptive TPS регулировать такты.</AdaptiveTPS.MouseClicks.Tooltip>
+	<!-- EN: Include Mouse Action -->
+	<AdaptiveTPS.MouseAction>Учитывать действия мышью</AdaptiveTPS.MouseAction>
+	<!-- EN: (When targeting, building, etc actions with the mouse)\nWhen the action to be specified with the mouse is activated, Adaptive TPS adjusts the tick. -->
+	<AdaptiveTPS.MouseAction.Tooltip>(При прицеливании, строительстве и других действиях мышью)\nКогда выполняется действие, заданное мышью, Adaptive TPS регулирует частоту тактов.</AdaptiveTPS.MouseAction.Tooltip>
+	<!-- EN: Include Menu Open -->
+	<AdaptiveTPS.MenuOpen>Учитывать открытие меню</AdaptiveTPS.MenuOpen>
+	<!-- EN: (When the menu opens for designation)\nWhen the menu is opened, Adaptive TPS adjusts the tick. -->
+	<AdaptiveTPS.MenuOpen.Tooltip>(Когда открывается меню для назначений)\nПри открытии меню Adaptive TPS регулирует частоту тактов.</AdaptiveTPS.MenuOpen.Tooltip>
+	<!-- EN: Only Shift Press -->
+	<AdaptiveTPS.ShiftPress>Только при нажатии Shift</AdaptiveTPS.ShiftPress>
+	<!-- EN: (While moving the screen rapidly. During keyboard control)\nWhen using the keyboard to move the screen, Adaptive TPS only adjusts the tick while the Shift key is pressed. -->
+	<AdaptiveTPS.ShiftPress.Tooltip>(При быстром перемещении экрана. При управлении с клавиатуры)\nПри использовании клавиатуры для перемещения экрана Adaptive TPS будет регулировать частоту тактов только при нажатой клавише Shift.</AdaptiveTPS.ShiftPress.Tooltip>
+</LanguageData>

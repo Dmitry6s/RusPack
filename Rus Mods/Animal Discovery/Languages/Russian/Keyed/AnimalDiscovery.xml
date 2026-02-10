@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Show notification alerts also outside of Home -->
+	<AnimalDiscovery.notOnlyPlayerHome>Показывать оповещения вне домашней области</AnimalDiscovery.notOnlyPlayerHome>
+
+	<!-- EN: Alerts to display(Multiple selections possible) -->
+	<AnimalDiscovery.AlertsToNotify>Отображаемые оповещения (возможен множественный выбор)</AnimalDiscovery.AlertsToNotify>
+	<!-- EN: Get an alert when wild predators are on the map. -->
+	<AnimalDiscovery.predatorAlert>Оповещать о диких хищниках на карте.</AnimalDiscovery.predatorAlert>
+	<!-- EN: Get an alert when the animal specified below is in the wild and on the map. -->
+	<AnimalDiscovery.customAlert>Оповещать о выбранных диких животных на карте.</AnimalDiscovery.customAlert>
+
+	<!-- EN: Animals that show notification alerts when they are on the map in the wild -->
+	<AnimalDiscovery.TitleAnimalDefs>Животные для оповещений на карте</AnimalDiscovery.TitleAnimalDefs>
+	<!-- EN: Add -->
+	<AnimalDiscovery.AddAnimalDef>Добавить</AnimalDiscovery.AddAnimalDef>
+	<!-- EN: There are no animals to add. -->
+	<AnimalDiscovery.NoAnimalDef>Нет животных для добавления.</AnimalDiscovery.NoAnimalDef>
+
+	<!-- EN: Order of animals in the Add button -->
+	<AnimalDiscovery.SettingButtonDesc>Порядок животных в кнопке "Добавить"</AnimalDiscovery.SettingButtonDesc>
+	<!-- EN: Added by an unloaded mod. -->
+	<AnimalDiscovery.AddedByUnloadMod>Добавлено незагруженным модом.</AnimalDiscovery.AddedByUnloadMod>
+
+	<!-- EN: Found the animal! -->
+	<AnimalDiscovery.AlertFoundAnimalLabel>Животное обнаружено!</AnimalDiscovery.AlertFoundAnimalLabel>
+	<!-- EN: The following animals are on this map in the wild.\n\n{0} -->
+	<AnimalDiscovery.AlertFoundAnimalDesc>Следующие дикие животные находятся на этой карте:\n\n{0}</AnimalDiscovery.AlertFoundAnimalDesc>
+	<!-- EN:  - {0} x{1} -->
+	<AnimalDiscovery.AlertFoundItem> - {0} x{1}</AnimalDiscovery.AlertFoundItem>
+	<!-- EN: Found the predator! -->
+	<AnimalDiscovery.AlertFoundPredatorLabel>Хищник обнаружен!</AnimalDiscovery.AlertFoundPredatorLabel>
+	<!-- EN: The following predators are on this map in the wild.\n\n{0} -->
+	<AnimalDiscovery.AlertFoundPredatorDesc>Следующие дикие хищники находятся на этой карте:\n\n{0}</AnimalDiscovery.AlertFoundPredatorDesc>
+
+	<!-- EN: Default -->
+	<AnimalDiscovery.Sort_Default>По умолчанию</AnimalDiscovery.Sort_Default>
+	<!-- EN: Ascending -->
+	<AnimalDiscovery.Sort_Ascending>По возрастанию</AnimalDiscovery.Sort_Ascending>
+	<!-- EN: Descending -->
+	<AnimalDiscovery.Sort_Descending>По убыванию</AnimalDiscovery.Sort_Descending>
+	<!-- EN: You can save the current animal list \nor add animals from the preset list at once. -->
+	<AnimalDiscovery.PresetDisc>Сохранить текущий список животных \nили добавить животных из предустановленного списка.</AnimalDiscovery.PresetDisc>
+	<!-- EN: Preset -->
+	<AnimalDiscovery.Preset>Пресет</AnimalDiscovery.Preset>
+	<!-- EN: Load -->
+	<AnimalDiscovery.LoadPreset>Загрузить</AnimalDiscovery.LoadPreset>
+	<!-- EN: Delete this preset. -->
+	<AnimalDiscovery.DeletePreset>Удалить этот пресет.</AnimalDiscovery.DeletePreset>
+	<!-- EN: Save -->
+	<AnimalDiscovery.SavePreset>Сохранить</AnimalDiscovery.SavePreset>
+	<!-- EN: Deletes the current animal list at once. -->
+	<AnimalDiscovery.InitializeDisc>Сбрасывает текущий список животных.</AnimalDiscovery.InitializeDisc>
+	<!-- EN: Initialization -->
+	<AnimalDiscovery.Initialize>Сброс</AnimalDiscovery.Initialize>
+
+	<!-- 1.5 -->
+	<!-- EN: Narrow down animals -->
+	<AnimalDiscovery.LimitAnimalsToDisplay>Фильтр животных</AnimalDiscovery.LimitAnimalsToDisplay>
+	<!-- EN: All -->
+	<AnimalDiscovery.NoLimit>Все</AnimalDiscovery.NoLimit>
+	<!-- EN: No mod animals -->
+	<AnimalDiscovery.NoModAnimals>Без модовых животных</AnimalDiscovery.NoModAnimals>
+	<!-- EN: Only mod animals -->
+	<AnimalDiscovery.OnlyModAnimals>Только модовые животные</AnimalDiscovery.OnlyModAnimals>
+</LanguageData>

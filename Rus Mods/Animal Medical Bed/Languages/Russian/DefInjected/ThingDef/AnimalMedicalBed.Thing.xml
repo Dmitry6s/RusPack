@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: medical animal bed -->
+  <SUN_MedicalAnimalBed.label>медкровать для животных</SUN_MedicalAnimalBed.label>
+
+  <!-- EN: A soft animal bed for surgery and recovery. Fits any animal. -->
+  <SUN_MedicalAnimalBed.description>Мягкая кровать для животных, подходит для восстановления и проведения операций. Подходит к любому животному.</SUN_MedicalAnimalBed.description>
+
+</LanguageData>

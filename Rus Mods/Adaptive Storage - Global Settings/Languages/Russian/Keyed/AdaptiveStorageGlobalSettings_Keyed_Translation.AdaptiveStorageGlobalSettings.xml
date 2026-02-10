@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Adaptive Storage - Global Settings -->
+	<ASGS_ModName>Adaptive Storage - Глобальные настройки</ASGS_ModName>
+	<!-- EN: Changes to existing buildings may require a save and reload to apply. -->
+	<ASGS_InfoMessage>Для применения изменений в существующих постройках может потребоваться сохранение и перезагрузка игры.</ASGS_InfoMessage>
+	<!-- EN: ASGS -->
+	<ASGS_ModLog>ASGS</ASGS_ModLog>
+
+	<!-- EN: Filter by -->
+	<ASGS_FilterBy>Фильтр:</ASGS_FilterBy>
+	<!-- EN: All -->
+	<ASGS_FilterAll>Все</ASGS_FilterAll>
+	<!-- EN: Reset All -->
+	<ASGS_ResetAll>Сбросить всё</ASGS_ResetAll>
+	<!-- EN: Are you sure you want to reset all settings to their original values? This cannot be undone. -->
+	<ASGS_ResetAllConfirm>Вы уверены, что хотите сбросить все настройки до их исходных значений? Это действие нельзя отменить.</ASGS_ResetAllConfirm>
+	<!-- EN: No compatible storage buildings were found from any loaded mods. -->
+	<ASGS_NoBuildingsFound>Совместимых хранилищ в установленных модах не найдено.</ASGS_NoBuildingsFound>
+	<!-- EN: No storage buildings match the current filter. -->
+	<ASGS_NoBuildingsMatchFilter>Нет хранилищ, соответствующих текущему фильтру.</ASGS_NoBuildingsMatchFilter>
+	<!-- EN: Configuration is only available when a game is loaded. -->
+	<ASGS_ConfigureDisabledTooltip>Настройка доступна только после загрузки сохранения.</ASGS_ConfigureDisabledTooltip>
+	<!-- EN: Undefined -->
+	<ASGS_Undefined>Не определено</ASGS_Undefined>
+	<!-- EN: Global Settings -->
+	<ASGS_GlobalSettings>Глобальные настройки</ASGS_GlobalSettings>
+	<!-- EN: This will overwrite the stack size and/or item filter and/or category for ALL compatible storage buildings. Are you sure you want to continue? -->
+	<ASGS_GlobalSettingsConfirm>Это действие перезапишет размер стака, фильтр предметов и/или категорию для ВСЕХ совместимых хранилищ. Вы уверены, что хотите продолжить?</ASGS_GlobalSettingsConfirm>
+	<!-- EN: You are about to double the original stack size for ALL compatible buildings. This will overwrite any custom stack sizes you have set. Are you sure? -->
+	<ASGS_DoubleOriginalsConfirm>Вы собираетесь удвоить исходный размер стака для ВСЕХ совместимых построек. Это перезапишет любые вручную заданные вами значения. Вы уверены?</ASGS_DoubleOriginalsConfirm>
+	<!-- EN: If the text box is empty, this will double the original stack size for EVERY building. If the text box has a value, it will double that value. -->
+	<ASGS_MultiplierButtonTooltip>Если поле пустое, размер стака будет удвоен для КАЖДОЙ постройки. Если в поле введено значение, оно будет удвоено.</ASGS_MultiplierButtonTooltip>
+	<!-- EN: Leave the box empty to not change original stack sizes. -->
+	<ASGS_StackSizeInfo>Оставьте поле пустым, чтобы не изменять исходные размеры стаков.</ASGS_StackSizeInfo>
+	<!-- EN: Category: -->
+	<ASGS_DesignationCategory>Категория:</ASGS_DesignationCategory>
+	<!-- EN: Options -->
+	<ASGS_Options>Опции</ASGS_Options>
+	<!-- EN: Stacks per cell: -->
+	<ASGS_HeaderStacksPerCell>Стаков в клетке:</ASGS_HeaderStacksPerCell>
+	<!-- EN: Original value -->
+	<ASGS_OriginalValue>Исходное значение</ASGS_OriginalValue>
+	<!-- EN: x2 -->
+	<ASGS_MultiplierButton>x2</ASGS_MultiplierButton>
+	<!-- EN: Power -->
+	<ASGS_Power>Питание</ASGS_Power>
+	<!-- EN: Power Consumption: -->
+	<ASGS_PowerConsumption>Потребляемая энергия:</ASGS_PowerConsumption>
+	<!-- EN: Original: {0} W -->
+	<ASGS_PowerOriginal>Исходно: {0} Вт</ASGS_PowerOriginal>
+	<!-- EN: Filter -->
+	<ASGS_Filter>Фильтр</ASGS_Filter>
+	<!-- EN: Copy filter settings -->
+	<ASGS_CopyTooltip>Копировать настройки фильтра</ASGS_CopyTooltip>
+	<!-- EN: Paste filter settings -->
+	<ASGS_PasteTooltip>Вставить настройки фильтра</ASGS_PasteTooltip>
+	<!-- EN: Filter settings copied. -->
+	<ASGS_FilterCopied>Настройки фильтра скопированы.</ASGS_FilterCopied>
+	<!-- EN: Filter settings pasted. -->
+	<ASGS_FilterPasted>Настройки фильтра вставлены.</ASGS_FilterPasted>
+	<!-- EN: Export Settings -->
+	<ASGS_ExportSettingsButton>Экспорт настроек</ASGS_ExportSettingsButton>
+	<!-- EN: Import Settings -->
+	<ASGS_ImportSettingsButton>Импорт настроек</ASGS_ImportSettingsButton>
+	<!-- EN: Exported to: {0} -->
+	<ASGS_ExportSuccess>Экспортировано в: {0}</ASGS_ExportSuccess>
+	<!-- EN: Export failed: {0} -->
+	<ASGS_ExportFail>Ошибка экспорта: {0}</ASGS_ExportFail>
+	<!-- EN: Imported: {0} -->
+	<ASGS_ImportSuccess>Импортировано: {0}</ASGS_ImportSuccess>
+	<!-- EN: Import failed: {0} -->
+	<ASGS_ImportFail>Ошибка импорта: {0}</ASGS_ImportFail>
+	<!-- EN: No exported files found. Export once to create a file. -->
+	<ASGS_NoExportsFound>Экспортированные файлы не найдены. Выполните экспорт один раз, чтобы создать файл.</ASGS_NoExportsFound>
+	<!-- EN: Building Settings -->
+	<ASGS_BuildingSettings>Настройки построек</ASGS_BuildingSettings>
+	<!-- EN: Prevent Deterioration -->
+	<ASGS_PreventDeterioration>Защита от порчи</ASGS_PreventDeterioration>
+	<!-- EN: Ignore Stored Things' Beauty -->
+	<ASGS_IgnoreBeauty>Игнорировать красоту хранимых вещей</ASGS_IgnoreBeauty>
+	<!-- EN: Is Hopper -->
+	<ASGS_IsHopper>Является воронкой</ASGS_IsHopper>
+	<!-- EN: Paintable -->
+	<ASGS_Paintable>Можно красить</ASGS_Paintable>
+
+	<!-- EN: Path cost: -->
+	<ASGS_PathCost>Затраты на перемещение:</ASGS_PathCost>
+	<!-- EN: Original path cost: {0} -->
+	<ASGS_PathCostTooltip>Исходные затраты на перемещение: {0}</ASGS_PathCostTooltip>
+</LanguageData>
