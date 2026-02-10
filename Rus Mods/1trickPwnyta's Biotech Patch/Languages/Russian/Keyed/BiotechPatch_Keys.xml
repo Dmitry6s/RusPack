@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Категории -->
+	<BiotechPatch_Children>Дети</BiotechPatch_Children>
+	<BiotechPatch_Genetics>Генетика</BiotechPatch_Genetics>
+	<BiotechPatch_Mechanoids>Механоиды</BiotechPatch_Mechanoids>
+	<BiotechPatch_Misc>Разное</BiotechPatch_Misc>
+	<BiotechPatch_RestartRequired>(требует перезагрузки)</BiotechPatch_RestartRequired>
+
+	<!-- Сообщения -->
+	<BiotechPatch_WokeFromDeathrest>{PAWN_nameDef} завершил торпор.</BiotechPatch_WokeFromDeathrest>
+	<BiotechPatch_InputIsInvalid>Пожалуйста, введите корректные данные.</BiotechPatch_InputIsInvalid>
+	<BiotechPatch_SuppressedBy>Подавлено:</BiotechPatch_SuppressedBy>
+
+	<!-- Настройки механоидов -->
+	<BiotechPatch_MechsInColonistBar>Показывать мехов в панели колонистов</BiotechPatch_MechsInColonistBar>
+	<BiotechPatch_MechsOutsideRadius>Разрешить управление мехами вне радиуса контроля</BiotechPatch_MechsOutsideRadius>
+	<BiotechPatch_MechAutoRepair>Авторемонт мехов по умолчанию</BiotechPatch_MechAutoRepair>
+	<BiotechPatch_MechsControlledByCaravan>Механиторы в караванах могут управлять мехами в колонии</BiotechPatch_MechsControlledByCaravan>
+	<BiotechPatch_MechsCanSleepOnConduits>Разрешить мехам заряжаться на энергопроводах</BiotechPatch_MechsCanSleepOnConduits>
+	<BiotechPatch_ResurrectedMechsRememberGroup>Воскрешённые мехи запоминают свою группу</BiotechPatch_ResurrectedMechsRememberGroup>
+	<BiotechPatch_AlertMechEnergyDepleted>Разряжен мех</BiotechPatch_AlertMechEnergyDepleted>
+	<BiotechPatch_AlertMechEnergyDepletedDesc>Один или несколько мехов полностью разрядились и требуют переноса к зарядке.</BiotechPatch_AlertMechEnergyDepletedDesc>
+
+	<!-- Настройки генетики -->
+	<BiotechPatch_AllowForbiddenXenogermImplantation>Разрешить имплантацию запрещённых ксеногенов</BiotechPatch_AllowForbiddenXenogermImplantation>
+	<BiotechPatch_XenogermCreationForced>Приоритетное создание ксеносемени не прерывается</BiotechPatch_XenogermCreationForced>
+	<BiotechPatch_GeneTraitsDontCancelIdentical>Исправление: одинаковые гены не отменяют друг друга</BiotechPatch_GeneTraitsDontCancelIdentical>
+	<BiotechPatch_CustomHybridXenotypes>Исправление: гибриды ксенотипов помечаются правильно</BiotechPatch_CustomHybridXenotypes>
+
+	<!-- Настройки детей -->
+	<BiotechPatch_ChildLaborEncouraged>Труд детей требует расписания работы</BiotechPatch_ChildLaborEncouraged>
+	<BiotechPatch_AutoChildNicknamesDisabled>Отключить авто-прозвища для детей</BiotechPatch_AutoChildNicknamesDisabled>
+	<BiotechPatch_ChildrenGoByFirstName>Дети называются по имени по умолчанию</BiotechPatch_ChildrenGoByFirstName>
+	<BiotechPatch_GrowthMomentChoiceColors>Цветовая маркировка вариантов развития</BiotechPatch_GrowthMomentChoiceColors>
+	<BiotechPatch_GrowthMomentTraitSuppression>Исправление подавления черт при развитии</BiotechPatch_GrowthMomentTraitSuppression>
+	<BiotechPatch_BreastfeedingCanBeInterrupted>Кормление можно прервать при важных делах</BiotechPatch_BreastfeedingCanBeInterrupted>
+	<BiotechPatch_BirthNotCancelledWhenNotDowned>Исправление прерывания родов</BiotechPatch_BirthNotCancelledWhenNotDowned>
+	<BiotechPatch_MoveBabyToSaferTempLater>Переносить младенцев только при травмах от температуры</BiotechPatch_MoveBabyToSaferTempLater>
+
+	<!-- Настройки вампиров -->
+	<BiotechPatch_DeathrestAutoWake>Автопробуждение из торпора</BiotechPatch_DeathrestAutoWake>
+	<BiotechPatch_DeathrestWakeupMessage>Уведомлять о пробуждении</BiotechPatch_DeathrestWakeupMessage>
+	<BiotechPatch_HemogenExtractionSpam>Отключить уведомления о заборе гемогена</BiotechPatch_HemogenExtractionSpam>
+
+	<!-- Уведомления и исправления -->
+	<BiotechPatch_DrugDeficiencyAlert>Уведомлять о нехватке наркотиков из-за генов</BiotechPatch_DrugDeficiencyAlert>
+	<BiotechPatch_DrugDeficiencyAlertLabel>Нехватка наркотиков</BiotechPatch_DrugDeficiencyAlertLabel>
+	<BiotechPatch_DrugDeficiencyAlertDesc>Колонистам не хватает жизненно важных наркотиков:\n{0}</BiotechPatch_DrugDeficiencyAlertDesc>
+	<BiotechPatch_DrugDeficiencyComaAlertLabel>Кома от нехватки наркотиков</BiotechPatch_DrugDeficiencyComaAlertLabel>
+	<BiotechPatch_DrugDeficiencyComaAlertDesc>Колонист в коме из-за нехватки наркотиков:\n{0}\n\nБез лечения он может умереть.</BiotechPatch_DrugDeficiencyComaAlertDesc>
+	<BiotechPatch_LoadGrowthVats>Заменить "растёт" на "загружен" для капсул</BiotechPatch_LoadGrowthVats>
+	<BiotechPatch_WastepackDeteriorationMuted>Не уведомлять о порче отходов вне базы</BiotechPatch_WastepackDeteriorationMuted>
+	<BiotechPatch_ExostriderLostAllowsComplex>Исправление: потеря экзострайдера не блокирует квесты</BiotechPatch_ExostriderLostAllowsComplex>
+	<BiotechPatch_MechTaskPrioritization>Исправление: механоиды не чинят в режиме драфта</BiotechPatch_MechTaskPrioritization>
+	<BiotechPatch_MechEnergyDepletedAlert>Яркое уведомление о разряженных мехах</BiotechPatch_MechEnergyDepletedAlert>
+</LanguageData>

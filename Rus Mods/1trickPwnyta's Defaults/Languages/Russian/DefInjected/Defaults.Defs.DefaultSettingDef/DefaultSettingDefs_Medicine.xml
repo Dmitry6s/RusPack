@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedCarry.label>Стандартные медикаменты для ношения</MedCarry.label>
+  <MedCarryAmount.label>Количество медикаментов для ношения</MedCarryAmount.label>
+  <MedCarryGuest.label>Гости также берут медикаменты</MedCarryGuest.label>
+
+</LanguageData>

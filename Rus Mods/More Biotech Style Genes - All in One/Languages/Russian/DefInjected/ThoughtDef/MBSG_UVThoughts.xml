@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_Sensitivity_Hyper.stages.0.label>чувствительность к солнечному свету</MBSG_Sensitivity_Hyper.stages.0.label>
+  <MBSG_Sensitivity_Hyper.stages.0.description>Солнце режет глаза.</MBSG_Sensitivity_Hyper.stages.0.description>
+
+  <MBSG_Sensitivity_Super.stages.0.label>чувствительность к солнечному свету</MBSG_Sensitivity_Super.stages.0.label>
+  <MBSG_Sensitivity_Super.stages.0.description>Солнце режет глаза, а кожа неприятно покалывает.</MBSG_Sensitivity_Super.stages.0.description>
+
+  <MBSG_Sensitivity_Extreme.stages.0.label>чувствительность к солнечному свету</MBSG_Sensitivity_Extreme.stages.0.label>
+  <MBSG_Sensitivity_Extreme.stages.0.description>Солнце режет глаза, а кожа неприятно покалывает.</MBSG_Sensitivity_Extreme.stages.0.description>
+
+  <MBSG_Sensitivity_VeryMinor.stages.0.label>чувствительность к солнечному свету</MBSG_Sensitivity_VeryMinor.stages.0.label>
+  <MBSG_Sensitivity_VeryMinor.stages.0.description>Солнце режет глаза, а кожа неприятно покалывает.</MBSG_Sensitivity_VeryMinor.stages.0.description>
+
+  <MBSG_Sensitivity_ExtremelyMinor.stages.0.label>чувствительность к солнечному свету</MBSG_Sensitivity_ExtremelyMinor.stages.0.label>
+  <MBSG_Sensitivity_ExtremelyMinor.stages.0.description>Солнце режет глаза.</MBSG_Sensitivity_ExtremelyMinor.stages.0.description>
+
+  <MBSG_Responsive_VeryMinor.stages.0.label>реакция на солнечный свет</MBSG_Responsive_VeryMinor.stages.0.label>
+  <MBSG_Responsive_VeryMinor.stages.0.description>Солнце успокаивает мой разум.</MBSG_Responsive_VeryMinor.stages.0.description>
+
+  <MBSG_Responsive_Minor.stages.0.label>реакция на солнечный свет</MBSG_Responsive_Minor.stages.0.label>
+  <MBSG_Responsive_Minor.stages.0.description>Солнце успокаивает мой разум, и я чувствую себя немного энергичнее.</MBSG_Responsive_Minor.stages.0.description>
+
+  <MBSG_Responsive.stages.0.label>реакция на солнечный свет</MBSG_Responsive.stages.0.label>
+  <MBSG_Responsive.stages.0.description>Солнце успокаивает мой разум, и я чувствую себя гораздо энергичнее.</MBSG_Responsive.stages.0.description>
+
+  <MBSG_Responsive_Major.stages.0.label>реакция на солнечный свет</MBSG_Responsive_Major.stages.0.label>
+  <MBSG_Responsive_Major.stages.0.description>Солнце успокаивает мой разум, и я чувствую себя намного энергичнее.</MBSG_Responsive_Major.stages.0.description>
+
+  <MBSG_Absorbent_Minor.stages.0.label>поглощение солнечного света</MBSG_Absorbent_Minor.stages.0.label>
+  <MBSG_Absorbent_Minor.stages.0.description>Солнце успокаивает мой разум, и я чувствую, как оно усиливает мои мышцы.</MBSG_Absorbent_Minor.stages.0.description>
+
+  <MBSG_Absorbent.stages.0.label>поглощение солнечного света</MBSG_Absorbent.stages.0.label>
+  <MBSG_Absorbent.stages.0.description>Солнце успокаивает мой разум, и я чувствую, как оно усиливает мои мышцы.</MBSG_Absorbent.stages.0.description>
+
+  <MBSG_Absorbent_Major.stages.0.label>поглощение солнечного света</MBSG_Absorbent_Major.stages.0.label>
+  <MBSG_Absorbent_Major.stages.0.description>Солнце успокаивает мой разум, и я чувствую, как оно усиливает мои мышцы.</MBSG_Absorbent_Major.stages.0.description>
+
+</LanguageData>

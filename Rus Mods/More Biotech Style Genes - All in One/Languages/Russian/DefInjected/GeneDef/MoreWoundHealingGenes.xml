@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WoundHealing_VerySlow.label>очень медленное заживление ран</WoundHealing_VerySlow.label>
+  <WoundHealing_VerySlow.description>Носители этого гена заживляют раны в четыре раза медленнее, чем обычно.</WoundHealing_VerySlow.description>
+
+  <WoundHealing_SlightlySlow.label>медленное заживление ран</WoundHealing_SlightlySlow.label>
+  <WoundHealing_SlightlySlow.description>Носители этого гена заживляют раны в три четверти от обычной скорости.</WoundHealing_SlightlySlow.description>
+
+  <WoundHealing_SlightlyFast.label>быстрое заживление ран</WoundHealing_SlightlyFast.label>
+  <WoundHealing_SlightlyFast.description>Носители этого гена заживляют раны в 1,5 раза быстрее, чем обычно.</WoundHealing_SlightlyFast.description>
+
+  <WoundHealing_ExtremeFast.label>экстремально быстрое заживление ран</WoundHealing_ExtremeFast.label>
+  <WoundHealing_ExtremeFast.description>Носители этого гена заживляют раны в шесть раз быстрее, чем обычно.</WoundHealing_ExtremeFast.description>
+
+</LanguageData>

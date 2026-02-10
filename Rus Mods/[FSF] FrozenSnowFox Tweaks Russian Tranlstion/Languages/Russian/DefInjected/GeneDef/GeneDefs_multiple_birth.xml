@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+   
+  <!-- EN: multiple birth -->
+  <FSF_MultipleBirth.label>Многоплодные роды</FSF_MultipleBirth.label>
+  <!-- EN: Carriers of this gene normally give birth to one child.  However, they have a very rare chance to give birth to twins, triplets or quads. -->
+  <FSF_MultipleBirth.description>Носительницы этого гена обычно рожают одного ребёнка. Однако у них есть очень небольшой шанс родить близнецов, тройняшек или четверняшек.</FSF_MultipleBirth.description>
+  
+</LanguageData>

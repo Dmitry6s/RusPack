@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ST_AdrenalineRush.label>выброс адреналина</ST_AdrenalineRush.label>
+  <ST_AdrenalineRush.description>Адреналин, выделившийся в кровоток. Тело реагирует быстрее при столкновении с волнующей, стрессовой или опасной ситуацией.</ST_AdrenalineRush.description>
+
+  <ST_AdrenalineRushShort.label>выброс адреналина</ST_AdrenalineRushShort.label>
+  <ST_AdrenalineRushShort.description>Адреналин, выделившийся в кровоток. Тело реагирует быстрее при столкновении с волнующей, стрессовой или опасной ситуацией.</ST_AdrenalineRushShort.description>
+
+  <ST_PsychicTranceAbsentMinded.label>психический транс</ST_PsychicTranceAbsentMinded.label>
+  <ST_PsychicTranceAbsentMinded.description>Сознание этого человека связано с окружающим психическим полем далёкой аркотехнологии. Он был введён в состояние, подобное трансу. Неестественное влияние поддерживает его — у него почти нет потребности в еде или отдыхе.</ST_PsychicTranceAbsentMinded.description>
+
+</LanguageData>

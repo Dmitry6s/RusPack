@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+	<!-- EN: make 5 components -->
+	<FSF_Make_ComponentIndustrial5.label>Создать компоненты x5</FSF_Make_ComponentIndustrial5.label>
+	<!-- EN: Make 5 components. -->
+	<FSF_Make_ComponentIndustrial5.description>Создать компоненты.</FSF_Make_ComponentIndustrial5.description>
+	<!-- EN: Making components. -->
+	<FSF_Make_ComponentIndustrial5.jobString>Создание компонентов.</FSF_Make_ComponentIndustrial5.jobString>
+
+	<!-- EN: make 10 components -->
+	<FSF_Make_ComponentIndustrial10.label>Создать компоненты x10</FSF_Make_ComponentIndustrial10.label>
+	<!-- EN: Make 10 components. -->
+	<FSF_Make_ComponentIndustrial10.description>Создать компоненты.</FSF_Make_ComponentIndustrial10.description>
+	<!-- EN: Making components. -->
+	<FSF_Make_ComponentIndustrial10.jobString>Создание компонентов.</FSF_Make_ComponentIndustrial10.jobString>
+	
+	<!-- EN: make 25 components -->
+	<FSF_Make_ComponentIndustrial25.label>Создать компоненты x25</FSF_Make_ComponentIndustrial25.label>
+	<!-- EN: Make 25 components. -->
+	<FSF_Make_ComponentIndustrial25.description>Создать компоненты.</FSF_Make_ComponentIndustrial25.description>
+	<!-- EN: Making components. -->
+	<FSF_Make_ComponentIndustrial25.jobString>Создание компонентов.</FSF_Make_ComponentIndustrial25.jobString>
+	
+	<!-- EN: make 50 components -->
+	<FSF_Make_ComponentIndustrial50.label>Создать компоненты x50</FSF_Make_ComponentIndustrial50.label>
+	<!-- EN: Make 50 components. -->
+	<FSF_Make_ComponentIndustrial50.description>Создать компоненты.</FSF_Make_ComponentIndustrial50.description>
+	<!-- EN: Making components. -->
+	<FSF_Make_ComponentIndustrial50.jobString>Создание компонентов.</FSF_Make_ComponentIndustrial50.jobString>	
+
+	<!-- EN: make 5 advanced components -->
+	<FSF_Make_ComponentSpacer5.label>Создать улучшенные компоненты x5</FSF_Make_ComponentSpacer5.label>
+	<!-- EN: Make 5 advanced components. -->
+	<FSF_Make_ComponentSpacer5.description>Создать улучшенные компоненты.</FSF_Make_ComponentSpacer5.description>
+	<!-- EN: Making advanced components. -->
+	<FSF_Make_ComponentSpacer5.jobString>Создание улучшенных компонентов.</FSF_Make_ComponentSpacer5.jobString>
+
+	<!-- EN: make 10 advanced components -->
+	<FSF_Make_ComponentSpacer10.label>Создать улучшенные компоненты x10</FSF_Make_ComponentSpacer10.label>
+	<!-- EN: Make 10 advanced components. -->
+	<FSF_Make_ComponentSpacer10.description>Создать улучшенные компоненты.</FSF_Make_ComponentSpacer10.description>
+	<!-- EN: Making advanced components. -->
+	<FSF_Make_ComponentSpacer10.jobString>Создание улучшенных компонентов.</FSF_Make_ComponentSpacer10.jobString>
+	
+	<!-- EN: make 25 advanced components -->
+	<FSF_Make_ComponentSpacer25.label>Создать улучшенные компоненты x25</FSF_Make_ComponentSpacer25.label>
+	<!-- EN: Make 25 advanced components. -->
+	<FSF_Make_ComponentSpacer25.description>Создать улучшенные компоненты.</FSF_Make_ComponentSpacer25.description>
+	<!-- EN: Making advanced components. -->
+	<FSF_Make_ComponentSpacer25.jobString>Создание улучшенных компонентов.</FSF_Make_ComponentSpacer25.jobString>		
+
+	<!-- EN: make 50 advanced components -->
+	<FSF_Make_ComponentSpacer50.label>Создать улучшенные компоненты x50</FSF_Make_ComponentSpacer50.label>
+	<!-- EN: Make 50 advanced components. -->
+	<FSF_Make_ComponentSpacer50.description>Создать улучшенные компоненты.</FSF_Make_ComponentSpacer50.description>
+	<!-- EN: Making advanced components. -->
+	<FSF_Make_ComponentSpacer50.jobString>Создание улучшенных компонентов.</FSF_Make_ComponentSpacer50.jobString>
+	
+</LanguageData>

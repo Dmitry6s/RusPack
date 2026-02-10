@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HemogenDrainHyper.label>гиперрасход гемогена</HemogenDrainHyper.label>
+  <HemogenDrainHyper.description>Носители теряют дополнительно 14 единиц гемогена в день из-за биологической энтропии.</HemogenDrainHyper.description>
+
+  <HemogenDrainExtreme.label>экстремальный расход гемогена</HemogenDrainExtreme.label>
+  <HemogenDrainExtreme.description>Носители теряют дополнительно 12 единиц гемогена в день из-за биологической энтропии.</HemogenDrainExtreme.description>
+
+  <HemogenDrainMajor.label>значительный расход гемогена</HemogenDrainMajor.label>
+  <HemogenDrainMajor.description>Носители теряют дополнительно 10 единиц гемогена в день из-за биологической энтропии.</HemogenDrainMajor.description>
+
+  <HemogenDrainNotable.label>заметный расход гемогена</HemogenDrainNotable.label>
+  <HemogenDrainNotable.description>Носители теряют дополнительно 6 единиц гемогена в день из-за биологической энтропии.</HemogenDrainNotable.description>
+
+  <HemogenDrainSomewhatMinor.label>довольно незначительный расход гемогена</HemogenDrainSomewhatMinor.label>
+  <HemogenDrainSomewhatMinor.description>Носители теряют дополнительно 5 единиц гемогена в день из-за биологической энтропии.</HemogenDrainSomewhatMinor.description>
+
+  <HemogenDrainMinor.label>незначительный расход гемогена</HemogenDrainMinor.label>
+  <HemogenDrainMinor.description>Носители теряют дополнительно 4 единицы гемогена в день из-за биологической энтропии.</HemogenDrainMinor.description>
+
+  <HemogenDrainVeryMinor.label>очень незначительный расход гемогена</HemogenDrainVeryMinor.label>
+  <HemogenDrainVeryMinor.description>Носители теряют дополнительно 3 единицы гемогена в день из-за биологической энтропии.</HemogenDrainVeryMinor.description>
+
+  <HemogenRecoveryExtremelyMinor.label>очень слабое восстановление гемогена</HemogenRecoveryExtremelyMinor.label>
+  <HemogenRecoveryExtremelyMinor.description>Носители восстанавливают 2 единицы гемогена в день благодаря биологическому омоложению.</HemogenRecoveryExtremelyMinor.description>
+
+  <HemogenRecoveryVeryMinor.label>слабое восстановление гемогена</HemogenRecoveryVeryMinor.label>
+  <HemogenRecoveryVeryMinor.description>Носители восстанавливают 3 единицы гемогена в день благодаря биологическому омоложению.</HemogenRecoveryVeryMinor.description>
+
+  <HemogenRecoveryMinor.label>восстановление гемогена</HemogenRecoveryMinor.label>
+  <HemogenRecoveryMinor.description>Носители восстанавливают 4 единицы гемогена в день благодаря биологическому омоложению.</HemogenRecoveryMinor.description>
+
+  <HemogenRecoverySomewhatMinor.label>значительное восстановление гемогена</HemogenRecoverySomewhatMinor.label>
+  <HemogenRecoverySomewhatMinor.description>Носители восстанавливают 5 единиц гемогена в день благодаря биологическому омоложению.</HemogenRecoverySomewhatMinor.description>
+
+  <HemogenRecoveryNotable.label>незначительная регенерация гемогена</HemogenRecoveryNotable.label>
+  <HemogenRecoveryNotable.description>Носители восстанавливают 6 единиц гемогена в день благодаря биологическому омоложению.</HemogenRecoveryNotable.description>
+
+  <HemogenRecovery.label>регенерация гемогена</HemogenRecovery.label>
+  <HemogenRecovery.description>Носители восстанавливают 8 единиц гемогена в день благодаря биологическому омоложению.</HemogenRecovery.description>
+
+  <HemogenRecoveryMajor.label>значительная регенерация гемогена</HemogenRecoveryMajor.label>
+  <HemogenRecoveryMajor.description>Носители восстанавливают 10 единиц гемогена в день благодаря биологическому омоложению.</HemogenRecoveryMajor.description>
+
+  <HemogenRecoveryExtreme.label>сверхрегенерация гемогена</HemogenRecoveryExtreme.label>
+  <HemogenRecoveryExtreme.description>Носители восстанавливают 12 единиц гемогена в день благодаря биологическому омоложению.</HemogenRecoveryExtreme.description>
+
+  <HemogenRecoveryHyper.label>гиперрегенерация гемогена</HemogenRecoveryHyper.label>
+  <HemogenRecoveryHyper.description>Носители восстанавливают 14 единиц гемогена в день благодаря биологическому омоложению.</HemogenRecoveryHyper.description>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Новые тексты сообщений -->
+  <CR_RaidCompressedMassageEnhanced>Рейд сжат с {0} до {1} врагов, {3} рейдеров улучшены. (Базовый множитель: {2}x)</CR_RaidCompressedMassageEnhanced>
+  <CR_RaidCompressedMassageNotEnhanced>Размер рейда уменьшен с {0} до {1} врагов.</CR_RaidCompressedMassageNotEnhanced>
+  <CR_InfoExcludedDrugs>[Элитные Рейды] Инфо: Следующие препараты исключены из "Добавить эффекты наркотиков".</CR_InfoExcludedDrugs>
+  <CR_InfoMustNegativeEffectDrugs>[Элитные Рейды] Инфо: Следующие препараты игнорируют "Избегать негативных эффектов" и всегда будут применять негативные эффекты.</CR_InfoMustNegativeEffectDrugs>
+</LanguageData>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Основные действия -->
+  	<Defaults_SetDefaults>Установить стандартные значения</Defaults_SetDefaults>
+  	<Defaults_SetAsDefault>Установить как стандартные</Defaults_SetAsDefault>
+  	<Defaults_SetAsDefaultConfirmed>Настройки сохранены как стандартные.</Defaults_SetAsDefaultConfirmed>
+
+  <!-- Категории настроек -->
+  	<Defaults_Schedules>Расписание колонистов</Defaults_Schedules>
+  	<Defaults_Medicine>Настройки медицины</Defaults_Medicine>
+  	<Defaults_Rewards>Предпочтения наград</Defaults_Rewards>
+  	<Defaults_Policies>Политики</Defaults_Policies>
+  	<Defaults_Storyteller>Настройки рассказчика</Defaults_Storyteller>
+  	<Defaults_StockpileZones>Настройки хранения</Defaults_StockpileZones>
+  	<Defaults_WorkbenchBills>Заказы верстаков</Defaults_WorkbenchBills>
+  	<Defaults_WorldSettings>Настройки мира</Defaults_WorldSettings>
+  	<Defaults_MapSettings>Дополнительные настройки мира</Defaults_MapSettings>
+  	<Defaults_MiscSettings>Прочие настройки</Defaults_MiscSettings>
+
+  <!-- Настройки медицины -->
+  	<Defaults_MedicineToCarry>Стандартные медикаменты</Defaults_MedicineToCarry>
+  	<Defaults_MedicineAmountToCarry>Количество медикаментов</Defaults_MedicineAmountToCarry>
+  	<Defaults_GuestsCarryMedicine>Гости также берут медикаменты</Defaults_GuestsCarryMedicine>
+
+  <!-- Настройки растений -->
+  	<Defaults_PlantType>Стандартный тип растений</Defaults_PlantType>
+  	<Defaults_AutoRebuild>Автоматическая перестройка</Defaults_AutoRebuild>
+  	<Defaults_AutoHomeArea>Автоматическая домашняя зона</Defaults_AutoHomeArea>
+
+  <!-- Настройки работы -->
+  	<Defaults_ManualPriorities>Ручные приоритеты работы</Defaults_ManualPriorities>
+  	<Defaults_WorkModeFirst>Режим работы первой группы мехов</Defaults_WorkModeFirst>
+  	<Defaults_WorkModeSecond>Режим работы второй группы мехов</Defaults_WorkModeSecond>
+
+  <!-- Политики -->
+  	<Defaults_ApparelPolicies>Политики одежды</Defaults_ApparelPolicies>
+  	<Defaults_FoodPolicies>Политики питания</Defaults_FoodPolicies>
+  	<Defaults_DrugPolicies>Политики наркотиков</Defaults_DrugPolicies>
+  	<Defaults_ReadingPolicies>Политики чтения</Defaults_ReadingPolicies>
+
+  <!-- Прочие настройки -->
+  	<Defaults_PregnancyApproach>Подход к беременности</Defaults_PregnancyApproach>
+  	<Defaults_TargetTemperatureHeater>Целевая температура обогревателей</Defaults_TargetTemperatureHeater>
+  	<Defaults_TargetTemperatureCooler>Целевая температура охладителей</Defaults_TargetTemperatureCooler>
+  	<Defaults_BabyFeedingSettings>Настройки кормления детей</Defaults_BabyFeedingSettings>
+  	<Defaults_ResourceCategories>Расширенные категории ресурсов</Defaults_ResourceCategories>
+  	<Defaults_HostilityResponse>Реакция на угрозы</Defaults_HostilityResponse>
+	<!-- Настройки мехов -->
+  	<Defaults_WorkModeAdditional>Режим работы доп. групп мехов</Defaults_WorkModeAdditional>
+
+  <!-- Сброс настроек -->
+  	<Defaults_ResetAllSettings>Сбросить все настройки</Defaults_ResetAllSettings>
+  	<Defaults_ResetTheseSettings>Сбросить эти настройки</Defaults_ResetTheseSettings>
+  	<Defaults_ConfirmResetAllSettings>Сбросить ВСЕ настройки мода? Все категории будут включены, все значения сброшены. Это действие необратимо.</Defaults_ConfirmResetAllSettings>
+  	<Defaults_ConfirmResetTheseSettings>Сбросить все {0}? Это действие необратимо.</Defaults_ConfirmResetTheseSettings>
+  	<Defaults_ConfirmResetWorkbenchBills>Сбросить все стандартные заказы верстаков? Все заказы будут удалены. Это действие необратимо.</Defaults_ConfirmResetWorkbenchBills>
+
+  <!-- Управление расписаниями -->
+  	<Defaults_ScheduleName>Расписание {0}</Defaults_ScheduleName>
+  	<Defaults_UseSchedule>Использовать</Defaults_UseSchedule>
+  	<Defaults_UseScheduleTip>Автоматически назначать это расписание колонистам.</Defaults_UseScheduleTip>
+  	<Defaults_SaveNewDefaultSchedule>Сохранить как новое стандартное</Defaults_SaveNewDefaultSchedule>
+  	<Defaults_ScheduleSavedAs>Расписание сохранено как {0}.</Defaults_ScheduleSavedAs>
+  	<Defaults_ReplaceWithDefaultSchedule>Заменить стандартным</Defaults_ReplaceWithDefaultSchedule>
+  	<Defaults_AddAlternateSchedule>Добавить альтернативу</Defaults_AddAlternateSchedule>
+
+  <!-- Настройки наград -->
+  	<Defaults_AcceptRoyalFavor>Принимать {0}</Defaults_AcceptRoyalFavor>
+  	<Defaults_AcceptRoyalFavorDesc>Получать награды в виде {0} от {1}.\n\nЕсли отключено, {1} будет предлагать другие награды.\n\nВлияет только на новые квесты.</Defaults_AcceptRoyalFavorDesc>
+  	<Defaults_AcceptGoodwillDesc>Получать награды в виде улучшения отношений с {0}.\n\nЕсли отключено, будут предлагаться другие награды.\n\nВлияет только на новые квесты.</Defaults_AcceptGoodwillDesc>
+
+  <!-- Подсказки -->
+  	<Defaults_PlantTypeTip>Стандартный тип растений для новых зон выращивания.</Defaults_PlantTypeTip>
+  	<Defaults_CurrentPlantType>Текущий тип растений</Defaults_CurrentPlantType>
+  	<Defaults_MedicineToCarryTip>Стандартные медикаменты для ношения колонистами.</Defaults_MedicineToCarryTip>
+  	<Defaults_CurrentMedicineToCarry>Текущие медикаменты</Defaults_CurrentMedicineToCarry>
+
+  <!-- Действия -->
+  	<Defaults_AddNew>Добавить</Defaults_AddNew>
+  	<Defaults_CorpseStockpileZoneDesc>Создать зону хранения для трупов.\nМожно расширить существующую зону.</Defaults_CorpseStockpileZoneDesc>
+
+  <!-- Управление политиками -->
+  	<Defaults_CantDeleteDefaultPolicy>Нельзя удалить стандартную политику.</Defaults_CantDeleteDefaultPolicy>
+  	<Defaults_SaveNewDefaultPolicy>Сохранить как новую стандартную</Defaults_SaveNewDefaultPolicy>
+  	<Defaults_PolicySavedAs>Политика сохранена как {0}.</Defaults_PolicySavedAs>
+  	<Defaults_LoadDefaultPolicy>Добавить из...</Defaults_LoadDefaultPolicy>
+	<!-- Блокировка настроек -->
+  	<Defaults_LockSetting>Заблокировать настройку (защита от изменений при добавлении модов/DLC)</Defaults_LockSetting>
+  	<Defaults_UnavailableCaps>НЕДОСТУПНО</Defaults_UnavailableCaps>
+
+  <!-- Управление заказами -->
+  	<Defaults_SaveNewDefaultBill>Сохранить как стандартный заказ</Defaults_SaveNewDefaultBill>
+  	<Defaults_SaveBillConfirmed>Заказ сохранён как стандартный.</Defaults_SaveBillConfirmed>
+  	<Defaults_LoadDefaultBill>Загрузить стандартный</Defaults_LoadDefaultBill>
+  	<Defaults_UseBill>Использовать</Defaults_UseBill>
+  	<Defaults_UseBillTip>Автоматически добавлять этот заказ на новые верстаки.</Defaults_UseBillTip>
+  	<Defaults_GlobalBillSettings>Глобальные настройки заказов</Defaults_GlobalBillSettings>
+
+  <!-- Настройки родителей -->
+  	<Defaults_BirtherParent>Родивший родитель</Defaults_BirtherParent>
+  	<Defaults_ParentLactating>Второй родитель (лактирующий)</Defaults_ParentLactating>
+  	<Defaults_ParentNonlactating>Второй родитель (не лактирующий)</Defaults_ParentNonlactating>
+  	<Defaults_NonparentLactating>Не родитель (лактирующий)</Defaults_NonparentLactating>
+  	<Defaults_NonparentNonlactating>Не родитель (не лактирующий)</Defaults_NonparentNonlactating>
+
+  <!-- Поиск и категории -->
+  	<Defaults_SearchResults>Результаты поиска</Defaults_SearchResults>
+  	<Defaults_DefaultSettingsCategories>Категории настроек</Defaults_DefaultSettingsCategories>
+  	<Defaults_DefaultSettings>Отдельные настройки</Defaults_DefaultSettings>
+  	<Defaults_NoSearchResults>По запросу "{0}" ничего не найдено.</Defaults_NoSearchResults>
+
+  <!-- DLC и политики -->
+  	<Defaults_NewDLC>Добавлено DLC: {0}</Defaults_NewDLC>
+  	<Defaults_NewPoliciesDLC>Defaults может включить политики из нового DLC. {0} добавляет следующие стандартные политики. Выберите нужные.</Defaults_NewPoliciesDLC>
+  	<Defaults_Vanilla>Оригинал</Defaults_Vanilla>
+  	<Defaults_Defaults>Стандартные</Defaults_Defaults>
+
+  <!-- Подсказки -->
+  	<Defaults_HostilityReponseTip>Изменяет реакцию колонистов на врагов вне боевого режима.</Defaults_HostilityReponseTip>
+  	<Defaults_ChooseRewardsDesc>Укажите предпочитаемые типы наград от фракций.</Defaults_ChooseRewardsDesc>
+
+  <!-- Хранилища -->
+  	<Defaults_StorageBuildingSettings>Настройки хранения {0}</Defaults_StorageBuildingSettings>
+	<!-- Настройки зон хранения -->
+  	<Defaults_StockpileStorageSettings>Зоны хранения</Defaults_StockpileStorageSettings>
+  	<Defaults_BuildingStorageSettings>Хранилища</Defaults_BuildingStorageSettings>
+  	<Defaults_ConfirmResetStockpileZoneSettings>Сбросить настройки зон хранения? Будут удалены все пользовательские зоны. Действие необратимо.</Defaults_ConfirmResetStockpileZoneSettings>
+  	<Defaults_ConfirmResetAllowedAreaSettings>Сбросить настройки разрешённых зон? Будут удалены все зоны. Действие необратимо.</Defaults_ConfirmResetAllowedAreaSettings>
+
+  <!-- Подсказки по зонам -->
+  	<Defaults_FullAreaTip>Эта зона по умолчанию включает всю карту.</Defaults_FullAreaTip>
+  	<Defaults_EmptyAreaTip>Эта зона по умолчанию пуста.</Defaults_EmptyAreaTip>
+  	<Defaults_ClickToChangeAllowedAreaColor>Кликните для изменения цвета зоны.</Defaults_ClickToChangeAllowedAreaColor>
+  	<Defaults_DragToReorder>Перетащите для изменения порядка.</Defaults_DragToReorder>
+
+  <!-- Ограничения передвижения -->
+  	<Defaults_DefaultPawnAllowedAreas>Ограничения зон для пешек</Defaults_DefaultPawnAllowedAreas>
+  	<Defaults_AdultColonists>взрослые колонисты</Defaults_AdultColonists>
+  	<Defaults_ChildColonists>дети-колонисты</Defaults_ChildColonists>
+  	<Defaults_Slaves>рабы</Defaults_Slaves>
+  	<Defaults_Guests>гости</Defaults_Guests>
+  	<Defaults_Mechs>мехи</Defaults_Mechs>
+  	<Defaults_Animals>животные</Defaults_Animals>
+  	<Defaults_Ghouls>гули</Defaults_Ghouls>
+
+  <!-- Управление настройками -->
+  	<Defaults_Enable>Включить</Defaults_Enable>
+  	<Defaults_EnableAll>Включить все категории</Defaults_EnableAll>
+  	<Defaults_Disable>Отключить</Defaults_Disable>
+  	<Defaults_DisableAll>Отключить все категории</Defaults_DisableAll>
+  	<Defaults_SettingsCategoryDisabled>{0} отключены и не влияют на игру.</Defaults_SettingsCategoryDisabled>
+  	<Defaults_RestartRequired>Требуется перезагрузка</Defaults_RestartRequired>
+  	<Defaults_RestartRequiredDesc>Изменения вступят в силу после перезагрузки. Перезапустить сейчас?</Defaults_RestartRequiredDesc>
+  	<Defaults_Restart>Перезапустить RimWorld</Defaults_Restart>
+  	<Defaults_NotNow>Не сейчас</Defaults_NotNow>
+  	<Defaults_EnableCategoryToViewSettings>Включите {0} и перезапустите игру для доступа к этим настройкам.</Defaults_EnableCategoryToViewSettings>
+
+  <!-- Настройки медицины -->
+  	<Defaults_MedicineAssignments>Назначение медикаментов</Defaults_MedicineAssignments>
+
+  <!-- Ограничения заказов -->
+  	<Defaults_LimitBillsTo15>Лимит в 15 заказов</Defaults_LimitBillsTo15>
+  	<Defaults_BillsLimitedto15>Только первые 15 заказов будут применены к новым верстакам. Для снятия лимита измените глобальные настройки.</Defaults_BillsLimitedto15>
+
+  <!-- Специальные настройки -->
+  	<Defaults_NoPauseOptionsTitle>Настройки "Без паузы"</Defaults_NoPauseOptionsTitle>
+  	<Defaults_BetterWorkbenchOptionsTitle>Улучшенное управление верстаками</Defaults_BetterWorkbenchOptionsTitle>
+
+  <!-- Команды -->
+  	<CommandResetTempDesc>Сбросить целевую температуру.</CommandResetTempDesc>
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Immunity_Hyper.label>гипериммунитет</Immunity_Hyper.label>
+  <Immunity_Hyper.description>Носители этого гена приобретают иммунитет к болезням с экстремальной скоростью по сравнению с нормой.</Immunity_Hyper.description>
+
+  <Immunity_BelowAverage.label>иммунитет ниже среднего</Immunity_BelowAverage.label>
+  <Immunity_BelowAverage.description>Носители этого гена приобретают иммунитет к болезням немного медленнее, чем обычно. Им может потребоваться немного больше постельного режима, чем обычно.</Immunity_BelowAverage.description>
+
+  <Immunity_VeryWeak.label>очень слабый иммунитет</Immunity_VeryWeak.label>
+  <Immunity_VeryWeak.description>Носители этого гена приобретают иммунитет к болезням намного медленнее, чем обычно. Они могут умереть от инфекций, которые другие пережили бы.</Immunity_VeryWeak.description>
+
+  <Immunity_SuperWeak.label>сверхслабый иммунитет</Immunity_SuperWeak.label>
+  <Immunity_SuperWeak.description>Носители этого гена приобретают иммунитет к болезням исключительно медленно по сравнению с нормой. Многие, казалось бы, безобидные заболевания могут легко убить их, если они не получат серьёзной медицинской помощи.</Immunity_SuperWeak.description>
+
+</LanguageData>

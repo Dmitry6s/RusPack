@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_SuperNakedSpeed.label>сверхскорость без одежды</MBSG_SuperNakedSpeed.label>
+  <MBSG_SuperNakedSpeed.description>Носители этого гена двигаются намного медленнее в одежде и быстрее без нее.</MBSG_SuperNakedSpeed.description>
+
+  <MBSG_ExtremeNakedSpeed.label>экстремальная скорость без одежды</MBSG_ExtremeNakedSpeed.label>
+  <MBSG_ExtremeNakedSpeed.description>Носители этого гена двигаются намного медленнее в одежде и быстрее без нее.</MBSG_ExtremeNakedSpeed.description>
+
+  <MBSG_FastNakedSpeed.label>быстрая скорость без одежды</MBSG_FastNakedSpeed.label>
+  <MBSG_FastNakedSpeed.description>Носители этого гена двигаются медленнее в одежде и быстрее без нее.</MBSG_FastNakedSpeed.description>
+
+  <MBSG_NotableNakedSpeed.label>заметная скорость без одежды</MBSG_NotableNakedSpeed.label>
+  <MBSG_NotableNakedSpeed.description>Носители этого гена двигаются медленнее в одежде и быстрее без нее.</MBSG_NotableNakedSpeed.description>
+
+  <MBSG_DecentNakedSpeed.label>приличная скорость без одежды</MBSG_DecentNakedSpeed.label>
+  <MBSG_DecentNakedSpeed.description>Носители этого гена двигаются медленнее в одежде и быстрее без нее.</MBSG_DecentNakedSpeed.description>
+
+  <MBSG_DecentClothedSpeed.label>приличная скорость в одежде</MBSG_DecentClothedSpeed.label>
+  <MBSG_DecentClothedSpeed.description>Носители этого гена двигаются медленнее обнаженными и быстрее в одежде.</MBSG_DecentClothedSpeed.description>
+
+  <MBSG_ClothedSpeed.label>скорость в одежде</MBSG_ClothedSpeed.label>
+  <MBSG_ClothedSpeed.description>Носители этого гена двигаются медленнее обнаженными и быстрее в одежде.</MBSG_ClothedSpeed.description>
+
+  <MBSG_NotableClothedSpeed.label>заметная скорость в одежде</MBSG_NotableClothedSpeed.label>
+  <MBSG_NotableClothedSpeed.description>Носители этого гена двигаются медленнее обнаженными и быстрее в одежде.</MBSG_NotableClothedSpeed.description>
+
+  <MBSG_FastClothedSpeed.label>быстрая скорость в одежде</MBSG_FastClothedSpeed.label>
+  <MBSG_FastClothedSpeed.description>Носители этого гена двигаются медленнее обнаженными и быстрее в одежде.</MBSG_FastClothedSpeed.description>
+
+  <MBSG_ExtremeClothedSpeed.label>экстремальная скорость в одежде</MBSG_ExtremeClothedSpeed.label>
+  <MBSG_ExtremeClothedSpeed.description>Носители этого гена двигаются намного медленнее обнаженными и быстрее в одежде.</MBSG_ExtremeClothedSpeed.description>
+
+  <MBSG_SuperClothedSpeed.label>сверхскорость в одежде</MBSG_SuperClothedSpeed.label>
+  <MBSG_SuperClothedSpeed.description>Носители этого гена двигаются намного медленнее обнаженными и быстрее в одежде.</MBSG_SuperClothedSpeed.description>
+
+</LanguageData>

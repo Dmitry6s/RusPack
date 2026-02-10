@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Основные настройки -->
+  <EliteRaidSettingsCategory>Elite Raid</EliteRaidSettingsCategory>
+  <modEnabled>Включить элитные рейды</modEnabled>
+  <modEnabledDesc>Включить или отключить функционал мода</modEnabledDesc>
+  <displayMessageValue>Показывать лог отладки</displayMessageValue>
+  <displayMessageValueDesc>Отображать подробную отладочную информацию в логе</displayMessageValueDesc>
+  <eliteRaidDifficulty>Усиление элитных уровней</eliteRaidDifficulty>
+  <eliteRaidDifficultyDesc>1 = Обычный, 2 = Улучшенный, 3 = Экстремальный</eliteRaidDifficultyDesc>
+  
+  <!-- Настройки типов рейдов -->
+  <allowRaidFriendlyValue>Улучшение дружественных рейдов</allowRaidFriendlyValue>
+  <allowRaidFriendlyValueDesc>Включить улучшение для невраждебных рейдов</allowRaidFriendlyValueDesc>
+  <allowMechanoidsValue>Рейды механоидов</allowMechanoidsValue>
+  <allowMechanoidsValueDesc>Разрешить улучшение механоидных юнитов</allowMechanoidsValueDesc>
+  <allowInsectoidsValue>Рейды инсектоидов</allowInsectoidsValue>
+  <allowInsectoidsValueDesc>Разрешить улучшение инсектоидов (только сжатие численности)</allowInsectoidsValueDesc>
+  <allowEntitySwarmValue>Рейды существ</allowEntitySwarmValue>
+  <allowEntitySwarmValueDesc>Разрешить улучшение существ (только сжатие численности)</allowEntitySwarmValueDesc>
+  <allowAnimalsValue>Рейды животных</allowAnimalsValue>
+  <allowAnimalsValueDesc>Разрешить улучшение агрессивных животных</allowAnimalsValueDesc>
+  
+  <!-- Лимиты и параметры -->
+  <maxAllowLevel>Максимальный элитный уровень</maxAllowLevel>
+  <maxAllowLevelDesc>Максимально допустимый уровень элитности (0-7)</maxAllowLevelDesc>
+  <useCompressionRatio>Использовать коэффициент сжатия</useCompressionRatio>
+  <useCompressionRatioDesc>При включении использует коэффициент сжатия вместо максимального числа</useCompressionRatioDesc>
+  <enableSilverDrop>Выпадение серебра</enableSilverDrop>
+  <enableSilverDropDesc>Элитные враги выпадают серебро в зависимости от уровня</enableSilverDropDesc>
+  <silverDropPerLevel>Количество серебра за уровень</silverDropPerLevel>
+  <silverDropPerLevelDesc>Количество выпадаемого серебра за каждый уровень (20-100)</silverDropPerLevelDesc>
+  <mapGeneratedEnemyEnhanced>Улучшение существующих врагов (Устарело)</mapGeneratedEnemyEnhanced>
+  <mapGeneratedEnemyEnhancedDesc>Включить улучшение для врагов, уже находящихся на карте (Устарело)</mapGeneratedEnemyEnhancedDesc>
+  
+  <!-- Интерфейс -->
+  <ResetToDefault>Сбросить настройки</ResetToDefault>
+  <BasicSettings>Основные настройки</BasicSettings>
+  <AllowedPawnTypes>Разрешенные типы юнитов</AllowedPawnTypes>
+  <ValueLimits>Лимиты значений</ValueLimits>
+  
+  <!-- Уровни сложности -->
+  <Difficulty_Normal>Обычный</Difficulty_Normal>
+  <Difficulty_Hard>Сложный</Difficulty_Hard>
+  <Difficulty_Extreme>Экстремальный</Difficulty_Extreme>
+  
+  <MaxRaidPoint>Максимум очков рейда</MaxRaidPoint>
+  <MaxRaidPointDesc>Настройте максимальное количество очков рейда. Стандартный лимит - 10K. Если вы легко справляетесь с 10K рейдами, можете увеличить это значение.</MaxRaidPointDesc>
+  <ShowDetailConfig>Показать детальные настройки</ShowDetailConfig>
+  <ShowDetailConfigDesc>Детальные настройки применяются даже если не отмечены!</ShowDetailConfigDesc>
+  <DragToSelectDifficulty>Выберите общую сложность</DragToSelectDifficulty>
+  <TotalDifficulty>Общие настройки сложности</TotalDifficulty>
+  <allowDropPodRaidValue>Улучшение десантных рейдов</allowDropPodRaidValue>
+  <allowDropPodRaidValueDesc>Разрешить улучшение рейдеров, прибывающих в дроп-подах (не влияет на сжатие численности)</allowDropPodRaidValueDesc>
+  
+  <RaidScale>Масштаб рейда</RaidScale>
+  <RaidScaleDesc>Настройте масштаб рейда - чем выше значение, тем сложнее рейды. Например: 100% - 1 рейдер, 200% - 2 рейдера</RaidScaleDesc>
+  
+  <!-- Названия уровней сложности -->
+  <Difficulty_Novice>Новичок</Difficulty_Novice>
+  <Difficulty_Retainer>Оруженосец</Difficulty_Retainer>
+  <Difficulty_Knight>Рыцарь</Difficulty_Knight>
+  <Difficulty_Justiciar>Юстицар</Difficulty_Justiciar>
+  <Difficulty_Lord>Лорд</Difficulty_Lord>
+  <Difficulty_Viceroy>Вице-король</Difficulty_Viceroy>
+  <Difficulty_Governor>Губернатор</Difficulty_Governor>
+  <Difficulty_Duke>Герцог</Difficulty_Duke>
+  <Difficulty_Despot>Деспот</Difficulty_Despot>
+  <Difficulty_GrandDuke>Великий герцог</Difficulty_GrandDuke>
+  <Difficulty_Consul>Консул</Difficulty_Consul>
+  <Difficulty_General>Особая сложность: Сжатие x3</Difficulty_General>
+  <Difficulty_GuardCommander>Особая сложность: Сжатие x4</Difficulty_GuardCommander>
+  <Difficulty_GalaxyLord>Особая сложность: Сжатие x5</Difficulty_GalaxyLord>
+  <Difficulty_StarOverlord>Пример: Лимит врагов</Difficulty_StarOverlord>
+  <Difficulty_GalaxyEmperor>Пример: Только масштаб</Difficulty_GalaxyEmperor>
+  
+  <!-- Факторы сложности -->
+  <DifficultyFactor_0_4>Фактор сложности 0.3</DifficultyFactor_0_4>
+  <DifficultyFactor_0_7>Фактор сложности 0.6</DifficultyFactor_0_7>
+  <DifficultyFactor_1>Фактор сложности 1</DifficultyFactor_1>
+  <DifficultyFactor_1_3>Фактор сложности 1.3</DifficultyFactor_1_3>
+  <DifficultyFactor_1_6>Фактор сложности 1.6</DifficultyFactor_1_6>
+  <DifficultyFactor_2>Фактор сложности 2</DifficultyFactor_2>
+  <DifficultyFactor_2_4>Фактор сложности 3</DifficultyFactor_2_4>
+  <DifficultyFactor_3_9>Фактор сложности 3.9</DifficultyFactor_3_9>
+  <DifficultyFactor_6_4>Фактор сложности 6.4</DifficultyFactor_6_4>
+  <DifficultyFactor_10>Фактор сложности 10</DifficultyFactor_10>
+  <DifficultyFactor_16>Фактор сложности 16</DifficultyFactor_16>
+  <DifficultyFactor_32>Фактор сложности 1</DifficultyFactor_32>
+  <DifficultyFactor_54>Фактор сложности 2</DifficultyFactor_54>
+  <DifficultyFactor_72>Фактор сложности 3</DifficultyFactor_72>
+  <DifficultyFactor_100>Фактор сложности 0.3</DifficultyFactor_100>
+  <DifficultyFactor_200>Фактор сложности 2</DifficultyFactor_200>
+  
+  <!-- Описания уровней сложности -->
+  <Difficulty_Novice_Desc>Сложность: Новичок, множитель {0}. Эквивалентно стандартной сложности "Затерянный исследователь". Количество врагов: 1-20, макс. уровень 3. Идеально сбалансированная сложность для новичков.</Difficulty_Novice_Desc>
+  <Difficulty_Retainer_Desc>Сложность: Оруженосец, множитель {0}. Сложность по умолчанию, немного сложнее стандартного "Выживания". Количество врагов: 1-25, макс. уровень 4. Для опытных игроков, любящих вызов.</Difficulty_Retainer_Desc>
+  <Difficulty_Knight_Desc>Сложность: Рыцарь, множитель {0}. Эквивалентно стандартной сложности "Брутальная". Количество врагов: 1-30, макс. уровень 5. Большинство врагов 3 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Knight_Desc>
+  <Difficulty_Justiciar_Desc>Сложность: Судебник, множитель {0}. Уровень "Брутальная+". Количество врагов: 1-30, макс. уровень 6. Большинство врагов 3 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Justiciar_Desc>
+  <Difficulty_Lord_Desc>Сложность: Лорд, множитель {0}. Уровень "Брутальная++". Количество врагов: 1-35, макс. уровень 7. Могут встречаться боссы с иммунитетом к пси-атакам. Большинство врагов 3-4 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Lord_Desc>
+  <Difficulty_Viceroy_Desc>Сложность: Вице-король, множитель {0}. Уровень "Брутальная 500%". Количество врагов: 1-40, все уровни элитности доступны. Могут встречаться боссы с иммунитетом. Большинство врагов 3-4 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Viceroy_Desc>
+  <Difficulty_Governor_Desc>Сложность: Губернатор, множитель {0}. Уровень "Брутальная 500%+". Количество врагов: 1-45, все уровни элитности доступны. Могут встречаться боссы с иммунитетом. Большинство врагов 4-5 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Governor_Desc>
+  <Difficulty_Duke_Desc>Сложность: Герцог, множитель {0}. Уровень "Брутальная 1000%". Количество врагов: 1-50, все уровни элитности доступны. Могут встречаться боссы с иммунитетом. Большинство врагов 4-5 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Duke_Desc>
+  <Difficulty_Despot_Desc>Сложность: Деспот, множитель {0}. Множитель рейда 1400%. Количество врагов: 1-60, все уровни элитности доступны. Могут встречаться боссы с иммунитетом. Большинство врагов 5-6 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Despot_Desc>
+  <Difficulty_GrandDuke_Desc>Сложность: Великий герцог, множитель {0}. Множитель рейда 2000%. Количество врагов: 1-70, все уровни элитности доступны. Могут встречаться боссы с иммунитетом. Большинство врагов 5-6 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_GrandDuke_Desc>
+  <Difficulty_Consul_Desc>Сложность: Консул, множитель {0}. Множитель рейда 3500%. Количество врагов: 1-80, все уровни элитности доступны. Могут встречаться боссы с иммунитетом. Большинство врагов 6-7 уровня. Для опытных игроков, ищущих экстремальные испытания.</Difficulty_Consul_Desc>
+  
+  <!-- Особые уровни сложности -->
+  <Difficulty_General_Desc>Особая сложность: Сжатие x3, множитель {0}. Количество врагов: 1-200. Использует коэффициент сжатия, уменьшая количество врагов до 1/3 от исходного. Без лимита числа врагов для лучшего баланса.</Difficulty_General_Desc>
+  <Difficulty_GuardCommander_Desc>Особая сложность: Сжатие x4, множитель {0}. Количество врагов: 1-200. Использует коэффициент сжатия, уменьшая количество врагов до 1/4 от исходного. Без лимита числа врагов для лучшего баланса.</Difficulty_GuardCommander_Desc>
+  <Difficulty_GalaxyLord_Desc>Особая сложность: Сжатие x5, множитель {0}. Количество врагов: 1-200. Использует коэффициент сжатия, уменьшая количество врагов до 1/5 от исходного. Без лимита числа врагов для лучшего баланса.</Difficulty_GalaxyLord_Desc>
+  
+  <!-- Примеры настроек -->
+  <Difficulty_StarOverlord_Desc>Пример настройки: Лимит врагов, множитель {0}. Демонстрирует оптимизацию FPS через ограничение числа врагов. Лимит: 50 врагов без улучшений.</Difficulty_StarOverlord_Desc>
+  <Difficulty_GalaxyEmperor_Desc>Пример настройки: Только масштаб рейда, множитель {0}. Показывает настройку только масштаба и лимита очков рейда, без уровней элитности или сжатия.</Difficulty_GalaxyEmperor_Desc>
+  
+  <!-- Дополнительные настройки -->
+  <AllowModBionicsAndDrugs>Разрешить модовые импланты и наркотики (требует перезагрузки)</AllowModBionicsAndDrugs>
+  <AllowModBionicsAndDrugsDesc>Разрешить улучшение юнитов с использованием модовых наркотиков и имплантов (требуется перезагрузка игры)</AllowModBionicsAndDrugsDesc>
+  <showRaidMessages>Показывать предупреждения о рейдах</showRaidMessages>
+  <showRaidMessagesDesc>Включить/отключить отображение предупреждений о рейдах (по умолчанию включено)</showRaidMessagesDesc>
+  <StartCompressNum>Число для начала сжатия</StartCompressNum>
+  <StartCompressNumDesc>Сжатие начнется только когда число врагов превысит это значение</StartCompressNumDesc>
+  
+  <!-- Настройки сжатия -->
+  <compressionRatio>Коэффициент сжатия</compressionRatio>
+  <compressionRatioDesc>
+Коэффициент сжатия количества врагов (1.0-10.0). Например, при коэффициенте 3, 78 врагов сожмутся до 26.
+Логика расчета:
+1. Врагов ≤ Числу сжатия: Без изменений
+2. Число сжатия ≤ Врагов ≤ Число сжатия × Коэффициент: Сжатие до Числа сжатия
+3. Число сжатия × Коэффициент ≤ Врагов ≤ Макс. число × Коэффициент:
+Сжатое количество = Враги ÷ Коэффициент (результат ≥ Числу сжатия и ≤ Макс. числу)
+4. Врагов ≥ Макс. число × Коэффициент: Сжатое количество = Макс. число
+
+Пример: Макс. врагов 60, коэффициент 3, число сжатия 20
+1. ≤20: Без изменений
+2. 20-60: Сжатие до 20
+3. 60-180: 80 врагов → 26 (80/3)
+4. ≥180: Сжатие до 60
+</compressionRatioDesc>
+  
+  <maxRaidEnemy>Максимальное число врагов</maxRaidEnemy>
+  <maxRaidEnemyDesc>
+Максимальное количество врагов в рейде (20-200)
+Логика расчета идентична коэффициенту сжатия
+</maxRaidEnemyDesc>
+</LanguageData>

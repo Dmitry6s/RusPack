@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_ViolenceHatred_Weapon.stages.0.label>ненависть к насилию</MBSG_ViolenceHatred_Weapon.stages.0.label>
+  <MBSG_ViolenceHatred_Weapon.stages.0.description>Я ношу инструмент, созданный исключительно для убийства. Это худшая судьба, которую можно представить.</MBSG_ViolenceHatred_Weapon.stages.0.description>
+
+  <MBSG_ViolenceDislike_Weapon.stages.0.label>неприязнь к насилию</MBSG_ViolenceDislike_Weapon.stages.0.label>
+  <MBSG_ViolenceDislike_Weapon.stages.0.description>Я ношу инструмент, созданный исключительно для убийства. Мне от этого крайне неловко.</MBSG_ViolenceDislike_Weapon.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_SturdyDigestion.label>крепкое пищеварение</MBSG_SturdyDigestion.label>
+  <MBSG_SturdyDigestion.description>Носители этого гена развивают многокамерный желудок, позволяющий им переваривать сырую пищу эффективнее, чем обычные люди. Они получают больше питательных веществ из сырой пищи, чем большинство, и их не смущает мысль о её употреблении.</MBSG_SturdyDigestion.description>
+
+  <MBSG_FaultyDigestion.label>плохое пищеварение</MBSG_FaultyDigestion.label>
+  <MBSG_FaultyDigestion.description>Носители этого гена имеют желудок, который с трудом перерабатывает пищу, и в результате они плохо усваивают не приготовленные продукты.</MBSG_FaultyDigestion.description>
+
+  <MBSG_FrailDigestion.label>слабое пищеварение</MBSG_FrailDigestion.label>
+  <MBSG_FrailDigestion.description>Носители этого гена имеют желудок, который с трудом перерабатывает пищу, и в результате они почти не способны усваивать не приготовленные продукты.</MBSG_FrailDigestion.description>
+
+</LanguageData>

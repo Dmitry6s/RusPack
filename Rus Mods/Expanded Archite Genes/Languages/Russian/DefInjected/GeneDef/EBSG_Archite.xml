@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EBSG_MinorArchiteMetabolism.label>незначительный архитный метаболизм</EBSG_MinorArchiteMetabolism.label>
+  <EBSG_MinorArchiteMetabolism.description>Носители этого гена имеют небольшое количество специальных архитов в клетках, которые способствуют и оптимизируют метаболизм. Это улучшает общее генетическое и метаболическое качество.</EBSG_MinorArchiteMetabolism.description>
+
+  <EBSG_StrongArchiteMetabolism.label>значительный архитный метаболизм</EBSG_StrongArchiteMetabolism.label>
+  <EBSG_StrongArchiteMetabolism.description>Носители этого гена имеют большое количество специальных архитов в клетках, которые способствуют и оптимизируют метаболизм. Это улучшает общее генетическое и метаболическое качество.</EBSG_StrongArchiteMetabolism.description>
+
+  <EBSG_MinorGeneticStreamlining.label>незначительная генетическая оптимизация</EBSG_MinorGeneticStreamlining.label>
+  <EBSG_MinorGeneticStreamlining.description>Носители этого гена имеют небольшое количество специальных архитов в клетках, которые уменьшают сложность репликации их генетической структуры.</EBSG_MinorGeneticStreamlining.description>
+
+  <EBSG_GeneticStreamlining.label>генетическая оптимизация</EBSG_GeneticStreamlining.label>
+  <EBSG_GeneticStreamlining.description>Носители этого гена имеют специальные архиты в клетках, которые уменьшают сложность репликации их генетической структуры.</EBSG_GeneticStreamlining.description>
+
+  <EBSG_MajorGeneticStreamlining.label>значительная генетическая оптимизация</EBSG_MajorGeneticStreamlining.label>
+  <EBSG_MajorGeneticStreamlining.description>Носители этого гена имеют большое количество специальных архитов в клетках, которые уменьшают сложность репликации их генетической структуры.</EBSG_MajorGeneticStreamlining.description>
+
+</LanguageData>

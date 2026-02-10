@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ST_Cry.label>плач</ST_Cry.label>
+  <ST_Cry.logRulesInitiator.rulesStrings.0>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] перед [RECIPIENT_nameDef].</ST_Cry.logRulesInitiator.rulesStrings.0>
+  <ST_Cry.logRulesInitiator.rulesStrings.1>talkedabout(p=4)->разрыдался о</ST_Cry.logRulesInitiator.rulesStrings.1>
+  <ST_Cry.logRulesInitiator.rulesStrings.2>talkedabout->оплакивал</ST_Cry.logRulesInitiator.rulesStrings.2>
+  <ST_Cry.logRulesInitiator.rulesStrings.3>talkedabout->рыдал о</ST_Cry.logRulesInitiator.rulesStrings.3>
+  <ST_Cry.logRulesInitiator.rulesStrings.4>subject(INITIATOR_cubeInterest==false)->[TalkTopicLight]</ST_Cry.logRulesInitiator.rulesStrings.4>
+  <ST_Cry.logRulesInitiator.rulesStrings.5>subject(INITIATOR_cubeInterest==true)->[TalkTopicCube]</ST_Cry.logRulesInitiator.rulesStrings.5>
+
+</LanguageData>

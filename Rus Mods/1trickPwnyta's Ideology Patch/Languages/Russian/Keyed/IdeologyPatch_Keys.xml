@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Категории -->
+	<IdeologyPatch_MemesPrecepts>Мемы и предписания идеологии</IdeologyPatch_MemesPrecepts>
+	<IdeologyPatch_Slaves>Рабы</IdeologyPatch_Slaves>
+	<IdeologyPatch_Practices>Религиозные практики</IdeologyPatch_Practices>
+	<IdeologyPatch_Misc>Разное</IdeologyPatch_Misc>
+	<IdeologyPatch_RestartRequired>(требует перезагрузки)</IdeologyPatch_RestartRequired>
+
+	<!-- Настройки идеологий -->
+	<IdeologyPatch_DisableHumanFoodPlantThought>Отключить мысль фермера о посадке человеческой еды</IdeologyPatch_DisableHumanFoodPlantThought>
+	<IdeologyPatch_ResearchMissingMemes>Отключить предупреждение о несовместимых исследованиях</IdeologyPatch_ResearchMissingMemes>
+	<IdeologyPatch_BloodfeedingCorpsesDontCare>Мем вампиров добавляет предписание "Безразличие к трупам"</IdeologyPatch_BloodfeedingCorpsesDontCare>
+	<IdeologyPatch_PremaritalSex>Предписание о добрачных связях по умолчанию "Свободные"</IdeologyPatch_PremaritalSex>
+	<IdeologyPatch_FemaleNudity>Предписание женской одежды по умолчанию "Брюки"</IdeologyPatch_FemaleNudity>
+	<IdeologyPatch_PantsOnly>Переименовать "Максимум брюки" в "Только брюки"</IdeologyPatch_PantsOnly>
+	<IdeologyPatch_FungusPreferredDisablesDarkThought>Отключить штраф за темноту при предписании "Грибы предпочтительны"</IdeologyPatch_FungusPreferredDisablesDarkThought>
+	<IdeologyPatch_DarklightDefault>Темный свет для светильников по умолчанию</IdeologyPatch_DarklightDefault>
+	<IdeologyPatch_NegativeApparelDesire>Носить "негативную" одежду если требует идеология</IdeologyPatch_NegativeApparelDesire>
+	<IdeologyPatch_RelicsCollectedNotAgain>Не давать настроение за повторный сбор реликвий</IdeologyPatch_RelicsCollectedNotAgain>
+	<IdeologyPatch_FactionRelationAdjustment>Корректировка начальных отношений фракций</IdeologyPatch_FactionRelationAdjustment>
+
+	<!-- Настройки ритуалов -->
+	<IdeologyPatch_RitualCooldownMessage>Уведомлять о возможности повторного ритуала</IdeologyPatch_RitualCooldownMessage>
+	<IdeologyPatch_RitualCanBePerformedAgain>{0} можно провести снова без штрафа.</IdeologyPatch_RitualCanBePerformedAgain>
+	<IdeologyPatch_RoleChangeUseUntaken>Автовыбор свободных ролей</IdeologyPatch_RoleChangeUseUntaken>
+
+	<!-- Настройки рабов -->
+	<IdeologyPatch_SlavesArentQuestLodgers>Не считать рабов гостями квестов</IdeologyPatch_SlavesArentQuestLodgers>
+	<IdeologyPatch_SlavesWearHumanLeather>Рабы носят кожу людей даже если не хотят</IdeologyPatch_SlavesWearHumanLeather>
+	<IdeologyPatch_SlavesCantRunWild>Рабы не могут одичать</IdeologyPatch_SlavesCantRunWild>
+
+	<!-- Настройки дрьяд -->
+	<IdeologyPatch_DryadWanderRadius>Ограничить зону передвижения дриад</IdeologyPatch_DryadWanderRadius>
+	<IdeologyPatch_PruningTime>Не игнорировать нужды при обрезке дерева</IdeologyPatch_PruningTime>
+
+	<!-- Исправления и улучшения -->
+	<IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>Переход к узнику из письма</IdeologyPatch_PrisonerConversionLetterJumpToPrisoner>
+	<IdeologyPatch_LookChangeDesiredFix>Исправление смены облика</IdeologyPatch_LookChangeDesiredFix>
+	<IdeologyPatch_ForbidArchonexusCorpses>Автозапрет трупов у структур Архонексуса</IdeologyPatch_ForbidArchonexusCorpses>
+	<IdeologyPatch_PaintableIdeoFloors>Покраска идеологических полов</IdeologyPatch_PaintableIdeoFloors>
+</LanguageData>

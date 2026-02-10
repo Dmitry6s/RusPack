@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_Hairless.label>безволосый</MBSG_Hairless.label>
+  <MBSG_Hairless.description>Носители этого гена не растят волосы нигде на теле. Вместо волос у них специальные поры, которые позволяют лучше регулировать температуру в тёплом климате.</MBSG_Hairless.description>
+
+  <MBSG_Unmovable.label>непоколебимый</MBSG_Unmovable.label>
+  <MBSG_Unmovable.description>Носители этого гена замедляются от урона вдвое меньше, чем обычно.</MBSG_Unmovable.description>
+
+  <MBSG_Movable.label>подвижный</MBSG_Movable.label>
+  <MBSG_Movable.description>Носители этого гена замедляются от урона в полтора раза сильнее, чем обычно.</MBSG_Movable.description>
+
+  <MBSG_Stoppable.label>податливый</MBSG_Stoppable.label>
+  <MBSG_Stoppable.description>Носители этого гена замедляются от урона вдвое сильнее, чем обычно.</MBSG_Stoppable.description>
+
+</LanguageData>

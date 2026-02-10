@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Основные категории настроек -->
+  <Storyteller.label>Настройки рассказчика</Storyteller.label>
+  <Storyteller.description>Установите стандартные параметры рассказчика и сложности для новой колонии, включая пользовательские настройки сложности.</Storyteller.description>
+
+  <World.label>Настройки мира</World.label>
+  <World.description>Установите стандартные параметры мира и карты для новой колонии.</World.description>
+
+  <!-- Настройки колонистов -->
+  <Schedule.label>Расписания колонистов</Schedule.label>
+  <Schedule.description>Настройте стандартные расписания для колонистов. Можно создать чередующиеся расписания - мод будет автоматически распределять их между новыми колонистами.</Schedule.description>
+
+  <Policies.label>Политики</Policies.label>
+  <Policies.description>Настройте стандартные политики одежды, питания, наркотиков и чтения, которые будут применяться в новых колониях.</Policies.description>
+
+  <BabyFeeding.label>Кормление младенцев</BabyFeeding.label>
+  <BabyFeeding.description>Настройте автоматическое кормление младенцев в зависимости от родства и лактации. Также можно указать, какими продуктами можно кормить младенцев по умолчанию.</BabyFeeding.description>
+
+  <Medicine.label>Медицинские настройки</Medicine.label>
+  <Medicine.description>Установите стандартные медицинские параметры для новой колонии, включая тип и количество медикаментов, которые будут носить колонисты.</Medicine.description>
+
+  <!-- Дополнительные настройки -->
+  <Rewards.label>Предпочтения наград</Rewards.label>
+  <Rewards.description>Установите стандартные предпочтения по наградам для новой колонии.</Rewards.description>
+
+  <ResourceCategories.label>Категории ресурсов</ResourceCategories.label>
+  <ResourceCategories.description>Укажите, какие категории ресурсов должны быть развернуты по умолчанию в режиме категорий.</ResourceCategories.description>
+
+  <Storage.label>Настройки хранения</Storage.label>
+  <Storage.description>Настройте параметры зон хранения, свалок и хранилищ (полки и т.д.). Можно создавать собственные типы зон хранения с индивидуальными настройками.</Storage.description>
+
+  <WorkbenchBills.label>Заказы верстаков</WorkbenchBills.label>
+  <WorkbenchBills.description>Установите стандартные заказы для верстаков, которые будут автоматически добавляться при постройке.</WorkbenchBills.description>
+
+  <AllowedAreas.label>Разрешенные зоны</AllowedAreas.label>
+  <AllowedAreas.description>Создайте стандартные разрешенные зоны для новых колоний и настройте автоматическое распределение пешек по зонам.</AllowedAreas.description>
+
+  <!-- Общие настройки -->
+  <Misc.label>Прочие настройки</Misc.label>
+  <Misc.description>Дополнительные параметры, которые не вошли в другие категории.</Misc.description>
+
+  <General.label>Общие настройки</General.label>
+  <General.description>Основные параметры работы этого мода.</General.description>
+
+</LanguageData>

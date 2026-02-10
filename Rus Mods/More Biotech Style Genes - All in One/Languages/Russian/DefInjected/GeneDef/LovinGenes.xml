@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Гены пониженного либидо -->
+
+  <Libido_ExtremelyLow.label>крайне низкое либидо</Libido_ExtremelyLow.label>
+  <Libido_ExtremelyLow.description>Носители этого гена крайне редко вступают в интимные отношения со своим партнёром.</Libido_ExtremelyLow.description>
+
+  <Libido_VeryLow.label>очень низкое либидо</Libido_VeryLow.label>
+  <Libido_VeryLow.description>Носители этого гена намного реже вступают в интимные отношения со своим партнёром.</Libido_VeryLow.description>
+
+
+  <!-- Гены повышенного либидо -->
+
+  <Libido_AboveAverage.label>высокое либидо</Libido_AboveAverage.label>
+  <Libido_AboveAverage.description>Носители этого гена немного чаще вступают в интимные отношения со своим партнёром.</Libido_AboveAverage.description>
+
+  <Libido_VeryHigh.label>очень высокое либидо</Libido_VeryHigh.label>
+  <Libido_VeryHigh.description>Носители этого гена намного чаще вступают в интимные отношения со своим партнёром.</Libido_VeryHigh.description>
+
+  <Libido_SuperHigh.label>сверхвысокое либидо</Libido_SuperHigh.label>
+  <Libido_SuperHigh.description>Носители этого гена имеют крайне высокий шанс захотеть вступить в интимные отношения со своим партнёром.</Libido_SuperHigh.description>
+
+  <Libido_Hyper.label>гиперлибидо</Libido_Hyper.label>
+  <Libido_Hyper.description>Носители этого гена настолько часто вступают в интимные отношения со своим партнёром, что это становится проблемой. Считается, что этот ген возник благодаря особо жестокому учёному, который хотел увеличить количество подопытных крыс.</Libido_Hyper.description>
+
+</LanguageData>

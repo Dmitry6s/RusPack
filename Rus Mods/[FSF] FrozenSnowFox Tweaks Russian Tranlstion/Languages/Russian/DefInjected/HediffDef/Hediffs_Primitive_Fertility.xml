@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fertility booster -->
+  <FSFBoostFertility.label>Усилитель фертильности</FSFBoostFertility.label>
+  <!-- EN: Through the use of some medicinal herbs the user has had their fertility temporarily boosted. -->
+  <FSFBoostFertility.description>Благодаря использованию некоторых лекарственных трав фертильность пользователя временно повышена.</FSFBoostFertility.description>
+
+  <!-- EN: fertility booster -->
+  <FSFInhibitFertility.label>Ингибитор фертильности</FSFInhibitFertility.label>
+  <!-- EN: Through the use of some medicinal herbs the user has had their fertility temporarily boosted. -->
+  <FSFInhibitFertility.description>Благодаря использованию некоторых лекарственных трав фертильность пользователя временно подавлена.</FSFInhibitFertility.description>  
+
+ 
+</LanguageData>

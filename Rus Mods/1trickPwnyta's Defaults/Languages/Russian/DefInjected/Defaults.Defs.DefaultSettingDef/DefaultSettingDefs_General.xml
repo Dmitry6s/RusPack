@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShowDisabledInSearch.label>Показывать отключённые настройки в поиске</ShowDisabledInSearch.label>
+  <HideSetAsDefault.label>Скрывать кнопки "Сохранить как стандартные"</HideSetAsDefault.label>
+  <HideLoadDefault.label>Скрывать кнопки "Загрузить стандартные"</HideLoadDefault.label>
+
+</LanguageData>

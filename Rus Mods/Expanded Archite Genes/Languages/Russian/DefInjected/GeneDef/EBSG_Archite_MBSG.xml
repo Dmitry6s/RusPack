@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Чтобы учесть несколько потенциальных источников, патч будет проверять сами гены вместо конкретных модов -->
+
+  <EBSG_MinorArchiteCellStability.label>незначительно увеличенная клеточная стабильность</EBSG_MinorArchiteCellStability.label>
+  <EBSG_MinorArchiteCellStability.description>Носители этого гена имеют небольшое количество архитов в кровотоке, предназначенных для увеличения стабильности их клеточной репликационной системы.\n\nЭти варианты здесь, чтобы позволить создать долгоживущую пешку, который не является бессмертным.</EBSG_MinorArchiteCellStability.description>
+
+  <EBSG_ArchiteCellStability.label>увеличенная клеточная стабильность</EBSG_ArchiteCellStability.label>
+  <EBSG_ArchiteCellStability.description>Носители этого гена имеют архиты в кровотоке, предназначенные для увеличения стабильности их клеточной репликационной системы.\n\nЭти варианты здесь, чтобы позволить создать долгоживущую пешку, который не является бессмертным.</EBSG_ArchiteCellStability.description>
+
+  <EBSG_MajorArchiteCellStability.label>значительно увеличенная клеточная стабильность</EBSG_MajorArchiteCellStability.label>
+  <EBSG_MajorArchiteCellStability.description>Носители этого гена имеют большое количество архитов в кровотоке, предназначенных для увеличения стабильности их клеточной репликационной системы.\n\nЭти варианты здесь, чтобы позволить создать долгоживущую пешку, который не является бессмертным.</EBSG_MajorArchiteCellStability.description>
+
+  <EBSG_MinorArchiteHeatTolerance.label>незначительно увеличенная жароустойчивость</EBSG_MinorArchiteHeatTolerance.label>
+  <EBSG_MinorArchiteHeatTolerance.description>Носители этого гена имеют небольшое количество архитов по всему телу, которые помогают защитить их от высоких температур.\n\nЭто не защитит от огня, только от окружающей жары.</EBSG_MinorArchiteHeatTolerance.description>
+
+  <EBSG_ArchiteHeatTolerance.label>увеличенная жароустойчивость</EBSG_ArchiteHeatTolerance.label>
+  <EBSG_ArchiteHeatTolerance.description>Носители этого гена имеют архиты по всему телу, которые помогают защитить их от высоких температур.\n\nЭто не защитит от огня, только от окружающей жары.</EBSG_ArchiteHeatTolerance.description>
+
+  <EBSG_MajorArchiteHeatTolerance.label>значительно увеличенная жароустойчивость</EBSG_MajorArchiteHeatTolerance.label>
+  <EBSG_MajorArchiteHeatTolerance.description>Носители этого гена имеют большое количество архитов по всему телу, которые помогают защитить их от высоких температур.\n\nЭто не защитит от огня, только от окружающей жары.</EBSG_MajorArchiteHeatTolerance.description>
+
+  <EBSG_MinorArchiteColdTolerance.label>незначительно увеличенная холодоустойчивость</EBSG_MinorArchiteColdTolerance.label>
+  <EBSG_MinorArchiteColdTolerance.description>Носители этого гена имеют небольшое количество архитов по всему телу, которые помогают изолировать их от низких температур.\n\nЭто не защитит от урона, связанного с холодом, только от низких температур.</EBSG_MinorArchiteColdTolerance.description>
+
+  <EBSG_ArchiteColdTolerance.label>увеличенная холодоустойчивость</EBSG_ArchiteColdTolerance.label>
+  <EBSG_ArchiteColdTolerance.description>Носители этого гена имеют архиты по всему телу, которые помогают изолировать их от низких температур.\n\nЭто не защитит от урона, связанного с холодом, только от низких температур.</EBSG_ArchiteColdTolerance.description>
+
+  <EBSG_MajorArchiteColdTolerance.label>значительно увеличенная холодоустойчивость</EBSG_MajorArchiteColdTolerance.label>
+  <EBSG_MajorArchiteColdTolerance.description>Носители этого гена имеют большое количество архитов по всему телу, которые помогают изолировать их от низких температур.\n\nЭто не защитит от урона, связанного с холодом, только от низких температур.</EBSG_MajorArchiteColdTolerance.description>
+
+  <EBSG_ArchiteFertility.label>увеличенная фертильность</EBSG_ArchiteFertility.label>
+  <EBSG_ArchiteFertility.description>Носители этого гена имеют архиты в клетках, которые делают исключительно лёгким для них забеременеть или оплодотворить других. Их репродуктивная система настолько гиперактивна, что просто нахождение в одной комнате вызывает беспокойство.</EBSG_ArchiteFertility.description>
+
+  <EBSG_MinorArchiteBeauty.label>незначительно увеличенная красота</EBSG_MinorArchiteBeauty.label>
+  <EBSG_MinorArchiteBeauty.description>Носители этого гена имеют некоторое количество архитов в коже, предназначенных для того, чтобы их черты были выразительными и сильными без преувеличения, а кожа почти идеальной. Их почти всегда считают красивыми.</EBSG_MinorArchiteBeauty.description>
+
+  <EBSG_ArchiteBeauty.label>увеличенная красота</EBSG_ArchiteBeauty.label>
+  <EBSG_ArchiteBeauty.description>Носители этого гена имеют архиты в коже, предназначенные для того, чтобы их черты были выразительными и сильными без преувеличения, а кожа почти идеальной. Их почти всегда считают красивыми.</EBSG_ArchiteBeauty.description>
+
+  <EBSG_MajorArchiteBeauty.label>значительно увеличенная красота</EBSG_MajorArchiteBeauty.label>
+  <EBSG_MajorArchiteBeauty.description>Носители этого гена имеют много архитов в коже, предназначенных для того, чтобы их черты были выразительными и сильными без преувеличения, а кожа почти идеальной. Их почти всегда считают красивыми.</EBSG_MajorArchiteBeauty.description>
+
+  <EBSG_MinorArchiteSpeed.label>незначительно увеличенная скорость</EBSG_MinorArchiteSpeed.label>
+  <EBSG_MinorArchiteSpeed.description>Носители этого гена имеют небольшое количество архитов в мышцах, предназначенных для того, чтобы они двигались намного быстрее обычного.</EBSG_MinorArchiteSpeed.description>
+
+  <EBSG_ArchiteSpeed.label>увеличенная скорость</EBSG_ArchiteSpeed.label>
+  <EBSG_ArchiteSpeed.description>Носители этого гена имеют архиты в мышцах, предназначенные для того, чтобы они двигались намного быстрее обычного.</EBSG_ArchiteSpeed.description>
+
+  <EBSG_MajorArchiteSpeed.label>значительно увеличенная скорость</EBSG_MajorArchiteSpeed.label>
+  <EBSG_MajorArchiteSpeed.description>Носители этого гена имеют большое количество архитов в мышцах, предназначенных для того, чтобы они двигались намного быстрее обычного.</EBSG_MajorArchiteSpeed.description>
+
+  <EBSG_MinorArchiteMeleeDamage.label>незначительно увеличенный урон в ближнем бою</EBSG_MinorArchiteMeleeDamage.label>
+  <EBSG_MinorArchiteMeleeDamage.description>Носители этого гена имеют небольшое количество архитов в мышечных волокнах, которые делают их удары более точными и мощными.</EBSG_MinorArchiteMeleeDamage.description>
+
+  <EBSG_ArchiteMeleeDamage.label>увеличенный урон в ближнем бою</EBSG_ArchiteMeleeDamage.label>
+  <EBSG_ArchiteMeleeDamage.description>Носители этого гена имеют архиты в мышечных волокнах, которые делают их удары более точными и мощными.</EBSG_ArchiteMeleeDamage.description>
+
+  <EBSG_MajorArchiteMeleeDamage.label>значительно увеличенный урон в ближнем бою</EBSG_MajorArchiteMeleeDamage.label>
+  <EBSG_MajorArchiteMeleeDamage.description>Носители этого гена имеют большое количество архитов в мышечных волокнах, которые делают их удары более точными и мощными.</EBSG_MajorArchiteMeleeDamage.description>
+
+  <EBSG_MinorArchiteHappiness.label>незначительно увеличенное счастье</EBSG_MinorArchiteHappiness.label>
+  <EBSG_MinorArchiteHappiness.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для остановки негативных мыслей.</EBSG_MinorArchiteHappiness.description>
+
+  <EBSG_ArchiteHappiness.label>увеличенное счастье</EBSG_ArchiteHappiness.label>
+  <EBSG_ArchiteHappiness.description>Носители этого гена имеют архиты в мозге, предназначенные для остановки негативных мыслей.</EBSG_ArchiteHappiness.description>
+
+  <EBSG_MajorArchiteHappiness.label>значительно увеличенное счастье</EBSG_MajorArchiteHappiness.label>
+  <EBSG_MajorArchiteHappiness.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для остановки негативных мыслей.</EBSG_MajorArchiteHappiness.description>
+
+  <EBSG_MinorArchiteHemogenRecovery.label>незначительное увеличение восстановление гемогена</EBSG_MinorArchiteHemogenRecovery.label>
+  <EBSG_MinorArchiteHemogenRecovery.description>Носители имеют небольшое количество архитов в крови, которые генерируют 10 единиц гемогена в день.\n\nВ отличие от обычных генов восстановления гемогена, вы можете иметь только один тип архит-восстановления гемогена одновременно. Они будут работать с обычными генами регенерации/расхода гемогена.</EBSG_MinorArchiteHemogenRecovery.description>
+
+  <EBSG_ArchiteHemogenRecovery.label>увеличение восстановление гемогена</EBSG_ArchiteHemogenRecovery.label>
+  <EBSG_ArchiteHemogenRecovery.description>Носители имеют архиты в крови, которые генерируют 20 единиц гемогена в день.\n\nВ отличие от обычных генов восстановления гемогена, вы можете иметь только один тип архит-восстановления гемогена одновременно. Они будут работать с обычными генами регенерации/расхода гемогена.</EBSG_ArchiteHemogenRecovery.description>
+
+  <EBSG_MajorArchiteHemogenRecovery.label>значительное увеличение восстановление гемогена</EBSG_MajorArchiteHemogenRecovery.label>
+  <EBSG_MajorArchiteHemogenRecovery.description>Носители имеют большое количество архитов в крови, которые генерируют 30 единиц гемогена в день.\n\nВ отличие от обычных генов восстановления гемогена, вы можете иметь только один тип архит-восстановления гемогена одновременно. Они будут работать с обычными генами регенерации/расхода гемогена.</EBSG_MajorArchiteHemogenRecovery.description>
+
+  <EBSG_ArchiteRelentlessness.label>неумолимость</EBSG_ArchiteRelentlessness.label>
+  <EBSG_ArchiteRelentlessness.description>Носители этого гена имеют архиты в мозге, которые останавливают чувство боли и предотвращают замедление при получении урона.</EBSG_ArchiteRelentlessness.description>
+
+  <EBSG_MinorArchitePsychicSensitivity.label>незначительное увеличенние пси-чувствительности</EBSG_MinorArchitePsychicSensitivity.label>
+  <EBSG_MinorArchitePsychicSensitivity.description>Носители этого гена имеют небольшое скопление архитов в теле, которые помогают им быть более восприимчивыми к пси-эффектам.</EBSG_MinorArchitePsychicSensitivity.description>
+
+  <EBSG_ArchitePsychicSensitivity.label>увеличенние пси-чувствительности</EBSG_ArchitePsychicSensitivity.label>
+  <EBSG_ArchitePsychicSensitivity.description>Носители этого гена имеют скопление архитов в теле, которые помогают им быть более восприимчивыми к пси-эффектам.</EBSG_ArchitePsychicSensitivity.description>
+
+  <EBSG_MajorArchitePsychicSensitivity.label>значительное увеличенние пси-чувствительности</EBSG_MajorArchitePsychicSensitivity.label>
+  <EBSG_MajorArchitePsychicSensitivity.description>Носители этого гена имеют большое скопление архитов в теле, которые помогают им быть более восприимчивыми к пси-эффектам.</EBSG_MajorArchitePsychicSensitivity.description>
+
+  <EBSG_ArchiteWakefulness.label>бодрый</EBSG_ArchiteWakefulness.label>
+  <EBSG_ArchiteWakefulness.description>Носители этого гена имеют архиты в мозге, которые обеспечивают им более медленное утомление по сравнению с другими.</EBSG_ArchiteWakefulness.description>
+
+  <EBSG_ArchiteNeverSleep.label>циркадный ритм</EBSG_ArchiteNeverSleep.label>
+  <EBSG_ArchiteNeverSleep.description>Носители этого гена имеют архиты в мозге, которые позволяют кластерам нейронов спать, пока остальной мозг бодрствует. Им никогда не нужно спать.</EBSG_ArchiteNeverSleep.description>
+
+  <EBSG_MinorArchiteRobustness.label>незначительное увеличение выносливости</EBSG_MinorArchiteRobustness.label>
+  <EBSG_MinorArchiteRobustness.description>Носители этого гена имеют небольшое количество архитов по всей коже и костям, предназначенных для уменьшения получаемого урона.</EBSG_MinorArchiteRobustness.description>
+
+  <EBSG_ArchiteRobustness.label>увеличение выносливости</EBSG_ArchiteRobustness.label>
+  <EBSG_ArchiteRobustness.description>Носители этого гена имеют архиты по всей коже и костям, предназначенные для уменьшения получаемого урона.</EBSG_ArchiteRobustness.description>
+
+  <EBSG_MajorArchiteRobustness.label>значительное увеличение выносливости</EBSG_MajorArchiteRobustness.label>
+  <EBSG_MajorArchiteRobustness.description>Носители этого гена имеют большое количество архитов по всей коже и костям, предназначенных для уменьшения получаемого урона.</EBSG_MajorArchiteRobustness.description>
+
+  <EBSG_MinorArchiteLearning.label>незначительное ускорение обучения</EBSG_MinorArchiteLearning.label>
+  <EBSG_MinorArchiteLearning.description>Носители этого гена имеют небольшое количество архитов в мозге, которые улучшают их память и способность быстро схватывать новые идеи.</EBSG_MinorArchiteLearning.description>
+
+  <EBSG_ArchiteLearning.label>ускорение обучения</EBSG_ArchiteLearning.label>
+  <EBSG_ArchiteLearning.description>Носители этого гена имеют архиты в мозге, которые улучшают их память и способность быстро схватывать новые идеи.</EBSG_ArchiteLearning.description>
+
+  <EBSG_MajorArchiteLearning.label>значительное ускорение обучения</EBSG_MajorArchiteLearning.label>
+  <EBSG_MajorArchiteLearning.description>Носители этого гена имеют большое количество архитов в мозге, которые улучшают их память и способность быстро схватывать новые идеи.</EBSG_MajorArchiteLearning.description>
+
+  <EBSG_ArchiteToxImmunity.label>иммунитет к токсинам</EBSG_ArchiteToxImmunity.label>
+  <EBSG_ArchiteToxImmunity.description>Носители этого гена имеют архиты в крови, которые делают их полностью невосприимчивыми к накоплению токсинов из всех источников, включая загрязнённую местность, токсичные осадки, токсичный газ и прямые атаки ядом или введённым токсином. Их также не беспокоит кислотный смог.\n\nБиохимические пути носителя модифицированы, чтобы обходить вмешательство почти всех известных токсинов. Вместе с улучшениями почек и печени это позволяет носителям чувствовать себя комфортно даже в самых токсичных условиях.</EBSG_ArchiteToxImmunity.description>
+
+  <EBSG_MinorArchiteWoundHealing.label>незначительное ускорение заживление ран</EBSG_MinorArchiteWoundHealing.label>
+  <EBSG_MinorArchiteWoundHealing.description>Носители этого гена имеют небольшое количество архитов в крови, предназначенных для более быстрого заживления ран по сравнению с нормой.</EBSG_MinorArchiteWoundHealing.description>
+
+  <EBSG_ArchiteWoundHealing.label>ускореное заживление ран</EBSG_ArchiteWoundHealing.label>
+  <EBSG_ArchiteWoundHealing.description>Носители этого гена имеют архиты в крови, предназначенные для более быстрого заживления ран по сравнению с нормой.</EBSG_ArchiteWoundHealing.description>
+
+  <EBSG_MajorArchiteWoundHealing.label>значительное ускорение заживление ран</EBSG_MajorArchiteWoundHealing.label>
+  <EBSG_MajorArchiteWoundHealing.description>Носители этого гена имеют большое количество архитов в крови, предназначенных для более быстрого заживления ран по сравнению с нормой.</EBSG_MajorArchiteWoundHealing.description>
+
+</LanguageData>

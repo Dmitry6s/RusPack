@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pasture grass -->
+  <FSFPastureGrass.label>Пастбищная трава</FSFPastureGrass.label>
+  <!-- EN: A species of grass designed for feeding grazing animals.  It lives for a long time and although it can be grown in low fertility soil it thrives in lushier soil. -->
+  <FSFPastureGrass.description>Вид травы, предназначенный для кормления пасущихся животных. Она живёт долго, и хотя её можно выращивать на почве с низким плодородием, лучше всего она растёт на более плодородной почве.</FSFPastureGrass.description>
+  
+</LanguageData>

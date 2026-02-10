@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Learning_VerySlow.label>очень медленная обучаемость</Learning_VerySlow.label>
+  <Learning_VerySlow.description>Носители этого гена имеют слабую долговременную память и медленно понимают новые идеи. Они медленно осваивают новые навыки и знания.</Learning_VerySlow.description>
+
+  <Learning_SomewhatSlow.label>медленная обучаемость</Learning_SomewhatSlow.label>
+  <Learning_SomewhatSlow.description>Носители этого гена имеют слабую долговременную память и медленно понимают новые идеи. Они медленно осваивают новые навыки и знания.</Learning_SomewhatSlow.description>
+
+  <Learning_SlightlyFast.label>быстрая обучаемость</Learning_SlightlyFast.label>
+  <Learning_SlightlyFast.description>Носители этого гена обладают отличной памятью и быстро схватывают новые идеи. Они учатся быстрее других.</Learning_SlightlyFast.description>
+
+  <Learning_SomewhatFast.label>очень быстрая обучаемость</Learning_SomewhatFast.label>
+  <Learning_SomewhatFast.description>Носители этого гена обладают отличной памятью и быстро схватывают новые идеи. Они учатся быстрее других.</Learning_SomewhatFast.description>
+
+  <Learning_VeryFast.label>сверхбыстрая обучаемость</Learning_VeryFast.label>
+  <Learning_VeryFast.description>Носители этого гена обладают отличной памятью и быстро схватывают новые идеи. Они учатся быстрее других.</Learning_VeryFast.description>
+
+  <Learning_SuperFast.label>экстремально быстрая обучаемость</Learning_SuperFast.label>
+  <Learning_SuperFast.description>Носители этого гена обладают отличной памятью и быстро схватывают новые идеи. Они учатся быстрее других.</Learning_SuperFast.description>
+
+</LanguageData>

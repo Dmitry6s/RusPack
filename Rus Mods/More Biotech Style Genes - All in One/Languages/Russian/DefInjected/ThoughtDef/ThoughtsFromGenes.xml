@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mood_ExtremelyDepressive.stages.0.label>генетическая экстремальная депрессия</Mood_ExtremelyDepressive.stages.0.label>
+  <Mood_ExtremelyDepressive.stages.0.description>Естественный штраф от гена «крайне несчастный».</Mood_ExtremelyDepressive.stages.0.description>
+
+  <Mood_SuperDepressive.stages.0.label>генетическая депрессия</Mood_SuperDepressive.stages.0.label>
+  <Mood_SuperDepressive.stages.0.description>Естественный штраф от гена «сверхнесчастный».</Mood_SuperDepressive.stages.0.description>
+
+  <MoodOffsetSignificantlyUnhappy.stages.0.label>генетический значительный пессимизм</MoodOffsetSignificantlyUnhappy.stages.0.label>
+  <MoodOffsetSignificantlyUnhappy.stages.0.description>Естественный штраф от гена «значительно несчастный».</MoodOffsetSignificantlyUnhappy.stages.0.description>
+
+  <MoodOffsetMildlyUnhappy.stages.0.label>генетический умеренный пессимизм</MoodOffsetMildlyUnhappy.stages.0.label>
+  <MoodOffsetMildlyUnhappy.stages.0.description>Естественный штраф от гена «умеренно несчастный».</MoodOffsetMildlyUnhappy.stages.0.description>
+
+  <MoodOffsetSlightlyUnhappy.stages.0.label>генетический лёгкий пессимизм</MoodOffsetSlightlyUnhappy.stages.0.label>
+  <MoodOffsetSlightlyUnhappy.stages.0.description>Естественный штраф от гена «слегка несчастный».</MoodOffsetSlightlyUnhappy.stages.0.description>
+
+  <MoodOffsetSuperHappy.stages.0.label>генетическая радость</MoodOffsetSuperHappy.stages.0.label>
+  <MoodOffsetSuperHappy.stages.0.description>Естественный бонус от гена «крайне счастливый».</MoodOffsetSuperHappy.stages.0.description>
+
+  <MoodOffsetExtremelyHappy.stages.0.label>генетическая радость</MoodOffsetExtremelyHappy.stages.0.label>
+  <MoodOffsetExtremelyHappy.stages.0.description>Естественный бонус от гена «сверхсчастливый».</MoodOffsetExtremelyHappy.stages.0.description>
+
+</LanguageData>

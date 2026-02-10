@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <VeryNearsighted.label>сильная близорукость</VeryNearsighted.label>
+  <VeryNearsighted.description>Носителям этого гена трудно видеть на расстоянии. Их точность стрельбы на дальних дистанциях значительно снижена.</VeryNearsighted.description>
+
+  <SlightlyNearsighted.label>слабая близорукость</SlightlyNearsighted.label>
+  <SlightlyNearsighted.description>Носителям этого гена трудно видеть на расстоянии. Их точность стрельбы на дальних дистанциях значительно снижена.</SlightlyNearsighted.description>
+
+  <SlightlyFarsighted.label>слабая дальнозоркость</SlightlyFarsighted.label>
+  <SlightlyFarsighted.description>Носителям этого гена трудно видеть вблизи от себя. Их точность стрельбы на коротких дистанциях слегка снижена.</SlightlyFarsighted.description>
+
+  <Farsighted.label>дальнозоркость</Farsighted.label>
+  <Farsighted.description>Носителям этого гена трудно видеть вблизи от себя. Их точность стрельбы на коротких дистанциях снижена.</Farsighted.description>
+
+  <VeryFarsighted.label>сильная дальнозоркость</VeryFarsighted.label>
+  <VeryFarsighted.description>Носителям этого гена трудно видеть вблизи от себя. Их точность стрельбы на коротких дистанциях значительно снижена.</VeryFarsighted.description>
+
+</LanguageData>

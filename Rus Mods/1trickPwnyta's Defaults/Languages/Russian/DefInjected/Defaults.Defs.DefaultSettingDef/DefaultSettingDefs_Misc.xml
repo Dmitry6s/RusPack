@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Основные настройки поведения -->
+  <HostilityResponse.label>Стандартная реакция на угрозы</HostilityResponse.label>
+  <PregnancyApproach.label>Стандартный подход к беременности</PregnancyApproach.label>
+  
+  <!-- Настройки автоматизации -->
+  <AutoRebuild.label>Стандартная настройка авто-постройки</AutoRebuild.label>
+  <AutoHomeArea.label>Стандартная настройка домашней зоны</AutoHomeArea.label>
+  <ManualPriorities.label>Использовать ручные приоритеты работы</ManualPriorities.label>
+  
+  <!-- Настройки окружающей среды -->
+  <PlantType.label>Стандартный тип растений</PlantType.label>
+  <TargetTempHeater.label>Целевая температура обогревателей</TargetTempHeater.label>
+  <TargetTempCooler.label>Целевая температура охладителей</TargetTempCooler.label>
+  
+  <!-- Настройки управления мехами -->
+  <WorkModeFirst.label>Режим работы первой группы мехов</WorkModeFirst.label>
+  <WorkModeSecond.label>Режим работы второй группы мехов</WorkModeSecond.label>
+  <WorkModeAdditional.label>Режим работы доп. групп мехов</WorkModeAdditional.label>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ST_Naive.stages.0.label>Мне нравится {OTHERPAWN_objective}</ST_Naive.stages.0.label>
+
+  <ST_Narcissist.stages.0.label>Знаю о своей красоте</ST_Narcissist.stages.0.label>
+  <ST_Narcissist.stages.0.description>Зеркало сказало мне, что я самый красивый человек в мире!</ST_Narcissist.stages.0.description>
+  <ST_Narcissist.stages.1.label>Знаю о своем уродстве</ST_Narcissist.stages.1.label>
+  <ST_Narcissist.stages.1.description>Зеркало сказало мне, чтобы я исчез.</ST_Narcissist.stages.1.description>
+
+  <ST_LoyalThought.stages.0.label>мой дорогой</ST_LoyalThought.stages.0.label>
+  <ST_VeganVsCarnist.stages.0.label>веган против мясоеда</ST_VeganVsCarnist.stages.0.label>
+
+  <WearingLeatheryApparel.stages.0.label>запятнано {0}</WearingLeatheryApparel.stages.0.label>
+  <WearingLeatheryApparel.stages.0.description>На мне надет предмет одежды, сделанный из меха животных. Меня от этого передергивает, и он кажется грязным.</WearingLeatheryApparel.stages.0.description>
+  <WearingLeatheryApparel.stages.1.label>запятнано {0} (+1)</WearingLeatheryApparel.stages.1.label>
+  <WearingLeatheryApparel.stages.1.description>На мне надето два предмета одежды, сделанных из меха животных. Меня от этого передергивает, и они кажутся грязными.</WearingLeatheryApparel.stages.1.description>
+  <WearingLeatheryApparel.stages.2.label>запятнано {0} (+2)</WearingLeatheryApparel.stages.2.label>
+  <WearingLeatheryApparel.stages.2.description>На мне надето три предмета одежды, сделанных из меха животных. Меня от этого передергивает, и они кажутся грязными.</WearingLeatheryApparel.stages.2.description>
+  <WearingLeatheryApparel.stages.3.label>запятнано {0} и т.д.</WearingLeatheryApparel.stages.3.label>
+  <WearingLeatheryApparel.stages.3.description>На мне надето четыре или больше предметов одежды из меха. Меня от этого передергивает, и они кажутся грязными.</WearingLeatheryApparel.stages.3.description>
+
+  <ST_NoPokerTable.stages.0.label>Нет покерного стола</ST_NoPokerTable.stages.0.label>
+  <ST_NoPokerTable.stages.0.description>Всего одну партию, пожалуйста, у меня пальцы чешутся!</ST_NoPokerTable.stages.0.description>
+
+  <ST_OneOfUs.stages.0.label>Один из нас</ST_OneOfUs.stages.0.label>
+  <ST_SomethingIsOff.stages.0.label>что-то не так</ST_SomethingIsOff.stages.0.label>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: meditation focus -->
+  <FSFMeditationFocus.label>Фокус медитации</FSFMeditationFocus.label>
+  <!-- EN: Designates a spot for people to focus their attention while meditating. -->
+  <FSFMeditationFocus.description>Обозначает место, где люди могут сосредоточить внимание во время медитации.</FSFMeditationFocus.description>
+  
+</LanguageData>

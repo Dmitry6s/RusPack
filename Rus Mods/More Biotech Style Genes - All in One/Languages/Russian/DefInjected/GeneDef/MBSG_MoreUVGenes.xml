@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_UVSensitivity_Hyper.label>гиперчувствительность к УФ-излучению</MBSG_UVSensitivity_Hyper.label>
+  <MBSG_UVSensitivity_Hyper.description>Носители этого гена имеют биологические соединения в коже, которые опасно реагируют на УФ-излучение. Они гиперчувствительны к солнечному свету.</MBSG_UVSensitivity_Hyper.description>
+
+  <MBSG_UVSensitivity_Super.label>сверхчувствительность к УФ-излучению</MBSG_UVSensitivity_Super.label>
+  <MBSG_UVSensitivity_Super.description>Носители этого гена имеют биологические соединения в коже, которые опасно реагируют на УФ-излучение. Они сверхчувствительны к солнечному свету.</MBSG_UVSensitivity_Super.description>
+
+  <MBSG_UVSensitivity_Extreme.label>экстремальная чувствительность к УФ-излучению</MBSG_UVSensitivity_Extreme.label>
+  <MBSG_UVSensitivity_Extreme.description>Носители этого гена имеют биологические соединения в коже, которые опасно реагируют на УФ-излучение. Они экстремально чувствительны к солнечному свету.</MBSG_UVSensitivity_Extreme.description>
+
+  <MBSG_UVSensitivity_VeryMinor.label>очень незначительная чувствительность к УФ-излучению</MBSG_UVSensitivity_VeryMinor.label>
+  <MBSG_UVSensitivity_VeryMinor.description>Носители этого гена имеют биологические соединения в коже, которые болезненно реагируют на УФ-излучение. Они имеют очень незначительную чувствительность к солнечному свету.</MBSG_UVSensitivity_VeryMinor.description>
+
+  <MBSG_UVSensitivity_ExtremelyMinor.label>крайне незначительная чувствительность к УФ-излучению</MBSG_UVSensitivity_ExtremelyMinor.label>
+  <MBSG_UVSensitivity_ExtremelyMinor.description>Носители этого гена имеют биологические соединения в коже, которые болезненно реагируют на УФ-излучение. Они имеют крайне незначительную чувствительность к солнечному свету.</MBSG_UVSensitivity_ExtremelyMinor.description>
+
+  <MBSG_UVResponsive_VeryMinor.label>очень слабая положительная реакция на УФ-излучение</MBSG_UVResponsive_VeryMinor.label>
+  <MBSG_UVResponsive_VeryMinor.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они имеют крайне слабую положительную реакцию на солнечный свет.</MBSG_UVResponsive_VeryMinor.description>
+
+  <MBSG_UVResponsive_Minor.label>незначительная положительная реакция на УФ-излучение</MBSG_UVResponsive_Minor.label>
+  <MBSG_UVResponsive_Minor.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они имеют незначительную положительную реакцию на солнечный свет.</MBSG_UVResponsive_Minor.description>
+
+  <MBSG_UVResponsive.label>положительная реакция на УФ-излучение</MBSG_UVResponsive.label>
+  <MBSG_UVResponsive.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они имеют заметную положительную реакцию на солнечный свет.</MBSG_UVResponsive.description>
+
+  <MBSG_UVResponsive_Major.label>значительная положительная реакция на УФ-излучение</MBSG_UVResponsive_Major.label>
+  <MBSG_UVResponsive_Major.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они имеют сильную положительную реакцию на солнечный свет.</MBSG_UVResponsive_Major.description>
+
+  <MBSG_UVAbsorbent_Minor.label>незначительное поглощение УФ-излучения</MBSG_UVAbsorbent_Minor.label>
+  <MBSG_UVAbsorbent_Minor.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они незначительно поглощают солнечный свет.</MBSG_UVAbsorbent_Minor.description>
+
+  <MBSG_UVAbsorbent.label>поглощение УФ-излучения</MBSG_UVAbsorbent.label>
+  <MBSG_UVAbsorbent.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они заметно поглощают солнечный свет.</MBSG_UVAbsorbent.description>
+
+  <MBSG_UVAbsorbent_Major.label>значительное поглощение УФ-излучения</MBSG_UVAbsorbent_Major.label>
+  <MBSG_UVAbsorbent_Major.description>Носители этого гена имеют биологические соединения в коже, которые благотворно реагируют на УФ-излучение. Они сильно поглощают солнечный свет.</MBSG_UVAbsorbent_Major.description>
+
+</LanguageData>

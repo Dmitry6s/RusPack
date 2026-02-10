@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: biodome sun lamp -->
+  <FSFBiodomeSunlamp.label>Солнечная лампа для биокупола</FSFBiodomeSunlamp.label>
+  <!-- EN: A sun lamp that requires no power and is designed to act as a transparent biodome ceiling.  It's a simple alternative to mods that add skylights or transparent roofing. -->
+  <FSFBiodomeSunlamp.description>Солнечная лампа, не требующая энергии и предназначенная для использования в качестве прозрачного потолка биокупола. Это простая альтернатива модам, добавляющим световые люки или прозрачные крыши.</FSFBiodomeSunlamp.description>
+  
+</LanguageData>
