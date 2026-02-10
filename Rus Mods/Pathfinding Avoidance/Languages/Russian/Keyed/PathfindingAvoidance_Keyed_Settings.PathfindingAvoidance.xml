@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Pathfinding Avoidance -->
+	<PathfindingAvoidance.ModName>Избегание путей</PathfindingAvoidance.ModName>
+
+	<!-- EN: General costs -->
+	<PathfindingAvoidance.GeneralCosts>Общие издержки</PathfindingAvoidance.GeneralCosts>
+	<!-- EN: Costs that apply to most cases - colony members, friendly visitors. -->
+	<PathfindingAvoidance.GeneralCostsTooltip>Издержки для большинства случаев (поселенцы, союзники).</PathfindingAvoidance.GeneralCostsTooltip>
+
+	<!-- EN: Colony pawns costs -->
+	<PathfindingAvoidance.ColonyCosts>Издержки поселенцев</PathfindingAvoidance.ColonyCosts>
+	<!-- EN: Costs that apply to colony pawns (colonists, mechs, etc. but not animals). -->
+	<PathfindingAvoidance.ColonyCostsTooltip>Издержки для ваших поселенцев (колонисты, механоиды и т. д., кроме животных).</PathfindingAvoidance.ColonyCostsTooltip>
+
+	<!-- EN: Friendly pawns costs -->
+	<PathfindingAvoidance.FriendlyCosts>Издержки союзников</PathfindingAvoidance.FriendlyCosts>
+	<!-- EN: Costs that apply to friendly pawns, such as visiting trade caravans. -->
+	<PathfindingAvoidance.FriendlyCostsTooltip>Издержки для дружественных персонажей, например, торговых караванов.</PathfindingAvoidance.FriendlyCostsTooltip>
+
+	<!-- EN: The higher the number, the more pawns will try to avoid such cells.\n\nDefault value: {0} -->
+	<PathfindingAvoidance.ExtraCostTooltip>Чем выше значение, тем сильнее персонажи будут избегать такие клетки.\n\nПо умолч.: {0}</PathfindingAvoidance.ExtraCostTooltip>
+
+	<!-- EN: Extra cost for filth-producing cells: {0} -->
+	<PathfindingAvoidance.DirtyCost>Доп. издержки для клеток, производящих грязь: {0}</PathfindingAvoidance.DirtyCost>
+	<!-- EN: Additional perceived cost for using terrain that produces filth. -->
+	<PathfindingAvoidance.DirtyCostTooltip>Дополнительные издержки для передвижения по местности, производящей грязь.</PathfindingAvoidance.DirtyCostTooltip>
+
+	<!-- EN: Extra cost for cells with bad weather: {0} -->
+	<PathfindingAvoidance.WeatherCost>Доп. издержки при плохой погоде: {0}</PathfindingAvoidance.WeatherCost>
+	<!-- EN: Additional perceived cost for using unroofed cells during bad weather. -->
+	<PathfindingAvoidance.WeatherCostTooltip>Дополнительные издержки для клеток без крыши во время плохой погоды.</PathfindingAvoidance.WeatherCostTooltip>
+
+	<!-- EN: Extra cost for side door: {0} -->
+	<PathfindingAvoidance.SideDoorCost>Доп. издержки для запасной двери: {0}</PathfindingAvoidance.SideDoorCost>
+	<!-- EN: Additional perceived cost for using door that has the 'Side Door' priority set. -->
+	<PathfindingAvoidance.SideDoorCostTooltip>Дополнительные издержки для дверей с приоритетом «Запасная».</PathfindingAvoidance.SideDoorCostTooltip>
+	<!-- EN: Extra cost for emergency door: {0} -->
+	<PathfindingAvoidance.EmergencyDoorCost>Доп. издержки для аварийной двери: {0}</PathfindingAvoidance.EmergencyDoorCost>
+	<!-- EN: Additional perceived cost for using door that has the 'Emergency Door' priority set. -->
+	<PathfindingAvoidance.EmergencyDoorCostTooltip>Дополнительные издержки для дверей с приоритетом «Аварийная».</PathfindingAvoidance.EmergencyDoorCostTooltip>
+
+	<!-- EN: Extra cost for "Path Avoid Low" area cells: {0} -->
+	<PathfindingAvoidance.AreaAvoidLowCost>Доп. издержки для зоны «Избегать (низк.)»: {0}</PathfindingAvoidance.AreaAvoidLowCost>
+	<!-- EN: Additional perceived cost for walking in areas marked "Path Avoid Low". -->
+	<PathfindingAvoidance.AreaAvoidLowCostTooltip>Дополнительные издержки для ходьбы по зоне «Избегать (низк.)».</PathfindingAvoidance.AreaAvoidLowCostTooltip>
+
+	<!-- EN: Extra cost for "Path Avoid Medium" area cells: {0} -->
+	<PathfindingAvoidance.AreaAvoidMediumCost>Доп. издержки для зоны «Избегать (средн.)»: {0}</PathfindingAvoidance.AreaAvoidMediumCost>
+	<!-- EN: Additional perceived cost for walking in areas marked "Path Avoid Medium". -->
+	<PathfindingAvoidance.AreaAvoidMediumCostTooltip>Дополнительные издержки для ходьбы по зоне «Избегать (средн.)».</PathfindingAvoidance.AreaAvoidMediumCostTooltip>
+
+	<!-- EN: Extra cost for "Path Avoid High" area cells: {0} -->
+	<PathfindingAvoidance.AreaAvoidHighCost>Доп. издержки для зоны «Избегать (выс.)»: {0}</PathfindingAvoidance.AreaAvoidHighCost>
+	<!-- EN: Additional perceived cost for walking in areas marked "Path Avoid High". -->
+	<PathfindingAvoidance.AreaAvoidHighCostTooltip>Дополнительные издержки для ходьбы по зоне «Избегать (выс.)».</PathfindingAvoidance.AreaAvoidHighCostTooltip>
+
+	<!-- EN: Extra cost for growing zone cells: {0} -->
+	<PathfindingAvoidance.GrowingZoneCost>Доп. издержки для полей и грядок: {0}</PathfindingAvoidance.GrowingZoneCost>
+	<!-- EN: Additional perceived cost for walking on growing zones. -->
+	<PathfindingAvoidance.GrowingZoneCostTooltip>Дополнительные издержки для ходьбы по полям и грядкам.</PathfindingAvoidance.GrowingZoneCostTooltip>
+
+	<!-- EN: Extra cost for outdoor room cells: {0} -->
+	<PathfindingAvoidance.VisitingCaravanOutdoorsRoomCost>Доп. издержки для помещений снаружи: {0}</PathfindingAvoidance.VisitingCaravanOutdoorsRoomCost>
+	<!-- EN: Additional perceived cost for using outdoor room. -->
+	<PathfindingAvoidance.VisitingCaravanOutdoorsRoomCostTooltip>Дополнительные издержки для помещений под открытым небом.</PathfindingAvoidance.VisitingCaravanOutdoorsRoomCostTooltip>
+	<!-- EN: Extra cost for indoor room cells: {0} -->
+	<PathfindingAvoidance.VisitingCaravanIndoorRoomCost>Доп. издержки для помещений внутри: {0}</PathfindingAvoidance.VisitingCaravanIndoorRoomCost>
+	<!-- EN: Additional perceived cost for using indoor room. -->
+	<PathfindingAvoidance.VisitingCaravanIndoorRoomCostTooltip>Дополнительные издержки для внутренних помещений.</PathfindingAvoidance.VisitingCaravanIndoorRoomCostTooltip>
+</LanguageData>

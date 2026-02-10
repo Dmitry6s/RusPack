@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Normal Priority -->
+	<PathfindingAvoidance.DoorPriorityLabelNormal>Обычный</PathfindingAvoidance.DoorPriorityLabelNormal>
+	<!-- EN: Side Door -->
+	<PathfindingAvoidance.DoorPriorityLabelSide>Запасная</PathfindingAvoidance.DoorPriorityLabelSide>
+	<!-- EN: Emergency Only -->
+	<PathfindingAvoidance.DoorPriorityLabelEmergency>Аварийная</PathfindingAvoidance.DoorPriorityLabelEmergency>
+	<!-- EN: Allows setting a lower priority for the door. Pawns will try to avoid using the door. -->
+	<PathfindingAvoidance.DoorPriorityDesc>Задать двери низкий приоритет. Поселенцы будут стараться её избегать.</PathfindingAvoidance.DoorPriorityDesc>
+</LanguageData>

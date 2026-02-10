@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Will definitely do -->
+	<Priority_VeryHigh>Обязательно сделает</Priority_VeryHigh>
+	<!-- EN: Will do -->
+	<Priority_High>Будет делать</Priority_High>
+	<!-- EN: Will possibly do -->
+	<Priority_Normal>Возможно, сделает</Priority_Normal>
+	<!-- EN: Will do if bored -->
+	<Priority_Low>Сделает, если будет скучно</Priority_Low>
+	<!-- EN: Will almost never do -->
+	<Priority_VeryLow>Почти никогда не сделает</Priority_VeryLow>
+	<!-- EN: Will never do -->
+	<Priority_None>Никогда не сделает</Priority_None>
+
+	<!-- EN: Priority Master -->
+	<PriorityMaster>Priority Master</PriorityMaster>
+
+	<!-- EN: Highest priority -->
+	<highestPriority>Наивысший приоритет</highestPriority>
+	<!-- EN: Default priority -->
+	<defaultPriority>Приоритет по умолчанию</defaultPriority>
+
+	<!-- EN: Enable gradient -->
+	<enableGradient>Включить градиент</enableGradient>
+	<!-- EN: Gradient between two colors -->
+	<gradientTooltip>Градиент между двумя цветами</gradientTooltip>
+
+	<!-- EN: Reverse gradient -->
+	<reverseGradient>Обратный градиент</reverseGradient>
+	<!-- EN: Choose if the gradient should be from color 1 to 2 or from color 2 to 1 -->
+	<reverseGradientTooltip>Выберите, должен ли градиент переходить от цвета 1 к 2 или от цвета 2 к 1</reverseGradientTooltip>
+
+	<!-- EN: Red -->
+	<color.red>Красный</color.red>
+	<!-- EN: Green -->
+	<color.green>Зелёный</color.green>
+	<!-- EN: Blue -->
+	<color.blue>Синий</color.blue>
+	<!-- EN: Hue -->
+	<color.hue>Тон</color.hue>
+	<!-- EN: Saturation -->
+	<color.saturation>Насыщенность</color.saturation>
+	<!-- EN: Lightness -->
+	<color.lightness>Яркость</color.lightness>
+	<!-- EN: Hex -->
+	<color.hex>Палитра</color.hex>
+</LanguageData>

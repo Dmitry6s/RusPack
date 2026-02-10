@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+		<ReleaseWhenHealthy.label>Выпустить при выздоровлении</ReleaseWhenHealthy.label>
+		<ReleaseWhenHealthy.description>Как только заключенный будет здоров, надзиратель будет послан освободить его.</ReleaseWhenHealthy.description> 
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Temperature range -->
+	<PicnicAreaTemperatureRange>Диапазон температур</PicnicAreaTemperatureRange>
+	<!-- EN: Valid temperature ranges for having a picnic -->
+	<PicnicAreaTemperatureRangeDesc>Допустимый диапазон температур для пикника</PicnicAreaTemperatureRangeDesc>
+	<!-- EN: Time of day range -->
+	<PicnicAreaTimeRange>Диапазон времени</PicnicAreaTimeRange>
+	<!-- EN: Picnic in any weather -->
+	<PicnicAreaAllWeather>Пикник в любую погоду</PicnicAreaAllWeather>
+	<!-- EN: Valid times of the day for having a picnic -->
+	<PicnicAreaTimeRangeDesc>Допустимое время суток для пикника</PicnicAreaTimeRangeDesc>
+	<!-- EN: Start time -->
+	<PicnicAreaStartTime>Время начала</PicnicAreaStartTime>
+	<!-- EN: Stop time -->
+	<PicnicAreaStopTime>Время окончания</PicnicAreaStopTime>
+	<!-- EN: Verbose logging -->
+	<PicnicAreaVerboseLogging>Подробные отчёты</PicnicAreaVerboseLogging>
+	<!-- EN: Picnic Area -->
+	<PicnicAreaZone>Зона для пикника</PicnicAreaZone>
+	<!-- EN: Create a zone where your colonists will eat and enjoy the outdoors. The area needs sittable furniture but not tables. It will only be used in fine weather. -->
+	<PicnicAreaZoneDesc>Создайте зону, где ваши колонисты смогут есть и наслаждаться отдыхом на свежем воздухе. В зоне нужна мебель для сидения, столы не обязательны. Используется только в хорошую погоду.</PicnicAreaZoneDesc>
+	<!-- EN: Installed mod-version: {0} -->
+	<PicnicAreaModVersion>Установленная версия мода: {0}</PicnicAreaModVersion>
+</LanguageData>

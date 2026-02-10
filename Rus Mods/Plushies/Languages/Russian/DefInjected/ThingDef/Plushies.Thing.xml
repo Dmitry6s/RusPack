@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: plushie -->
+  <Plushie.label>плюшевая игрушка</Plushie.label>
+
+  <!-- EN: A cute little plushie! -->
+  <Plushie.description>Милый маленький плюшик!</Plushie.description>
+  <!-- EN: MeditationFocusPerSculpture -->
+	<Plushie.comps.2.offsets.1.explanationKey>MeditationFocusPerSculpture</Plushie.comps.2.offsets.1.explanationKey>
+</LanguageData>

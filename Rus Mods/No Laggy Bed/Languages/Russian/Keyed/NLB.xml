@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>	
+	<NoLaggyBed>Кровати без лагов</NoLaggyBed>
+	<NeedTabOptimizationWarning>Экспериментальная функция, не полностью протестирована. Требуется перезапуск игры.</NeedTabOptimizationWarning>
+	<EnableNeedTabOptimization>Исправьте падение fps для вкладки "Потребности".</EnableNeedTabOptimization>
+</LanguageData>

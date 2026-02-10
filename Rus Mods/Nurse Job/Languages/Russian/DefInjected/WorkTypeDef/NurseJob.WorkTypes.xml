@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<rep><!-- EN: Nurse -->
+	<path>Nursing.labelShort</path>
+	<trans>Уход</trans> <!-- То, что видно во вкладке "работа" -->
+</rep>	
+<rep><!-- EN: Nurse -->
+	<path>Nursing.pawnLabel</path>
+	<trans>Медсестра</trans>
+</rep>
+<rep><!-- EN: Nursing -->
+	<path>Nursing.gerundLabel</path>
+	<trans>Сёстринское дело</trans> <!-- Заголовок подсказки во вкладке "работа" -->
+</rep>
+<rep><!-- EN: Handles medical tasks unaffected by medical level. -->
+	<path>Nursing.description</path>
+	<trans>Медсёстры выполняют медицинские задачи, не зависящие от уровня медицины.</trans> <!-- Краткое описание в подсказке во вкладке "работа" -->
+</rep>
+<rep><!-- EN: Care for -->
+	<path>Nursing.verb</path>
+	<trans>Уход за</trans>
+</rep>
+</LanguageData>

@@ -1,0 +1,95 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\oskarpotocki_vfe_classical\vfe classical projects patches2.xml -->
+	               <!-- EN: Craft togas, everyday wear of the citizens of the republic.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_Togas.description>Позволяет шить тоги — повседневную одежду граждан республики.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_Togas.description>
+	         <!-- EN: Republic togas -->
+	<VFEC_Togas.label>Республиканские тоги</VFEC_Togas.label>
+	
+	                            <!-- EN: Make large passive coolers, a way to cool indoor spaces below freezing point without needing electricity, or hot stones, a primitive heater.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_TemperatureControl.description>Позволяет создавать большие пассивные охладители, способные охлаждать помещения до отрицательных температур без электричества, а также горячие камни — примитивные обогреватели.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_TemperatureControl.description>
+	                      <!-- EN: Republic thermoregulation -->
+	<VFEC_TemperatureControl.label>Республиканская терморегуляция</VFEC_TemperatureControl.label>
+	
+	                    <!-- EN: Construct meat drying racks, allowing you to preserve meat and create a neolithic delicacy.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_MeatDrying.description>Позволяет строить стойки для сушки мяса, что даёт возможность консервировать мясо и создавать неолитический деликатес.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_MeatDrying.description>
+	              <!-- EN: Republic food preservation -->
+	<VFEC_MeatDrying.label>Республиканская консервация еды</VFEC_MeatDrying.label>
+	
+	                 <!-- EN: Build excellent stone mosaics, utilising different colours and shapes to express beauty. Slow to construct.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_Mosaics.description>Позволяет создавать превосходные каменные мозаики разных цветов и форм для украшения интерьера. Требуют много времени на постройку.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_Mosaics.description>
+	           <!-- EN: Republic mosaics -->
+	<VFEC_Mosaics.label>Республиканская мозаика</VFEC_Mosaics.label>
+	
+	                     <!-- EN: Construct large thermaebath that uses steam geysers to warm up the water, allowing up to 8 people to bathe together with an occasional chance of group lovin’.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_Thermaebath.description>Позволяет строить большие термы, использующие тепло паровых гейзеров для нагрева воды. В них могут одновременно мыться до 8 человек, что иногда приводит к групповым любовным утехам.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_Thermaebath.description>
+	               <!-- EN: Republic group bathing -->
+	<VFEC_Thermaebath.label>Республиканские купальни</VFEC_Thermaebath.label>
+	
+	                        <!-- EN: Perform various plays on the theatre stage as a recreational activity.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_DramaAndComedy.description>Позволяет ставить различные пьесы на театральной сцене в качестве досуга.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_DramaAndComedy.description>
+	                  <!-- EN: Republic theatre -->
+	<VFEC_DramaAndComedy.label>Республиканский театр</VFEC_DramaAndComedy.label>
+	
+	                           <!-- EN: Create heavy scuta shields typically associated with legionnaires.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_HeavyShieldMaking.description>Позволяет создавать тяжёлые щиты-скутумы, характерные для снаряжения легионеров.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_HeavyShieldMaking.description>
+	                     <!-- EN: Republic heavy shields -->
+	<VFEC_HeavyShieldMaking.label>Республиканские тяжёлые щиты</VFEC_HeavyShieldMaking.label>
+	
+	                            <!-- EN: Craft tents, javelins, spathas and daggers, constituting towards the legionary armory.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_LegionaryArmaments.description>Позволяет изготавливать палатки, дротики, спаты и кинжалы, составляющие арсенал легиона.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_LegionaryArmaments.description>
+	                      <!-- EN: Republic legionary armaments -->
+	<VFEC_LegionaryArmaments.label>Республиканское вооружение легиона</VFEC_LegionaryArmaments.label>
+	
+	                          <!-- EN: Create heavy armor of legionaries, capable of withstanding a high degree of sharp damage.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_LegionnaireArmor.description>Позволяет создавать тяжёлую броню легионеров, способную выдержать значительный урон острыми предметами.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_LegionnaireArmor.description>
+	                    <!-- EN: Republic legionary armor -->
+	<VFEC_LegionnaireArmor.label>Республиканская броня легионера</VFEC_LegionnaireArmor.label>
+	
+	                        <!-- EN: Smith suits of centurion armor, excellent for leading men into heroic battles.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_CenturionArmor.description>Позволяет выковывать комплекты брони центуриона, отлично подходящей для тех, кто ведёт людей в героические сражения.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_CenturionArmor.description>
+	                  <!-- EN: Republic centurion armor -->
+	<VFEC_CenturionArmor.label>Республиканская броня центуриона</VFEC_CenturionArmor.label>
+	
+	                  <!-- EN: Construct scorpions, a portable field artillery piece which doubles as a semi-automatic heavy crossbow.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_Scorpion.description>Позволяет конструировать скорпионы — переносные орудия полевой артиллерии, которые по сути являются полуавтоматическими тяжёлыми арбалетами.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_Scorpion.description>
+	            <!-- EN: Republic scorpion -->
+	<VFEC_Scorpion.label>Республиканский скорпион</VFEC_Scorpion.label>
+	
+	                 <!-- EN: Build large wooden pyres, that when lit on fire are guaranteed to summon friendly reinforcements.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_Beacons.description>Позволяет возводить большие деревянные костры, поджигание которых гарантированно призывает дружественное подкрепление.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_Beacons.description>
+	           <!-- EN: Republic beacons -->
+	<VFEC_Beacons.label>Республиканские сигнальные костры</VFEC_Beacons.label>
+	
+	                       <!-- EN: Mix steel with stone chunks to create slightly weaker metal in large quantities.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_BronzeWorking.description>Позволяет смешивать сталь с каменными обломками, чтобы создавать в больших количествах чуть более слабый сплав.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_BronzeWorking.description>
+	                 <!-- EN: Republic bronze working -->
+	<VFEC_BronzeWorking.label>Республиканская обработка бронзы</VFEC_BronzeWorking.label>
+	
+	                       <!-- EN: Build a workbench for crafting simple things like clubs or bows.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_CraftingBench.description>Позволяет построить верстак для изготовления простых предметов, таких как дубины или луки.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_CraftingBench.description>
+	                 <!-- EN: Republic crafting bench -->
+	<VFEC_CraftingBench.label>Республиканский верстак</VFEC_CraftingBench.label>
+	
+	                      <!-- EN: Construct a cement press, which allows you to create extremely durable stone material out of stone chunks.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_CementMaking.description>Позволяет создать цементный пресс для производства чрезвычайно прочного каменного материала из обычных каменных обломков.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_CementMaking.description>
+	                <!-- EN: Republic cement mixing -->
+	<VFEC_CementMaking.label>Республиканское производство цемента</VFEC_CementMaking.label>
+	
+	                              <!-- EN: Build a huge, wood-fired stone crematorium which vaporizes corpses with high temperatures.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_WoodfiredCrematorium.description>Позволяет построить огромный каменный крематорий на дровах, который испепеляет трупы при помощи высоких температур.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_WoodfiredCrematorium.description>
+	                        <!-- EN: Republic crematorium -->
+	<VFEC_WoodfiredCrematorium.label>Республиканский крематорий</VFEC_WoodfiredCrematorium.label>
+	
+	                          <!-- EN: Produce tyrian in river-banks, which can then be extracted in the form of extremely valuable royal fabric.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_TyrianProduction.description>Позволяет разводить моллюсков-пурпурниц по берегам рек, из которых затем добывается тирский пурпур — чрезвычайно ценная королевская ткань.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_TyrianProduction.description>
+	                    <!-- EN: Republic tyrian -->
+	<VFEC_TyrianProduction.label>Республиканский пурпур</VFEC_TyrianProduction.label>
+	
+	                      <!-- EN: Construct paths, dirt roads and stone roads directly on the world map, allowing for faster caravan travel.\n\nNOTE: This project has a significantly increased requirement due to its proprietary nature. An easier method of learning this knowledge would be directly from Neolithic republics on the world map. -->
+	<VFEC_RoadBuilding.description>Позволяет строить тропы, грунтовые и каменные дороги прямо на карте мира, что значительно ускоряет передвижение караванов.\n\nПРИМЕЧАНИЕ: Стоимость этого проекта значительно увеличена из-за его исключительной принадлежности к культуре Республики. Эти знания проще получить напрямую от неолитических республик на карте мира.</VFEC_RoadBuilding.description>
+	                <!-- EN: Republic roadshaping -->
+	<VFEC_RoadBuilding.label>Республиканское дорожное строительство</VFEC_RoadBuilding.label>
+	
+	            <!-- EN: Republic jewelry -->
+	<VFEC_Scorpion.label>Республиканские украшения</VFEC_Scorpion.label>
+</LanguageData>

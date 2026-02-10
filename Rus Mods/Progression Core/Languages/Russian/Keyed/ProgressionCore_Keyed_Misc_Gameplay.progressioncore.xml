@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Distant shouts -->
+	<CultureLetterTitle>Далёкие крики</CultureLetterTitle>
+	<!-- EN: Your short-range radio has picked up signals of several screaming senators of {0}.
+	
+They shout over each other, until one voice speaks clear amongst them. They have spotted your signal and ask for your help in exchange for useful information on useful neolithic technologies. By completing basic quests for these senators, they will give you unique colony-wide perks, research, and join your colony. 
+
+If you keep these senators alive and gain the favor of all of them, you can win an additional major perk specific to that republic. If you do this process with all three republics, they could unite into a single empire that will grant you the ability to recruit any member of its faction with a click of a button.
+
+Colonists interested in discussing with these senators must travel physically to discuss with them.
+Begin gaining the favor of the senators by visiting Republic settlements.
+- Form a caravan
+- Visit a Republic settlement
+- Right-click the settlement, open senators screen -->
+	<CultureLetterTitleDesc>Ваша рация ближнего действия поймала сигналы нескольких кричащих сенаторов фракции {0}.
+	
+Они перекрикивают друг друга, пока один из голосов не начинает звучать чётче остальных. Они заметили ваш сигнал и просят о помощи в обмен на сведения о полезных технологиях неолита. Выполняя простые задания этих сенаторов, вы получите уникальные бонусы для всего поселения, новые исследования, а сами сенаторы присоединятся к вашему поселению. 
+
+Если вы сохраните этим сенаторам жизнь и добьётесь расположения каждого из них, вы сможете получить дополнительный мощный бонус, уникальный для этой республики. Если вы проделаете это со всеми тремя республиками, они смогут объединиться в единую империю, что даст вам возможность нанимать любого члена их фракции одним нажатием кнопки.
+
+Поселенцы, желающие переговорить с этими сенаторами, должны лично прибыть к ним.
+Начните зарабатывать благосклонность сенаторов, посещая поселения Республики.
+— Снарядите караван
+— Посетите поселение Республики
+— Щёлкните правой кнопкой мыши по поселению и откройте окно сенаторов</CultureLetterTitleDesc>
+
+	<!-- EN: Ready to advance -->
+	<ReadyToAdvance>Готовность к переходу</ReadyToAdvance>
+	<!-- EN: You have researched enough projects to advance to the next tech level. To advance, select a gather-spot, like a table, and begin the advancement ritual. -->
+	<ReadyToAdvanceDesc>Вы завершили достаточно проектов, чтобы перейти на следующий техуровень. Чтобы совершить переход, выберите место сбора (например, стол) и начните ритуал перехода.</ReadyToAdvanceDesc>
+	<!-- EN: Requirements not met: Not enough research projects of the previous tech level have been researched. -->
+	<VFET.NotAllReseachProjectsResearched>Требования не выполнены: исследовано недостаточно проектов предыдущего техуровня.</VFET.NotAllReseachProjectsResearched>
+	<!-- EN: Your ideology will be customized\nupon researching Culture. -->
+	<VFET.CustomizeNPCIdeologionDesc>Ваша идеология будет настроена\nпосле исследования проекта «Культура».</VFET.CustomizeNPCIdeologionDesc>
+	<!-- EN: Starting from the basics -->
+	<GameStartedAnimalTechLetterTitle>Начиная с основ</GameStartedAnimalTechLetterTitle>
+	<!-- EN: Your story has begun in the Animal tech era, which works a bit differently than the other tech levels. Your only understanding of this world is the wonder of fire, and its applications. To discover more, you'll have to work with fellow tribesmen to discover new technologies around the fire.\n\nHow to research:\n- Click on a campfire\n- Click "Begin tribal gathering"\n- Research points will be dispersed among the currently available projects. -->
+	<GameStartedAnimalTechLetterDesc>Ваша история началась в «животную» эру, правила которой несколько отличаются от других техуровней. Ваше единственное понимание этого мира — чудо огня и способы его применения. Чтобы узнать больше, вам придётся трудиться вместе со своими соплеменниками, открывая новые технологии у костра.\n\nКак исследовать:\n— Нажмите на костёр\n— Выберите «Начать племенной сбор»\n— Очки исследования будут распределены между доступными на данный момент проектами.</GameStartedAnimalTechLetterDesc>
+</LanguageData>

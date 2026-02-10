@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RWH.pawnhealthy>{0} будет скоро освобождён.</RWH.pawnhealthy>
+  <RWH.defaultaction.label>Всегда устанавливать освобождение при выздоровлении для новых заключенных</RWH.defaultaction.label>
+  <RWH.defaultaction.description>Для всех новых заключенных, за исключением квестовых пешек, будет установлен параметр взаимодействия "Освободить когда здоров" вместо "Не взаимодействовать".</RWH.defaultaction.description>
+  <RWH.version.label>Версия мода: {0}</RWH.version.label>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EnterRa2Bunker>Войти в бункер</EnterRa2Bunker>
+  <NowDirection>Направление входа/выхода</NowDirection>
+  <ClickToChangeEnterDirection>Изменить направление входа/выхода</ClickToChangeEnterDirection>
+  <Everyone>Все на выход!</Everyone>
+  <ExitBunker>Выход из бункера</ExitBunker>
+  <TabBunkerContents>Колонисты</TabBunkerContents>
+  <ClearTarget>Очистить Target</ClearTarget>
+  <ClickToClearTarget>Нажмите, чтобы очистить Target</ClickToClearTarget>
+  <ExitBunkerDesc>Выберать колониста для выхода из бункера</ExitBunkerDesc>
+  <Shooter>стрелок</Shooter>
+</LanguageData>

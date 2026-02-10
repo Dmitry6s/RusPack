@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Body clock -->
+	<NocturnalAnimals.BodyClock>Биологические часы</NocturnalAnimals.BodyClock>
+	<!-- EN: Body clocks -->
+	<NocturnalAnimals.BodyClocks>Биологические часы</NocturnalAnimals.BodyClocks>
+	<!-- EN: The creature's natural sleeping pattern.\n\nDiurnal creatures are awake during daytime, nocturnal creatures during nighttime, and crepuscular creatures during mornings and evenings. Cathemeral does not have a schedule but sleeps when they feel like it. -->
+	<NocturnalAnimals.BodyClock_Description>Естественный режим сна существа.\n\nДневные существа бодрствуют в светлое время суток, ночные — ночью, а сумеречные — утром и вечером. Катемеральные существа не имеют чёткого графика и спят, когда им захочется.</NocturnalAnimals.BodyClock_Description>
+	<!-- EN: Diurnal -->
+	<NocturnalAnimals.BodyClock_Diurnal>Дневной</NocturnalAnimals.BodyClock_Diurnal>
+	<!-- EN: Nocturnal -->
+	<NocturnalAnimals.BodyClock_Nocturnal>Ночной</NocturnalAnimals.BodyClock_Nocturnal>
+	<!-- EN: Crepuscular -->
+	<NocturnalAnimals.BodyClock_Crepuscular>Сумеречный</NocturnalAnimals.BodyClock_Crepuscular>
+	<!-- EN: Cathemeral -->
+	<NocturnalAnimals.BodyClock_Cathemeral>Катемеральный</NocturnalAnimals.BodyClock_Cathemeral>
+	<!-- EN: Awake during daytime -->
+	<NocturnalAnimals.BodyClock_Diurnal_Description>Бодрствует в светлое время суток</NocturnalAnimals.BodyClock_Diurnal_Description>
+	<!-- EN: Awake during nighttime -->
+	<NocturnalAnimals.BodyClock_Nocturnal_Description>Бодрствует в ночное время суток</NocturnalAnimals.BodyClock_Nocturnal_Description>
+	<!-- EN: Awake during mornings and evenings -->
+	<NocturnalAnimals.BodyClock_Crepuscular_Description>Бодрствует по утрам и вечерам</NocturnalAnimals.BodyClock_Crepuscular_Description>
+	<!-- EN: Awake irregularly -->
+	<NocturnalAnimals.BodyClock_Cathemeral_Description>Бодрствует нерегулярно</NocturnalAnimals.BodyClock_Cathemeral_Description>
+	<!-- EN: Reset -->
+	<NocturnalAnimals.reset.button>Сбросить</NocturnalAnimals.reset.button>
+	<!-- EN: Search -->
+	<NocturnalAnimals.search>Поиск</NocturnalAnimals.search>
+	<!-- EN: This will reset ALL values -->
+	<NocturnalAnimals.reset.confirm>Это действие сбросит ВСЕ значения</NocturnalAnimals.reset.confirm>
+	<!-- EN: Enable verbose logging -->
+	<NocturnalAnimals.logging.label>Включить подробное логирование</NocturnalAnimals.logging.label>
+	<!-- EN: Shows verbose logging, for finding errors -->
+	<NocturnalAnimals.logging.tooltip>Отображать подробные журналы для поиска ошибок</NocturnalAnimals.logging.tooltip>
+	<!-- EN: Installed mod-version: {0} -->
+	<NocturnalAnimals.version.label>Установленная версия мода: {0}</NocturnalAnimals.version.label>
+</LanguageData>

@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- Defs\ThingDef\plushies.xml -->
+	
+	                     <!-- EN: cuddled plushie -->
+	<PlushieCuddle.stages.0.label>обнимал(а) плюшевую игрушку</PlushieCuddle.stages.0.label>
+	                           <!-- EN: Such a comforting softness. -->
+	<PlushieCuddle.stages.0.description>Такая успокаивающая мягкость.</PlushieCuddle.stages.0.description>
+	
+	                         <!-- EN: cuddled the cutest plushie -->
+	<PlushieCuddleKind.stages.0.label>обнимал(а) самую милую плюшевую игрушку</PlushieCuddleKind.stages.0.label>
+	                               <!-- EN: How fluffy and wholesome! -->
+	<PlushieCuddleKind.stages.0.description>Какой он пушистый и милый!</PlushieCuddleKind.stages.0.description>
+	
+	                          <!-- EN: cuddled soft toy -->
+	<PlushieCuddleChild.stages.0.label>обнимал(а) мягкую игрушку</PlushieCuddleChild.stages.0.label>
+	                                <!-- EN: I feel extra snug and safe. -->
+	<PlushieCuddleChild.stages.0.description>Чувствую себя так уютно и безопасно.</PlushieCuddleChild.stages.0.description>
+	
+	                              <!-- EN: cuddled favorite toy -->
+	<PlushieCuddleChildKind.stages.0.label>обнимал(а) любимую игрушку</PlushieCuddleChildKind.stages.0.label>
+	                                    <!-- EN: I can take on the world with my fluffy best friend! -->
+	<PlushieCuddleChildKind.stages.0.description>С моим пушистым лучшим другом мне и весь мир по плечу!</PlushieCuddleChildKind.stages.0.description>
+	
+	                         <!-- EN: Nearby plushie -->
+	<PlushieCuddleBaby.stages.0.label>Рядом плюшевая игрушка</PlushieCuddleBaby.stages.0.label>
+	                               <!-- EN: What is this fluffy creature? -->
+	<PlushieCuddleBaby.stages.0.description>Что это за пушистое создание?</PlushieCuddleBaby.stages.0.description>
+</LanguageData>

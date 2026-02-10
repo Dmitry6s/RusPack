@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Crafting Notifications -->
+	<CraftingNotifications>Уведомления о создании</CraftingNotifications>
+	<!-- EN: Enable/Disable Crafting Notifications -->
+	<Notifs>Включить/выключить уведомления о создании</Notifs>
+</LanguageData>

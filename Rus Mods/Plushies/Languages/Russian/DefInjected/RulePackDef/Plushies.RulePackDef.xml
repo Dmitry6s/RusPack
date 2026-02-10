@@ -1,0 +1,316 @@
+<LanguageData>
+	<!-- Defs\ThingDef\ArtDescription_Plushie.xml -->
+	<ArtDescription_Plushie.rulePack.rulesStrings>
+		<li>physical_description_root(p=4)->Эта [cute_adjective] плюшевая игрушка — [plushie_depiction] [animal]. [plushie_description]</li>
+		<li>physical_description_root->Эта [cute_adjective] плюшевая игрушка — [plushie_depiction] [PAWN_nameFull]. [plushie_description]</li>
+		<li>plushie_description->[texture_element] [pose_element] [misc_element], [trans_sentence] [comparsion_element] [body_element] Разве это не [end_sentence]</li>
+		<li>plushie_description->[pose_element] [color_element], видно, как [comparsion_element] [misc_element], [end_sentence]</li>
+		<li>plushie_description->[body_element] [pose_element] [misc_element], [end_sentence]</li>
+		<li>plushie_description->[texture_element] [misc_element]. [pose_element] Она немного [neutral_mood], [trans_sentence] она [end_sentence]</li>
+		<li>plushie_description->[texture_element] [pose_element] [body_element] Несомненно, [end_sentence]</li>
+		<li>plushie_description->[body_element] [texture_element] [pose_element]</li>
+		<li>plushie_description->[texture_element] [pose_element] [cosplay_element], [trans_sentence] [comparsion_element]</li>
+		<li>plushie_description->[pose_element] [misc_element], [trans_sentence] [comparsion_element] [cosplay_element], [trans_sentence] это [end_sentence]</li>
+		<li>texture_element->Она [texture_adjective] [texture_verb] [texture_noun].</li>
+		<li>texture_element->У неё есть [cute_adjective] [body_part], похожая на мех.</li>
+		<li>texture_element->Можно отчётливо ощутить её [texture_noun] [body_part].</li>
+		<li>texture_element->Игрушка мягкая и пушистая.</li>
+		<li>pose_element->Видно, как она [position_verb]!</li>
+		<li>pose_element->Отчётливо видно, как она [position_verb].</li>
+		<li>pose_element->Можно заметить, как она [position_verb].</li>
+		<li>pose_element->Она машет лапками.</li>
+		<li>pose_element->Она кивает головой.</li>
+		<li>pose_element->Видна [beauty_adjective] поза.</li>
+		<li>pose_element->Она принимает [beauty_adjective] позу!</li>
+		<li>pose_element->У неё [cute_adjective] поза!</li>
+		<li>pose_element->Она манит вас.</li>
+		<li>pose_element->Она хочет вас обнять!</li>
+		<li>pose_element->Она хочет заключить вас в объятия.</li>
+		<li>pose_element->На её мордочке видна [beauty_adjective] улыбка!</li>
+		<li>pose_element->На её мордочке видна широкая улыбка!</li>
+		<li>pose_element->Кажется, она смеётся!</li>
+		<li>pose_element->Похоже, она [facial_expression] на вас.</li>
+		<li>pose_element->Можно заметить, как она [facial_expression] на вас.</li>
+		<li>body_element->У неё есть [body_part], напоминающая ту, что у [PAWN_nameFull].</li>
+		<li>body_element->У неё есть [body_part_plural], напоминающие те, что у [PAWN_nameFull].</li>
+		<li>body_element->У неё есть [body_part], напоминающая ту, что у [Animal].</li>
+		<li>body_element->У неё есть [body_part_plural], напоминающие те, что у [Animal].</li>
+		<li>body_element->[body_part] от [Animal] создаёт [beauty_adjective] композицию.</li>
+		<li>body_element->[body_part] от [Animal] создаёт [beauty_adjective] сочетание.</li>
+		<li>body_element->[body_part_plural] от [Animal] создают [beauty_adjective] композицию.</li>
+		<li>body_element->Её [body_part] напоминает [Vegetable].</li>
+		<li>body_element->[body_part_plural] от [Animal] создают [beauty_adjective] сочетание.</li>
+		<li>cosplay_element->Она пытается быть [Character]</li>
+		<li>cosplay_element->Она изо всех сил старается одеться как [Character] из [Community]</li>
+		<li>cosplay_element->Какой [cute_adjective] [Character]</li>
+		<li>cosplay_element->Кажется, она мечтает однажды стать весьма безумным [Character]</li>
+		<li>cosplay_element->Она одета как [Character]</li>
+		<li>color_element->[color] [body_part] делает её [beauty_adjective] игрушкой</li>
+		<li>color_element->[color] [body_part] делает её довольно [cute_adjective]</li>
+		<li>color_element->[color] [body_part_plural] делают её довольно [beauty_adjective] игрушкой</li>
+		<li>color_element->[color] [body_part_plural] делают её особенно [cute_adjective]</li>
+		<li>misc_element->Игрушка производит [beauty_adjective] впечатление</li>
+		<li>misc_element->Игрушка производит поистине [cute_adjective] впечатление</li>
+		<li>misc_element->[cute_adjective] элементы делают её особенно [beauty_adjective]</li>
+		<li>misc_element->Она кажется немного [neutral_mood]</li>
+		<li>misc_element->Она довольно [positive_mood]</li>
+		<li>comparsion_element->она немного напоминает [PAWN_nameFull].</li>
+		<li>comparsion_element->она поистине похожа на существо из [Community]!</li>
+		<li>comparsion_element->она словно только что стояла на [TerrainFeature].</li>
+		<li>end_sentence->так [beauty_adjective].</li>
+		<li>end_sentence->такой [cute_adjective]!</li>
+		<li>end_sentence->такой милой!</li>
+		<li>end_sentence->самая [cute_superlative]!</li>
+		<li>end_sentence->самое [cute_superlative] создание в мире!</li>
+		<li>end_sentence->самое [cute_superlative] создание во вселенной!</li>
+		<li>trans_sentence->однако</li>
+		<li>trans_sentence->хотя</li>
+		<li>trans_sentence->в конце концов</li>
+		<li>trans_sentence->но</li>
+		<li>positive_mood->счастлива</li>
+		<li>positive_mood->радостна</li>
+		<li>positive_mood->довольна</li>
+		<li>positive_mood->в восторге</li>
+		<li>neutral_mood->сонная</li>
+		<li>neutral_mood->скучающая</li>
+		<li>neutral_mood->смущена</li>
+		<li>neutral_mood->раздражена</li>
+		<li>moods->[neutral_mood]</li>
+		<li>moods->[positive_mood]</li>
+		<li>position_verb->сидит</li>
+		<li>position_verb->стоит</li>
+		<li>position_verb->наклоняется</li>
+		<li>position_verb->парит</li>
+		<li>facial_expression->смотрит</li>
+		<li>facial_expression->щурится</li>
+		<li>facial_expression->улыбается</li>
+		<li>facial_expression->гримасничает</li>
+		<li>texture_adjective->слегка</li>
+		<li>texture_adjective->щедро</li>
+		<li>texture_adjective->неистово</li>
+		<li>texture_adjective->безумно</li>
+		<li>texture_adjective->изящно</li>
+		<li>texture_verb->посыпана</li>
+		<li>texture_verb->покрыта заплатками</li>
+		<li>texture_verb->тонирована</li>
+		<li>texture_verb->покрыта кляксами</li>
+		<li>texture_verb->обрызгана</li>
+		<li>texture_noun->[color]</li>
+		<li>texture_noun->[color] хлопком</li>
+		<li>texture_noun->[color] мехом</li>
+		<li>texture_noun->хлопок</li>
+		<li>texture_noun->мех</li>
+		<li>color->красный</li>
+		<li>color->жёлтый</li>
+		<li>color->синий</li>
+		<li>color->белый</li>
+		<li>color->чёрный</li>
+		<li>color->зелёный</li>
+		<li>color->бирюзовый</li>
+		<li>color->фиолетовый</li>
+		<li>color->розовый</li>
+		<li>color->оранжевый</li>
+		<li>color->коричневый</li>
+		<li>color->лиловый</li>
+		<li>color->бирюзовый</li>
+		<li>color->серебряный</li>
+		<li>color->золотой</li>
+		<li>body_part_plural->глаза</li>
+		<li>body_part_plural->ноги</li>
+		<li>body_part_plural->уши</li>
+		<li>body_part_plural->зубы</li>
+		<li>body_part->живот</li>
+		<li>body_part->рот</li>
+		<li>body_part->нос</li>
+		<li>body_part->голова</li>
+		<li>beauty_adjective->красивая</li>
+		<li>beauty_adjective->великолепная</li>
+		<li>beauty_adjective->фантазийная</li>
+		<li>beauty_adjective->милая</li>
+		<li>beauty_adjective->восхитительная</li>
+		<li>beauty_adjective->славная</li>
+		<li>beauty_adjective->элегантная</li>
+		<li>beauty_adjective->впечатляющая</li>
+		<li>beauty_adjective->потрясающая</li>
+		<li>beauty_adjective->блестящая</li>
+		<li>beauty_adjective->блестящая</li>
+		<li>beauty_adjective->достойная восхищения</li>
+		<li>beauty_adjective->величественная</li>
+		<li>beauty_adjective->прекрасная</li>
+		<li>beauty_adjective->очаровательная</li>
+		<li>beauty_adjective->ослепительная</li>
+		<li>beauty_adjective->изумительная</li>
+		<li>beauty_adjective->аккуратная</li>
+		<li>cute_adjective->милая</li>
+		<li>cute_adjective->очаровательная</li>
+		<li>cute_adjective->пушистая</li>
+		<li>cute_adjective->весёлая</li>
+		<li>cute_adjective->грациозная</li>
+		<li>cute_adjective->неуклюжая</li>
+		<li>cute_adjective->привлекательная</li>
+		<li>cute_adjective->изящная</li>
+		<li>cute_adjective->обаятельная</li>
+		<li>cute_adjective->драгоценная</li>
+		<li>cute_adjective->прелестная</li>
+		<li>cute_adjective->жизнерадостная</li>
+		<li>cute_superlative->милейшая</li>
+		<li>cute_superlative->самая очаровательная</li>
+		<li>cute_superlative->самая пушистая</li>
+		<li>cute_superlative->самая обаятельная</li>
+		<li>cute_superlative->самая драгоценная</li>
+		<li>cute_superlative->самая прелестная</li>
+		<li>cute_superlative->самая грациозная</li>
+		<li>cute_superlative->самая весёлая</li>
+		<li>cute_superlative->самая жизнерадостная</li>
+		<li>animal->курица</li>
+		<li>animal->фазан</li>
+		<li>animal->белка</li>
+		<li>animal->змея</li>
+		<li>animal->утка</li>
+		<li>animal->эму</li>
+		<li>animal->гогочущий гусь</li>
+		<li>animal->игуана</li>
+		<li>animal->черепаха</li>
+		<li>animal->индюшка</li>
+		<li>animal->[small_adjective] корова</li>
+		<li>animal->[small_adjective] карибу</li>
+		<li>animal->[small_adjective] верблюд</li>
+		<li>animal->[small_adjective] лось</li>
+		<li>animal->[small_adjective] як</li>
+		<li>animal->коза</li>
+		<li>animal->мышь</li>
+		<li>animal->[small_adjective] слон</li>
+		<li>animal->альпака</li>
+		<li>animal->[small_adjective] лошадь</li>
+		<li>animal->[small_adjective] муффало</li>
+		<li>animal->[small_adjective] бизон</li>
+		<li>animal->лиса</li>
+		<li>animal->кролик</li>
+		<li>animal->кошка</li>
+		<li>animal->бумкрыса</li>
+		<li>animal->хаски</li>
+		<li>animal->лабрадор-ретривер</li>
+		<li>animal->альфа-бобёр</li>
+		<li>animal->бумалопа</li>
+		<li>animal->капибара</li>
+		<li>animal->свинья</li>
+		<li>animal->[small_adjective] медведь</li>
+		<li>animal->овца</li>
+		<li>animal->спелопед</li>
+		<li>animal->мегаскарабей</li>
+		<li>animal->обезьяна</li>
+		<li>animal->[small_adjective] трумбо</li>
+		<li>animal->[small_adjective] мегаленивец</li>
+		<li>animal->енот</li>
+		<li>animal->олень</li>
+		<li>animal->волк</li>
+		<li>animal->[small_adjective] акула</li>
+		<li>animal->[small_adjective] кит</li>
+		<li>animal->[small_adjective] косатка</li>
+		<li>animal->дельфин</li>
+		<li>animal->рыба</li>
+		<li>small_adjective->маленький</li>
+		<li>small_adjective->крошечный</li>
+		<li>small_adjective->малыш</li>
+		<li>small_adjective->миниатюрный</li>
+		<li>small_adjective->молодой</li>
+		<li>small_adjective->небольшой</li>
+		<li>plushie_depiction->поделка</li>
+		<li>plushie_depiction->изображение</li>
+		<li>plushie_depiction->ручная работа</li>
+		<li>plushie_depiction->воплощение</li>
+	</ArtDescription_Plushie.rulePack.rulesStrings>
+
+	<Namer_Plushie.rulePack.rulesStrings>
+		<li>r_art_name->[royal_title] [plushie_name] [royal_preposition] [royal_house]</li>
+		<li>r_art_name->[plushie_name] [royal_preposition] [royal_house]</li>
+		<li>r_art_name->[royal_title] [plushie_name]</li>
+		<li>r_art_name->[title] [plushie_name]</li>
+		<li>r_art_name->[plushie_name]</li>
+		<li>r_art_name->[title] [plushie_name] [royal_preposition] [royal_house]</li>
+		<li>plushie_name(p=6)->[cute_name]</li>
+		<li>plushie_name->[generic_name]</li>
+		<li>plushie_name->[not_name]</li>
+		<li>cute_name->Обнимашкин</li>
+		<li>cute_name->Ласкуша</li>
+		<li>cute_name->Пушистый Носик</li>
+		<li>cute_name->Вертихвостик</li>
+		<li>cute_name->Пушистик</li>
+		<li>cute_name->Искорка</li>
+		<li>cute_name->Сахарок</li>
+		<li>cute_name->Мечтательный Лапуля</li>
+		<li>cute_name->Блестящий Пузан</li>
+		<li>cute_name->Блестящий Пухляш</li>
+		<li>cute_name->Носик-Вертун</li>
+		<li>cute_name->Пушистый Пирожок</li>
+		<li>cute_name->Сахарный Пирожок</li>
+		<li>cute_name->Лимонный Пирожок</li>
+		<li>cute_name->Лимонная Лапка</li>
+		<li>cute_name->Сахарные Ушки</li>
+		<li>cute_name->Звёздное Небо</li>
+		<li>cute_name->Пушистый Хвостик</li>
+		<li>cute_name->Звёздная Крошка</li>
+		<li>cute_name->Пастельный Пирожок</li>
+		<li>cute_name->Пастельное Небо</li>
+		<li>cute_name->Прекрасная Звёздочка</li>
+		<li>cute_name->Клубок-Одеялко</li>
+		<li>cute_name->Мерцающие Грушки</li>
+		<li>generic_name->Мишки</li>
+		<li>generic_name->Тэд</li>
+		<li>generic_name->Плюшемишка</li>
+		<li>generic_name->Плюшик</li>
+		<li>generic_name->Тедди</li>
+		<li>not_name->Милашка</li>
+		<li>not_name->Очаровашка</li>
+		<li>not_name->Весельчак</li>
+		<li>not_name->Чудак</li>
+		<li>not_name->Прелесть</li>
+		<li>title->Профессор</li>
+		<li>title->Доктор</li>
+		<li>title->Детектив</li>
+		<li>title->Офицер</li>
+		<li>title->Мэр</li>
+		<li>title->Президент</li>
+		<li>royal_preposition->фон</li>
+		<li>royal_preposition->ван</li>
+		<li>royal_preposition->де</li>
+		<li>royal_preposition->из</li>
+		<li>royal_house->Пушишкиных</li>
+		<li>royal_house->Флаффелей</li>
+		<li>royal_house->Пушеносов</li>
+		<li>royal_house->Пухлянских</li>
+		<li>royal_house->Пухолапых</li>
+		<li>royal_house->Мякиштон</li>
+		<li>royal_house->Завитушкиных</li>
+		<li>royal_house->Мурлингтон</li>
+		<li>royal_house->Сердечкиных</li>
+		<li>royal_house->Коричкиных</li>
+		<li>royal_house->Корицыных</li>
+		<li>royal_house->Милашкиных</li>
+		<li>royal_house->Мягколап</li>
+		<li>royal_house->Носиковых</li>
+		<li>royal_house->Шерстингтон</li>
+		<li>royal_house->Мехоплюшевых</li>
+		<li>royal_house->Плюшивашей</li>
+		<li>royal_house->Плюшингтон</li>
+		<li>royal_house->Плюшелаповых</li>
+		<li>royal_house->Пухоухих</li>
+		<li>royal_house->Сладкоежкиных</li>
+		<li>royal_house->Пушистиковых</li>
+		<li>royal_house->Обнимашкиных</li>
+		<li>royal_house->Ласково-Плюшевых</li>
+		<li>royal_house->Хлопкопуговых</li>
+		<li>royal_house->Хлопкопуховых</li>
+		<li>royal_house->Хлопкомягких</li>
+		<li>royal_house->Дрёмингтонов</li>
+		<li>royal_title->Король</li>
+		<li>royal_title->Королева</li>
+		<li>royal_title(p=2)->Принц</li>
+		<li>royal_title(p=2)->Принцесса</li>
+		<li>royal_title->Герцог</li>
+		<li>royal_title->Герцогиня</li>
+		<li>royal_title->Граф</li>
+		<li>royal_title->Графиня</li>
+		<li>royal_title->Булочка с корицей</li>
+	</Namer_Plushie.rulePack.rulesStrings>
+</LanguageData>

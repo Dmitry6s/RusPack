@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- EN: Disconnected generator alert enabled -->
+  <PA_DisconnectedGeneratorEnabled_Title>Уведомление об отсоединении генератора</PA_DisconnectedGeneratorEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when a generator is not connected to any power consumers. -->
+  <PA_DisconnectedGeneratorEnabled_Description>Должно ли отображаться предупреждение, когда генератор не подключен ни к одному потребителю электроэнергии.</PA_DisconnectedGeneratorEnabled_Description>
+
+  <!-- EN: Low fuel generator alert enabled -->
+  <PA_LowFuelGeneratorEnabled_Title>Уведомление о малом топливе</PA_LowFuelGeneratorEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when a generator is low on fuel. -->
+  <PA_LowFuelGeneratorEnabled_Description>Следует ли показывать предупреждение, когда в генераторе мало топлива.</PA_LowFuelGeneratorEnabled_Description>
+  <!-- EN: Low fuel threshold seconds -->
+  <PA_LowFuelGeneratorThresholdSeconds_Title>Порог низкого уровня топлива (в секундах)</PA_LowFuelGeneratorThresholdSeconds_Title>
+  <!-- EN: If the time left in realtime seconds for a fueled generator to provide power is less than this value, the alert will be shown. -->
+  <PA_LowFuelGeneratorThresholdSeconds_Description>Уведомление, если время (в реальных секундах) работы заправленного генератора меньше этого значения.</PA_LowFuelGeneratorThresholdSeconds_Description>
+
+  <!-- EN: Draining battery alert enabled -->
+  <PA_DrainingBatteriesEnabled_Title>Уведомление о разрядке батареи</PA_DrainingBatteriesEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when batteries are close to draining out. -->
+  <PA_DrainingBatteriesEnabled_Description>Следует ли показывать предупреждение, когда батареи близки к разрядке.</PA_DrainingBatteriesEnabled_Description>
+
+  <!-- EN: Short circuit risk alert enabled -->
+  <PA_ShortCircuitRiskEnabled_Title>Уведомление о коротком замыкании</PA_ShortCircuitRiskEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when buildings are unroofed and prone to short circuiting in the rain. -->
+  <PA_ShortCircuitRiskEnabled_Description>Следует ли показывать предупреждение, когда постройки не имеют крыши и подвержены короткому замыканию во время дождя.</PA_ShortCircuitRiskEnabled_Description>
+
+  <!-- EN: Wasting fuel alert enabled -->
+  <PA_WastingFuelGeneratorEnabled_Title>Уведомление о пустой трате топлива</PA_WastingFuelGeneratorEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when a fueled generator is producing purely excessive power. -->
+  <PA_WastingFuelGeneratorEnabled_Description>Следует ли показывать предупреждение, когда заправленный генератор вырабатывает исключительно избыточную мощность.</PA_WastingFuelGeneratorEnabled_Description>
+
+  <!-- EN: Obstructed solar generator alert enabled -->
+  <PA_ObstructedSolarEnabled_Title>Уведомление о крыше над солнечной панелью</PA_ObstructedSolarEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when a solar generator is obstructed by a roofed tile, reducing it's power output. -->
+  <PA_ObstructedSolarEnabled_Description>Следует ли показывать предупреждение, когда солнечная панель накрыта крышей, что снижает её мощность.</PA_ObstructedSolarEnabled_Description>
+  <!-- EN: Obstructed wind turbine alert enabled -->
+  <PA_ObstructedWindEnabled_Title>Уведомление о помехе для ветряка</PA_ObstructedWindEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when a wind turbine is obstructed by a roofed tile or tall object, reducing it's power output. -->
+  <PA_ObstructedWindEnabled_Description>Следует ли показывать предупреждение, когда ветряной турбине что-то мешает (крыша или высокий объект).</PA_ObstructedWindEnabled_Description>
+  <!-- EN: Obstructed waterwheel alert enabled -->
+  <PA_ObstructedWaterEnabled_Title>Уведомление о помехе для ГЭС</PA_ObstructedWaterEnabled_Title>
+  <!-- EN: Determines if an alert should be shown when a waterwheel generator is obstructed by another waterwheel generator or non-moving water, reducing it's power output. -->
+  <PA_ObstructedWaterEnabled_Description>Должно ли отображаться предупреждение, когда водяному генератору что-то мешает (другой генератор или стоячая вода).</PA_ObstructedWaterEnabled_Description>
+  
+  <!-- EN: Draining battery threhold seconds -->
+  <PA_DrainingBatteriesThresholdSeconds_Title>Порог времени работы от батарей</PA_DrainingBatteriesThresholdSeconds_Title>
+  <!-- EN: If the time left in realtime seconds for batteries to provide power is less than this value, the alert will be shown. -->
+  <PA_DrainingBatteriesThresholdSeconds_Description>Предупреждение, если время (в реальных секундах) работы от батарей меньше этого значения.</PA_DrainingBatteriesThresholdSeconds_Description>
+
+  <!-- EN: Disconnected generator -->
+  <PA_Alert_DisconnectedGenerator_Label>Генератор отсоединён</PA_Alert_DisconnectedGenerator_Label>
+  <!-- EN: Generator is currently not connected to any active power grid. -->
+  <PA_Alert_DisconnectedGenerator_Description>Генератор отсоединён ото всех потребителей энергии.</PA_Alert_DisconnectedGenerator_Description>
+  <!-- EN: {0} generators are currently not connected to any active power grid. -->
+  <PA_Alert_DisconnectedGenerators_Description>{0} генераторов отсоединены от всех потребителей энергии.</PA_Alert_DisconnectedGenerators_Description>
+  
+  <!-- EN: Low fuel -->
+  <PA_Alert_LowFuelGenerator_Label>Мало топлива</PA_Alert_LowFuelGenerator_Label>
+  <!-- EN: Generator will run out of fuel in {0:0.00} seconds. -->
+  <PA_Alert_LowFuelGenerator_Low_Description>Топливо в генераторе закончится через {0:0.00} сек.</PA_Alert_LowFuelGenerator_Low_Description>
+  <!-- EN: Generator out of fuel. -->
+  <PA_Alert_LowFuelGenerator_Empty_Description>Топливо в генераторе закончилось.</PA_Alert_LowFuelGenerator_Empty_Description>
+
+  <!-- EN: Batteries low -->
+  <PA_Alert_DrainingBatteries_Label>Батареи разряжены</PA_Alert_DrainingBatteries_Label>
+  <!-- EN: Batteries will run out of power in {0:0.00} seconds. -->
+  <PA_Alert_DrainingBatteries_Draining_Description>Энергия в батареях закончится через {0:0.00} сек.</PA_Alert_DrainingBatteries_Draining_Description>
+  <!-- EN: Insufficient power in batteries. -->
+  <PA_Alert_DrainingBatteries_Brownout_Description>Энергия в батареях закончилась.</PA_Alert_DrainingBatteries_Brownout_Description>
+
+  <!-- EN: Short circuit risk -->
+  <PA_Alert_ShortCircuitRisk_Label>Риск замыкания</PA_Alert_ShortCircuitRisk_Label>
+  <!-- EN: Unroofed building at risk of short circuit in the rain. -->
+  <PA_Alert_ShortCircuitRisk_Description>Постройка без крыши подвержена риску короткого замыкания во время дождя.</PA_Alert_ShortCircuitRisk_Description>
+  <!-- EN: {0} unroofed buildings at risk of short circuit in the rain. -->
+  <PA_Alert_ShortCircuitRisks_Description>{0} постройки без крыши подвержены риску короткого замыкания во время дождя.</PA_Alert_ShortCircuitRisks_Description>
+  <!-- вряд ли игрок доберёт до 5-и построек, скорее будет 2-4 постройки -->
+  
+  <!-- EN: Wasting fuel -->
+  <PA_Alert_GeneratorWastingFuel_Label>Избыточная мощность</PA_Alert_GeneratorWastingFuel_Label>
+  <!-- EN: Generator is wasting fuel generating excess power. -->
+  <PA_Alert_GeneratorWastingFuel_Description>Генератор вырабатывает бесполезную избыточную мощность.</PA_Alert_GeneratorWastingFuel_Description>
+
+  <!-- EN: Obstructed generator -->
+  <PA_Alert_ObstructedGenerator_Label>Помеха генератору</PA_Alert_ObstructedGenerator_Label>
+  <!-- EN: Generator is obstructed and producing power at a reduced rate. -->
+  <PA_Alert_ObstructedGenerator_Description>Генератору что-то мешает, поэтому он вырабатывает меньше энергии.</PA_Alert_ObstructedGenerator_Description>
+</LanguageData>
