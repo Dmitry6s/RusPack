@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- REFINERY A -->
+  <DoBillsSadjuukRefineryA.verb>работать</DoBillsSadjuukRefineryA.verb>
+  <DoBillsSadjuukRefineryA.gerund>работать в</DoBillsSadjuukRefineryA.gerund>
+  <!-- REFINERY B -->
+  <DoBillsSadjuukRefineryB.verb>работать</DoBillsSadjuukRefineryB.verb>
+  <DoBillsSadjuukRefineryB.gerund>работать в</DoBillsSadjuukRefineryB.gerund>
+  <!-- REFINERY C -->
+  <DoBillsSadjuukRefineryC.verb>работать</DoBillsSadjuukRefineryC.verb>
+  <DoBillsSadjuukRefineryC.gerund>работать в</DoBillsSadjuukRefineryC.gerund>
+  <!-- Metalworking Bench -->
+  <DoBillsSadjuukMetalworkingBench.verb>работать</DoBillsSadjuukMetalworkingBench.verb>
+  <DoBillsSadjuukMetalworkingBench.gerund>работать в</DoBillsSadjuukMetalworkingBench.gerund>
+  <!-- Metalworking Line -->
+  <DoBillsSadjuukMetalworkingLineB.verb>работать</DoBillsSadjuukMetalworkingLineB.verb>
+  <DoBillsSadjuukMetalworkingLineB.gerund>работать в</DoBillsSadjuukMetalworkingLineB.gerund>
+  <!-- Assembly Line -->
+  <DoBillsSadjuukAssemblyLineB.verb>работать</DoBillsSadjuukAssemblyLineB.verb>
+  <DoBillsSadjuukAssemblyLineB.gerund>работать в</DoBillsSadjuukAssemblyLineB.gerund>
+  <!-- Bessemer Converter -->
+  <DoBillsSadjuukBessemerConverter.verb>работать</DoBillsSadjuukBessemerConverter.verb>
+  <DoBillsSadjuukBessemerConverter.gerund>работать в</DoBillsSadjuukBessemerConverter.gerund>
+  <!-- Open Hearth Furnace -->
+  <DoBillsSadjuukOpenHearthFurnace.verb>работать</DoBillsSadjuukOpenHearthFurnace.verb>
+  <DoBillsSadjuukOpenHearthFurnace.gerund>работать в</DoBillsSadjuukOpenHearthFurnace.gerund>
+  <!-- Electric Arc Furnace -->
+  <DoBillsSadjuukElectricArcFurnace.verb>работать</DoBillsSadjuukElectricArcFurnace.verb>
+  <DoBillsSadjuukElectricArcFurnace.gerund>работать в</DoBillsSadjuukElectricArcFurnace.gerund>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WallscreenTelevision.label>настенный телевизор</WallscreenTelevision.label>
+  <WallscreenTelevision.description>Огромный высокотехнологичный телевизор. Гигантские, сверхяркие изображения почти выпрыгивают с экрана. Очень занимательно. Принимает передачи с древних спутников и вездесущих карт данных. Настенный монтаж, красиво.</WallscreenTelevision.description>
+
+  <SmallWallscreenTelevision.label>маленький настенный телевизор</SmallWallscreenTelevision.label>
+  <SmallWallscreenTelevision.description>Маленький высокотехнологичный телевизор. Крошечные, сверхяркие изображения почти выпрыгивают из экрана. Очень занимательно. Принимает передачи с древних спутников и вездесущих карт данных. Настенный монтаж, красиво.</SmallWallscreenTelevision.description>
+
+  <Wall_Hifi.label>аудиосистема Hi-Fi</Wall_Hifi.label>
+  <Wall_Hifi.description>Небольшая аудиосистема с высокой точностью воспроизведения может настраиваться на радиопередачи или использовать стандартные вездесущие карты данных.</Wall_Hifi.description>
+
+
+</LanguageData>

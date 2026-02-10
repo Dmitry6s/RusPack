@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs\Buildings_Power_TimerSwitch.xml -->
+	          <!-- EN: time of day switch -->
+	<TimerSwitch.label>выключатель по времени</TimerSwitch.label>
+	                <!-- EN: Switches power on/off based on the time of day. -->
+	<TimerSwitch.description>Включает и выключает питание в зависимости от времени суток.</TimerSwitch.description>
+</LanguageData>

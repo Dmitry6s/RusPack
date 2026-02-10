@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+  <WanderingCaravan.CaravanChased_OptionTitle>Wandering caravan chased to [0]</WanderingCaravan.CaravanChased_OptionTitle>
+  <WanderingCaravan.CaravanChased_OptionText>Вдалеке виднеется группа {0} из {1}, которая преследует торговый караван с потенциально ценными запасами.\n\n\nВы можете либо защитить караван от {0} и получить его запасы, либо позволить им забрать их.\n\n Предупреждение - если вы согласитесь, вам придется отбиваться от {0} на хвосте.</WanderingCaravan.CaravanChased_OptionText>&gt;
+  <WanderingCaravan.CaravanChased_OptionDefend>Защитить караван</WanderingCaravan.CaravanChased_OptionDefend>
+  <WanderingCaravan.CaravanChased_OptionReject>Пусть это будет у {0}</WanderingCaravan.CaravanChased_OptionReject>
+  <WanderingCaravan.CaravanChased_Rejected>{0} почти догнали караван и смогут получить его потенциально ценные предметы.</WanderingCaravan.CaravanChased_Rejected>
+
+  <WanderingCaravan.WanderingCaravan_Title>Обнаружен бродячий {0}</WanderingCaravan.WanderingCaravan_Title>
+  <WanderingCaravan.WanderingCaravan_Spotted>Бродячий {0} был замечен вдалеке {1}, и за ним, возможно, следуют другие блуждающие караваны.\n\nВы можете игнорировать их или приручить или убить, чтобы получить их потенциально ценный инвентарь.</WanderingCaravan.WanderingCaravan_Spotted>
+  <WanderingCaravan.WanderingCaravan_Accept>Иди и забери их инвентарь</WanderingCaravan.WanderingCaravan_Accept>
+  <WanderingCaravan.WanderingCaravan_Accepted>У вас есть {0}, чтобы заявить права на {1} изобретателя{2}, прежде чем караван будет переформирован.</WanderingCaravan.WanderingCaravan_Accepted>
+  <WanderingCaravan.WanderingCaravan_Reject>Игнорировать их и продолжать</WanderingCaravan.WanderingCaravan_Reject>
+
+  <WanderingCaravan.CaravanReturnDemand_OptionTitle>Поиск бродячего каравана</WanderingCaravan.CaravanReturnDemand_OptionTitle>
+  <WanderingCaravan.CaravanReturnDemand_OptionText>{0} из {1} заявили права собственности на бродячий торговый караван и пришли забрать его.\n\nВы можете позволить {2} вернуть караван или убить, приручить или сразиться с {2}. Следите за тем, чтобы бродячий караван оставался рядом с вашей колонией, чтобы вы могли получить его потенциально ценный инвентарь!\n\nБудьте осторожны: если вы убьете или приручите бродячий караван, {1} разозлится.</WanderingCaravan.CaravanReturnDemand_OptionText>
+  <WanderingCaravan.CaravanReturnDemand_Fail>{0} не смогли вернуть свой блуждающий караван. Отношения фракций: -5</WanderingCaravan.CaravanReturnDemand_Fail>
+
+</LanguageData>

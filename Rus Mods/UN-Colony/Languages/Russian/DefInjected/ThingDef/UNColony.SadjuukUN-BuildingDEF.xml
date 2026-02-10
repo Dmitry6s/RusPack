@@ -1,0 +1,627 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Paint AA -->
+  <SadjuukPaintAA.label>Желтые двойные линии</SadjuukPaintAA.label>
+  <SadjuukPaintAA.description>Нарисованные линии.</SadjuukPaintAA.description>
+  <SadjuukPaintAA_Blueprint.label>Желтые двойные линии (чертеж)</SadjuukPaintAA_Blueprint.label>
+  <SadjuukPaintAA_Frame.label>Желтые двойные линии (здание)</SadjuukPaintAA_Frame.label>
+  <SadjuukPaintAA_Frame.description>Нарисованные линии.</SadjuukPaintAA_Frame.description>
+  <!-- Paint AB -->
+  <SadjuukPaintAB.label>Белые двойные линии</SadjuukPaintAB.label>
+  <SadjuukPaintAB.description>Нарисованные линии.</SadjuukPaintAB.description>
+  <SadjuukPaintAB_Blueprint.label>Белые двойные линии (чертеж)</SadjuukPaintAB_Blueprint.label>
+  <SadjuukPaintAB_Frame.label>Белые двойные линии (здание)</SadjuukPaintAB_Frame.label>
+  <SadjuukPaintAB_Frame.description>Нарисованные линии.</SadjuukPaintAB_Frame.description>
+  <!-- Paint AC -->
+  <SadjuukPaintAC.label>Синие двойные линии</SadjuukPaintAC.label>
+  <SadjuukPaintAC.description>Нарисованные линии.</SadjuukPaintAC.description>
+  <SadjuukPaintAC_Blueprint.label>Синие двойные линии (чертеж)</SadjuukPaintAC_Blueprint.label>
+  <SadjuukPaintAC_Frame.label>Синие двойные линии (здание)</SadjuukPaintAC_Frame.label>
+  <SadjuukPaintAC_Frame.description>Нарисованные линии.</SadjuukPaintAC_Frame.description>
+  <!-- Paint AD -->
+  <SadjuukPaintAD.label>Красные двойные линии</SadjuukPaintAD.label>
+  <SadjuukPaintAD.description>Нарисованные линии.</SadjuukPaintAD.description>
+  <SadjuukPaintAD_Blueprint.label>Красные двойные линии (чертеж)</SadjuukPaintAD_Blueprint.label>
+  <SadjuukPaintAD_Frame.label>Красные двойные линии (здание)</SadjuukPaintAD_Frame.label>
+  <SadjuukPaintAD_Frame.description>Нарисованные линии.</SadjuukPaintAD_Frame.description>
+  <!-- Paint AE -->
+  <SadjuukPaintAE.label>Желтые простые линии</SadjuukPaintAE.label>
+  <SadjuukPaintAE.description>Нарисованные линии.</SadjuukPaintAE.description>
+  <SadjuukPaintAE_Blueprint.label>Желтые простые линии(чертеж)</SadjuukPaintAE_Blueprint.label>
+  <SadjuukPaintAE_Frame.label>Желтые простые линии(здание)</SadjuukPaintAE_Frame.label>
+  <SadjuukPaintAE_Frame.description>Нарисованные линии.</SadjuukPaintAE_Frame.description>
+  <!-- Paint AF -->
+  <SadjuukPaintAF.label>Белая простая линия</SadjuukPaintAF.label>
+  <SadjuukPaintAF.description>Нарисованные линии.</SadjuukPaintAF.description>
+  <SadjuukPaintAF_Blueprint.label>Белая простая линия(чертеж)</SadjuukPaintAF_Blueprint.label>
+  <SadjuukPaintAF_Frame.label>Белая простая линия(здание)</SadjuukPaintAF_Frame.label>
+  <SadjuukPaintAF_Frame.description>Нарисованные линии.</SadjuukPaintAF_Frame.description>
+  <!-- Paint AG -->
+  <SadjuukPaintAG.label>Синяя простая линия</SadjuukPaintAG.label>
+  <SadjuukPaintAG.description>Нарисованные линии.</SadjuukPaintAG.description>
+  <SadjuukPaintAG_Blueprint.label>Синяя простая линия(чертеж)</SadjuukPaintAG_Blueprint.label>
+  <SadjuukPaintAG_Frame.label>Синяя простая линия(здание)</SadjuukPaintAG_Frame.label>
+  <SadjuukPaintAG_Frame.description>Нарисованные линии.</SadjuukPaintAG_Frame.description>
+  <!-- Paint AH -->
+  <SadjuukPaintAH.label>Красная простая линия</SadjuukPaintAH.label>
+  <SadjuukPaintAH.description>Нарисованные линии.</SadjuukPaintAH.description>
+  <SadjuukPaintAH_Blueprint.label>Красная простая линия(чертеж)</SadjuukPaintAH_Blueprint.label>
+  <SadjuukPaintAH_Frame.label>Красная простая линия(здание)</SadjuukPaintAH_Frame.label>
+  <SadjuukPaintAH_Frame.description>Нарисованные линии.</SadjuukPaintAH_Frame.description>
+  <!-- Paint BA -->
+  <SadjuukPaintBA.label>Стрелка, окрашенная в желтый цвет</SadjuukPaintBA.label>
+  <SadjuukPaintBA.description>Нарисованная стрелка.</SadjuukPaintBA.description>
+  <SadjuukPaintBA_Blueprint.label>Стрелка, окрашенная в желтый цвет (чертеж)</SadjuukPaintBA_Blueprint.label>
+  <SadjuukPaintBA_Frame.label>Стрелка, окрашенная в желтый цвет (здание)</SadjuukPaintBA_Frame.label>
+  <SadjuukPaintBA_Frame.description>Нарисованная стрелка.</SadjuukPaintBA_Frame.description>
+  <!-- Paint BB -->
+  <SadjuukPaintBB.label>Стрелка, окрашенная в белый цвет</SadjuukPaintBB.label>
+  <SadjuukPaintBB.description>Нарисованная стрелка.</SadjuukPaintBB.description>
+  <SadjuukPaintBB_Blueprint.label>Стрелка, окрашенная в белый цвет (чертеж)</SadjuukPaintBB_Blueprint.label>
+  <SadjuukPaintBB_Frame.label>Стрелка, окрашенная в белый цвет (здание)</SadjuukPaintBB_Frame.label>
+  <SadjuukPaintBB_Frame.description>Нарисованная стрелка.</SadjuukPaintBB_Frame.description>
+  <!-- Paint BC -->
+  <SadjuukPaintBC.label>Стрелка, окрашенная в синий цвет</SadjuukPaintBC.label>
+  <SadjuukPaintBC.description>Нарисованная стрелка.</SadjuukPaintBC.description>
+  <SadjuukPaintBC_Blueprint.label>Стрелка, окрашенная в синий цвет(чертеж)</SadjuukPaintBC_Blueprint.label>
+  <SadjuukPaintBC_Frame.label>Стрелка, окрашенная в синий цвет(здание)</SadjuukPaintBC_Frame.label>
+  <SadjuukPaintBC_Frame.description>Нарисованная стрелка.</SadjuukPaintBC_Frame.description>
+  <!-- Paint BD -->
+  <SadjuukPaintBD.label>Стрелка, окрашенная в красный цвет</SadjuukPaintBD.label>
+  <SadjuukPaintBD.description>Нарисованная стрелка.</SadjuukPaintBD.description>
+  <SadjuukPaintBD_Blueprint.label>Стрелка, окрашенная в красный цвет(чертеж)</SadjuukPaintBD_Blueprint.label>
+  <SadjuukPaintBD_Frame.label>Стрелка, окрашенная в красный цвет(здание)</SadjuukPaintBD_Frame.label>
+  <SadjuukPaintBD_Frame.description>Нарисованная стрелка.</SadjuukPaintBD_Frame.description>
+  <!-- Paint CA -->
+  <SadjuukPaintCA.label>Красная Зебра (L)</SadjuukPaintCA.label>
+  <SadjuukPaintCA.description>Нарисованная Зебра.</SadjuukPaintCA.description>
+  <SadjuukPaintCA_Blueprint.label>Красная Зебра (L) (чертеж)</SadjuukPaintCA_Blueprint.label>
+  <SadjuukPaintCA_Frame.label>Красная Зебра (L) (здание)</SadjuukPaintCA_Frame.label>
+  <SadjuukPaintCA_Frame.description>Нарисованная Зебра.</SadjuukPaintCA_Frame.description>
+  <!-- Paint CB -->
+  <SadjuukPaintCB.label>Красная Зебра (R)</SadjuukPaintCB.label>
+  <SadjuukPaintCB.description>Нарисованная Зебра.</SadjuukPaintCB.description>
+  <SadjuukPaintCB_Blueprint.label>Красная Зебра (R) (чертеж)</SadjuukPaintCB_Blueprint.label>
+  <SadjuukPaintCB_Frame.label>Красная Зебра (R) (здание)</SadjuukPaintCB_Frame.label>
+  <SadjuukPaintCB_Frame.description>Нарисованная Зебра.</SadjuukPaintCB_Frame.description>
+  <!-- Paint CC -->
+  <SadjuukPaintCC.label>Желтая Зебра (L)</SadjuukPaintCC.label>
+  <SadjuukPaintCC.description>Нарисованная Зебра.</SadjuukPaintCC.description>
+  <SadjuukPaintCC_Blueprint.label>Желтая Зебра (L) (чертеж)</SadjuukPaintCC_Blueprint.label>
+  <SadjuukPaintCC_Frame.label>Желтая Зебра (L) (здание)</SadjuukPaintCC_Frame.label>
+  <SadjuukPaintCC_Frame.description>Нарисованная Зебра.</SadjuukPaintCC_Frame.description>
+  <!-- Paint CD -->
+  <SadjuukPaintCD.label>Желтая Зебра (R)</SadjuukPaintCD.label>
+  <SadjuukPaintCD.description>Нарисованная Зебра.</SadjuukPaintCD.description>
+  <SadjuukPaintCD_Blueprint.label>Желтая Зебра (R) (чертеж)</SadjuukPaintCD_Blueprint.label>
+  <SadjuukPaintCD_Frame.label>Желтая Зебра (R) (здание)</SadjuukPaintCD_Frame.label>
+  <SadjuukPaintCD_Frame.description>Нарисованная Зебра.</SadjuukPaintCD_Frame.description>
+  <!-- Wooden Gate Horizontal -->
+  <SadjuukDoorAA.label>Деревянные Ворота (H)</SadjuukDoorAA.label>
+  <SadjuukDoorAA.description>HP : 80
+Деревенские Деревянные ворота.</SadjuukDoorAA.description>
+  <SadjuukDoorAA_Blueprint.label>Деревянные Ворота (H) (чертеж)</SadjuukDoorAA_Blueprint.label>
+  <SadjuukDoorAA_Frame.label>Деревянные Ворота (H) (здание)</SadjuukDoorAA_Frame.label>
+  <SadjuukDoorAA_Frame.description>HP : 80
+Деревенские Деревянные ворота.</SadjuukDoorAA_Frame.description>
+  <!-- Wooden Gate Vertical -->
+  <SadjuukDoorAB.label>Деревянные Ворота (V)</SadjuukDoorAB.label>
+  <SadjuukDoorAB.description>HP : 80
+Деревенские Деревянные ворота.</SadjuukDoorAB.description>
+  <SadjuukDoorAB_Blueprint.label>Деревянные Ворота (V) (чертеж)</SadjuukDoorAB_Blueprint.label>
+  <SadjuukDoorAB_Frame.label>Деревянные Ворота (V) (здание)</SadjuukDoorAB_Frame.label>
+  <SadjuukDoorAB_Frame.description>HP : 80
+Деревенские Деревянные ворота.</SadjuukDoorAB_Frame.description>
+  <!-- Grid Door Horizontal -->
+  <SadjuukDoorBA.label>Решетчатые ворота (H)</SadjuukDoorBA.label>
+  <SadjuukDoorBA.description>HP : 250
+Промышленные ворота из металлической сетки.</SadjuukDoorBA.description>
+  <SadjuukDoorBA_Blueprint.label>Решетчатые ворота(H) (чертеж)</SadjuukDoorBA_Blueprint.label>
+  <SadjuukDoorBA_Frame.label>Решетчатые ворота(H) (здание)</SadjuukDoorBA_Frame.label>
+  <SadjuukDoorBA_Frame.description>HP : 250
+Промышленные ворота из металлической сетки.</SadjuukDoorBA_Frame.description>
+  <!-- Grid Door Vertical -->
+  <SadjuukDoorBB.label>Решетчатые ворота(V)</SadjuukDoorBB.label>
+  <SadjuukDoorBB.description>HP : 250
+Промышленные ворота из металлической сетки.</SadjuukDoorBB.description>
+  <SadjuukDoorBB_Blueprint.label>Решетчатые ворота(V) (чертеж)</SadjuukDoorBB_Blueprint.label>
+  <SadjuukDoorBB_Frame.label>Решетчатые ворота(V) (здание)</SadjuukDoorBB_Frame.label>
+  <SadjuukDoorBB_Frame.description>HP : 250
+Промышленные ворота из металлической сетки.</SadjuukDoorBB_Frame.description>
+  <!-- Glass Door Horizontal -->
+  <SadjuukDoorCA.label>Стеклянная Дверь (H)</SadjuukDoorCA.label>
+  <SadjuukDoorCA.description>HP : 50
+Стеклянные перегородки, столь же безопасные, сколь и эстетичные, - это простой способ преобразить ваше пространство.</SadjuukDoorCA.description>
+  <SadjuukDoorCA_Blueprint.label>Стеклянная Дверь (H) (чертеж)</SadjuukDoorCA_Blueprint.label>
+  <SadjuukDoorCA_Frame.label>Стеклянная Дверь (H) (здание)</SadjuukDoorCA_Frame.label>
+  <SadjuukDoorCA_Frame.description>HP : 50
+Стеклянные перегородки, столь же безопасные, сколь и эстетичные, - это простой способ преобразить ваше пространство.</SadjuukDoorCA_Frame.description>
+  <!-- Glass Door Vertical -->
+  <SadjuukDoorCB.label>Стеклянная Дверь (V)</SadjuukDoorCB.label>
+  <SadjuukDoorCB.description>HP : 50
+Стеклянные перегородки, столь же безопасные, сколь и эстетичные, - это простой способ преобразить ваше пространство.</SadjuukDoorCB.description>
+  <SadjuukDoorCB_Blueprint.label>Стеклянная Дверь (V) (чертеж)</SadjuukDoorCB_Blueprint.label>
+  <SadjuukDoorCB_Frame.label>Стеклянная Дверь (V) (здание)</SadjuukDoorCB_Frame.label>
+  <SadjuukDoorCB_Frame.description>HP : 50
+Стеклянные перегородки, столь же безопасные, сколь и эстетичные, - это простой способ преобразить ваше пространство.</SadjuukDoorCB_Frame.description>
+  <!-- Wood Door Horizontal -->
+  <SadjuukDoorDA.label>Деревянная Дверь (H)</SadjuukDoorDA.label>
+  <SadjuukDoorDA.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorDA.description>
+  <SadjuukDoorDA_Blueprint.label>Деревянная Дверь (H) (чертеж)</SadjuukDoorDA_Blueprint.label>
+  <SadjuukDoorDA_Frame.label>Деревянная Дверь (H) (здание)</SadjuukDoorDA_Frame.label>
+  <SadjuukDoorDA_Frame.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorDA_Frame.description>
+  <!-- Wood  Door Vertical -->
+  <SadjuukDoorDB.label>Деревянная Дверь (V)</SadjuukDoorDB.label>
+  <SadjuukDoorDB.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorDB.description>
+  <SadjuukDoorDB_Blueprint.label>Деревянная Дверь (V) (чертеж)</SadjuukDoorDB_Blueprint.label>
+  <SadjuukDoorDB_Frame.label>Деревянная Дверь (V) (здание)</SadjuukDoorDB_Frame.label>
+  <SadjuukDoorDB_Frame.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorDB_Frame.description>
+  <!-- Wood Door Horizontal -->
+  <SadjuukDoorLA.label>Деревянная Дверь (H)</SadjuukDoorLA.label>
+  <SadjuukDoorLA.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorLA.description>
+  <SadjuukDoorLA_Blueprint.label>Деревянная Дверь (H) (чертеж)</SadjuukDoorLA_Blueprint.label>
+  <SadjuukDoorLA_Frame.label>Деревянная Дверь (H) (здание)</SadjuukDoorLA_Frame.label>
+  <SadjuukDoorLA_Frame.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorLA_Frame.description>
+  <!-- Wood  Door Vertical -->
+  <SadjuukDoorLB.label>Деревянная Дверь (V)</SadjuukDoorLB.label>
+  <SadjuukDoorLB.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorLB.description>
+  <SadjuukDoorLB_Blueprint.label>Деревянная Дверь (V) (чертеж)</SadjuukDoorLB_Blueprint.label>
+  <SadjuukDoorLB_Frame.label>Деревянная Дверь (V) (здание)</SadjuukDoorLB_Frame.label>
+  <SadjuukDoorLB_Frame.description>HP : 350
+Тяжелая бронированная дверь.</SadjuukDoorLB_Frame.description>
+  <!-- Steel Door Horizontal -->
+  <SadjuukDoorEA.label>Стальная Дверь (H)</SadjuukDoorEA.label>
+  <SadjuukDoorEA.description>HP : 450
+Деревенская стальная дверь.</SadjuukDoorEA.description>
+  <SadjuukDoorEA_Blueprint.label>Стальная Дверь (H) (чертеж)</SadjuukDoorEA_Blueprint.label>
+  <SadjuukDoorEA_Frame.label>Стальная Дверь (H) (здание)</SadjuukDoorEA_Frame.label>
+  <SadjuukDoorEA_Frame.description>HP : 450
+Деревенская стальная дверь.</SadjuukDoorEA_Frame.description>
+  <!-- Steel  Door Vertical -->
+  <SadjuukDoorEB.label>Стальная Дверь (V)</SadjuukDoorEB.label>
+  <SadjuukDoorEB.description>HP : 450
+Деревенская стальная дверь.</SadjuukDoorEB.description>
+  <SadjuukDoorEB_Blueprint.label>Стальная Дверь (V) (чертеж)</SadjuukDoorEB_Blueprint.label>
+  <SadjuukDoorEB_Frame.label>Стальная Дверь (V) (здание)</SadjuukDoorEB_Frame.label>
+  <SadjuukDoorEB_Frame.description>HP : 450
+Деревенская стальная дверь.</SadjuukDoorEB_Frame.description>
+  <!-- Steel Door Horizontal -->
+  <SadjuukDoorFA.label>Стальная Дверь (H)</SadjuukDoorFA.label>
+  <SadjuukDoorFA.description>HP : 600
+Стальная дверь.</SadjuukDoorFA.description>
+  <SadjuukDoorFA_Blueprint.label>Стальная Дверь (H) (чертеж)</SadjuukDoorFA_Blueprint.label>
+  <SadjuukDoorFA_Frame.label>Стальная Дверь (H) (здание)</SadjuukDoorFA_Frame.label>
+  <SadjuukDoorFA_Frame.description>HP : 600
+Стальная дверь.</SadjuukDoorFA_Frame.description>
+  <!-- Steel  Door Vertical -->
+  <SadjuukDoorFB.label>Стальная Дверь (V)</SadjuukDoorFB.label>
+  <SadjuukDoorFB.description>HP : 600
+Стальная дверь.</SadjuukDoorFB.description>
+  <SadjuukDoorFB_Blueprint.label>Стальная Дверь (V) (чертеж)</SadjuukDoorFB_Blueprint.label>
+  <SadjuukDoorFB_Frame.label>Стальная Дверь (V) (здание)</SadjuukDoorFB_Frame.label>
+  <SadjuukDoorFB_Frame.description>HP : 600
+Стальная дверь.</SadjuukDoorFB_Frame.description>
+  <!-- Steel Door Horizontal -->
+  <SadjuukDoorGA.label>Стальная Дверь (H)</SadjuukDoorGA.label>
+  <SadjuukDoorGA.description>HP : 600
+Окрашенная стальная дверь.</SadjuukDoorGA.description>
+  <SadjuukDoorGA_Blueprint.label>Стальная Дверь (H) (чертеж)</SadjuukDoorGA_Blueprint.label>
+  <SadjuukDoorGA_Frame.label>Стальная Дверь (H) (здание)</SadjuukDoorGA_Frame.label>
+  <SadjuukDoorGA_Frame.description>HP : 600
+Окрашенная стальная дверь.</SadjuukDoorGA_Frame.description>
+  <!-- Steel  Door Vertical -->
+  <SadjuukDoorGB.label>Стальная Дверь (V)</SadjuukDoorGB.label>
+  <SadjuukDoorGB.description>HP : 600
+Окрашенная стальная дверь.</SadjuukDoorGB.description>
+  <SadjuukDoorGB_Blueprint.label>Стальная Дверь (V) (чертеж)</SadjuukDoorGB_Blueprint.label>
+  <SadjuukDoorGB_Frame.label>Стальная Дверь (V) (здание)</SadjuukDoorGB_Frame.label>
+  <SadjuukDoorGB_Frame.description>HP : 600
+Окрашенная стальная дверь.</SadjuukDoorGB_Frame.description>
+  <!-- Shielded Door Horizontal -->
+  <SadjuukDoorHA.label>Экранированная Дверь (H)</SadjuukDoorHA.label>
+  <SadjuukDoorHA.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorHA.description>
+  <SadjuukDoorHA_Blueprint.label>Экранированная Дверь (H) (чертеж)</SadjuukDoorHA_Blueprint.label>
+  <SadjuukDoorHA_Frame.label>Экранированная Дверь (H) (здание)</SadjuukDoorHA_Frame.label>
+  <SadjuukDoorHA_Frame.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorHA_Frame.description>
+  <!-- Shielded  Door Vertical -->
+  <SadjuukDoorHB.label>Экранированная Дверь (V)</SadjuukDoorHB.label>
+  <SadjuukDoorHB.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorHB.description>
+  <SadjuukDoorHB_Blueprint.label>Экранированная Дверь (V) (чертеж)</SadjuukDoorHB_Blueprint.label>
+  <SadjuukDoorHB_Frame.label>Экранированная Дверь (V) (здание)</SadjuukDoorHB_Frame.label>
+  <SadjuukDoorHB_Frame.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorHB_Frame.description>
+  <!-- Shielded Door Horizontal -->
+  <SadjuukDoorIA.label>Экранированная Дверь (H)</SadjuukDoorIA.label>
+  <SadjuukDoorIA.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorIA.description>
+  <SadjuukDoorIA_Blueprint.label>Экранированная Дверь (H) (чертеж)</SadjuukDoorIA_Blueprint.label>
+  <SadjuukDoorIA_Frame.label>Экранированная Дверь (H) (здание)</SadjuukDoorIA_Frame.label>
+  <SadjuukDoorIA_Frame.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorIA_Frame.description>
+  <!-- Shielded Door Vertical -->
+  <SadjuukDoorIB.label>Экранированная Дверь (V)</SadjuukDoorIB.label>
+  <SadjuukDoorIB.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorIB.description>
+  <SadjuukDoorIB_Blueprint.label>Экранированная Дверь (V) (чертеж)</SadjuukDoorIB_Blueprint.label>
+  <SadjuukDoorIB_Frame.label>Экранированная Дверь (V) (здание)</SadjuukDoorIB_Frame.label>
+  <SadjuukDoorIB_Frame.description>HP : 990
+Тяжелая экранированная дверь.</SadjuukDoorIB_Frame.description>
+  <!-- Armored Door Horizontal -->
+  <SadjuukDoorJA.label>Бронированная Дверь (H)</SadjuukDoorJA.label>
+  <SadjuukDoorJA.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorJA.description>
+  <SadjuukDoorJA_Blueprint.label>Бронированная Дверь (H) (чертеж)</SadjuukDoorJA_Blueprint.label>
+  <SadjuukDoorJA_Frame.label>Бронированная Дверь (H) (здание)</SadjuukDoorJA_Frame.label>
+  <SadjuukDoorJA_Frame.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorJA_Frame.description>
+  <!-- Armored  Door Vertical -->
+  <SadjuukDoorJB.label>Бронированная Дверь (V)</SadjuukDoorJB.label>
+  <SadjuukDoorJB.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorJB.description>
+  <SadjuukDoorJB_Blueprint.label>Бронированная Дверь (V) (чертеж)</SadjuukDoorJB_Blueprint.label>
+  <SadjuukDoorJB_Frame.label>Бронированная Дверь (V) (здание)</SadjuukDoorJB_Frame.label>
+  <SadjuukDoorJB_Frame.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorJB_Frame.description>
+  <!-- Armored Door Horizontal -->
+  <SadjuukDoorKA.label>Бронированная Дверь (H)</SadjuukDoorKA.label>
+  <SadjuukDoorKA.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorKA.description>
+  <SadjuukDoorKA_Blueprint.label>Бронированная Дверь (H) (чертеж)</SadjuukDoorKA_Blueprint.label>
+  <SadjuukDoorKA_Frame.label>Бронированная Дверь (H) (здание)</SadjuukDoorKA_Frame.label>
+  <SadjuukDoorKA_Frame.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorKA_Frame.description>
+  <!-- Armored  Door Vertical -->
+  <SadjuukDoorKB.label>Бронированная Дверь (V)</SadjuukDoorKB.label>
+  <SadjuukDoorKB.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorKB.description>
+  <SadjuukDoorKB_Blueprint.label>Бронированная Дверь (V) (чертеж)</SadjuukDoorKB_Blueprint.label>
+  <SadjuukDoorKB_Frame.label>Бронированная Дверь (V) (здание)</SadjuukDoorKB_Frame.label>
+  <SadjuukDoorKB_Frame.description>HP : 2100
+Тяжелая бронированная дверь.</SadjuukDoorKB_Frame.description>
+  <!-- Wooden Wall AA -->
+  <SadjuukWallAA.label>Деревянная Стена А </SadjuukWallAA.label>
+  <SadjuukWallAA.description>HP : 350
+Деревянная стена.</SadjuukWallAA.description>
+  <SadjuukWallAA_Blueprint.label>Деревянная Стена А (чертеж)</SadjuukWallAA_Blueprint.label>
+  <SadjuukWallAA_Frame.label>Деревянная Стена А (здание)</SadjuukWallAA_Frame.label>
+  <SadjuukWallAA_Frame.description>HP : 350
+Деревянная стена.</SadjuukWallAA_Frame.description>
+  <!-- Wooden Embrasure AA -->
+  <SadjuukEmbrasureAA.label>Деревянная Амбразура А</SadjuukEmbrasureAA.label>
+  <SadjuukEmbrasureAA.description>HP : 350
+Деревянная Амбразура.</SadjuukEmbrasureAA.description>
+  <SadjuukEmbrasureAA_Blueprint.label>Деревянная Амбразура А(чертеж)</SadjuukEmbrasureAA_Blueprint.label>
+  <SadjuukEmbrasureAA_Frame.label>Деревянная Амбразура А(здание)</SadjuukEmbrasureAA_Frame.label>
+  <SadjuukEmbrasureAA_Frame.description>HP : 350
+Деревянная Амбразура.</SadjuukEmbrasureAA_Frame.description>
+  <!-- Wooden Wall AB -->
+  <SadjuukWallAB.label>Деревянная Стена B </SadjuukWallAB.label>
+  <SadjuukWallAB.description>HP : 350
+Деревянная стена.</SadjuukWallAB.description>
+  <SadjuukWallAB_Blueprint.label>Деревянная Стена B (чертеж)</SadjuukWallAB_Blueprint.label>
+  <SadjuukWallAB_Frame.label>Деревянная Стена B (здание)</SadjuukWallAB_Frame.label>
+  <SadjuukWallAB_Frame.description>HP : 350
+Деревянная стена.</SadjuukWallAB_Frame.description>
+  <!-- Wooden Embrasure AB -->
+  <SadjuukEmbrasureAB.label>Деревянная амбразура B </SadjuukEmbrasureAB.label>
+  <SadjuukEmbrasureAB.description>HP : 350
+Деревянная Амбразура.</SadjuukEmbrasureAB.description>
+  <SadjuukEmbrasureAB_Blueprint.label>Деревянная амбразура B (чертеж)</SadjuukEmbrasureAB_Blueprint.label>
+  <SadjuukEmbrasureAB_Frame.label>Деревянная амбразура B (здание)</SadjuukEmbrasureAB_Frame.label>
+  <SadjuukEmbrasureAB_Frame.description>HP : 350
+Деревянная Амбразура.</SadjuukEmbrasureAB_Frame.description>
+  <!-- Steel Wall BA -->
+  <SadjuukWallBA.label>Стальная Стена A</SadjuukWallBA.label>
+  <SadjuukWallBA.description>HP : 450
+Cтена из необработанной стали.</SadjuukWallBA.description>
+  <SadjuukWallBA_Blueprint.label>Стальная Стена A(чертеж)</SadjuukWallBA_Blueprint.label>
+  <SadjuukWallBA_Frame.label>Стальная Стена A(здание)</SadjuukWallBA_Frame.label>
+  <SadjuukWallBA_Frame.description>HP : 450
+Cтена из необработанной стали.</SadjuukWallBA_Frame.description>
+  <!-- Steel Embrasure BA -->
+  <SadjuukEmbrasureBA.label>Стальная Амбразура А </SadjuukEmbrasureBA.label>
+  <SadjuukEmbrasureBA.description>HP : 450
+Амбразура для восстановления из необработанной стали.</SadjuukEmbrasureBA.description>
+  <SadjuukEmbrasureBA_Blueprint.label>Стальная Амбразура А (чертеж)</SadjuukEmbrasureBA_Blueprint.label>
+  <SadjuukEmbrasureBA_Frame.label>Стальная Амбразура А (здание)</SadjuukEmbrasureBA_Frame.label>
+  <SadjuukEmbrasureBA_Frame.description>HP : 450
+Амбразура из необработанной стали.</SadjuukEmbrasureBA_Frame.description>
+  <!-- Steel Wall BB -->
+  <SadjuukWallBB.label>Стальная Стенка B </SadjuukWallBB.label>
+  <SadjuukWallBB.description>HP : 450
+Cтена из необработанной стали.</SadjuukWallBB.description>
+  <SadjuukWallBB_Blueprint.label>Стальная Стенка B (чертеж)</SadjuukWallBB_Blueprint.label>
+  <SadjuukWallBB_Frame.label>Стальная Стенка B (здание)</SadjuukWallBB_Frame.label>
+  <SadjuukWallBB_Frame.description>HP : 450
+Cтена из необработанной стали.</SadjuukWallBB_Frame.description>
+  <!-- Steel Embrasure BB -->
+  <SadjuukEmbrasureBB.label>Стальная амбразура B </SadjuukEmbrasureBB.label>
+  <SadjuukEmbrasureBB.description>HP : 450
+Амбразура из необработанной стали.</SadjuukEmbrasureBB.description>
+  <SadjuukEmbrasureBB_Blueprint.label>Стальная амбразура B (чертеж)</SadjuukEmbrasureBB_Blueprint.label>
+  <SadjuukEmbrasureBB_Frame.label>Стальная амбразура B (здание)</SadjuukEmbrasureBB_Frame.label>
+  <SadjuukEmbrasureBB_Frame.description>HP : 450
+Амбразура из необработанной стали.</SadjuukEmbrasureBB_Frame.description>
+  <!-- Concrete Wall CA -->
+  <SadjuukWallCA.label>Бетонная Стена А</SadjuukWallCA.label>
+  <SadjuukWallCA.description>HP : 775
+Бетонная стена.</SadjuukWallCA.description>
+  <SadjuukWallCA_Blueprint.label>Бетонная Стена А (чертеж)</SadjuukWallCA_Blueprint.label>
+  <SadjuukWallCA_Frame.label>Бетонная Стена А (здание)</SadjuukWallCA_Frame.label>
+  <SadjuukWallCA_Frame.description>HP : 775
+Бетонная стена.</SadjuukWallCA_Frame.description>
+  <!-- Concrete Embrasure CA -->
+  <SadjuukEmbrasureCA.label>Бетонная Амбразура A</SadjuukEmbrasureCA.label>
+  <SadjuukEmbrasureCA.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCA.description>
+  <SadjuukEmbrasureCA_Blueprint.label>Бетонная Амбразура A(чертеж)</SadjuukEmbrasureCA_Blueprint.label>
+  <SadjuukEmbrasureCA_Frame.label>Бетонная Амбразура A(здание)</SadjuukEmbrasureCA_Frame.label>
+  <SadjuukEmbrasureCA_Frame.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCA_Frame.description>
+  <!-- Concrete Wall CB -->
+  <SadjuukWallCB.label>Бетонная стена B</SadjuukWallCB.label>
+  <SadjuukWallCB.description>HP : 775
+Бетонная стена.</SadjuukWallCB.description>
+  <SadjuukWallCB_Blueprint.label>Бетонная стена B(чертеж)</SadjuukWallCB_Blueprint.label>
+  <SadjuukWallCB_Frame.label>Бетонная стена B(здание)</SadjuukWallCB_Frame.label>
+  <SadjuukWallCB_Frame.description>HP : 775
+Бетонная стена.</SadjuukWallCB_Frame.description>
+  <!-- Concrete Embrasure CB -->
+  <SadjuukEmbrasureCB.label>Бетонная амбразура B</SadjuukEmbrasureCB.label>
+  <SadjuukEmbrasureCB.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCB.description>
+  <SadjuukEmbrasureCB_Blueprint.label>Бетонная амбразура B(чертеж)</SadjuukEmbrasureCB_Blueprint.label>
+  <SadjuukEmbrasureCB_Frame.label>Бетонная амбразура B(здание)</SadjuukEmbrasureCB_Frame.label>
+  <SadjuukEmbrasureCB_Frame.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCB_Frame.description>
+  <!-- Concrete Wall CC -->
+  <SadjuukWallCC.label>Бетонная стена C</SadjuukWallCC.label>
+  <SadjuukWallCC.description>HP : 775
+Бетонная стена.</SadjuukWallCC.description>
+  <SadjuukWallCC_Blueprint.label>Бетонная стена C(чертеж)</SadjuukWallCC_Blueprint.label>
+  <SadjuukWallCC_Frame.label>Бетонная стена C(здание)</SadjuukWallCC_Frame.label>
+  <SadjuukWallCC_Frame.description>HP : 775
+Бетонная стена.</SadjuukWallCC_Frame.description>
+  <!-- Concrete Embrasure CC -->
+  <SadjuukEmbrasureCC.label>Бетонная амбразура C</SadjuukEmbrasureCC.label>
+  <SadjuukEmbrasureCC.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCC.description>
+  <SadjuukEmbrasureCC_Blueprint.label>Бетонная амбразура C(чертеж)</SadjuukEmbrasureCC_Blueprint.label>
+  <SadjuukEmbrasureCC_Frame.label>Бетонная амбразура C(здание)</SadjuukEmbrasureCC_Frame.label>
+  <SadjuukEmbrasureCC_Frame.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCC_Frame.description>
+  <!-- Concrete Wall CD -->
+  <SadjuukWallCD.label>Бетонная стена D</SadjuukWallCD.label>
+  <SadjuukWallCD.description>HP : 775
+Бетонная стена.</SadjuukWallCD.description>
+  <SadjuukWallCD_Blueprint.label>Бетонная стена D(чертеж)</SadjuukWallCD_Blueprint.label>
+  <SadjuukWallCD_Frame.label>Бетонная стена D(здание)</SadjuukWallCD_Frame.label>
+  <SadjuukWallCD_Frame.description>HP : 775
+Бетонная стена.</SadjuukWallCD_Frame.description>
+  <!-- Concrete Embrasure CD -->
+  <SadjuukEmbrasureCD.label>Бетонная амбразура D</SadjuukEmbrasureCD.label>
+  <SadjuukEmbrasureCD.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCD.description>
+  <SadjuukEmbrasureCD_Blueprint.label>Бетонная амбразура D(чертеж)</SadjuukEmbrasureCD_Blueprint.label>
+  <SadjuukEmbrasureCD_Frame.label>Бетонная амбразура D(здание)</SadjuukEmbrasureCD_Frame.label>
+  <SadjuukEmbrasureCD_Frame.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCD_Frame.description>
+  <!-- Concrete Wall CE -->
+  <SadjuukWallCE.label>Бетонная стена E</SadjuukWallCE.label>
+  <SadjuukWallCE.description>HP : 775
+Бетонная стена.</SadjuukWallCE.description>
+  <SadjuukWallCE_Blueprint.label>Бетонная стена E(чертеж)</SadjuukWallCE_Blueprint.label>
+  <SadjuukWallCE_Frame.label>Бетонная стена E(здание)</SadjuukWallCE_Frame.label>
+  <SadjuukWallCE_Frame.description>HP : 775
+Бетонная стена.</SadjuukWallCE_Frame.description>
+  <!-- Concrete Embrasure CE -->
+  <SadjuukEmbrasureCE.label>Бетонная амбразура E</SadjuukEmbrasureCE.label>
+  <SadjuukEmbrasureCE.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCE.description>
+  <SadjuukEmbrasureCE_Blueprint.label>Бетонная амбразура E(чертеж)</SadjuukEmbrasureCE_Blueprint.label>
+  <SadjuukEmbrasureCE_Frame.label>Бетонная амбразура E(здание)</SadjuukEmbrasureCE_Frame.label>
+  <SadjuukEmbrasureCE_Frame.description>HP : 775
+Бетонная амбразура.</SadjuukEmbrasureCE_Frame.description>
+  <!-- Shielded Wall DA -->
+  <SadjuukWallDA.label>Экранированная стена</SadjuukWallDA.label>
+  <SadjuukWallDA.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDA.description>
+  <SadjuukWallDA_Blueprint.label>Экранированная стена(чертеж)</SadjuukWallDA_Blueprint.label>
+  <SadjuukWallDA_Frame.label>Экранированная стена(здание)</SadjuukWallDA_Frame.label>
+  <SadjuukWallDA_Frame.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDA_Frame.description>
+  <!-- Shielded Embrasure DA -->
+  <SadjuukEmbrasureDA.label>Экранированная амбразура</SadjuukEmbrasureDA.label>
+  <SadjuukEmbrasureDA.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDA.description>
+  <SadjuukEmbrasureDA_Blueprint.label>Экранированная амбразура(чертеж)</SadjuukEmbrasureDA_Blueprint.label>
+  <SadjuukEmbrasureDA_Frame.label>Экранированная амбразура(здание)</SadjuukEmbrasureDA_Frame.label>
+  <SadjuukEmbrasureDA_Frame.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDA_Frame.description>
+  <!-- Shielded Wall DB -->
+  <SadjuukWallDB.label>Зеленая Экранированная Стена</SadjuukWallDB.label>
+  <SadjuukWallDB.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDB.description>
+  <SadjuukWallDB_Blueprint.label>Зеленая Экранированная Стена(чертеж)</SadjuukWallDB_Blueprint.label>
+  <SadjuukWallDB_Frame.label>Зеленая Экранированная Стена(здание)</SadjuukWallDB_Frame.label>
+  <SadjuukWallDB_Frame.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDB_Frame.description>
+  <!-- Shielded Embrasure DB -->
+  <SadjuukEmbrasureDB.label>Зеленая Экранированная Амбразура</SadjuukEmbrasureDB.label>
+  <SadjuukEmbrasureDB.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDB.description>
+  <SadjuukEmbrasureDB_Blueprint.label>Зеленая Экранированная Амбразура(чертеж)</SadjuukEmbrasureDB_Blueprint.label>
+  <SadjuukEmbrasureDB_Frame.label>Зеленая Экранированная Амбразура(здание)</SadjuukEmbrasureDB_Frame.label>
+  <SadjuukEmbrasureDB_Frame.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDB_Frame.description>
+  <!-- Shielded Wall DC -->
+  <SadjuukWallDC.label>Лесная Камуфляжная стена</SadjuukWallDC.label>
+  <SadjuukWallDC.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDC.description>
+  <SadjuukWallDC_Blueprint.label>Лесная Камуфляжная стена(чертеж)</SadjuukWallDC_Blueprint.label>
+  <SadjuukWallDC_Frame.label>Лесная Камуфляжная стена(здание)</SadjuukWallDC_Frame.label>
+  <SadjuukWallDC_Frame.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDC_Frame.description>
+  <!-- Shielded Embrasure DC -->
+  <SadjuukEmbrasureDC.label>Лесная Камуфляжная амбразура</SadjuukEmbrasureDC.label>
+  <SadjuukEmbrasureDC.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDC.description>
+  <SadjuukEmbrasureDC_Blueprint.label>Лесная Камуфляжная амбразура(чертеж)</SadjuukEmbrasureDC_Blueprint.label>
+  <SadjuukEmbrasureDC_Frame.label>Лесная Камуфляжная амбразура(здание)</SadjuukEmbrasureDC_Frame.label>
+  <SadjuukEmbrasureDC_Frame.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDC_Frame.description>
+  <!-- Shielded Wall DD -->
+  <SadjuukWallDD.label>Камуфляжная стена Flecktarn</SadjuukWallDD.label>
+  <SadjuukWallDD.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDD.description>
+  <SadjuukWallDD_Blueprint.label>Камуфляжная стена Flecktarn(чертеж)</SadjuukWallDD_Blueprint.label>
+  <SadjuukWallDD_Frame.label>Камуфляжная стена Flecktarn(здание)</SadjuukWallDD_Frame.label>
+  <SadjuukWallDD_Frame.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDD_Frame.description>
+  <!-- Shielded Embrasure DD -->
+  <SadjuukEmbrasureDD.label>Камуфляжная амбразура Flecktarn</SadjuukEmbrasureDD.label>
+  <SadjuukEmbrasureDD.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDD.description>
+  <SadjuukEmbrasureDD_Blueprint.label>Камуфляжная амбразура Flecktarn(чертеж)</SadjuukEmbrasureDD_Blueprint.label>
+  <SadjuukEmbrasureDD_Frame.label>Камуфляжная амбразура Flecktarn(здание)</SadjuukEmbrasureDD_Frame.label>
+  <SadjuukEmbrasureDD_Frame.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDD_Frame.description>
+  <!-- Shielded Wall DE -->
+  <SadjuukWallDE.label>Пустынная Камуфляжная стена</SadjuukWallDE.label>
+  <SadjuukWallDE.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDE.description>
+  <SadjuukWallDE_Blueprint.label>Пустынная Камуфляжная стена(чертеж)</SadjuukWallDE_Blueprint.label>
+  <SadjuukWallDE_Frame.label>Пустынная Камуфляжная стена(здание)</SadjuukWallDE_Frame.label>
+  <SadjuukWallDE_Frame.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDE_Frame.description>
+  <!-- Shielded Embrasure DE -->
+  <SadjuukEmbrasureDE.label>Амбразура в камуфляже пустыни</SadjuukEmbrasureDE.label>
+  <SadjuukEmbrasureDE.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDE.description>
+  <SadjuukEmbrasureDE_Blueprint.label>Амбразура в камуфляже пустыни(чертеж)</SadjuukEmbrasureDE_Blueprint.label>
+  <SadjuukEmbrasureDE_Frame.label>Амбразура в камуфляже пустыни(здание)</SadjuukEmbrasureDE_Frame.label>
+  <SadjuukEmbrasureDE_Frame.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDE_Frame.description>
+  <!-- Shielded Wall DF -->
+  <SadjuukWallDF.label>Ледяная Камуфляжная стена</SadjuukWallDF.label>
+  <SadjuukWallDF.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDF.description>
+  <SadjuukWallDF_Blueprint.label>Ледяная Камуфляжная стена(чертеж)</SadjuukWallDF_Blueprint.label>
+  <SadjuukWallDF_Frame.label>Ледяная Камуфляжная стена(здание)</SadjuukWallDF_Frame.label>
+  <SadjuukWallDF_Frame.description>HP : 1550
+Защищенная бетонная стена.</SadjuukWallDF_Frame.description>
+  <!-- Shielded Embrasure DF -->
+  <SadjuukEmbrasureDF.label>Ледяная Камуфляжная амбразура</SadjuukEmbrasureDF.label>
+  <SadjuukEmbrasureDF.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDF.description>
+  <SadjuukEmbrasureDF_Blueprint.label>Ледяная Камуфляжная амбразура(чертеж)</SadjuukEmbrasureDF_Blueprint.label>
+  <SadjuukEmbrasureDF_Frame.label>Ледяная Камуфляжная амбразура(здание)</SadjuukEmbrasureDF_Frame.label>
+  <SadjuukEmbrasureDF_Frame.description>HP : 1550
+Защищенная бетонная амбразура.</SadjuukEmbrasureDF_Frame.description>
+  <!-- Armored Wall EA -->
+  <SadjuukWallEA.label>Бронированная Стена А</SadjuukWallEA.label>
+  <SadjuukWallEA.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallEA.description>
+  <SadjuukWallEA_Blueprint.label>Бронированная Стена А(чертеж)</SadjuukWallEA_Blueprint.label>
+  <SadjuukWallEA_Frame.label>Бронированная Стена А(здание)</SadjuukWallEA_Frame.label>
+  <SadjuukWallEA_Frame.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallEA_Frame.description>
+  <!-- Armored Embrasure EA -->
+  <SadjuukEmbrasureEA.label>Бронированная Амбразура А</SadjuukEmbrasureEA.label>
+  <SadjuukEmbrasureEA.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureEA.description>
+  <SadjuukEmbrasureEA_Blueprint.label>Бронированная Амбразура А(чертеж)</SadjuukEmbrasureEA_Blueprint.label>
+  <SadjuukEmbrasureEA_Frame.label>Бронированная Амбразура А(здание)</SadjuukEmbrasureEA_Frame.label>
+  <SadjuukEmbrasureEA_Frame.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureEA_Frame.description>
+  <!-- Armored Wall EB -->
+  <SadjuukWallEB.label>Бронированная стена B</SadjuukWallEB.label>
+  <SadjuukWallEB.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallEB.description>
+  <SadjuukWallEB_Blueprint.label>Бронированная стена B(чертеж)</SadjuukWallEB_Blueprint.label>
+  <SadjuukWallEB_Frame.label>Бронированная стена B(здание)</SadjuukWallEB_Frame.label>
+  <SadjuukWallEB_Frame.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallEB_Frame.description>
+  <!-- Armored Embrasure EB -->
+  <SadjuukEmbrasureEB.label>Бронированная амбразура B</SadjuukEmbrasureEB.label>
+  <SadjuukEmbrasureEB.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureEB.description>
+  <SadjuukEmbrasureEB_Blueprint.label>Бронированная амбразура B(чертеж)</SadjuukEmbrasureEB_Blueprint.label>
+  <SadjuukEmbrasureEB_Frame.label>Бронированная амбразура B(здание)</SadjuukEmbrasureEB_Frame.label>
+  <SadjuukEmbrasureEB_Frame.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureEB_Frame.description>
+  <!-- Armored Wall EC -->
+  <SadjuukWallEC.label>Бронированная стена C</SadjuukWallEC.label>
+  <SadjuukWallEC.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallEC.description>
+  <SadjuukWallEC_Blueprint.label>Бронированная стена C(чертеж)</SadjuukWallEC_Blueprint.label>
+  <SadjuukWallEC_Frame.label>Бронированная стена C(здание)</SadjuukWallEC_Frame.label>
+  <SadjuukWallEC_Frame.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallEC_Frame.description>
+  <!-- Armored Embrasure EC -->
+  <SadjuukEmbrasureEC.label>Бронированная амбразура C</SadjuukEmbrasureEC.label>
+  <SadjuukEmbrasureEC.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureEC.description>
+  <SadjuukEmbrasureEC_Blueprint.label>Бронированная амбразура C(чертеж)</SadjuukEmbrasureEC_Blueprint.label>
+  <SadjuukEmbrasureEC_Frame.label>Бронированная амбразура C(здание)</SadjuukEmbrasureEC_Frame.label>
+  <SadjuukEmbrasureEC_Frame.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureEC_Frame.description>
+  <!-- Armored Wall ED -->
+  <SadjuukWallED.label>Бронированная стена D</SadjuukWallED.label>
+  <SadjuukWallED.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallED.description>
+  <SadjuukWallED_Blueprint.label>Бронированная стена D(чертеж)</SadjuukWallED_Blueprint.label>
+  <SadjuukWallED_Frame.label>Бронированная стена D(здание)</SadjuukWallED_Frame.label>
+  <SadjuukWallED_Frame.description>HP : 3350
+Бронированная бетонная стена.</SadjuukWallED_Frame.description>
+  <!-- Armored Embrasure ED -->
+  <SadjuukEmbrasureED.label>Бронированная амбразура D</SadjuukEmbrasureED.label>
+  <SadjuukEmbrasureED.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureED.description>
+  <SadjuukEmbrasureED_Blueprint.label>Бронированная амбразура D(чертеж)</SadjuukEmbrasureED_Blueprint.label>
+  <SadjuukEmbrasureED_Frame.label>Бронированная амбразура D(здание)</SadjuukEmbrasureED_Frame.label>
+  <SadjuukEmbrasureED_Frame.description>HP : 3350
+Бронированная бетонная амбразура.</SadjuukEmbrasureED_Frame.description>
+  <!-- Wooden Fence -->
+  <SadjuukWoodFence.label>Деревянный Забор</SadjuukWoodFence.label>
+  <SadjuukWoodFence.description>HP : 80
+Деревенский Деревянный забор.</SadjuukWoodFence.description>
+  <SadjuukWoodFence_Blueprint.label>Деревянный Забор(чертеж)</SadjuukWoodFence_Blueprint.label>
+  <SadjuukWoodFence_Frame.label>Деревянный Забор(здание)</SadjuukWoodFence_Frame.label>
+  <SadjuukWoodFence_Frame.description>HP : 80
+Деревенский Деревянный забор.</SadjuukWoodFence_Frame.description>
+  <!-- Grid Fence -->
+  <SadjuukGridFence.label>Решетчатый Забор</SadjuukGridFence.label>
+  <SadjuukGridFence.description>HP : 250
+Промышленный забор из металлической сетки.</SadjuukGridFence.description>
+  <SadjuukGridFence_Blueprint.label>Решетчатый Забор(чертеж)</SadjuukGridFence_Blueprint.label>
+  <SadjuukGridFence_Frame.label>Решетчатый Забор(здание)</SadjuukGridFence_Frame.label>
+  <SadjuukGridFence_Frame.description>HP : 250
+Промышленный забор из металлической сетки.</SadjuukGridFence_Frame.description>
+  <!-- Glass Partition -->
+  <SadjuukGlassFenceA.label>Стеклянная Перегородка</SadjuukGlassFenceA.label>
+  <SadjuukGlassFenceA.description>HP : 70
+Стеклянные перегородки, столь же безопасные, сколь и эстетичные, - это простой способ преобразить ваше пространство.</SadjuukGlassFenceA.description>
+  <SadjuukGlassFenceA_Blueprint.label>Стеклянная Перегородка(чертеж)</SadjuukGlassFenceA_Blueprint.label>
+  <SadjuukGlassFenceA_Frame.label>Стеклянная Перегородка(здание)</SadjuukGlassFenceA_Frame.label>
+  <SadjuukGlassFenceA_Frame.description>HP : 70
+Стеклянные перегородки, столь же безопасные, сколь и эстетичные, - это простой способ преобразить ваше пространство.</SadjuukGlassFenceA_Frame.description>
+  <!-- Concrete Fence -->
+  <SadjuukConcreteFence.label>Бетонный Забор</SadjuukConcreteFence.label>
+  <SadjuukConcreteFence.description>HP : 300
+Промышленный бетонный забор.</SadjuukConcreteFence.description>
+  <SadjuukConcreteFence_Blueprint.label>Бетонный Забор(чертеж)</SadjuukConcreteFence_Blueprint.label>
+  <SadjuukConcreteFence_Frame.label>Бетонный Забор(здание)</SadjuukConcreteFence_Frame.label>
+  <SadjuukConcreteFence_Frame.description>HP : 300
+Промышленный бетонный забор.</SadjuukConcreteFence_Frame.description>
+</LanguageData>

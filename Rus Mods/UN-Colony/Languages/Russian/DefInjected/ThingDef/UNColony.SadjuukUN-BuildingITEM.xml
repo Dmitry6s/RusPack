@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- CONCRETE -->
+  <SadjuukConcrete.label>Бетон</SadjuukConcrete.label>
+  <SadjuukConcrete.description>Композитный материал, мелкий и крупный заполнитель, соединенные вместе. Бетон делает здание пожаробезопасным благодаря своей негорючей природе.</SadjuukConcrete.description>
+  <!-- Asphalt Concrete (1/15 Fuel Oil) -->
+  <SadjuukAsphaltConcrete.label>Асфальтобетон</SadjuukAsphaltConcrete.label>
+  <SadjuukAsphaltConcrete.description>Асфальт смешивают с частицами заполнителя для получения асфальтобетона.</SadjuukAsphaltConcrete.description>
+  <!-- GLASS -->
+  <SadjuukGlass.label>Стекло</SadjuukGlass.label>
+  <SadjuukGlass.description>Тонкие пластины из переплетенного кремния.</SadjuukGlass.description>
+  <!-- PAINT (10 chemfuel) -->
+  <SadjuukSyntheticPaint.label>Синтетическая краска</SadjuukSyntheticPaint.label>
+  <SadjuukSyntheticPaint.description>Чрезвычайно прочная и долговечная однокомпонентная краска на основе синтетической смолы для внутреннего применения на полах с интенсивным движением. Быстрое высыхание, отличные укрывные свойства.</SadjuukSyntheticPaint.description>
+</LanguageData>

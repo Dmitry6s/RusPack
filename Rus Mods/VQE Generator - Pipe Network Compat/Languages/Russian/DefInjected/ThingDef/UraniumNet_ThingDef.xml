@@ -1,0 +1,28 @@
+<LanguageData>
+	<!-- Defs\NetDefs\UraniumNet.xml -->
+	
+	                   <!-- EN: uranium pipe -->
+	<PipedARC_UraniumPipe.label>урановая труба</PipedARC_UraniumPipe.label>
+	                         <!-- EN: Piping designed to deliver uranium safely and automatically. -->
+	<PipedARC_UraniumPipe.description>Трубопровод, предназначенный для безопасной и автоматической подачи урана.</PipedARC_UraniumPipe.description>
+	
+	                         <!-- EN: hidden uranium pipe -->
+	<PipedARC_HiddenUraniumPipe.label>скрытая урановая труба</PipedARC_HiddenUraniumPipe.label>
+	                               <!-- EN: Hidden piping designed to deliver uranium safely and automatically. -->
+	<PipedARC_HiddenUraniumPipe.description>Скрытый трубопровод, предназначенный для безопасной и автоматической подачи урана.</PipedARC_HiddenUraniumPipe.description>
+	
+	                     <!-- EN: uranium input hopper -->
+	<PipedARC_UraniumHopper.label>урановая воронка</PipedARC_UraniumHopper.label>
+	                           <!-- EN: A small hopper that can input uranium into connected tanks. -->
+	<PipedARC_UraniumHopper.description>Небольшая воронка, которая может подавать уран в подключённые резервуары.</PipedARC_UraniumHopper.description>
+	
+	                    <!-- EN: uranium valve -->
+	<PipedARC_UraniumValve.label>урановый вентиль</PipedARC_UraniumValve.label>
+	                          <!-- EN: Can be switched to block the flow of uranium -->
+	<PipedARC_UraniumValve.description>Может быть переключён для блокировки потока урана</PipedARC_UraniumValve.description>
+	
+	                   <!-- EN: uranium buffer tank -->
+	<PipedARC_UraniumTank.label>урановый резервуар</PipedARC_UraniumTank.label>
+	                         <!-- EN: A storage tank capable of holding some uranium. The capacity is not impressive, relegating it as a buffer. -->
+	<PipedARC_UraniumTank.description>Резервуар для хранения, способный вместить небольшое количество урана. Его вместимость невелика, что делает его всего лишь буфером.</PipedARC_UraniumTank.description>
+</LanguageData>

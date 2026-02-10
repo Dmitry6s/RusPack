@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Steel plate (75 steel) -->
+  <SadjuukSteelSlabRecipeA.label>Изготоить 75 стальных листов.</SadjuukSteelSlabRecipeA.label>
+  <SadjuukSteelSlabRecipeA.description>Произвести стальные пластины.</SadjuukSteelSlabRecipeA.description>
+  <SadjuukSteelSlabRecipeA.jobString>Производство стальных пластин.</SadjuukSteelSlabRecipeA.jobString>
+  <!-- Steel plate (1/30 Steel chunk) -->
+  <SadjuukSteelSlabRecipeCA.label>Изготавить стальные пластины из кусков.</SadjuukSteelSlabRecipeCA.label>
+  <SadjuukSteelSlabRecipeCA.description>Произвести стальные пластины.</SadjuukSteelSlabRecipeCA.description>
+  <SadjuukSteelSlabRecipeCA.jobString>Производство стальных пластин.</SadjuukSteelSlabRecipeCA.jobString>
+  <!-- Steel plate (150 steel) -->
+  <SadjuukSteelSlabRecipeB.label>Изготовить 150 стальных листов.</SadjuukSteelSlabRecipeB.label>
+  <SadjuukSteelSlabRecipeB.description>Произвести стальные пластины.</SadjuukSteelSlabRecipeB.description>
+  <SadjuukSteelSlabRecipeB.jobString>Производство стальных пластин.</SadjuukSteelSlabRecipeB.jobString>
+  <!-- Steel plate (2/75 Steel chunk) -->
+  <SadjuukSteelSlabRecipeCB.label>Изготовить стальные пластины из кусков.</SadjuukSteelSlabRecipeCB.label>
+  <SadjuukSteelSlabRecipeCB.description>Произвести стальные пластины.</SadjuukSteelSlabRecipeCB.description>
+  <SadjuukSteelSlabRecipeCB.jobString>Производство стальных пластин.</SadjuukSteelSlabRecipeCB.jobString>
+  <!-- Steel plate (225 steel) -->
+  <SadjuukSteelSlabRecipeC.label>Изготовить 225 стальных листов.</SadjuukSteelSlabRecipeC.label>
+  <SadjuukSteelSlabRecipeC.description>Произвести стальные пластины.</SadjuukSteelSlabRecipeC.description>
+  <SadjuukSteelSlabRecipeC.jobString>Производство стальных пластин.</SadjuukSteelSlabRecipeC.jobString>
+  <!-- Steel plate (3/135 Steel chunk) -->
+  <SadjuukSteelSlabRecipeCC.label>Изготовить стальные пластины из кусков.</SadjuukSteelSlabRecipeCC.label>
+  <SadjuukSteelSlabRecipeCC.description>Произвести стальные пластины.</SadjuukSteelSlabRecipeCC.description>
+  <SadjuukSteelSlabRecipeCC.jobString>Производство стальных пластин.</SadjuukSteelSlabRecipeCC.jobString>
+  <!-- Steel Plate from raw steel -->
+  <SadjuukSteelPlateRecipe2A.label>Изготовить 1 стальную пластину.</SadjuukSteelPlateRecipe2A.label>
+  <SadjuukSteelPlateRecipe2A.description>Ручная обработка необработанной стали для получения стальных пластин.</SadjuukSteelPlateRecipe2A.description>
+  <SadjuukSteelPlateRecipe2A.jobString>Производство стальных пластин.</SadjuukSteelPlateRecipe2A.jobString>
+  <SadjuukSteelPlateRecipeA.label>Изготовить 15 стальных пластин.</SadjuukSteelPlateRecipeA.label>
+  <SadjuukSteelPlateRecipeA.description>Ручная обработка необработанной стали для получения стальных пластин.</SadjuukSteelPlateRecipeA.description>
+  <SadjuukSteelPlateRecipeA.jobString>Производство стальных пластин.</SadjuukSteelPlateRecipeA.jobString>
+  <!-- Metal Grid -->
+  <SadjuukMetalGridRecipeA.label>Изготовить 1 металлическую сетку.</SadjuukMetalGridRecipeA.label>
+  <SadjuukMetalGridRecipeA.description>Произвести различные металлические сетки.</SadjuukMetalGridRecipeA.description>
+  <SadjuukMetalGridRecipeA.jobString>Изготовление металлических сеток.</SadjuukMetalGridRecipeA.jobString>
+  <SadjuukMetalGridRecipeAB.label>Изготовить 15 металлических сеток.</SadjuukMetalGridRecipeAB.label>
+  <SadjuukMetalGridRecipeAB.description>Произвести различные металлические сетки.</SadjuukMetalGridRecipeAB.description>
+  <SadjuukMetalGridRecipeAB.jobString>Изготовление металлических сеток.</SadjuukMetalGridRecipeAB.jobString>
+  <!-- Steel Tube -->
+  <SadjuukSteelTubeRecipeA.label>Изготовить 1 стальную трубу.</SadjuukSteelTubeRecipeA.label>
+  <SadjuukSteelTubeRecipeA.description>Произвести различные стальные трубы.</SadjuukSteelTubeRecipeA.description>
+  <SadjuukSteelTubeRecipeA.jobString>Производство стальных труб.</SadjuukSteelTubeRecipeA.jobString>
+  <SadjuukSteelTubeRecipeAB.label>Изготовить 15 стальных труб.</SadjuukSteelTubeRecipeAB.label>
+  <SadjuukSteelTubeRecipeAB.description>Произвести различные стальные трубы.</SadjuukSteelTubeRecipeAB.description>
+  <SadjuukSteelTubeRecipeAB.jobString>Производство стальных труб.</SadjuukSteelTubeRecipeAB.jobString>
+  <!-- Wire -->
+  <SadjuukWireRecipeA.label>Изготовить 10 комплектов проводов и кабелей.</SadjuukWireRecipeA.label>
+  <SadjuukWireRecipeA.description>Произвести провода и кабельные комплекты.</SadjuukWireRecipeA.description>
+  <SadjuukWireRecipeA.jobString>Производство проводов и кабельных комплектов.</SadjuukWireRecipeA.jobString>
+  <!-- Basic Component -->
+  <SadjuukBasicComponentRecipeA.label>Изготовить 10 Основных Компонентов.</SadjuukBasicComponentRecipeA.label>
+  <SadjuukBasicComponentRecipeA.description>Произвести различные Компоненты.</SadjuukBasicComponentRecipeA.description>
+  <SadjuukBasicComponentRecipeA.jobString>Производство различных Промышленных Компонентов.</SadjuukBasicComponentRecipeA.jobString>
+  <!-- Metal Grid (1) -->
+  <SadjuukMetalGridRecipeB.label>Изготовить 1 металлическую сетку.</SadjuukMetalGridRecipeB.label>
+  <SadjuukMetalGridRecipeB.description>Произвести различные металлические сетки.</SadjuukMetalGridRecipeB.description>
+  <SadjuukMetalGridRecipeB.jobString>Изготовление металлических сеток.</SadjuukMetalGridRecipeB.jobString>
+  <!-- Metal Grid (25) -->
+  <SadjuukMetalGridRecipeC.label>Изготовить 25 металлических сеток.</SadjuukMetalGridRecipeC.label>
+  <SadjuukMetalGridRecipeC.description>Произвесть различные металлические сетки.</SadjuukMetalGridRecipeC.description>
+  <SadjuukMetalGridRecipeC.jobString>Изготовление металлических сеток.</SadjuukMetalGridRecipeC.jobString>
+  <!-- Steel Tube (1) -->
+  <SadjuukSteelTubeRecipeB.label>Изготовить 1 стальную трубу.</SadjuukSteelTubeRecipeB.label>
+  <SadjuukSteelTubeRecipeB.description>Произвести различные стальные трубы.</SadjuukSteelTubeRecipeB.description>
+  <SadjuukSteelTubeRecipeB.jobString>Производство стальных труб.</SadjuukSteelTubeRecipeB.jobString>
+  <!-- Steel Tube (25) -->
+  <SadjuukSteelTubeRecipeC.label>Изготовить 25 стальных труб.</SadjuukSteelTubeRecipeC.label>
+  <SadjuukSteelTubeRecipeC.description>Произвести различные стальные трубы.</SadjuukSteelTubeRecipeC.description>
+  <SadjuukSteelTubeRecipeC.jobString>Производство стальных труб.</SadjuukSteelTubeRecipeC.jobString>
+  <!-- Wire (10) -->
+  <SadjuukWireRecipeB.label>Изготовить 10 комплектов проводов и кабелей.</SadjuukWireRecipeB.label>
+  <SadjuukWireRecipeB.description>Произвести провода и кабельные комплекты.</SadjuukWireRecipeB.description>
+  <SadjuukWireRecipeB.jobString>Производство проводов и кабельных комплектов.</SadjuukWireRecipeB.jobString>
+  <!-- Wire (120) -->
+  <SadjuukWireRecipeC.label>Изготовить 120 комплектов проводов и кабелей.</SadjuukWireRecipeC.label>
+  <SadjuukWireRecipeC.description>Произвести провода и кабельные комплекты.</SadjuukWireRecipeC.description>
+  <SadjuukWireRecipeC.jobString>Производство проводов и кабельных комплектов.</SadjuukWireRecipeC.jobString>
+  <!-- Armored Plate (1) -->
+  <SadjuukArmoredPlateRecipeB.label>Изготовить 1 Бронированную Пластину.</SadjuukArmoredPlateRecipeB.label>
+  <SadjuukArmoredPlateRecipeB.description>Изготовить Броневую Плиту.</SadjuukArmoredPlateRecipeB.description>
+  <SadjuukArmoredPlateRecipeB.jobString>Изготовление Бронированной Пластины.</SadjuukArmoredPlateRecipeB.jobString>
+  <!-- Armored Plate (7) -->
+  <SadjuukArmoredPlateRecipeC.label>Изготовить 7 Бронированных Пластин.</SadjuukArmoredPlateRecipeC.label>
+  <SadjuukArmoredPlateRecipeC.description>Изготовить Броневую Плиту.</SadjuukArmoredPlateRecipeC.description>
+  <SadjuukArmoredPlateRecipeC.jobString>Изготовление Бронированной Пластины.</SadjuukArmoredPlateRecipeC.jobString>
+  <!-- Basic Component (10) -->
+  <SadjuukBasicComponentRecipeB.label>Изготовить 10 Основных Компонентов.</SadjuukBasicComponentRecipeB.label>
+  <SadjuukBasicComponentRecipeB.description>Произвести различные Компоненты.</SadjuukBasicComponentRecipeB.description>
+  <SadjuukBasicComponentRecipeB.jobString>Производство различных Промышленных Компонентов.</SadjuukBasicComponentRecipeB.jobString>
+  <!-- Basic Component (60) -->
+  <SadjuukBasicComponentRecipeC.label>Сделать 60 Основных Компонентов.</SadjuukBasicComponentRecipeC.label>
+  <SadjuukBasicComponentRecipeC.description>Произвести различные Компоненты.</SadjuukBasicComponentRecipeC.description>
+  <SadjuukBasicComponentRecipeC.jobString>Производство различных Промышленных Компонентов.</SadjuukBasicComponentRecipeC.jobString>
+  <!-- Solar Cell -->
+  <SadjuukSolarCellRecipeA.label>Изготовить 1 Солнечную батарею.</SadjuukSolarCellRecipeA.label>
+  <SadjuukSolarCellRecipeA.description>Произвести Солнечные Батареи.</SadjuukSolarCellRecipeA.description>
+  <SadjuukSolarCellRecipeA.jobString>Производство Солнечных Батарей.</SadjuukSolarCellRecipeA.jobString>
+  <SadjuukSolarCellRecipeB.label>Изготовить 12 Солнечных Элементов.</SadjuukSolarCellRecipeB.label>
+  <SadjuukSolarCellRecipeB.description>Произвести Солнечные Батареи.</SadjuukSolarCellRecipeB.description>
+  <SadjuukSolarCellRecipeB.jobString>Производство Солнечных Батарей.</SadjuukSolarCellRecipeB.jobString>
+  <!-- Chemfuel recipe WOOD -->
+  <SadjuukChemfuelRecipeA.label>Изготовить 40 хим топлива из древесины</SadjuukChemfuelRecipeA.label>
+  <SadjuukChemfuelRecipeA.description>Извлечь хим топливо из древесных бревен.</SadjuukChemfuelRecipeA.description>
+  <SadjuukChemfuelRecipeA.jobString>Переработка хим топлива из древесины.</SadjuukChemfuelRecipeA.jobString>
+  <!-- Chemfuel recipe HAY -->
+  <SadjuukChemfuelRecipeC.label>Изготовить 40 хим топлива из сена</SadjuukChemfuelRecipeC.label>
+  <SadjuukChemfuelRecipeC.description>Извлечь хим топливо из сена.</SadjuukChemfuelRecipeC.description>
+  <SadjuukChemfuelRecipeC.jobString>Переработка хим топлива из сена</SadjuukChemfuelRecipeC.jobString>
+  <!-- Fuel Oil from 150 chemfuel -->
+  <SadjuukFuelOilRecipeA.label>Изготовить мазут из химического топлива</SadjuukFuelOilRecipeA.label>
+  <SadjuukFuelOilRecipeA.description>Извлечь мазут из химического топлива.</SadjuukFuelOilRecipeA.description>
+  <SadjuukFuelOilRecipeA.jobString>Переработка мазута из химического топлива.</SadjuukFuelOilRecipeA.jobString>
+  <!-- Fuel Oil from 225 Wood -->
+  <SadjuukFuelOilRecipeB.label>Изготовить мазут из древесины</SadjuukFuelOilRecipeB.label>
+  <SadjuukFuelOilRecipeB.description>Извлечь мазут из древесины.</SadjuukFuelOilRecipeB.description>
+  <SadjuukFuelOilRecipeB.jobString>Переработка мазута из древесины.</SadjuukFuelOilRecipeB.jobString>
+  <!-- Fuel Oil from 600 Hay -->
+  <SadjuukFuelOilRecipeC.label>Изготовить мазут из сена</SadjuukFuelOilRecipeC.label>
+  <SadjuukFuelOilRecipeC.description>Извлечь мазут из Сена.</SadjuukFuelOilRecipeC.description>
+  <SadjuukFuelOilRecipeC.jobString>Переработка мазута из сена.</SadjuukFuelOilRecipeC.jobString>
+  <!-- Diesel recipe Fuel Oil -->
+  <SadjuukDieselRecipeA.label>Изготовить 25 дизельного топлива из мазута</SadjuukDieselRecipeA.label>
+  <SadjuukDieselRecipeA.description>Извлечь дизельное топливо из мазута.</SadjuukDieselRecipeA.description>
+  <SadjuukDieselRecipeA.jobString>Переработка Мазута.</SadjuukDieselRecipeA.jobString>
+  <!-- Liquid Hydrogen Fuel Oil -->
+  <SadjuukHydrogenRecipeA.label>Изготовить 5 Водорода из мазута</SadjuukHydrogenRecipeA.label>
+  <SadjuukHydrogenRecipeA.description>Извлечь водород из мазута.</SadjuukHydrogenRecipeA.description>
+  <SadjuukHydrogenRecipeA.jobString>Переработка Мазута.</SadjuukHydrogenRecipeA.jobString>
+  <!-- Liquid Hydrogen Diesel -->
+  <SadjuukHydrogenRecipeB.label>Изготовить 1 Водород из дизельного топлива</SadjuukHydrogenRecipeB.label>
+  <SadjuukHydrogenRecipeB.description>Извлечь водород из дизельного топлива.</SadjuukHydrogenRecipeB.description>
+  <SadjuukHydrogenRecipeB.jobString>Переработка дизельного топлива.</SadjuukHydrogenRecipeB.jobString>
+</LanguageData>

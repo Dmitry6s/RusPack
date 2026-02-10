@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Set times -->
+	<Merthsoft_TimeOfDaySwitches_SetTimes>Установить время</Merthsoft_TimeOfDaySwitches_SetTimes>
+	<!-- EN: Set the times that this switch is on or off. -->
+	<Merthsoft_TimeOfDaySwitches_SetTimes_Description>Установите время, когда этот выключатель будет включён или выключен.</Merthsoft_TimeOfDaySwitches_SetTimes_Description>
+</LanguageData>

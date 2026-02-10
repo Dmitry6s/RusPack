@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TD.UseBedrolls>Использование спальных мешков</TD.UseBedrolls>
+  <TD.CarriedBy>Переносимый {0}</TD.CarriedBy>
+  <TD.TravelerOwned>{0} на караване</TD.TravelerOwned>
+  <TD.PickBackUpBed>Забрать обратно кровать</TD.PickBackUpBed>
+  <TD.ExplainHomeBeds>Используйте спальные мешки, чтобы запомнить назначенные кровати в основной колонии. По умолчанию в игре без модов кровать привязывается за путешественником, и назначение очищается, когда он использует другую кровать. Использование спальных мешков с этим модом больше такого не допустят.</TD.ExplainHomeBeds>
+  <TD.SettingReclaimAggresively>Вернуть домашние кровати, даже если на них назначен кто-то другой</TD.SettingReclaimAggresively>
+  <TD.SettingReclaimAggresivelyDesc>Очевидно, что вы не можете назначить кровати, которые были сделаны для медицинских или тюремных целей</TD.SettingReclaimAggresivelyDesc>
+  <TD.SettingUnAssignOnExit>Отменить назначение кроватей при выходе из карты</TD.SettingUnAssignOnExit>
+  <TD.SettingUnAssignOnExitDesc>Очевидный выбор, когда ваш караван формирует новую колонию - и в любом случае не проблема, если вы используете вышеуказанный вариант для восстановления</TD.SettingUnAssignOnExitDesc>
+  <TD.SettingFarFromBed>Использовать спальный мешок, если он находится слишком далеко от назначенной кровати</TD.SettingFarFromBed>
+  <TD.SettingFarFromBedAmount>Использовать спальный мешок, если назначенная кровать находится на расстоянии:</TD.SettingFarFromBedAmount>
+  <TD.SettingAlsoColonies>Использовать спальные мешки на картах колоний</TD.SettingAlsoColonies>
+  <TD.SettingAlsoColoniesDesc>Этот мод действительно должен использоваться для караванов, но он все равно работает на домашних картах, но обычно у вас уже есть назначенные кровати, но в любом случае это не было намерением, так что по умолчанию он выключен, но, конечно, вы можете включить его.</TD.SettingAlsoColoniesDesc>
+  <TD.UseBedrollsUpdated>Используйте обновленные спальные мешки</TD.UseBedrollsUpdated>
+  <TD.UpdateNewsColonyMaps>Эй! Краткое примечание. Появилась новая настройка для использования спальных мест на картах колоний - по умолчанию она отключена, поэтому {0} не ищет удаленные кровати прямо сейчас.</TD.UpdateNewsColonyMaps>
+
+
+</LanguageData>

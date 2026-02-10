@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Wooden Pallet -->
+  <SadjuukWoodenPallet.label>Деревянный Поддон</SadjuukWoodenPallet.label>
+  <SadjuukWoodenPallet.description>Деревянный поддон, простой в сборке и обеспечивающий стандартизированное хранение.</SadjuukWoodenPallet.description>
+  <!-- Power Conduit -->
+  <SadjuukPowerConduit.label>Силовой трубопровод</SadjuukPowerConduit.label>
+  <SadjuukPowerConduit.description>Высоковольтный силовой кабель.</SadjuukPowerConduit.description>
+  <SadjuukPowerConduit_Blueprint.label>Силовой трубопровод (чертеж)</SadjuukPowerConduit_Blueprint.label>
+  <SadjuukPowerConduit_Frame.label>Силовой трубопровод (здание)</SadjuukPowerConduit_Frame.label>
+  <SadjuukPowerConduit_Frame.description>Высоковольтный силовой кабель.</SadjuukPowerConduit_Frame.description>
+  <!-- Fire Foam Popper -->
+  <SadjuukFirefoamPopper.label>Настенный пенополиуретановый поппер</SadjuukFirefoamPopper.label>
+  <SadjuukFirefoamPopper.description>Предохранительное устройство выскакивает и распыляет вокруг себя огнезащитную пену.</SadjuukFirefoamPopper.description>
+  <SadjuukFirefoamPopper.comps.1.useLabel>Триггер вспенивателя пожарной пены</SadjuukFirefoamPopper.comps.1.useLabel>
+  <!-- Wood Generator A -->
+  <SadjuukWoodGeneratorA.label>Дровяной генератор</SadjuukWoodGeneratorA.label>
+  <SadjuukWoodGeneratorA.description>P : 1500W
+Очень простой генератор, использующий водяной пар в качестве источника энергии.</SadjuukWoodGeneratorA.description>
+  <SadjuukWoodGeneratorA_Blueprint.label>Дровяной генератор (чертеж)</SadjuukWoodGeneratorA_Blueprint.label>
+  <SadjuukWoodGeneratorA_Frame.label>Дровяной генератор (здание)</SadjuukWoodGeneratorA_Frame.label>
+  <SadjuukWoodGeneratorA_Frame.description>P : 1500W
+Очень простой генератор, использующий водяной пар в качестве источника энергии.</SadjuukWoodGeneratorA_Frame.description>
+  <!-- Generator D -->
+  <SadjuukGeneratorD.label>Генератор на мазуте D</SadjuukGeneratorD.label>
+  <SadjuukGeneratorD.description>P : 2250W
+Старый и простой генератор на мазуте, использующий надежный двигатель внутреннего сгорания в сочетании с генератором переменного тока для выработки электроэнергии.
+Выработка энергии на мазуте этим двигателем составляет 10% КПД, чем на химическом топливе. 
+Очень взрывоопасный при повреждении.</SadjuukGeneratorD.description>
+  <SadjuukGeneratorD_Blueprint.label>Генератор на мазуте D(чертеж)</SadjuukGeneratorD_Blueprint.label>
+  <SadjuukGeneratorD_Frame.label>Генератор на мазуте D(здание)</SadjuukGeneratorD_Frame.label>
+  <SadjuukGeneratorD_Frame.description>P : 2250W
+Старый и простой генератор на мазуте, использующий надежный двигатель внутреннего сгорания в сочетании с генератором переменного тока для выработки электроэнергии.
+Выработка энергии на мазуте этим двигателем составляет 10% КПД, чем на химическом топливе. 
+Очень взрывоопасный при повреждении.</SadjuukGeneratorD_Frame.description>
+  <!-- Generator A -->
+  <SadjuukGeneratorA.label>Генератор на мазуте A</SadjuukGeneratorA.label>
+  <SadjuukGeneratorA.description>P : 12000W
+Простая версия стандартного генератора ООН на мазуте FGEN12K. Хорошая производительность. 
+Выработка энергии на мазуте с помощью этого двигателя составляет 15% КПД, чем на химическом топливе. 
+Очень взрывоопасный при повреждении.</SadjuukGeneratorA.description>
+  <SadjuukGeneratorA_Blueprint.label>Генератор на мазуте A(чертеж)</SadjuukGeneratorA_Blueprint.label>
+  <SadjuukGeneratorA_Frame.label>Генератор на мазуте A(здание)</SadjuukGeneratorA_Frame.label>
+  <SadjuukGeneratorA_Frame.description>P : 12000W
+Простая версия стандартного генератора ООН на мазуте FGEN12K. Хорошая производительность. 
+Выработка энергии на мазуте с помощью этого двигателя составляет 15% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorA_Frame.description>
+  <!-- Generator B -->
+  <SadjuukGeneratorB.label>Генератор на мазуте B</SadjuukGeneratorB.label>
+  <SadjuukGeneratorB.description>P : 12000W
+Промышленная версия дизельного генератора ООН FGEN12K. Двойная система впрыска, двойная система фильтрации, высокая производительность. 
+Выработка энергии на мазуте этим двигателем составляет 20% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorB.description>
+  <SadjuukGeneratorB_Blueprint.label>Генератор на мазуте B(чертеж)</SadjuukGeneratorB_Blueprint.label>
+  <SadjuukGeneratorB_Frame.label>Генератор на мазуте B(здание)</SadjuukGeneratorB_Frame.label>
+  <SadjuukGeneratorB_Frame.description>P : 12000W
+Промышленная версия дизельного генератора ООН FGEN12K. Двойная система впрыска, двойная система фильтрации, высокая производительность. 
+Выработка энергии на мазуте этим двигателем составляет 20% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorB_Frame.description>
+  <!-- Generator F -->
+  <SadjuukGeneratorF.label>Бронированный генератор F</SadjuukGeneratorF.label>
+  <SadjuukGeneratorF.description>P : 2250W
+Промышленный дизельный генератор, использующий надежный двигатель внутреннего сгорания в сочетании с генератором переменного тока для выработки электроэнергии. Очень хорошая производительность.
+Выработка дизельной энергии этим двигателем составляет 35% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorF.description>
+  <SadjuukGeneratorF_Blueprint.label>Бронированный генератор F(чертеж)</SadjuukGeneratorF_Blueprint.label>
+  <SadjuukGeneratorF_Frame.label>Бронированный генератор F(здание)</SadjuukGeneratorF_Frame.label>
+  <SadjuukGeneratorF_Frame.description>P : 2250W
+Промышленный дизельный генератор, использующий надежный двигатель внутреннего сгорания в сочетании с генератором переменного тока для выработки электроэнергии. Очень хорошая производительность.
+Выработка дизельной энергии этим двигателем составляет 35% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorF_Frame.description>
+  <!-- Generator G -->
+  <SadjuukGeneratorG.label>Бронированный Генератор G</SadjuukGeneratorG.label>
+  <SadjuukGeneratorG.description>P : 6000W
+Промышленный дизельный генератор, использующий надежный двигатель внутреннего сгорания в сочетании с генератором переменного тока для выработки электроэнергии. Очень хорошая производительность.
+Выработка дизельной энергии этим двигателем составляет 40% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorG.description>
+  <SadjuukGeneratorG_Blueprint.label>Бронированный Генератор G(чертеж)</SadjuukGeneratorG_Blueprint.label>
+  <SadjuukGeneratorG_Frame.label>Бронированный Генератор G(здание)</SadjuukGeneratorG_Frame.label>
+  <SadjuukGeneratorG_Frame.description>P : 6000W
+Промышленный дизельный генератор, использующий надежный двигатель внутреннего сгорания в сочетании с генератором переменного тока для выработки электроэнергии. Очень хорошая производительность.
+Выработка дизельной энергии этим двигателем составляет 40% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorG_Frame.description>
+  <!-- Generator N -->
+  <SadjuukGeneratorN.label>Бронированный генератор N</SadjuukGeneratorN.label>
+  <SadjuukGeneratorN.description>P : 3000W
+Военный бронированный дизельный генератор мощностью 3 кВт. Стандарт UNSC, надежная конструкция, высокая производительность.
+Выработка дизельной энергии этим двигателем составляет 40% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorN.description>
+  <SadjuukGeneratorN_Blueprint.label>Бронированный генератор N(чертеж)</SadjuukGeneratorN_Blueprint.label>
+  <SadjuukGeneratorN_Frame.label>Бронированный генератор N(здание)</SadjuukGeneratorN_Frame.label>
+  <SadjuukGeneratorN_Frame.description>P : 3000W
+Военный бронированный дизельный генератор мощностью 3 кВт. Стандарт UNSC, надежная конструкция, высокая производительность.
+Выработка дизельной энергии этим двигателем составляет 40% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorN_Frame.description>
+  <!-- Generator M -->
+  <SadjuukGeneratorM.label>Бронированный Генератор М </SadjuukGeneratorM.label>
+  <SadjuukGeneratorM.description>P : 6000W
+Военный бронированный дизельный генератор мощностью 6 кВт. Стандарт UNSC, надежная конструкция, высокая производительность.
+Выработка дизельной энергии этим двигателем составляет 40% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorM.description>
+  <SadjuukGeneratorM_Blueprint.label>Бронированный Генератор М (чертеж)</SadjuukGeneratorM_Blueprint.label>
+  <SadjuukGeneratorM_Frame.label>Бронированный Генератор М (здание)</SadjuukGeneratorM_Frame.label>
+  <SadjuukGeneratorM_Frame.description>P : 6000W
+Военный бронированный дизельный генератор мощностью 6 кВт. Стандарт UNSC, надежная конструкция, высокая производительность.
+Выработка дизельной энергии этим двигателем составляет 40% КПД, чем на химическом топливе.
+Очень взрывоопасный при повреждении.</SadjuukGeneratorM_Frame.description>
+  <!-- Generator Y -->
+  <SadjuukGeneratorY.label>Большой Топливный Элемент</SadjuukGeneratorY.label>
+  <SadjuukGeneratorY.description>P : 3200W
+Топливный элемент, который преобразует химическую энергию в электричество посредством электрохимической реакции водородного топлива с кислородом.
+Выработка энергии на водородных топливных элементах составляет 67% КПД, чем на химическом топливе.</SadjuukGeneratorY.description>
+  <SadjuukGeneratorY_Blueprint.label>Большой Топливный Элемент(чертеж)</SadjuukGeneratorY_Blueprint.label>
+  <SadjuukGeneratorY_Frame.label>Большой Топливный Элемент(здание)</SadjuukGeneratorY_Frame.label>
+  <SadjuukGeneratorY_Frame.description>P : 3200W
+Топливный элемент, который преобразует химическую энергию в электричество посредством электрохимической реакции водородного топлива с кислородом.
+Выработка энергии на водородных топливных элементах составляет 67% КПД, чем на химическом топливе.</SadjuukGeneratorY_Frame.description>
+  <!-- Generator V -->
+  <SadjuukGeneratorV.label>Портативный Генератор V</SadjuukGeneratorV.label>
+  <SadjuukGeneratorV.description>P : 750W
+Дизельный портативный генератор. Бак малой емкости, низкая мощность, но достаточная для большинства кочевых ситуаций.
+Выработка дизельной энергии этим двигателем составляет 10% КПД, чем на химическом топливе.</SadjuukGeneratorV.description>
+  <SadjuukGeneratorV_Blueprint.label>Портативный Генератор V (чертеж)</SadjuukGeneratorV_Blueprint.label>
+  <SadjuukGeneratorV_Blueprint_Install.label>Портативный Генератор V (чертеж)</SadjuukGeneratorV_Blueprint_Install.label>
+  <SadjuukGeneratorV_Frame.label>Портативный Генератор V (здание)</SadjuukGeneratorV_Frame.label>
+  <SadjuukGeneratorV_Frame.description>P : 750W
+Дизельный портативный генератор. Бак малой емкости, низкая мощность, но достаточная для большинства кочевых ситуаций.
+Выработка дизельной энергии этим двигателем составляет 10% КПД, чем на химическом топливе.</SadjuukGeneratorV_Frame.description>
+  <!-- Generator W -->
+  <SadjuukGeneratorW.label>Портативный Генератор С </SadjuukGeneratorW.label>
+  <SadjuukGeneratorW.description>P : 750W
+Военный дизельный генератор. Стандарт UNSC, низкая производительность, но портативность, надежная конструкция, высокая производительность.
+Выработка дизельной энергии этим двигателем составляет 10% КПД, чем на химическом топливе.</SadjuukGeneratorW.description>
+  <SadjuukGeneratorW_Blueprint.label>Портативный Генератор С (чертеж)</SadjuukGeneratorW_Blueprint.label>
+  <SadjuukGeneratorW_Blueprint_Install.label>Портативный Генератор С (чертеж)</SadjuukGeneratorW_Blueprint_Install.label>
+  <SadjuukGeneratorW_Frame.label>Портативный Генератор С (здание)</SadjuukGeneratorW_Frame.label>
+  <SadjuukGeneratorW_Frame.description>P : 750W
+Военный дизельный генератор. Стандарт UNSC, низкая производительность, но портативность, надежная конструкция, высокая производительность.
+Выработка дизельной энергии этим двигателем составляет 10% КПД, чем на химическом топливе.</SadjuukGeneratorW_Frame.description>
+  <!-- Generator X -->
+  <SadjuukGeneratorX.label>Портативный Топливный Элемент X</SadjuukGeneratorX.label>
+  <SadjuukGeneratorX.description>P : 800W
+Портативный топливный элемент, который преобразует химическую энергию в электричество посредством электрохимической реакции водородного топлива с кислородом.
+Выработка энергии на водородных топливных элементах составляет 67% КПД, чем на химическом топливе.</SadjuukGeneratorX.description>
+  <SadjuukGeneratorX_Blueprint.label>Портативный Топливный Элемент X(чертеж)</SadjuukGeneratorX_Blueprint.label>
+  <SadjuukGeneratorX_Blueprint_Install.label>Портативный Топливный Элемент X(чертеж)</SadjuukGeneratorX_Blueprint_Install.label>
+  <SadjuukGeneratorX_Frame.label>Портативный Топливный Элемент X(здание)</SadjuukGeneratorX_Frame.label>
+  <SadjuukGeneratorX_Frame.description>P : 800W
+Портативный топливный элемент, который преобразует химическую энергию в электричество посредством электрохимической реакции водородного топлива с кислородом.
+Выработка энергии на водородных топливных элементах составляет 67% КПД, чем на химическом топливе.</SadjuukGeneratorX_Frame.description>
+  <!-- Solar Panel A -->
+  <SadjuukSolarA.label>Солнечная Панель A</SadjuukSolarA.label>
+  <SadjuukSolarA.description>Фотоэлектрические солнечные панели, поглощающие солнечный свет в качестве источника энергии для выработки электроэнергии. Размер установки : 4X4.</SadjuukSolarA.description>
+  <SadjuukSolarA_Blueprint.label>Солнечная Панель A (чертеж)</SadjuukSolarA_Blueprint.label>
+  <SadjuukSolarA_Frame.label>Солнечная Панель A (здание)</SadjuukSolarA_Frame.label>
+  <SadjuukSolarA_Frame.description>Фотоэлектрические солнечные панели, поглощающие солнечный свет в качестве источника энергии для выработки электроэнергии. Размер установки : 4X4.</SadjuukSolarA_Frame.description>
+  <!-- Solar Panel B -->
+  <SadjuukSolarB.label>Солнечная панель B </SadjuukSolarB.label>
+  <SadjuukSolarB.description>Фотоэлектрические солнечные панели, поглощающие солнечный свет в качестве источника энергии для выработки электроэнергии. Размер установки : 5X3.</SadjuukSolarB.description>
+  <SadjuukSolarB_Blueprint.label>Солнечная панель B (чертеж)</SadjuukSolarB_Blueprint.label>
+  <SadjuukSolarB_Frame.label>Солнечная панель B (здание)</SadjuukSolarB_Frame.label>
+  <SadjuukSolarB_Frame.description>Фотоэлектрические солнечные панели, поглощающие солнечный свет в качестве источника энергии для выработки электроэнергии. Размер установки : 5X3.</SadjuukSolarB_Frame.description>
+  <!-- Solar Panel C -->
+  <SadjuukSolarC.label>Солнечная панель C </SadjuukSolarC.label>
+  <SadjuukSolarC.description>Фотоэлектрические солнечные панели, поглощающие солнечный свет в качестве источника энергии для выработки электроэнергии. Размер установки : 7X2.</SadjuukSolarC.description>
+  <SadjuukSolarC_Blueprint.label>Солнечная панель C (чертеж)</SadjuukSolarC_Blueprint.label>
+  <SadjuukSolarC_Frame.label>Солнечная панель C (здание)</SadjuukSolarC_Frame.label>
+  <SadjuukSolarC_Frame.description>Фотоэлектрические солнечные панели, поглощающие солнечный свет в качестве источника энергии для выработки электроэнергии. Размер установки : 7X2.</SadjuukSolarC_Frame.description>
+  <!-- Metalworking Bench -->
+  <SadjuukMetalworkingBench.label>Металлообрабатывающий верстак</SadjuukMetalworkingBench.label>
+  <SadjuukMetalworkingBench.description>Очень простой Металлообрабатывающий верстак.</SadjuukMetalworkingBench.description>
+  <SadjuukMetalworkingBench_Blueprint.label>Металлообрабатывающий верстак (чертеж)</SadjuukMetalworkingBench_Blueprint.label>
+  <SadjuukMetalworkingBench_Frame.label>Металлообрабатывающий верстак (здание)</SadjuukMetalworkingBench_Frame.label>
+  <SadjuukMetalworkingBench_Frame.description>Очень простой Металлообрабатывающий верстак.</SadjuukMetalworkingBench_Frame.description>
+  <!-- Bessemer Converter -->
+  <SadjuukBessemerConverter.label>Бессемеровский преобразователь</SadjuukBessemerConverter.label>
+  <SadjuukBessemerConverter.description>Первый недорогой промышленный процесс для массового производства стали. Устарел со времен разработки мартеновской печи.</SadjuukBessemerConverter.description>
+  <SadjuukBessemerConverter_Blueprint.label>Бессемеровский преобразователь (чертеж)</SadjuukBessemerConverter_Blueprint.label>
+  <SadjuukBessemerConverter_Frame.label>Бессемеровский преобразователь (здание)</SadjuukBessemerConverter_Frame.label>
+  <SadjuukBessemerConverter_Frame.description>Первый недорогой промышленный процесс для массового производства стали. Устарел со времен разработки мартеновской печи.</SadjuukBessemerConverter_Frame.description>
+  <!-- Open Hearth Furnace -->
+  <SadjuukOpenHearthFurnace.label>Мартеновская печь</SadjuukOpenHearthFurnace.label>
+  <SadjuukOpenHearthFurnace.description>Печь, в которой избыточный углерод и другие примеси выжигаются из чугуна для получения стали.</SadjuukOpenHearthFurnace.description>
+  <SadjuukOpenHearthFurnace_Blueprint.label>Мартеновская печь (чертеж)</SadjuukOpenHearthFurnace_Blueprint.label>
+  <SadjuukOpenHearthFurnace_Frame.label>Мартеновская печь (здание)</SadjuukOpenHearthFurnace_Frame.label>
+  <SadjuukOpenHearthFurnace_Frame.description>Печь, в которой избыточный углерод и другие примеси выжигаются из чугуна для получения стали.</SadjuukOpenHearthFurnace_Frame.description>
+  <!-- Electric Arc Furnace -->
+  <SadjuukElectricArcFurnace.label>Электродуговая печь</SadjuukElectricArcFurnace.label>
+  <SadjuukElectricArcFurnace.description>Печь, которая нагревает загруженный материал с помощью электрической дуги. Очень высокая производительность.</SadjuukElectricArcFurnace.description>
+  <SadjuukElectricArcFurnace_Blueprint.label>Электродуговая печь (чертеж)</SadjuukElectricArcFurnace_Blueprint.label>
+  <SadjuukElectricArcFurnace_Frame.label>Электродуговая печь (здание)</SadjuukElectricArcFurnace_Frame.label>
+  <SadjuukElectricArcFurnace_Frame.description>Печь, которая нагревает загруженный материал с помощью электрической дуги. Очень высокая производительность.</SadjuukElectricArcFurnace_Frame.description>
+  <!-- Metalworking Line -->
+  <SadjuukMetalworkingLineB.label>Линия металлообработки</SadjuukMetalworkingLineB.label>
+  <SadjuukMetalworkingLineB.description>Линия металлообработки - это очень универсальная производственная линия для обработки металла.</SadjuukMetalworkingLineB.description>
+  <SadjuukMetalworkingLineB_Blueprint.label>Линия металлообработки (чертеж)</SadjuukMetalworkingLineB_Blueprint.label>
+  <SadjuukMetalworkingLineB_Frame.label>Линия металлообработки (здание)</SadjuukMetalworkingLineB_Frame.label>
+  <SadjuukMetalworkingLineB_Frame.description>Линия металлообработки - это очень универсальная производственная линия для обработки металла.</SadjuukMetalworkingLineB_Frame.description>
+  <!-- A- Shaper -->
+  <SadjuukShaper.label>Инструмент для формирования</SadjuukShaper.label>
+  <SadjuukShaper.description>Модернизация линии металлообработки.
+Инструмент для формирования. Его наиболее распространенное применение - обработка прямых плоских поверхностей, но при наличии изобретательности и некоторых аксессуаров можно выполнить широкий спектр работ.
+Производственный фактор : 0.20, 1 на линию макс.</SadjuukShaper.description>
+  <!-- B- Grinding Machine -->
+  <SadjuukGrinding.label>Шлифовальный Станок</SadjuukGrinding.label>
+  <SadjuukGrinding.description>Модернизация линии металлообработки.
+Шлифовальный станок, используемый для обработки деталей, которые должны обладать высоким качеством поверхности и высокой точностью формы и размеров.
+Производственный фактор : 0.40, 1 на линию макс.</SadjuukGrinding.description>
+  <!-- C- Welding Robot -->
+  <SadjuukWeldingRobot.label>Сварочный робот</SadjuukWeldingRobot.label>
+  <SadjuukWeldingRobot.description>Модернизация линии металлообработки.
+Механизированный программируемый инструмент, полностью автоматизирующий процесс сварки как за счет выполнения сварного шва, так и за счет обработки детали.
+Производственный фактор : 0,80, 2 на линию макс.</SadjuukWeldingRobot.description>
+  <!-- Assembly Line -->
+  <SadjuukAssemblyLineB.label>Сборочная линия </SadjuukAssemblyLineB.label>
+  <SadjuukAssemblyLineB.description>Сборочная линия - это производственная линия, позволяющая собирать самые разнообразные компоненты.</SadjuukAssemblyLineB.description>
+  <SadjuukAssemblyLineB_Blueprint.label>Сборочная линия (чертеж)</SadjuukAssemblyLineB_Blueprint.label>
+  <SadjuukAssemblyLineB_Frame.label>Сборочная линия (здание)</SadjuukAssemblyLineB_Frame.label>
+  <SadjuukAssemblyLineB_Frame.description>Сборочная линия - это производственная линия, позволяющая собирать самые разнообразные компоненты.</SadjuukAssemblyLineB_Frame.description>
+  <!-- A- Metal Lathe -->
+  <SadjuukLathe.label>Токарный станок по металлу</SadjuukLathe.label>
+  <SadjuukLathe.description>Модернизация сборочной линии.
+Станок для удаления материала с вращающейся заготовки с помощью движений различных режущих инструментов.
+Производственный фактор : 0,20, 1 на линию макс.</SadjuukLathe.description>
+  <!-- B- Milling Machine -->
+  <SadjuukMilling.label>Фрезерный Станок</SadjuukMilling.label>
+  <SadjuukMilling.description>Модернизация сборочной линии.
+Фрезерный станок, который удаляет материал с заготовки путем продвижения фрезы в заготовку.
+Производственный фактор : 0,40, 1 на линию макс.</SadjuukMilling.description>
+  <!-- C- Assembly Robot -->
+  <SadjuukAssemblyRobot.label>Сборочный робот</SadjuukAssemblyRobot.label>
+  <SadjuukAssemblyRobot.description>Модернизация сборочной линии.
+Многоцелевой робот, способный собирать, комплектовать и упаковывать с высокой выносливостью, скоростью и точностью.
+Производственный фактор : 0,80, 2 на линию макс.</SadjuukAssemblyRobot.description>
+  <!-- Construction Machinery -->
+  <SadjuukConstructionMachinery.label>Строительная Техника</SadjuukConstructionMachinery.label>
+  <SadjuukConstructionMachinery.description>Очень сложное оборудование, способное извлекать кремний из породы и грубо перерабатывать органические элементы для производства стекла, бетона и асфальта.</SadjuukConstructionMachinery.description>
+  <SadjuukConstructionMachinery_Blueprint.label>Строительная Техника (чертеж)</SadjuukConstructionMachinery_Blueprint.label>
+  <SadjuukConstructionMachinery_Frame.label>Строительная Техника (здание)</SadjuukConstructionMachinery_Frame.label>
+  <SadjuukConstructionMachinery_Frame.description>Очень сложное оборудование, способное извлекать кремний из породы и грубо перерабатывать органические элементы для производства стекла, бетона и асфальта.</SadjuukConstructionMachinery_Frame.description>
+  <!-- Fuel Oil Refinery -->
+  <SadjuukRefineryA.label>Нефтеперерабатывающий завод мазута</SadjuukRefineryA.label>
+  <SadjuukRefineryA.description>Нефтеперерабатывающий завод средней мощности по переработке мазута. Хорошая эффективность, далекая от обычных промышленных возможностей, но известная как надежная и универсальная.
+Мазут обладает лучшей теплотворной способностью, чем химическое топливо, что позволяет построить на 20% более эффективные генераторы.</SadjuukRefineryA.description>
+  <SadjuukRefineryA_Blueprint.label>Нефтеперерабатывающий завод мазута (чертеж)</SadjuukRefineryA_Blueprint.label>
+  <SadjuukRefineryA_Frame.label>Нефтеперерабатывающий завод мазута (здание)</SadjuukRefineryA_Frame.label>
+  <SadjuukRefineryA_Frame.description>Нефтеперерабатывающий завод средней мощности по переработке мазута. Хорошая эффективность, далекая от обычных промышленных возможностей, но известная как надежная и универсальная.
+Мазут обладает лучшей теплотворной способностью, чем химическое топливо, что позволяет создавать на 20% более эффективные генераторы.</SadjuukRefineryA_Frame.description>
+  <!-- Diesel Refinery -->
+  <SadjuukRefineryB.label>Дизельный нефтеперерабатывающий завод</SadjuukRefineryB.label>
+  <SadjuukRefineryB.description>Дизельный завод средней мощности.
+Теплотворная способность дизельного топлива выше, чем у химического топлива, что позволяет создавать на 50% более эффективные генераторы.</SadjuukRefineryB.description>
+  <SadjuukRefineryB_Blueprint.label>Дизельный нефтеперерабатывающий завод (чертеж)</SadjuukRefineryB_Blueprint.label>
+  <SadjuukRefineryB_Frame.label>Дизельный нефтеперерабатывающий завод (здание)</SadjuukRefineryB_Frame.label>
+  <SadjuukRefineryB_Frame.description>Дизельный завод средней мощности.
+Теплотворная способность дизельного топлива выше, чем у химического топлива, что позволяет создавать на 50% более эффективные генераторы.</SadjuukRefineryB_Frame.description>
+  <!-- Advanced Refinery -->
+  <SadjuukRefineryC.label>Усовершенствованный нефтеперерабатывающий завод</SadjuukRefineryC.label>
+  <SadjuukRefineryC.description>Усовершенствованный нефтеперерабатывающий завод, позволяющий производить сложные компоненты, такие как взрывчатые вещества или жидкий водород.
+Жидкий водород обладает лучшей теплотворной способностью, чем химическое топливо, что позволяет создавать на 80% более эффективные генераторы.</SadjuukRefineryC.description>
+  <SadjuukRefineryC_Blueprint.label>Усовершенствованный нефтеперерабатывающий завод (чертеж)</SadjuukRefineryC_Blueprint.label>
+  <SadjuukRefineryC_Frame.label>Усовершенствованный нефтеперерабатывающий завод (здание)</SadjuukRefineryC_Frame.label>
+  <SadjuukRefineryC_Frame.description>Усовершенствованный нефтеперерабатывающий завод, позволяющий производить сложные компоненты, такие как взрывчатые вещества или жидкий водород.
+Жидкий водород обладает лучшей теплотворной способностью, чем химическое топливо, что позволяет создавать на 80% более эффективные генераторы.</SadjuukRefineryC_Frame.description>
+</LanguageData>

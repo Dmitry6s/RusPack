@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WallMountedBattery.label>настенный аккумулятор</WallMountedBattery.label>
+  <WallMountedBattery.description>Хранят электричество для последующего использования. Заряженные батареи взрываются под воздействием дождя или огня.</WallMountedBattery.description>
+
+  <WallMountedCircuitBreaker.label>настенный авто-выключатель</WallMountedCircuitBreaker.label>
+  <WallMountedCircuitBreaker.description>Комплект автоматических выключателей. Выдерживает разряд до 1200 Вт, при срабатывании отключается.</WallMountedCircuitBreaker.description>
+  <WallMountedCircuitBreaker_Blueprint.label>настенный выключатель (чертеж)</WallMountedCircuitBreaker_Blueprint.label>
+  <WallMountedCircuitBreaker_Blueprint_Install.label>настенный выключатель (чертеж)</WallMountedCircuitBreaker_Blueprint_Install.label>
+  <WallMountedCircuitBreaker_Frame.label>настенный выключатель (чертеж)</WallMountedCircuitBreaker_Frame.label>
+  <WallMountedCircuitBreaker_Frame.description>Комплект автоматических выключателей. Выдерживает разряд до 1200 Вт, при срабатывании отключается.</WallMountedCircuitBreaker_Frame.description>
+
+  <WallPowerSwitch.label>настенный выключатель питания</WallPowerSwitch.label>
+  <WallPowerSwitch.description>Включает/выключает питание.</WallPowerSwitch.description>
+  <WallPowerSwitch_Blueprint.label>настенный выключатель питания (чертеж)</WallPowerSwitch_Blueprint.label>
+  <WallPowerSwitch_Blueprint_Install.label>настенный выключатель питания (чертеж)</WallPowerSwitch_Blueprint_Install.label>
+  <WallPowerSwitch_Frame.label>настенный выключатель питания (постройка)</WallPowerSwitch_Frame.label>
+  <WallPowerSwitch_Frame.description>Включает/выключает питание.</WallPowerSwitch_Frame.description>
+
+
+</LanguageData>

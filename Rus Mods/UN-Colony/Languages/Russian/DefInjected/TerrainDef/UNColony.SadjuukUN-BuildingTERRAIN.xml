@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Wood Floor AA -->
+  <SadjuukWoodFloorAA.label>Деревянный Пол A</SadjuukWoodFloorAA.label>
+  <SadjuukWoodFloorAA.description>Простой деревянный настил, сделанный из деревянных бревен.</SadjuukWoodFloorAA.description>
+  <!-- Wood Floor AB -->
+  <SadjuukWoodFloorAB.label>Деревянный Пол B</SadjuukWoodFloorAB.label>
+  <SadjuukWoodFloorAB.description>Простой деревянный настил, сделанный из деревянных бревен.</SadjuukWoodFloorAB.description>
+  <!-- Wood Floor AC -->
+  <SadjuukWoodFloorAC.label>Деревянный Пол C</SadjuukWoodFloorAC.label>
+  <SadjuukWoodFloorAC.description>Простой деревянный настил, сделанный из деревянных бревен.</SadjuukWoodFloorAC.description>
+  <!-- Wood Floor AD -->
+  <SadjuukWoodFloorAD.label>Деревянный Пол D</SadjuukWoodFloorAD.label>
+  <SadjuukWoodFloorAD.description>Простой деревянный настил, сделанный из деревянных бревен.</SadjuukWoodFloorAD.description>
+  <!-- Wood Floor AE -->
+  <SadjuukWoodFloorAE.label>Деревянный Пол E</SadjuukWoodFloorAE.label>
+  <SadjuukWoodFloorAE.description>Простой деревянный настил, сделанный из деревянных бревен.</SadjuukWoodFloorAE.description>
+  <!-- Wood Floor AF -->
+  <SadjuukWoodFloorAF.label>Деревянный Пол F</SadjuukWoodFloorAF.label>
+  <SadjuukWoodFloorAF.description>Простой деревянный настил, сделанный из деревянных бревен.</SadjuukWoodFloorAF.description>
+  <!-- Wood Floor BA -->
+  <SadjuukWoodFloorBA.label>Деревянный Пол A</SadjuukWoodFloorBA.label>
+  <SadjuukWoodFloorBA.description>Простой деревянный пол, сделанный из деревянных досок.</SadjuukWoodFloorBA.description>
+  <!-- Wood Floor BB -->
+  <SadjuukWoodFloorBB.label>Деревянный Пол B</SadjuukWoodFloorBB.label>
+  <SadjuukWoodFloorBB.description>Простой деревянный пол, сделанный из деревянных досок.</SadjuukWoodFloorBB.description>
+  <!-- Wood Floor BC -->
+  <SadjuukWoodFloorBC.label>Деревянный Пол C</SadjuukWoodFloorBC.label>
+  <SadjuukWoodFloorBC.description>Простой деревянный пол, сделанный из деревянных досок.</SadjuukWoodFloorBC.description>
+  <!-- Wood Floor BD -->
+  <SadjuukWoodFloorBD.label>Деревянный Пол D</SadjuukWoodFloorBD.label>
+  <SadjuukWoodFloorBD.description>Простой деревянный пол, сделанный из деревянных досок.</SadjuukWoodFloorBD.description>
+  <!-- Wood Floor BE -->
+  <SadjuukWoodFloorBE.label>Деревянный Пол E</SadjuukWoodFloorBE.label>
+  <SadjuukWoodFloorBE.description>Простой деревянный пол, сделанный из деревянных досок.</SadjuukWoodFloorBE.description>
+  <!-- Wood Floor BF -->
+  <SadjuukWoodFloorBF.label>Деревянный Пол F</SadjuukWoodFloorBF.label>
+  <SadjuukWoodFloorBF.description>Простой деревянный пол, сделанный из деревянных досок.</SadjuukWoodFloorBF.description>
+  <!-- Steel Floor AA -->
+  <SadjuukSteelFloorAA.label>Пол Из Металлических Пластин</SadjuukSteelFloorAA.label>
+  <SadjuukSteelFloorAA.description>Необработанный металлический пол, недорогой и быстрый в сборке, но уродливый.</SadjuukSteelFloorAA.description>
+  <!-- Steel Floor AB -->
+  <SadjuukSteelFloorAB.label>Пол Из Металлических Пластин</SadjuukSteelFloorAB.label>
+  <SadjuukSteelFloorAB.description>Необработанный металлический пол, недорогой и быстрый в сборке, но уродливый.</SadjuukSteelFloorAB.description>
+  <!-- Steel Floor CA -->
+  <SadjuukConcreteFloorCA.label>Окрашенный Стальной Пол A</SadjuukConcreteFloorCA.label>
+  <SadjuukConcreteFloorCA.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCA.description>
+  <!-- Steel Floor CB -->
+  <SadjuukConcreteFloorCB.label>Окрашенный Стальной Пол B</SadjuukConcreteFloorCB.label>
+  <SadjuukConcreteFloorCB.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCB.description>
+  <!-- Steel Floor CC -->
+  <SadjuukConcreteFloorCC.label>Окрашенный Стальной Пол C</SadjuukConcreteFloorCC.label>
+  <SadjuukConcreteFloorCC.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCC.description>
+  <!-- Steel Floor CD -->
+  <SadjuukConcreteFloorCD.label>Окрашенный Стальной Пол D</SadjuukConcreteFloorCD.label>
+  <SadjuukConcreteFloorCD.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCD.description>
+  <!-- Steel Floor CE -->
+  <SadjuukConcreteFloorCE.label>Окрашенный Стальной Пол E</SadjuukConcreteFloorCE.label>
+  <SadjuukConcreteFloorCE.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCE.description>
+  <!-- Steel Floor CF -->
+  <SadjuukConcreteFloorCF.label>Окрашенный Стальной Пол F</SadjuukConcreteFloorCF.label>
+  <SadjuukConcreteFloorCF.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCF.description>
+  <!-- Steel Floor CG -->
+  <SadjuukConcreteFloorCG.label>Окрашенный Стальной Пол G</SadjuukConcreteFloorCG.label>
+  <SadjuukConcreteFloorCG.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCG.description>
+  <!-- Steel Floor CH -->
+  <SadjuukConcreteFloorCH.label>Окрашенный Стальной Пол H</SadjuukConcreteFloorCH.label>
+  <SadjuukConcreteFloorCH.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCH.description>
+  <!-- Steel Floor CI -->
+  <SadjuukConcreteFloorCI.label>Окрашенный Стальной Пол I</SadjuukConcreteFloorCI.label>
+  <SadjuukConcreteFloorCI.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCI.description>
+  <!-- Steel Floor CJ -->
+  <SadjuukConcreteFloorCJ.label>Окрашенный Стальной Пол J</SadjuukConcreteFloorCJ.label>
+  <SadjuukConcreteFloorCJ.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCJ.description>
+  <!-- Steel Floor CK -->
+  <SadjuukConcreteFloorCK.label>Окрашенный Стальной Пол K</SadjuukConcreteFloorCK.label>
+  <SadjuukConcreteFloorCK.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCK.description>
+  <!-- Steel Floor CL -->
+  <!--[Duplicated] <SadjuukConcreteFloorAL.label>Окрашенный Стальной Пол L</SadjuukConcreteFloorAL.label>-->
+  <!--[Duplicated] <SadjuukConcreteFloorAL.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorAL.description>-->
+  <!-- Steel Floor CM -->
+  <SadjuukConcreteFloorCM.label>Окрашенный Стальной Пол M</SadjuukConcreteFloorCM.label>
+  <SadjuukConcreteFloorCM.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCM.description>
+  <!-- Steel Floor CN -->
+  <SadjuukConcreteFloorCN.label>Окрашенный Стальной Пол N</SadjuukConcreteFloorCN.label>
+  <SadjuukConcreteFloorCN.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCN.description>
+  <!-- Steel Floor CO -->
+  <SadjuukConcreteFloorCO.label>Окрашенный Стальной Пол O</SadjuukConcreteFloorCO.label>
+  <SadjuukConcreteFloorCO.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCO.description>
+  <!-- Steel Floor CP -->
+  <SadjuukConcreteFloorCP.label>Окрашенный Стальной Пол P</SadjuukConcreteFloorCP.label>
+  <SadjuukConcreteFloorCP.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCP.description>
+  <!-- Steel Floor CQ -->
+  <SadjuukConcreteFloorCQ.label>Окрашенный Стальной Пол Q</SadjuukConcreteFloorCQ.label>
+  <SadjuukConcreteFloorCQ.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorCQ.description>
+  <!-- Concrete Floor A -->
+  <SadjuukConcreteFloorA.label>Бетонный Пол.</SadjuukConcreteFloorA.label>
+  <SadjuukConcreteFloorA.description>Бетонный Пол.</SadjuukConcreteFloorA.description>
+  <!-- Concrete Floor AA -->
+  <SadjuukConcreteFloorAA.label>Окрашенный Бетонный Пол A</SadjuukConcreteFloorAA.label>
+  <SadjuukConcreteFloorAA.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAA.description>
+  <!-- Concrete Floor AB -->
+  <SadjuukConcreteFloorAB.label>Окрашенный Бетонный Пол B</SadjuukConcreteFloorAB.label>
+  <SadjuukConcreteFloorAB.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAB.description>
+  <!-- Concrete Floor AC -->
+  <SadjuukConcreteFloorAC.label>Окрашенный Бетонный Пол C</SadjuukConcreteFloorAC.label>
+  <SadjuukConcreteFloorAC.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAC.description>
+  <!-- Concrete Floor AD -->
+  <SadjuukConcreteFloorAD.label>Окрашенный Бетонный Пол D</SadjuukConcreteFloorAD.label>
+  <SadjuukConcreteFloorAD.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAD.description>
+  <!-- Concrete Floor AE -->
+  <SadjuukConcreteFloorAE.label>Окрашенный Бетонный Пол E</SadjuukConcreteFloorAE.label>
+  <SadjuukConcreteFloorAE.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAE.description>
+  <!-- Concrete Floor AF -->
+  <SadjuukConcreteFloorAF.label>Окрашенный Бетонный Пол F</SadjuukConcreteFloorAF.label>
+  <SadjuukConcreteFloorAF.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAF.description>
+  <!-- Concrete Floor AG -->
+  <SadjuukConcreteFloorAG.label>Окрашенный Бетонный Пол G</SadjuukConcreteFloorAG.label>
+  <SadjuukConcreteFloorAG.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAG.description>
+  <!-- Concrete Floor AH -->
+  <SadjuukConcreteFloorAH.label>Окрашенный Бетонный Пол H</SadjuukConcreteFloorAH.label>
+  <SadjuukConcreteFloorAH.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAH.description>
+  <!-- Concrete Floor AI -->
+  <SadjuukConcreteFloorAI.label>Окрашенный Бетонный Пол I</SadjuukConcreteFloorAI.label>
+  <SadjuukConcreteFloorAI.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAI.description>
+  <!-- Concrete Floor AJ -->
+  <SadjuukConcreteFloorAJ.label>Окрашенный Бетонный Пол J</SadjuukConcreteFloorAJ.label>
+  <SadjuukConcreteFloorAJ.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAJ.description>
+  <!-- Concrete Floor AK -->
+  <SadjuukConcreteFloorAK.label>Окрашенный Бетонный Пол K</SadjuukConcreteFloorAK.label>
+  <SadjuukConcreteFloorAK.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAK.description>
+  <!-- Concrete Floor AL -->
+  <SadjuukConcreteFloorAL.label>Окрашенный Бетонный Пол L</SadjuukConcreteFloorAL.label>
+  <SadjuukConcreteFloorAL.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAL.description>
+  <!-- Concrete Floor AM -->
+  <SadjuukConcreteFloorAM.label>Окрашенный Бетонный Пол M</SadjuukConcreteFloorAM.label>
+  <SadjuukConcreteFloorAM.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAM.description>
+  <!-- Concrete Floor AN -->
+  <SadjuukConcreteFloorAN.label>Окрашенный Бетонный Пол N</SadjuukConcreteFloorAN.label>
+  <SadjuukConcreteFloorAN.description>Окрашенный бетонный пол.</SadjuukConcreteFloorAN.description>
+  <!-- Asphalt Floor AA -->
+  <SadjuukAsphaltFloorAA.label>Асфальт</SadjuukAsphaltFloorAA.label>
+  <SadjuukAsphaltFloorAA.description>Асфальтовый пол, обычно для дорог или открытых складских помещений.</SadjuukAsphaltFloorAA.description>
+  <!-- Asphalt Floor AB -->
+  <SadjuukAsphaltFloorAB.label>Темный Асфальт</SadjuukAsphaltFloorAB.label>
+  <SadjuukAsphaltFloorAB.description>Асфальтовый пол, обычно для дорог или открытых складских помещений.</SadjuukAsphaltFloorAB.description>
+  <!--[Duplicated] <SadjuukConcreteFloorAL.description>Эстетичный окрашенный стальной пол для больницы, кухни или промышленного комплекса. 
+Очень прочная конструкция с бетонным основанием, толстый слой краски также очень легко моется.</SadjuukConcreteFloorAL.description>-->
+</LanguageData>

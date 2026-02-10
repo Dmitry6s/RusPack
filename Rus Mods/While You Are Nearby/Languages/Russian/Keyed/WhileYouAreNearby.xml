@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Basic Settings -->
+	<BasicSettings>Основные настройки</BasicSettings>
+	<!-- EN: Advanced Settings -->
+	<AdvancedSettings>Расширенные настройки</AdvancedSettings>
+	<!-- EN: Log debug messages -->
+	<DebugLog>Журнал отладки</DebugLog>
+	<!-- EN: Turn on debug log. Do not use this on normal game play as it's very spammy. -->
+	<DebugLogTooltips>Включить журнал отладки. Не используйте это при обычной игре, так как это приведет к избытку сообщений в журнале.</DebugLogTooltips>
+	
+	<!-- EN: "Long Distance" Threshold -->
+	<LongDistanceThreshold>Порог «дальнего расстояния»</LongDistanceThreshold>
+	<!-- EN: When the vanilla job is less than this distance, it will not be substituted.
+Nearby job search will only activate if vanilla job is farther away than this distance. -->
+	<LongDistanceThresholdTooltips>Если расстояние до стандартной работы меньше указанного, она не будет заменена.
+
+Поиск работы поблизости активируется только в том случае, если стандартная работа находится дальше этого расстояния.</LongDistanceThresholdTooltips>
+	
+	<!-- EN: Nearby job search max radius -->
+	<MaxSearchRadius>Макс. радиус поиска работы поблизости</MaxSearchRadius>
+	<!-- EN: Max radius of the area to search nearby jobs.
+Nearby job search will not go beyond this radius. -->
+	<MaxSearchRadiusTooltips>Максимальный радиус области для поиска ближайших рабочих мест.
+
+Поиск работы поблизости не будет выходить за пределы этого радиуса.</MaxSearchRadiusTooltips>
+	
+	<!-- EN: Max priority difference between vanilla and nearby jobs -->
+	<PriorityBoost>Макс. разница приоритетов работ</PriorityBoost>
+	<!-- EN: We boost the priority of nearby jobs.
+Nearby jobs will not be considered if the difference between their riority and the vanilla job is higher than this value. -->
+	<PriorityBoostTooltips>Мы повышаем приоритет ближайших работ.
+
+Ближайшие работы не будут рассматриваться, если разница между их приоритетом и приоритетом стандартной работы выше этого значения.</PriorityBoostTooltips>
+	
+	<!-- EN: Chance to randomly ignore nearby search and stick to vanilla job -->
+	<VanillaChancePercentage>Шанс игнорировать поиск поблизости</VanillaChancePercentage>
+	<!-- EN: Chance to skip nearby job search and stick to vanilla behavior
+If this value is 100%, we never do nearby job search and always use vanilla behavior
+If this value is 0% we always do nearby job search as long as vanilla gave a long distance job.
+Set this to a small percentage so that colonist won't be stuck at the same area for too long. -->
+	<VanillaChancePercentageTooltips>Вероятность пропустить поиск работы поблизости и придерживаться стандартного поведения.
+
+Если это значение равно 100%, поиск работы поблизости никогда не будет производиться.
+
+Если значение равно 0%, поиск поблизости будет производиться всегда, когда стандартная работа находится на дальнем расстоянии.
+
+Установите небольшой процент, чтобы поселенцы не задерживались в одной и той же области слишком долго.</VanillaChancePercentageTooltips>
+
+	<!-- EN: Click the "+" to edit -->
+	<ClickPlusToEdit>Нажмите «+», чтобы изменить</ClickPlusToEdit>
+	
+	<!-- EN: Do not substitute these work types at long distance -->
+	<ExcludedLongDistanceWorkTypes>Не заменять эти виды работ на дистанции</ExcludedLongDistanceWorkTypes>
+	<!-- EN: If enabled, any long distance work of these selected types will not be substituted with nearby work.
+Note: some work types are already not affected, even if they might be listed here and not selected. -->
+	<ExcludedLongDistanceWorkTypesTooltips>Если включено, выполнение выбранных видов работ на дальнем расстоянии не будет заменяться на работу поблизости.
+
+Примечание: некоторые виды работ не затрагиваются модом по умолчанию, даже если они присутствуют в списке, но не выбраны.</ExcludedLongDistanceWorkTypesTooltips>
+	
+	<!-- EN: Do not prefer these work types nearby -->
+	<ExcludedNearbyWorkTypes>Не предпочитать эти виды работ поблизости</ExcludedNearbyWorkTypes>
+	<!-- EN: If enabled, any nearby work of these selected types will not be preferred over long distance works.
+Note: some work types are already not affected, even if they might be listed here and not selected. -->
+	<ExcludedNearbyWorkTypesTooltips>Если включено, выполнение выбранных видов работ поблизости не будет иметь приоритет над основной работой на дальнем расстоянии.
+
+Примечание: некоторые виды работ не затрагиваются модом по умолчанию, даже если они присутствуют в списке, но не выбраны.</ExcludedNearbyWorkTypesTooltips>
+</LanguageData>

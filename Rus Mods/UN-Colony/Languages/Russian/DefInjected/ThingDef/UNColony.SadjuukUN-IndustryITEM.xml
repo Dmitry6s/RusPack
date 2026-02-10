@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- STEEL PLATE -->
+  <SadjuukSteelPlate.label>Стальная пластина</SadjuukSteelPlate.label>
+  <SadjuukSteelPlate.description>Основной конструктивный компонент, используемый в самых разнообразных конструкциях.</SadjuukSteelPlate.description>
+  <!-- METAL GRID -->
+  <SadjuukMetalGrid.label>Металлическая Решетка</SadjuukMetalGrid.label>
+  <SadjuukMetalGrid.description>Множество прочных кусков переплетенной стали.</SadjuukMetalGrid.description>
+  <!-- STEEL TUBE -->
+  <SadjuukSteelTube.label>Стальная труба</SadjuukSteelTube.label>
+  <SadjuukSteelTube.description>Разновидность прочного полого цилиндра.</SadjuukSteelTube.description>
+  <!-- WIRE (0.1 steel) -->
+  <SadjuukWire.label>Провод</SadjuukWire.label>
+  <SadjuukWire.description>Различные провода и кабели.</SadjuukWire.description>
+  <!-- ARMORED PLATE -->
+  <SadjuukArmoredPlate.label>Бронированная плита</SadjuukArmoredPlate.label>
+  <SadjuukArmoredPlate.description>Конструкционный компонент с очень высокой плотностью, используемый в самых разнообразных современных конструкциях.</SadjuukArmoredPlate.description>
+  <!-- BASIC COMPONENT -->
+  <SadjuukBasicComponent.label>Основные компоненты</SadjuukBasicComponent.label>
+  <SadjuukBasicComponent.description>Набор промышленных компонентов, таких как электродвигатели, датчики, пневматические приводы, крепежные детали и другие.</SadjuukBasicComponent.description>
+  <!-- SOLAR CELL -->
+  <SadjuukSolarCell.label>Солнечная батарея</SadjuukSolarCell.label>
+  <SadjuukSolarCell.description>Фотоэлектрический компонент, используемый в конструкции солнечных панелей.</SadjuukSolarCell.description>
+  <!-- FUEL OIL (150 chemfuel) -->
+  <SadjuukFuelOil.label>Мазут</SadjuukFuelOil.label>
+  <SadjuukFuelOil.description>Мазут с низким содержанием серы. Также известный как морское топливо, он используется в простых установках. Не взрывоопасный, его можно только поджечь.</SadjuukFuelOil.description>
+  <!-- Diesel (6 chemfuel) -->
+  <SadjuukDiesel.label>Дизель</SadjuukDiesel.label>
+  <SadjuukDiesel.description>Фракционный дистиллят мазута. Очень эффективное топливо для генераторов с отличным соотношением энергии и объема.</SadjuukDiesel.description>
+  <!-- Liquid Hydrogen -->
+  <SadjuukHydrogen.label>Жидкий водород</SadjuukHydrogen.label>
+  <SadjuukHydrogen.description>Жидкий водород является обычным жидким ракетным топливом, но также может быть использован в качестве топлива для топливных элементов.</SadjuukHydrogen.description>
+</LanguageData>

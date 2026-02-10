@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Paint recipe A -->
+  <SadjuukSyntheticPaintRecipe.label>Сделать 5 Красок из химического топлива</SadjuukSyntheticPaintRecipe.label>
+  <SadjuukSyntheticPaintRecipe.description>Синтезируйте краску из биотоплива.</SadjuukSyntheticPaintRecipe.description>
+  <SadjuukSyntheticPaintRecipe.jobString>Синтезируйте краску.</SadjuukSyntheticPaintRecipe.jobString>
+  <!-- Paint recipe B -->
+  <SadjuukSyntheticPaintRecipeB.label>сделать 75 Краски из мазута</SadjuukSyntheticPaintRecipeB.label>
+  <SadjuukSyntheticPaintRecipeB.description>Синтезируйте краску из мазута.</SadjuukSyntheticPaintRecipeB.description>
+  <SadjuukSyntheticPaintRecipeB.jobString>Синтезируйте краску.</SadjuukSyntheticPaintRecipeB.jobString>
+  <!-- Concrete -->
+  <SadjuukConcreteRecipeA.label>Сделать 15 Бетонных Плит.</SadjuukConcreteRecipeA.label>
+  <SadjuukConcreteRecipeA.description>Произвести Бетонные Плиты Перекрытия.</SadjuukConcreteRecipeA.description>
+  <SadjuukConcreteRecipeA.jobString>Производство Бетонных Плит.</SadjuukConcreteRecipeA.jobString>
+  <!-- Asphalt Concrete (1/15 Fuel Oil) -->
+  <SadjuukConcreteRecipeB.label>Сделать 75 Асфальтобетона.</SadjuukConcreteRecipeB.label>
+  <SadjuukConcreteRecipeB.description>Произвести Асфальтобетон.</SadjuukConcreteRecipeB.description>
+  <SadjuukConcreteRecipeB.jobString>Производство Асфальтобетона.</SadjuukConcreteRecipeB.jobString>
+  <!-- Glass -->
+  <SadjuukGlassRecipeA.label>Сделать 12 Стеклянных Плит.</SadjuukGlassRecipeA.label>
+  <SadjuukGlassRecipeA.description>Произвести Стеклянные Плиты.</SadjuukGlassRecipeA.description>
+  <SadjuukGlassRecipeA.jobString>Производство Стеклянных Плит.</SadjuukGlassRecipeA.jobString>
+</LanguageData>

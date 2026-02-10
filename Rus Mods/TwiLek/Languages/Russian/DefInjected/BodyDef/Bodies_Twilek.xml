@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Twilek_body.label>тви'лек</Twilek_body.label>
+    
+	<Twilek_body.corepart.parts.6.customlabel>левое лёгкое</Twilek_body.corepart.parts.6.customlabel>
+	<Twilek_body.corepart.parts.7.customlabel>правое лёгкое</Twilek_body.corepart.parts.7.customlabel>
+	<Twilek_body.corepart.parts.8.customlabel>левая почка</Twilek_body.corepart.parts.8.customlabel>
+	<Twilek_body.corepart.parts.9.customlabel>правая почка</Twilek_body.corepart.parts.9.customlabel>
+    
+	<Twilek_body.corepart.parts.11.parts.0.parts.1.customlabel>левый глаз</Twilek_body.corepart.parts.11.parts.0.parts.1.customlabel>
+	<Twilek_body.corepart.parts.11.parts.0.parts.2.customlabel>правый глаз</Twilek_body.corepart.parts.11.parts.0.parts.2.customlabel>
+	<Twilek_body.corepart.parts.11.parts.0.parts.3.customlabel>левое ухо</Twilek_body.corepart.parts.11.parts.0.parts.3.customlabel>
+	<Twilek_body.corepart.parts.11.parts.0.parts.4.customlabel>правое ухо</Twilek_body.corepart.parts.11.parts.0.parts.4.customlabel>
+
+	<Twilek_body.corepart.parts.12.customlabel>левое плечо</Twilek_body.corepart.parts.12.customlabel>
+	<Twilek_body.corepart.parts.12.parts.0.customlabel>левая ключица</Twilek_body.corepart.parts.12.parts.0.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.customlabel>левая рука</Twilek_body.corepart.parts.12.parts.1.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.0.customlabel>левая плечевая кость</Twilek_body.corepart.parts.12.parts.1.parts.0.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.1.customlabel>левое предплечье</Twilek_body.corepart.parts.12.parts.1.parts.1.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.2.customlabel>левая кисть</Twilek_body.corepart.parts.12.parts.1.parts.2.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.2.parts.0.customlabel>мизинец левой руки</Twilek_body.corepart.parts.12.parts.1.parts.2.parts.0.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.2.parts.1.customlabel>безымянный палец левой руки</Twilek_body.corepart.parts.12.parts.1.parts.2.parts.1.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.2.parts.2.customlabel>средний палец левой руки</Twilek_body.corepart.parts.12.parts.1.parts.2.parts.2.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.2.parts.3.customlabel>указательный палец левой руки</Twilek_body.corepart.parts.12.parts.1.parts.2.parts.3.customlabel>
+	<Twilek_body.corepart.parts.12.parts.1.parts.2.parts.4.customlabel>большой палец левой руки</Twilek_body.corepart.parts.12.parts.1.parts.2.parts.4.customlabel>
+
+	<Twilek_body.corepart.parts.13.customlabel>правое плечо</Twilek_body.corepart.parts.13.customlabel>
+	<Twilek_body.corepart.parts.13.parts.0.customlabel>правая ключица</Twilek_body.corepart.parts.13.parts.0.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.customlabel>правая рука</Twilek_body.corepart.parts.13.parts.1.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.0.customlabel>правая плечевая кость</Twilek_body.corepart.parts.13.parts.1.parts.0.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.1.customlabel>правое предплечье</Twilek_body.corepart.parts.13.parts.1.parts.1.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.2.customlabel>правая кисть</Twilek_body.corepart.parts.13.parts.1.parts.2.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>мизинец правой руки</Twilek_body.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>безымянный палец правой руки</Twilek_body.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>средний палец правой руки</Twilek_body.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>указательный палец правой руки</Twilek_body.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+	<Twilek_body.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>большой палец правой руки</Twilek_body.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+    
+	<Twilek_body.corepart.parts.15.customlabel>левая нога</Twilek_body.corepart.parts.15.customlabel>
+	<Twilek_body.corepart.parts.15.parts.0.customlabel>левое бедро</Twilek_body.corepart.parts.15.parts.0.customlabel>
+	<Twilek_body.corepart.parts.15.parts.1.customlabel>левая голень</Twilek_body.corepart.parts.15.parts.1.customlabel>
+	<Twilek_body.corepart.parts.15.parts.2.customlabel>левая стопа</Twilek_body.corepart.parts.15.parts.2.customlabel>
+	<Twilek_body.corepart.parts.15.parts.2.parts.0.customlabel>мизинец левой ноги</Twilek_body.corepart.parts.15.parts.2.parts.0.customlabel>
+	<Twilek_body.corepart.parts.15.parts.2.parts.1.customlabel>безымянный палец левой ноги</Twilek_body.corepart.parts.15.parts.2.parts.1.customlabel>
+	<Twilek_body.corepart.parts.15.parts.2.parts.2.customlabel>средний палец левой ноги</Twilek_body.corepart.parts.15.parts.2.parts.2.customlabel>
+	<Twilek_body.corepart.parts.15.parts.2.parts.3.customlabel>указательный палец левой ноги</Twilek_body.corepart.parts.15.parts.2.parts.3.customlabel>
+	<Twilek_body.corepart.parts.15.parts.2.parts.4.customlabel>большой палец левой ноги</Twilek_body.corepart.parts.15.parts.2.parts.4.customlabel>
+
+	<Twilek_body.corepart.parts.16.customlabel>правая нога</Twilek_body.corepart.parts.16.customlabel>
+	<Twilek_body.corepart.parts.16.parts.0.customlabel>правое бедро</Twilek_body.corepart.parts.16.parts.0.customlabel>
+	<Twilek_body.corepart.parts.16.parts.1.customlabel>правая голень</Twilek_body.corepart.parts.16.parts.1.customlabel>
+	<Twilek_body.corepart.parts.16.parts.2.customlabel>правая стопа</Twilek_body.corepart.parts.16.parts.2.customlabel>
+	<Twilek_body.corepart.parts.16.parts.2.parts.0.customlabel>мизинец правой ноги</Twilek_body.corepart.parts.16.parts.2.parts.0.customlabel>
+	<Twilek_body.corepart.parts.16.parts.2.parts.1.customlabel>безымянный палец правой ноги</Twilek_body.corepart.parts.16.parts.2.parts.1.customlabel>
+	<Twilek_body.corepart.parts.16.parts.2.parts.2.customlabel>средний палец правой ноги</Twilek_body.corepart.parts.16.parts.2.parts.2.customlabel>
+	<Twilek_body.corepart.parts.16.parts.2.parts.3.customlabel>указательный палец правой ноги</Twilek_body.corepart.parts.16.parts.2.parts.3.customlabel>
+	<Twilek_body.corepart.parts.16.parts.2.parts.4.customlabel>большой палец правой ноги</Twilek_body.corepart.parts.16.parts.2.parts.4.customlabel>
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WallStuff.label>Настенный монтаж</WallStuff.label>
+  <WallStuff.description>Материал для стен.</WallStuff.description>
+
+  <MatterToEnergyConversion.label>Преобразование энергии в материю</MatterToEnergyConversion.label>
+  <MatterToEnergyConversion.description>Преобразование энергии в материю позволяет производить репликаторы, которые используют большое количество энергии для производства небольшого количества предметов.</MatterToEnergyConversion.description>
+
+
+</LanguageData>

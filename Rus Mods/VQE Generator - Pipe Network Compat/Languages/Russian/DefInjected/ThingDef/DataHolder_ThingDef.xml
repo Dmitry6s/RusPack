@@ -1,0 +1,5 @@
+<LanguageData>
+	<!-- Defs\DataHolder.xml -->
+	                   <!-- EN: dummy list of ARCs that need to be connected -->
+	<PipedARC_DummyHolder.label>фиктивный список ARC, требующих подключения</PipedARC_DummyHolder.label>
+</LanguageData>

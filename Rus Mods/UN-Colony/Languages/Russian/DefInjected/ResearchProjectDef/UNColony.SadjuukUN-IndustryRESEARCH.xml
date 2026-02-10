@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- #3 BASE : UN Colonization Programm -->
+  <SadjuukColonization.label>Программа UN по колонизации</SadjuukColonization.label>
+  <SadjuukColonization.description>Открытие рекомендаций и технологий Программы колонизации Организации Объединенных Наций.</SadjuukColonization.description>
+  <!-- #1 Metallurgy -->
+  <SadjuukMetallurgyA.label>Бессемеровский преобразователь</SadjuukMetallurgyA.label>
+  <SadjuukMetallurgyA.description>Бессемеровский конвертер позволит вашей колонии перерабатывать промышленно необработанную сталь.</SadjuukMetallurgyA.description>
+  <SadjuukMetallurgyB.label>Мартеновская печь</SadjuukMetallurgyB.label>
+  <SadjuukMetallurgyB.description>Мартеновская печь - это усовершенствование Бессемеровского конвертера.</SadjuukMetallurgyB.description>
+  <SadjuukMetallurgyC.label>Электродуговая печь.</SadjuukMetallurgyC.label>
+  <SadjuukMetallurgyC.description>Исследуйте, как обрабатывать рядовую сталь с помощью мощной технологии электродуговой печи.</SadjuukMetallurgyC.description>
+  <!-- #1.5 Production -->
+  <SadjuukProductionA.label>Производственные линии</SadjuukProductionA.label>
+  <SadjuukProductionA.description>Это исследование позволит вашей колонии построить эффективные производственные линии.</SadjuukProductionA.description>
+  <SadjuukProductionB.label>Станки</SadjuukProductionB.label>
+  <SadjuukProductionB.description>Станки, используемые для улучшения ваших производственных линий.</SadjuukProductionB.description>
+  <SadjuukProductionC.label>Промышленная робототехника.</SadjuukProductionC.label>
+  <SadjuukProductionC.description>Промышленная робототехника Devlops, которая более эффективна, чем станки.</SadjuukProductionC.description>
+  <!-- #2 Fuel Oil -->
+  <SadjuukFuelOilA.label>Переработка мазута</SadjuukFuelOilA.label>
+  <SadjuukFuelOilA.description>Производство мазута и Генераторы.</SadjuukFuelOilA.description>
+  <SadjuukFuelOilB.label>Генератор на мазуте A</SadjuukFuelOilB.label>
+  <SadjuukFuelOilB.description>Большой Генератор Мазута.</SadjuukFuelOilB.description>
+  <SadjuukFuelOilC.label>Генератор на мазуте B</SadjuukFuelOilC.label>
+  <SadjuukFuelOilC.description>Усовершенствование генератора A.</SadjuukFuelOilC.description>
+  <!-- #2.5 Diesel -->
+  <SadjuukDieselA.label>Переработка дизельного топлива</SadjuukDieselA.label>
+  <SadjuukDieselA.description>Производство дизельного топлива и портативных генераторов.</SadjuukDieselA.description>
+  <SadjuukDieselB.label>Дизель-Генератор F</SadjuukDieselB.label>
+  <SadjuukDieselB.description>Промышленный дизель-генератор F.</SadjuukDieselB.description>
+  <SadjuukDieselC.label>Дизель-Генератор г</SadjuukDieselC.label>
+  <SadjuukDieselC.description>Промышленный дизель-генератор G.</SadjuukDieselC.description>
+  <SadjuukDieselD.label>Дизель-Генератор N</SadjuukDieselD.label>
+  <SadjuukDieselD.description>Бронированный дизель-генератор N.</SadjuukDieselD.description>
+  <SadjuukDieselE.label>Дизель-Генератор М</SadjuukDieselE.label>
+  <SadjuukDieselE.description>Бронированный Дизель-генератор M.</SadjuukDieselE.description>
+  <!-- #3 Hydrogen -->
+  <SadjuukHydrogenA.label>Усовершенствованная переработка</SadjuukHydrogenA.label>
+  <SadjuukHydrogenA.description>Позволяет производить водород, взрывчатые вещества и химикаты на продвинутой стадии переработки. Также имеется портативный водородный топливный элемент.</SadjuukHydrogenA.description>
+  <SadjuukHydrogenB.label>Бронированный топливный элемент</SadjuukHydrogenB.label>
+  <SadjuukHydrogenB.description>Большой топливный элемент.</SadjuukHydrogenB.description>
+</LanguageData>

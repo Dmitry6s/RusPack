@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WanderingCaravanSpawned.label>Блуждающий караван прибыл</WanderingCaravanSpawned.label>
+  <WanderingCaravanSpawned.letterText>Ваши колонисты заметили на расстоянии блуждающего {0}, возможно следовавший а другими караванами.\n\nЛибо приручите, либо убейте его, чтобы захватить потенциально ценный инвентарь.</WanderingCaravanSpawned.letterText>
+  <WanderingCaravanSpawned.letterLabel>Блуждающий караван замечен</WanderingCaravanSpawned.letterLabel>
+
+  <WanderingCaravanChase.label>Блуждающий караван: погоня</WanderingCaravanChase.label>
+  <WanderingCaravanReturnDemand.label>Блуждающий караван: возврат за потерянным</WanderingCaravanReturnDemand.label>
+
+
+</LanguageData>

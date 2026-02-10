@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs\VIC_Thumper.xml -->
+	          <!-- EN: thumper -->
+	<VIC_Thumper.label>Импульсный отпугиватель</VIC_Thumper.label>
+	                <!-- EN: A giant hammer that sends shockwaves through the ground to deter unwanted insects. -->
+	<VIC_Thumper.description>Гигантский молот, который посылает ударные волны сквозь землю, чтобы отпугивать незваных насекомых.</VIC_Thumper.description>
+	
+	            <!-- EN: mega thumper -->
+	<VIC_ThumperXL.label>Импульсный мегаотпугиватель</VIC_ThumperXL.label>
+	                  <!-- EN: An even larger hammer that sends shockwaves through the ground to deter unwanted insects. -->
+	<VIC_ThumperXL.description>Ещё более крупный молот, который посылает ударные волны сквозь землю, чтобы отпугивать незваных насекомых.</VIC_ThumperXL.description>
+</LanguageData>

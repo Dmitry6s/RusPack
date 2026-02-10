@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TwilekMonk.title>Боевой монах</TwilekMonk.title>
+  <TwilekMonk.titleShort>Монах</TwilekMonk.titleShort>
+  <TwilekMonk.baseDescription>[PAWN_nameDef] was raised by a Hutt slave training facility devoted to martial arts and acrobatics, to produce various dancers, bodyguards, and assassins to the various Hutt ganglords. [PAWN_pronoun] was raised to master various forms of physical combat and acrobatics, excelling in melee combat skills from an early age.</TwilekMonk.baseDescription>
+
+  <TwilekMonkAdl.title>Тви'лек-ассасин</TwilekMonkAdl.title>
+  <TwilekMonkAdl.titleShort>Ассасин</TwilekMonkAdl.titleShort>
+  <TwilekMonkAdl.baseDescription>[PAWN_nameDef] spent [PAWN_possessive] adolescent years training in advanced infiltration and assassination techniques. [PAWN_pronoun] has masterered multiple martial arts, weapons, and techniques for stealth and information gathering.</TwilekMonkAdl.baseDescription>
+
+  <TwilekTribalAdult.title>Раб-рабочий</TwilekTribalAdult.title>
+  <TwilekTribalAdult.titleShort>Раб-рабочий</TwilekTribalAdult.titleShort>
+  <TwilekTribalAdult.baseDescription>Many of the Twilek people are simple slave workers, like [PAWN_nameDef]. A hardy people, due to the harsh environment of their home, Ryloth.</TwilekTribalAdult.baseDescription>
+
+  <TwilekTribal.title>Роскошное рабство</TwilekTribal.title>
+  <TwilekTribal.titleShort>Люкс-раб</TwilekTribal.titleShort>
+  <TwilekTribal.baseDescription>[PAWN_nameDef] was sold into slavery by one of the Twi'lek families that believes interplanetary slavery is the easiest way to proliferate their species and culture. [PAWN_pronoun] was trained from a young age in many forms of dance and entertainment, as well as a thorough academic education.</TwilekTribal.baseDescription>
+
+  <TwilekBuilder.title>Раб-строитель</TwilekBuilder.title>
+  <TwilekBuilder.titleShort>Строитель</TwilekBuilder.titleShort>
+  <TwilekBuilder.baseDescription>[PAWN_nameDef] was recognized as having a good eye for angles and design, so [PAWN_possessive] masters saw fit to educate [PAWN_pronoun] as a construction foreman. [PAWN_pronoun] relished the opportunity to design and build lavish palaces and other structures for the hutts in Twi'lek architectural styles and decor.</TwilekBuilder.baseDescription>
+
+  <TwilekSpacerKid.title>Рождённый на яхте</TwilekSpacerKid.title>
+  <TwilekSpacerKid.titleShort>Рождённый на яхте</TwilekSpacerKid.titleShort>
+  <TwilekSpacerKid.baseDescription>[PAWN_nameDef] was born to a family of servants aboard a hutt pleasure yacht. [PAWN_pronoun] learned all the basics of housekeeping, cooking, and maintenance from the various servants and crew.</TwilekSpacerKid.baseDescription>
+
+  <TwilekTheif.title>Тви'лек-карманник</TwilekTheif.title>
+  <TwilekTheif.titleShort>Карманник</TwilekTheif.titleShort>
+  <TwilekTheif.baseDescription>[PAWN_nameDef] escaped slavery at a young age, and turned to pickpocketing and petty theft, stealing what [PAWN_pronoun] needed to survive on the hard streets.</TwilekTheif.baseDescription>
+
+  <TwilekAdopt.title>Приёмный тви'лек</TwilekAdopt.title>
+  <TwilekAdopt.titleShort>Приёмный</TwilekAdopt.titleShort>
+  <TwilekAdopt.baseDescription>[PAWN_nameDef] was about to be sold to one of the more notoriously cruel hutt ganglords, when an aged Republic senator intervened and offered a lavish sum. The kindly old man raised [PAWN_nameDef] as his own, enrolling [PAWN_pronoun] in the finest academy, teaching [PAWN_pronoun] all the nuances of galactic politics as [PAWN_pronoun] was old enough to grasp them. It was a hard day for [PAWN_nameDef] when the old man passed... but he had left his fortune to [PAWN_pronoun] in the will...</TwilekAdopt.baseDescription>
+
+  <TwilekTribekid.title>Дитя племени тви'леков</TwilekTribekid.title>
+  <TwilekTribekid.titleShort>Твилек</TwilekTribekid.titleShort>
+  <TwilekTribekid.baseDescription>[PAWN_nameDef] was born in a small free community of Twi'leks. [PAWN_pronoun] had to learn to pitch in and help keep the community fed from an early age.</TwilekTribekid.baseDescription>
+
+  <TwilekCoreKid.title>Тви'лек-ремесленник</TwilekCoreKid.title>
+  <TwilekCoreKid.titleShort>Ремесленник</TwilekCoreKid.titleShort>
+  <TwilekCoreKid.baseDescription>[PAWN_nameDef] has always been making little things for [PAWN_possessive] family. Naturally, they encouraged his skill with craftsmanship, and [PAWN_pronoun] is developing into quite the artisan.</TwilekCoreKid.baseDescription>
+
+  <TwilekWeapon.title>Бластеродел</TwilekWeapon.title>
+  <TwilekWeapon.titleShort>Бластеродел</TwilekWeapon.titleShort>
+  <TwilekWeapon.baseDescription>[PAWN_nameDef] found [PAWN_pronoun] had a natural talent and love for making blasters and various custom components. [PAWN_pronoun] has become well known among the hutt ganglords for producing excellent custom blasters and upgrade kits.</TwilekWeapon.baseDescription>
+
+  <TwilekMedic.title>Тви'лек-медик</TwilekMedic.title>
+  <TwilekMedic.titleShort>Медик</TwilekMedic.titleShort>
+  <TwilekMedic.baseDescription>[PAWN_nameDef] tends the wounds and ailments of the various guards, mercenaries, and ruffians hired by the hutts for their local operations. [PAWN_pronoun] also prepares various basic pharmaceuticals for their needs, such as laxatives or minor painkillers.</TwilekMedic.baseDescription>
+
+  <Twilekherb.title>Тви'лек-садовник</Twilekherb.title>
+  <Twilekherb.titleShort>Садовник</Twilekherb.titleShort>
+  <Twilekherb.baseDescription>[PAWN_nameDef] has tended [PAWN_possessive] master's gardens for years now - [PAWN_pronoun] knows how to treat each plant to coax the most vibrant color into it's flowers and foliage. As as result, [PAWN_possessive] master's garden parties are the envy of the hutt ganglords.</Twilekherb.baseDescription>
+
+  <TwilekMercBS.title>Тви'лек-наемник</TwilekMercBS.title>
+  <TwilekMercBS.titleShort>Наемник</TwilekMercBS.titleShort>
+  <TwilekMercBS.baseDescription>[PAWN_nameDef] won [PAWN_possessive] freedom, and [PAWN_possessive] business in a gladiatorial arena. [PAWN_pronoun] was thought by most to have been added to the contest as fodder for the hardened bounty hunters and rough types that had entered to win the bounty-hunting contract and state-of-the-art persuit ship that the gang-lords were offering as the grand prize for the sole survivor. The hutts were exceptionally pleased though - after all, nobody had bet on [PAWN_pronoun].</TwilekMercBS.baseDescription>
+
+  <FighterTwilek.title>Тви'лек-боец</FighterTwilek.title>
+  <FighterTwilek.titleShort>Боец</FighterTwilek.titleShort>
+  <FighterTwilek.baseDescription>[PAWN_nameDef] is a rank-and-file 'soldier' for a hutt gang lord. [PAWN_pronoun] keeps dangerous creatures or people from attacking or invading the hutt's stronghold, sometimes raiding other gangs for supplies or to 'send a message'.</FighterTwilek.baseDescription>
+
+  <DancerTwilek.title>Тви'лек-танцор</DancerTwilek.title>
+  <DancerTwilek.titleShort>Танцор</DancerTwilek.titleShort>
+  <DancerTwilek.baseDescription>The natural grace and exotic beauty of the Twi'leks made them a popular target among slave traders, especially for dancers and entertainers. [PAWN_nameDef] is one of the massive number of Twi'leks, either willingly or unwillingly drawn into the life of a dancer.
+		</DancerTwilek.baseDescription>
+
+  <CMDTwilek.title>>Тви'лек-советник</CMDTwilek.title>
+  <CMDTwilek.titleShort>Советник</CMDTwilek.titleShort>
+  <CMDTwilek.baseDescription>[PAWN_nameDef] was [PAWN_possessive] master's trusted right hand and advisor. There was no-one within the hutt's organization who looked on [PAWN_nameDef] as a slave anymore. [PAWN_pronoun] enjoyed a great many luxuries in [PAWN_possessive] position. Many believe [PAWN_nameDef] would have been named the master's successor as gang boss, if [PAWN_pronoun] hadn't become seperated from the gang when an assassination attempt disabled the master's space yacht, forcing the gang to rush to the escape pods.
+		</CMDTwilek.baseDescription>
+
+  <TwilekSpacerAdult.title>Космический торговец</TwilekSpacerAdult.title>
+  <TwilekSpacerAdult.titleShort>Космоторговец</TwilekSpacerAdult.titleShort>
+  <TwilekSpacerAdult.baseDescription>[PAWN_nameDef] was a free-trader, roving the Rim searching for deals and opportunities for profit. Until now, [PAWN_pronoun] was flying a ship, making deals with colonies like these... I wonder what happened?
+		</TwilekSpacerAdult.baseDescription>
+
+  <TwilekRebelAdult.title>Повстанец</TwilekRebelAdult.title>
+  <TwilekRebelAdult.titleShort>Повстанец</TwilekRebelAdult.titleShort>
+  <TwilekRebelAdult.baseDescription>[PAWN_nameDef] is a rebellious free-spirit.
+		</TwilekRebelAdult.baseDescription>
+
+  <TwilekFoodie.title>Повар банды</TwilekFoodie.title>
+  <TwilekFoodie.titleShort>Повар</TwilekFoodie.titleShort>
+  <TwilekFoodie.baseDescription>Every hutt loves food - the more exotic the better. As the chef for a hutt, your culinary skill is directly tied to your longevity. [PAWN_nameDef] has honed [PAWN_possessive] cooking skill to a razor edge to literally preserve [PAWN_possessive] own life. If you cook a bad meal for a hutt, you will likely BE the next meal!</TwilekFoodie.baseDescription>
+
+  <TwilekRebelKid.title>Бунтарь</TwilekRebelKid.title>
+  <TwilekRebelKid.titleShort>Бунтарь</TwilekRebelKid.titleShort>
+  <TwilekRebelKid.baseDescription>[PAWN_nameDef] is a rebellious free-spirited child. A real firecracker!
+		</TwilekRebelKid.baseDescription>
+
+  <TwilekServant.title>Тви'лек-прислуга</TwilekServant.title>
+  <TwilekServant.titleShort>Прислуга</TwilekServant.titleShort>
+  <TwilekServant.baseDescription>[PAWN_nameDef] was a house servant to a powerful hutt crime lord. [PAWN_pronoun] was well-treated, and well educated, partially as boasting rights on the part of the hutt. [PAWN_pronoun] was also trained in basic defense, in case of any intruders.
+		</TwilekServant.baseDescription>
+
+  <ZabChildServant.title>Ребёнок-прислуга</ZabChildServant.title>
+  <ZabChildServant.titleShort>Прислуга</ZabChildServant.titleShort>
+  <ZabChildServant.baseDescription>[PAWN_nameDef] was born and raised as a servant in the household of a powerful hutt crime lord. [PAWN_pronoun] learned all the basic skills from the servants and slaves, before being sent to a training school.
+		</ZabChildServant.baseDescription>
+
+</LanguageData>

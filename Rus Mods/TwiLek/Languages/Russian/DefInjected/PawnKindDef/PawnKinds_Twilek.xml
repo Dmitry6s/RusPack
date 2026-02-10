@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TwilekTrader.label>Тви'лек-торговец</TwilekTrader.label>
+	<TwilekRecruit.label>Тви'лек-разведчик</TwilekRecruit.label>
+	<TwilekSlave.label>Тви'лек-раб</TwilekSlave.label>
+	<TwilekColonist.label>колонист</TwilekColonist.label>
+	<TwilekGrandVizier.label>Великий Визирь</TwilekGrandVizier.label>
+	<TwilekOperative.label>Тви'лек-оперативник</TwilekOperative.label>
+	<TwilekMerc.label>Тви'лек-наёмник</TwilekMerc.label>
+	<TwilekAcrobat.label>Акробат</TwilekAcrobat.label>
+	<TwilekOperativeElite.label>Тви'лек-ассасин</TwilekOperativeElite.label>
+
+</LanguageData>

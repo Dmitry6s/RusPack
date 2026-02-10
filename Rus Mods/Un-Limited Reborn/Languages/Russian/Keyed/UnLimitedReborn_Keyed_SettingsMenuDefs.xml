@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Un-Limited Reborn -->
+	<TRUR_SettingsMenu>Un-Limited Reborn</TRUR_SettingsMenu>
+	<!-- EN: Apparel: -->
+	<TRUR_Apparel>Одежда:</TRUR_Apparel>
+	<!-- EN: Combat: -->
+	<TRUR_Combat>Бой:</TRUR_Combat>
+	<!-- EN: General: -->
+	<TRUR_General>Общее:</TRUR_General>
+	<!-- EN: Social: -->
+	<TRUR_Social>Общение:</TRUR_Social>
+	<!-- EN: Work General: -->
+	<TRUR_WorkGeneral>Работа (общее):</TRUR_WorkGeneral>
+	<!-- EN: Work Medical: -->
+	<TRUR_WorkMedical>Работа (медицина):</TRUR_WorkMedical>
+	<!-- EN: Work Recipes: -->
+	<TRUR_WorkRecipes>Работа (рецепты):</TRUR_WorkRecipes>
+	<!-- EN: Ideology: -->
+	<TRUR_Ideology>Идеология:</TRUR_Ideology>
+	<!-- EN: Odyssey: -->
+	<TRUR_Odyssey>Одиссея:</TRUR_Odyssey>
+	<!-- EN: Extra: -->
+	<TRUR_Extra>Дополнительно:</TRUR_Extra>
+	<!-- EN: Advanced -->
+	<TRUR_Advanced>Расширенное</TRUR_Advanced>
+	<!-- EN: Post Process Curve: -->
+	<TRUR_PostProcessCurve>Кривая постобработки:</TRUR_PostProcessCurve>
+	<!-- EN: Skill Need Factors Type: -->
+	<TRUR_SkillNeedFactorsType>Тип факторов влияния навыков:</TRUR_SkillNeedFactorsType>
+	<!-- EN: For more info see the Wiki -->
+	<TRUR_Wiki>Для получения доп. информации см. Wiki</TRUR_Wiki>
+	<!-- EN: Restarting game is required to apply some changes. -->
+	<TRUR_RestartRequired>Для применения некоторых изменений требуется перезапуск игры.</TRUR_RestartRequired>
+</LanguageData>

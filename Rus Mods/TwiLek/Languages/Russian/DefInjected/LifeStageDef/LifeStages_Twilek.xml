@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BabyTwiStage.label>Младенец</BabyTwiStage.label>
+	<ChildTwiStage.label>Ребёнок</ChildTwiStage.label>
+	<TeenTwiStage.label>Взрослый</TeenTwiStage.label>
+	<AdultTwiStage.label>Взрослый</AdultTwiStage.label>
+	<ElderTwiStage.label>Пожилой</ElderTwiStage.label>
+	<AncestorTwiStage.label>Прародитель</AncestorTwiStage.label>
+
+</LanguageData>

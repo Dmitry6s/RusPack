@@ -1,0 +1,1304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- White Street Light AW -->
+  <SadjuukStreetLightAW.label>Белый Уличный Фонарь</SadjuukStreetLightAW.label>
+  <SadjuukStreetLightAW.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightAW.description>-->
+  <SadjuukStreetLightAW_Blueprint.label>Белый Уличный Фонарь (чертеж)</SadjuukStreetLightAW_Blueprint.label>-->
+  <SadjuukStreetLightAW_Blueprint_Install.label>Белый Уличный Фонарь (чертеж)</SadjuukStreetLightAW_Blueprint_Install.label>-->
+  <SadjuukStreetLightAW_Frame.label>Белый Уличный Фонарь (здание)</SadjuukStreetLightAW_Frame.label>-->
+  <SadjuukStreetLightAW_Frame.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightAW_Frame.description>-->
+  <!-- Yellow Street Light AY -->
+  <SadjuukStreetLightAY.label>Желтый Уличный Фонарь</SadjuukStreetLightAY.label>
+  <SadjuukStreetLightAY.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightAY.description>
+  <SadjuukStreetLightAY_Blueprint.label>Желтый Уличный Фонарь (чертеж)</SadjuukStreetLightAY_Blueprint.label>
+  <SadjuukStreetLightAY_Blueprint_Install.label>Желтый Уличный Фонарь (чертеж)</SadjuukStreetLightAY_Blueprint_Install.label>
+  <SadjuukStreetLightAY_Frame.label>Желтый Уличный Фонарь (здание)</SadjuukStreetLightAY_Frame.label>
+  <SadjuukStreetLightAY_Frame.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightAY_Frame.description>
+  <!-- White Street Light BW -->
+  <SadjuukStreetLightBW.label>Белый Уличный Фонарь</SadjuukStreetLightBW.label>
+  <SadjuukStreetLightBW.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightBW.description>
+  <SadjuukStreetLightBW_Blueprint.label>Белый Уличный Фонарь (чертеж)</SadjuukStreetLightBW_Blueprint.label>
+  <SadjuukStreetLightBW_Blueprint_Install.label>Белый Уличный Фонарь (чертеж)</SadjuukStreetLightBW_Blueprint_Install.label>
+  <SadjuukStreetLightBW_Frame.label>Белый Уличный Фонарь (здание)</SadjuukStreetLightBW_Frame.label>
+  <SadjuukStreetLightBW_Frame.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightBW_Frame.description>
+  <!-- Yellow Street Light B -->
+  <SadjuukStreetLightBY.label>Желтый Уличный Фонарь</SadjuukStreetLightBY.label>
+  <SadjuukStreetLightBY.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightBY.description>
+  <SadjuukStreetLightBY_Blueprint.label>Желтый Уличный Фонарь (чертеж)</SadjuukStreetLightBY_Blueprint.label>
+  <SadjuukStreetLightBY_Blueprint_Install.label>Желтый Уличный Фонарь (чертеж)</SadjuukStreetLightBY_Blueprint_Install.label>
+  <SadjuukStreetLightBY_Frame.label>Желтый Уличный Фонарь (здание)</SadjuukStreetLightBY_Frame.label>
+  <SadjuukStreetLightBY_Frame.description>P : 40W, L : 16
+Промышленный уличный фонарь на открытом воздухе</SadjuukStreetLightBY_Frame.description>
+  <!-- White Wall Light AW -->
+  <SadjuukWallLightAW.label>Белый Настенный Светильник</SadjuukWallLightAW.label>
+  <SadjuukWallLightAW.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAW.description>
+  <SadjuukWallLightAW_Blueprint.label>Белый Настенный Светильник (чертеж)</SadjuukWallLightAW_Blueprint.label>
+  <SadjuukWallLightAW_Blueprint_Install.label>Белый Настенный Светильник (чертеж)</SadjuukWallLightAW_Blueprint_Install.label>
+  <SadjuukWallLightAW_Frame.label>Белый Настенный Светильник (здание)</SadjuukWallLightAW_Frame.label>
+  <SadjuukWallLightAW_Frame.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAW_Frame.description>
+  <!-- Yellow Wall Light AY -->
+  <SadjuukWallLightAY.label>Желтый Настенный Светильник</SadjuukWallLightAY.label>
+  <SadjuukWallLightAY.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAY.description>
+  <SadjuukWallLightAY_Blueprint.label>Желтый Настенный Светильник (чертеж)</SadjuukWallLightAY_Blueprint.label>
+  <SadjuukWallLightAY_Blueprint_Install.label>Желтый Настенный Светильник (чертеж)</SadjuukWallLightAY_Blueprint_Install.label>
+  <SadjuukWallLightAY_Frame.label>Желтый Настенный Светильник (здание)</SadjuukWallLightAY_Frame.label>
+  <SadjuukWallLightAY_Frame.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAY_Frame.description>
+  <!-- Red Wall Light AR -->
+  <SadjuukWallLightAR.label>Красный Настенный Светильник</SadjuukWallLightAR.label>
+  <SadjuukWallLightAR.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAR.description>
+  <SadjuukWallLightAR_Blueprint.label>Красный Настенный Светильник (чертеж)</SadjuukWallLightAR_Blueprint.label>
+  <SadjuukWallLightAR_Blueprint_Install.label>Красный Настенный Светильник (чертеж)</SadjuukWallLightAR_Blueprint_Install.label>
+  <SadjuukWallLightAR_Frame.label>Красный Настенный Светильник (здание)</SadjuukWallLightAR_Frame.label>
+  <SadjuukWallLightAR_Frame.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAR_Frame.description>
+  <!-- Green Wall Light AG -->
+  <SadjuukWallLightAG.label>Зеленый Настенный Светильник</SadjuukWallLightAG.label>
+  <SadjuukWallLightAG.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAG.description>
+  <SadjuukWallLightAG_Blueprint.label>Зеленый Настенный Светильник (чертеж)</SadjuukWallLightAG_Blueprint.label>
+  <SadjuukWallLightAG_Blueprint_Install.label>Зеленый Настенный Светильник (чертеж)</SadjuukWallLightAG_Blueprint_Install.label>
+  <SadjuukWallLightAG_Frame.label>Зеленый Настенный Светильник (здание)</SadjuukWallLightAG_Frame.label>
+  <SadjuukWallLightAG_Frame.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAG_Frame.description>
+  <!-- Blue Wall Light AB -->
+  <SadjuukWallLightAB.label>Синий Настенный Светильник</SadjuukWallLightAB.label>
+  <SadjuukWallLightAB.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAB.description>
+  <SadjuukWallLightAB_Blueprint.label>Синий Настенный Светильник (чертеж)</SadjuukWallLightAB_Blueprint.label>
+  <SadjuukWallLightAB_Blueprint_Install.label>Синий Настенный Светильник (чертеж)</SadjuukWallLightAB_Blueprint_Install.label>
+  <SadjuukWallLightAB_Frame.label>Синий Настенный Светильник (здание)</SadjuukWallLightAB_Frame.label>
+  <SadjuukWallLightAB_Frame.description>P : 20W, L : 8
+Обычный Настенный Светильник.</SadjuukWallLightAB_Frame.description>
+  <!-- White Wall Light BW -->
+  <SadjuukWallLightBW.label>Белый Настенный Светильник</SadjuukWallLightBW.label>
+  <SadjuukWallLightBW.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBW.description>
+  <SadjuukWallLightBW_Blueprint.label>Белый Настенный Светильник (чертеж)</SadjuukWallLightBW_Blueprint.label>
+  <SadjuukWallLightBW_Blueprint_Install.label>Белый Настенный Светильник (чертеж)</SadjuukWallLightBW_Blueprint_Install.label>
+  <SadjuukWallLightBW_Frame.label>Белый Настенный Светильник (здание)</SadjuukWallLightBW_Frame.label>
+  <SadjuukWallLightBW_Frame.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBW_Frame.description>
+  <!-- Yellow Wall Light BY -->
+  <SadjuukWallLightBY.label>Желтый Настенный Светильник</SadjuukWallLightBY.label>
+  <SadjuukWallLightBY.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBY.description>
+  <SadjuukWallLightBY_Blueprint.label>Желтый Настенный Светильник (чертеж)</SadjuukWallLightBY_Blueprint.label>
+  <SadjuukWallLightBY_Blueprint_Install.label>Желтый Настенный Светильник (чертеж)</SadjuukWallLightBY_Blueprint_Install.label>
+  <SadjuukWallLightBY_Frame.label>Желтый Настенный Светильник (здание)</SadjuukWallLightBY_Frame.label>
+  <SadjuukWallLightBY_Frame.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBY_Frame.description>
+  <!-- Red Wall Light BR -->
+  <SadjuukWallLightBR.label>Красный Настенный Светильник</SadjuukWallLightBR.label>
+  <SadjuukWallLightBR.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBR.description>
+  <SadjuukWallLightBR_Blueprint.label>Красный Настенный Светильник (чертеж)</SadjuukWallLightBR_Blueprint.label>
+  <SadjuukWallLightBR_Blueprint_Install.label>Красный Настенный Светильник (чертеж)</SadjuukWallLightBR_Blueprint_Install.label>
+  <SadjuukWallLightBR_Frame.label>Красный Настенный Светильник (здание)</SadjuukWallLightBR_Frame.label>
+  <SadjuukWallLightBR_Frame.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBR_Frame.description>
+  <!-- Green Wall Light BG -->
+  <SadjuukWallLightBG.label>Зеленый Настенный Светильник</SadjuukWallLightBG.label>
+  <SadjuukWallLightBG.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBG.description>
+  <SadjuukWallLightBG_Blueprint.label>Зеленый Настенный Светильник (чертеж)</SadjuukWallLightBG_Blueprint.label>
+  <SadjuukWallLightBG_Blueprint_Install.label>Зеленый Настенный Светильник (чертеж)</SadjuukWallLightBG_Blueprint_Install.label>
+  <SadjuukWallLightBG_Frame.label>Зеленый Настенный Светильник (здание)</SadjuukWallLightBG_Frame.label>
+  <SadjuukWallLightBG_Frame.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBG_Frame.description>
+  <!-- Blue Wall Light BB -->
+  <SadjuukWallLightBB.label>Синий Настенный Светильник</SadjuukWallLightBB.label>
+  <SadjuukWallLightBB.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBB.description>
+  <SadjuukWallLightBB_Blueprint.label>Синий Настенный Светильник (чертеж)</SadjuukWallLightBB_Blueprint.label>
+  <SadjuukWallLightBB_Blueprint_Install.label>Синий Настенный Светильник (чертеж)</SadjuukWallLightBB_Blueprint_Install.label>
+  <SadjuukWallLightBB_Frame.label>Синий Настенный Светильник (здание)</SadjuukWallLightBB_Frame.label>
+  <SadjuukWallLightBB_Frame.description>P : 10W, L : 8
+Светодиодный Настенный светильник.</SadjuukWallLightBB_Frame.description>
+  <!-- White Wall Light CW -->
+  <SadjuukWallLightCW.label>Белый Настенный Светильник</SadjuukWallLightCW.label>
+  <SadjuukWallLightCW.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCW.description>
+  <SadjuukWallLightCW_Blueprint.label>Белый Настенный Светильник (чертеж)</SadjuukWallLightCW_Blueprint.label>
+  <SadjuukWallLightCW_Blueprint_Install.label>Белый Настенный Светильник (чертеж)</SadjuukWallLightCW_Blueprint_Install.label>
+  <SadjuukWallLightCW_Frame.label>Белый Настенный Светильник (здание)</SadjuukWallLightCW_Frame.label>
+  <SadjuukWallLightCW_Frame.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCW_Frame.description>
+  <!-- Yellow Wall Light CY -->
+  <SadjuukWallLightCY.label>Желтый Настенный Светильник</SadjuukWallLightCY.label>
+  <SadjuukWallLightCY.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCY.description>
+  <SadjuukWallLightCY_Blueprint.label>Желтый Настенный Светильник (чертеж)</SadjuukWallLightCY_Blueprint.label>
+  <SadjuukWallLightCY_Blueprint_Install.label>Желтый Настенный Светильник (чертеж)</SadjuukWallLightCY_Blueprint_Install.label>
+  <SadjuukWallLightCY_Frame.label>Желтый Настенный Светильник (здание)</SadjuukWallLightCY_Frame.label>
+  <SadjuukWallLightCY_Frame.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCY_Frame.description>
+  <!-- Red Wall Light CR -->
+  <SadjuukWallLightCR.label>Красный Настенный Светильник</SadjuukWallLightCR.label>
+  <SadjuukWallLightCR.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCR.description>
+  <SadjuukWallLightCR_Blueprint.label>Красный Настенный Светильник (чертеж)</SadjuukWallLightCR_Blueprint.label>
+  <SadjuukWallLightCR_Blueprint_Install.label>Красный Настенный Светильник (чертеж)</SadjuukWallLightCR_Blueprint_Install.label>
+  <SadjuukWallLightCR_Frame.label>Красный Настенный Светильник (здание)</SadjuukWallLightCR_Frame.label>
+  <SadjuukWallLightCR_Frame.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCR_Frame.description>
+  <!-- Green Wall Light CG -->
+  <SadjuukWallLightCG.label>Зеленый Настенный Светильник</SadjuukWallLightCG.label>
+  <SadjuukWallLightCG.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCG.description>
+  <SadjuukWallLightCG_Blueprint.label>Зеленый Настенный Светильник (чертеж)</SadjuukWallLightCG_Blueprint.label>
+  <SadjuukWallLightCG_Blueprint_Install.label>Зеленый Настенный Светильник (чертеж)</SadjuukWallLightCG_Blueprint_Install.label>
+  <SadjuukWallLightCG_Frame.label>Зеленый Настенный Светильник (здание)</SadjuukWallLightCG_Frame.label>
+  <SadjuukWallLightCG_Frame.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCG_Frame.description>
+  <!-- Blue Wall Light CB -->
+  <SadjuukWallLightCB.label>Синий Настенный Светильник</SadjuukWallLightCB.label>
+  <SadjuukWallLightCB.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCB.description>
+  <SadjuukWallLightCB_Blueprint.label>Синий Настенный Светильник (чертеж)</SadjuukWallLightCB_Blueprint.label>
+  <SadjuukWallLightCB_Blueprint_Install.label>Синий Настенный Светильник (чертеж)</SadjuukWallLightCB_Blueprint_Install.label>
+  <SadjuukWallLightCB_Frame.label>Синий Настенный Светильник (здание)</SadjuukWallLightCB_Frame.label>
+  <SadjuukWallLightCB_Frame.description>P : 20W, L : 12
+Тяжелый промышленный светодиодный Настенный светильник.</SadjuukWallLightCB_Frame.description>
+  <!-- White Light AW -->
+  <SadjuukLightAW.label>Белый Факел</SadjuukLightAW.label>
+  <SadjuukLightAW.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAW.description>
+  <SadjuukLightAW_Blueprint.label>Белый Факел (чертеж)</SadjuukLightAW_Blueprint.label>
+  <SadjuukLightAW_Blueprint_Install.label>Белый Факел (чертеж)</SadjuukLightAW_Blueprint_Install.label>
+  <SadjuukLightAW_Frame.label>Белый Факел (здание)</SadjuukLightAW_Frame.label>
+  <SadjuukLightAW_Frame.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAW_Frame.description>
+  <!-- Yellow Light AY -->
+  <SadjuukLightAY.label>Желтый Факел</SadjuukLightAY.label>
+  <SadjuukLightAY.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAY.description>
+  <SadjuukLightAY_Blueprint.label>Желтый Факел (чертеж)</SadjuukLightAY_Blueprint.label>
+  <SadjuukLightAY_Blueprint_Install.label>Желтый Факел (чертеж)</SadjuukLightAY_Blueprint_Install.label>
+  <SadjuukLightAY_Frame.label>Желтый Факел (здание)</SadjuukLightAY_Frame.label>
+  <SadjuukLightAY_Frame.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAY_Frame.description>
+  <!-- Red Light AR -->
+  <SadjuukLightAR.label>Красный Факел</SadjuukLightAR.label>
+  <SadjuukLightAR.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAR.description>
+  <SadjuukLightAR_Blueprint.label>Красный Факел (чертеж)</SadjuukLightAR_Blueprint.label>
+  <SadjuukLightAR_Blueprint_Install.label>Красный Факел (чертеж)</SadjuukLightAR_Blueprint_Install.label>
+  <SadjuukLightAR_Frame.label>Красный Факел (здание)</SadjuukLightAR_Frame.label>
+  <SadjuukLightAR_Frame.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAR_Frame.description>
+  <!-- Green Light AG -->
+  <SadjuukLightAG.label>Зеленый Факел</SadjuukLightAG.label>
+  <SadjuukLightAG.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAG.description>
+  <SadjuukLightAG_Blueprint.label>Зеленый Факел (чертеж)</SadjuukLightAG_Blueprint.label>
+  <SadjuukLightAG_Blueprint_Install.label>Зеленый Факел (чертеж)</SadjuukLightAG_Blueprint_Install.label>
+  <SadjuukLightAG_Frame.label>Зеленый Факел (здание)</SadjuukLightAG_Frame.label>
+  <SadjuukLightAG_Frame.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAG_Frame.description>
+  <!-- Blue Light AB -->
+  <SadjuukLightAB.label>Синий Факел</SadjuukLightAB.label>
+  <SadjuukLightAB.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAB.description>
+  <SadjuukLightAB_Blueprint.label>Синий Факел (чертеж)</SadjuukLightAB_Blueprint.label>
+  <SadjuukLightAB_Blueprint_Install.label>Синий Факел (чертеж)</SadjuukLightAB_Blueprint_Install.label>
+  <SadjuukLightAB_Frame.label>Синий Факел (здание)</SadjuukLightAB_Frame.label>
+  <SadjuukLightAB_Frame.description>P : 30W, L : 12
+Простые цветные факелы.</SadjuukLightAB_Frame.description>
+  <!-- White Light BW -->
+  <SadjuukLightBW.label>Белый Свет</SadjuukLightBW.label>
+  <SadjuukLightBW.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBW.description>
+  <SadjuukLightBW_Blueprint.label>Белый Свет (чертеж)</SadjuukLightBW_Blueprint.label>
+  <SadjuukLightBW_Blueprint_Install.label>Белый Свет (чертеж)</SadjuukLightBW_Blueprint_Install.label>
+  <SadjuukLightBW_Frame.label>Белый Свет (здание)</SadjuukLightBW_Frame.label>
+  <SadjuukLightBW_Frame.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBW_Frame.description>
+  <!-- Yellow Light BY -->
+  <SadjuukLightBY.label>Желтый LED</SadjuukLightBY.label>
+  <SadjuukLightBY.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBY.description>
+  <SadjuukLightBY_Blueprint.label>Желтый LED (чертеж)</SadjuukLightBY_Blueprint.label>
+  <SadjuukLightBY_Blueprint_Install.label>Желтый LED (чертеж)</SadjuukLightBY_Blueprint_Install.label>
+  <SadjuukLightBY_Frame.label>Желтый LED (здание)</SadjuukLightBY_Frame.label>
+  <SadjuukLightBY_Frame.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBY_Frame.description>
+  <!-- Red Light BR -->
+  <SadjuukLightBR.label>Красный LED</SadjuukLightBR.label>
+  <SadjuukLightBR.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBR.description>
+  <SadjuukLightBR_Blueprint.label>Красный LED (чертеж)</SadjuukLightBR_Blueprint.label>
+  <SadjuukLightBR_Blueprint_Install.label>Красный LED (чертеж)</SadjuukLightBR_Blueprint_Install.label>
+  <SadjuukLightBR_Frame.label>Красный LED (здание)</SadjuukLightBR_Frame.label>
+  <SadjuukLightBR_Frame.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBR_Frame.description>
+  <!-- Green Light BG -->
+  <SadjuukLightBG.label>Зеленый LED</SadjuukLightBG.label>
+  <SadjuukLightBG.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBG.description>
+  <SadjuukLightBG_Blueprint.label>Зеленый LED (чертеж)</SadjuukLightBG_Blueprint.label>
+  <SadjuukLightBG_Blueprint_Install.label>Зеленый LED (чертеж)</SadjuukLightBG_Blueprint_Install.label>
+  <SadjuukLightBG_Frame.label>Зеленый LED (здание)</SadjuukLightBG_Frame.label>
+  <SadjuukLightBG_Frame.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBG_Frame.description>
+  <!-- Blue Light BB -->
+  <SadjuukLightBB.label>Синий LED</SadjuukLightBB.label>
+  <SadjuukLightBB.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBB.description>
+  <SadjuukLightBB_Blueprint.label>Синий LED (чертеж)</SadjuukLightBB_Blueprint.label>
+  <SadjuukLightBB_Blueprint_Install.label>Синий LED (чертеж)</SadjuukLightBB_Blueprint_Install.label>
+  <SadjuukLightBB_Frame.label>Синий LED (здание)</SadjuukLightBB_Frame.label>
+  <SadjuukLightBB_Frame.description>P : 10W, L : 8
+Промышленный светодиодный светильник.</SadjuukLightBB_Frame.description>
+  <!-- White Light CW -->
+  <SadjuukLightCW.label>Белый LED </SadjuukLightCW.label>
+  <SadjuukLightCW.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCW.description>
+  <SadjuukLightCW_Blueprint.label>Белый LED (чертеж)</SadjuukLightCW_Blueprint.label>
+  <SadjuukLightCW_Blueprint_Install.label>Белый LED (чертеж)</SadjuukLightCW_Blueprint_Install.label>
+  <SadjuukLightCW_Frame.label>Белый LED (здание)</SadjuukLightCW_Frame.label>
+  <SadjuukLightCW_Frame.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCW_Frame.description>
+  <!-- Yellow Light CY -->
+  <SadjuukLightCY.label>Желтый LED</SadjuukLightCY.label>
+  <SadjuukLightCY.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCY.description>
+  <SadjuukLightCY_Blueprint.label>Желтый LED (чертеж)</SadjuukLightCY_Blueprint.label>
+  <SadjuukLightCY_Blueprint_Install.label>Желтый LED (чертеж)</SadjuukLightCY_Blueprint_Install.label>
+  <SadjuukLightCY_Frame.label>Желтый LED (здание)</SadjuukLightCY_Frame.label>
+  <SadjuukLightCY_Frame.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCY_Frame.description>
+  <!-- Red Light CR -->
+  <SadjuukLightCR.label>Красный LED</SadjuukLightCR.label>
+  <SadjuukLightCR.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCR.description>
+  <SadjuukLightCR_Blueprint.label>Красный LED (чертеж)</SadjuukLightCR_Blueprint.label>
+  <SadjuukLightCR_Blueprint_Install.label>Красный LED (чертеж)</SadjuukLightCR_Blueprint_Install.label>
+  <SadjuukLightCR_Frame.label>Красный LED (здание)</SadjuukLightCR_Frame.label>
+  <SadjuukLightCR_Frame.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCR_Frame.description>
+  <!-- Green Light CG -->
+  <SadjuukLightCG.label>Зеленый LED</SadjuukLightCG.label>
+  <SadjuukLightCG.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCG.description>
+  <SadjuukLightCG_Blueprint.label>Зеленый LED (чертеж)</SadjuukLightCG_Blueprint.label>
+  <SadjuukLightCG_Blueprint_Install.label>Зеленый LED (чертеж)</SadjuukLightCG_Blueprint_Install.label>
+  <SadjuukLightCG_Frame.label>Зеленый LED (здание)</SadjuukLightCG_Frame.label>
+  <SadjuukLightCG_Frame.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCG_Frame.description>
+  <!-- Blue Light CB -->
+  <SadjuukLightCB.label>Синий LED</SadjuukLightCB.label>
+  <SadjuukLightCB.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCB.description>
+  <SadjuukLightCB_Blueprint.label>Синий LED (чертеж)</SadjuukLightCB_Blueprint.label>
+  <SadjuukLightCB_Blueprint_Install.label>Синий LED (чертеж)</SadjuukLightCB_Blueprint_Install.label>
+  <SadjuukLightCB_Frame.label>Синий LED (здание)</SadjuukLightCB_Frame.label>
+  <SadjuukLightCB_Frame.description>P : 15W, L : 12
+Мощный, но очень эффективный промышленный светодиодный светильник.</SadjuukLightCB_Frame.description>
+  <!-- White Light DW -->
+  <SadjuukLightDW.label>Белый Факел</SadjuukLightDW.label>
+  <SadjuukLightDW.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDW.description>
+  <SadjuukLightDW_Blueprint.label>Белый Факел (чертеж)</SadjuukLightDW_Blueprint.label>
+  <SadjuukLightDW_Blueprint_Install.label>Белый Факел (чертеж)</SadjuukLightDW_Blueprint_Install.label>
+  <SadjuukLightDW_Frame.label>Белый Факел (здание)</SadjuukLightDW_Frame.label>
+  <SadjuukLightDW_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDW_Frame.description>
+  <!-- Yellow Light DY -->
+  <SadjuukLightDY.label>Желтый Факел</SadjuukLightDY.label>
+  <SadjuukLightDY.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDY.description>
+  <SadjuukLightDY_Blueprint.label>Желтый Факел (чертеж)</SadjuukLightDY_Blueprint.label>
+  <SadjuukLightDY_Blueprint_Install.label>Желтый Факел (чертеж)</SadjuukLightDY_Blueprint_Install.label>
+  <SadjuukLightDY_Frame.label>Желтый Факел (здание)</SadjuukLightDY_Frame.label>
+  <SadjuukLightDY_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDY_Frame.description>
+  <!-- Red Light DR -->
+  <SadjuukLightDR.label>Красный Факел</SadjuukLightDR.label>
+  <SadjuukLightDR.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDR.description>
+  <SadjuukLightDR_Blueprint.label>Красный Факел (чертеж)</SadjuukLightDR_Blueprint.label>
+  <SadjuukLightDR_Blueprint_Install.label>Красный Факел (чертеж)</SadjuukLightDR_Blueprint_Install.label>
+  <SadjuukLightDR_Frame.label>Красный Факел (здание)</SadjuukLightDR_Frame.label>
+  <SadjuukLightDR_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDR_Frame.description>
+  <!-- Green Light DG -->
+  <SadjuukLightDG.label>Зеленый Факел</SadjuukLightDG.label>
+  <SadjuukLightDG.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDG.description>
+  <SadjuukLightDG_Blueprint.label>Зеленый Факел (чертеж)</SadjuukLightDG_Blueprint.label>
+  <SadjuukLightDG_Blueprint_Install.label>Зеленый Факел (чертеж)</SadjuukLightDG_Blueprint_Install.label>
+  <SadjuukLightDG_Frame.label>Зеленый Факел (здание)</SadjuukLightDG_Frame.label>
+  <SadjuukLightDG_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDG_Frame.description>
+  <!-- Blue Light DB -->
+  <SadjuukLightDB.label>Синий Факел</SadjuukLightDB.label>
+  <SadjuukLightDB.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDB.description>
+  <SadjuukLightDB_Blueprint.label>Синий Факел (чертеж)</SadjuukLightDB_Blueprint.label>
+  <SadjuukLightDB_Blueprint_Install.label>Синий Факел (чертеж)</SadjuukLightDB_Blueprint_Install.label>
+  <SadjuukLightDB_Frame.label>Синий Факел (здание)</SadjuukLightDB_Frame.label>
+  <SadjuukLightDB_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightDB_Frame.description>
+  <!-- White Light EW -->
+  <SadjuukLightEW.label>Белый Факел</SadjuukLightEW.label>
+  <SadjuukLightEW.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEW.description>
+  <SadjuukLightEW_Blueprint.label>Белый Факел (чертеж)</SadjuukLightEW_Blueprint.label>
+  <SadjuukLightEW_Blueprint_Install.label>Белый Факел (чертеж)</SadjuukLightEW_Blueprint_Install.label>
+  <SadjuukLightEW_Frame.label>Белый Факел (здание)</SadjuukLightEW_Frame.label>
+  <SadjuukLightEW_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEW_Frame.description>
+  <!-- Yellow Light EY -->
+  <SadjuukLightEY.label>Желтый Факел</SadjuukLightEY.label>
+  <SadjuukLightEY.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEY.description>
+  <SadjuukLightEY_Blueprint.label>Желтый Факел (чертеж)</SadjuukLightEY_Blueprint.label>
+  <SadjuukLightEY_Blueprint_Install.label>Желтый Факел (чертеж)</SadjuukLightEY_Blueprint_Install.label>
+  <SadjuukLightEY_Frame.label>Желтый Факел (здание)</SadjuukLightEY_Frame.label>
+  <SadjuukLightEY_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEY_Frame.description>
+  <!-- Red Light ER -->
+  <SadjuukLightER.label>Красный Факел</SadjuukLightER.label>
+  <SadjuukLightER.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightER.description>
+  <SadjuukLightER_Blueprint.label>Красный Факел (чертеж)</SadjuukLightER_Blueprint.label>
+  <SadjuukLightER_Blueprint_Install.label>Красный Факел (чертеж)</SadjuukLightER_Blueprint_Install.label>
+  <SadjuukLightER_Frame.label>Красный Факел (здание)</SadjuukLightER_Frame.label>
+  <SadjuukLightER_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightER_Frame.description>
+  <!-- Green Light EG -->
+  <SadjuukLightEG.label>Зеленый Факел</SadjuukLightEG.label>
+  <SadjuukLightEG.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEG.description>
+  <SadjuukLightEG_Blueprint.label>Зеленый Факел (чертеж)</SadjuukLightEG_Blueprint.label>
+  <SadjuukLightEG_Blueprint_Install.label>Зеленый Факел (чертеж)</SadjuukLightEG_Blueprint_Install.label>
+  <SadjuukLightEG_Frame.label>Зеленый Факел (здание)</SadjuukLightEG_Frame.label>
+  <SadjuukLightEG_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEG_Frame.description>
+  <!-- Blue Light EB -->
+  <SadjuukLightEB.label>Синий Факел</SadjuukLightEB.label>
+  <SadjuukLightEB.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEB.description>
+  <SadjuukLightEB_Blueprint.label>Синий Факел (чертеж)</SadjuukLightEB_Blueprint.label>
+  <SadjuukLightEB_Blueprint_Install.label>Синий Факел (чертеж)</SadjuukLightEB_Blueprint_Install.label>
+  <SadjuukLightEB_Frame.label>Синий Факел (здание)</SadjuukLightEB_Frame.label>
+  <SadjuukLightEB_Frame.description>P : 20W, L : 16
+Мощный усовершенствованный фонарь.</SadjuukLightEB_Frame.description>
+  <!-- White Light FW -->
+  <SadjuukLightFW.label>Белый светильник</SadjuukLightFW.label>
+  <SadjuukLightFW.description>P : 15W, L : 12
+Эстетичный продвинутый светильник.</SadjuukLightFW.description>
+  <SadjuukLightFW_Blueprint.label>Белый светильник (чертеж)</SadjuukLightFW_Blueprint.label>
+  <SadjuukLightFW_Blueprint_Install.label>Белый светильник (чертеж)</SadjuukLightFW_Blueprint_Install.label>
+  <SadjuukLightFW_Frame.label>Белый светильник (здание)</SadjuukLightFW_Frame.label>
+  <SadjuukLightFW_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFW_Frame.description>
+  <!-- Yellow Light FY -->
+  <SadjuukLightFY.label>Желтый светильник</SadjuukLightFY.label>
+  <SadjuukLightFY.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFY.description>
+  <SadjuukLightFY_Blueprint.label>Желтый светильник (чертеж)</SadjuukLightFY_Blueprint.label>
+  <SadjuukLightFY_Blueprint_Install.label>Желтый светильник (чертеж)</SadjuukLightFY_Blueprint_Install.label>
+  <SadjuukLightFY_Frame.label>Желтый светильник (здание)</SadjuukLightFY_Frame.label>
+  <SadjuukLightFY_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFY_Frame.description>
+  <!-- Red Light FR -->
+  <SadjuukLightFR.label>Красный светильник</SadjuukLightFR.label>
+  <SadjuukLightFR.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFR.description>
+  <SadjuukLightFR_Blueprint.label>Красный светильник (чертеж)</SadjuukLightFR_Blueprint.label>
+  <SadjuukLightFR_Blueprint_Install.label>Красный светильник (чертеж)</SadjuukLightFR_Blueprint_Install.label>
+  <SadjuukLightFR_Frame.label>Красный светильник (здание)</SadjuukLightFR_Frame.label>
+  <SadjuukLightFR_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFR_Frame.description>
+  <!-- Green Light FG -->
+  <SadjuukLightFG.label>Зеленый светильник</SadjuukLightFG.label>
+  <SadjuukLightFG.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFG.description>
+  <SadjuukLightFG_Blueprint.label>Зеленый светильник (чертеж)</SadjuukLightFG_Blueprint.label>
+  <SadjuukLightFG_Blueprint_Install.label>Зеленый светильник (чертеж)</SadjuukLightFG_Blueprint_Install.label>
+  <SadjuukLightFG_Frame.label>Зеленый светильник (здание)</SadjuukLightFG_Frame.label>
+  <SadjuukLightFG_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFG_Frame.description>
+  <!-- Blue Light FB -->
+  <SadjuukLightFB.label>Синий светильник</SadjuukLightFB.label>
+  <SadjuukLightFB.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFB.description>
+  <SadjuukLightFB_Blueprint.label>Синий светильник (чертеж)</SadjuukLightFB_Blueprint.label>
+  <SadjuukLightFB_Blueprint_Install.label>Синий светильник (чертеж)</SadjuukLightFB_Blueprint_Install.label>
+  <SadjuukLightFB_Frame.label>Синий светильник (здание)</SadjuukLightFB_Frame.label>
+  <SadjuukLightFB_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightFB_Frame.description>
+  <!-- White Light GW -->
+  <SadjuukLightGW.label>Белый светильник</SadjuukLightGW.label>
+  <SadjuukLightGW.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGW.description>
+  <SadjuukLightGW_Blueprint.label>Белый светильник (чертеж)</SadjuukLightGW_Blueprint.label>
+  <SadjuukLightGW_Blueprint_Install.label>Белый светильник (чертеж)</SadjuukLightGW_Blueprint_Install.label>
+  <SadjuukLightGW_Frame.label>Белый светильник (здание)</SadjuukLightGW_Frame.label>
+  <SadjuukLightGW_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGW_Frame.description>
+  <!-- Yellow Light GY -->
+  <SadjuukLightGY.label>Желтый светильник</SadjuukLightGY.label>
+  <SadjuukLightGY.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGY.description>
+  <SadjuukLightGY_Blueprint.label>Желтый светильник (чертеж)</SadjuukLightGY_Blueprint.label>
+  <SadjuukLightGY_Blueprint_Install.label>Желтый светильник (чертеж)</SadjuukLightGY_Blueprint_Install.label>
+  <SadjuukLightGY_Frame.label>Желтый светильник (здание)</SadjuukLightGY_Frame.label>
+  <SadjuukLightGY_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGY_Frame.description>
+  <!-- Red Light GR -->
+  <SadjuukLightGR.label>Красный светильник</SadjuukLightGR.label>
+  <SadjuukLightGR.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGR.description>
+  <SadjuukLightGR_Blueprint.label>Красный светильник (чертеж)</SadjuukLightGR_Blueprint.label>
+  <SadjuukLightGR_Blueprint_Install.label>Красный светильник (чертеж)</SadjuukLightGR_Blueprint_Install.label>
+  <SadjuukLightGR_Frame.label>Красный светильник (здание)</SadjuukLightGR_Frame.label>
+  <SadjuukLightGR_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGR_Frame.description>
+  <!-- Green Light GG -->
+  <SadjuukLightGG.label>Зеленый светильник</SadjuukLightGG.label>
+  <SadjuukLightGG.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGG.description>
+  <SadjuukLightGG_Blueprint.label>Зеленый светильник (чертеж)</SadjuukLightGG_Blueprint.label>
+  <SadjuukLightGG_Blueprint_Install.label>Зеленый светильник (чертеж)</SadjuukLightGG_Blueprint_Install.label>
+  <SadjuukLightGG_Frame.label>Зеленый светильник (здание)</SadjuukLightGG_Frame.label>
+  <SadjuukLightGG_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGG_Frame.description>
+  <!-- Blue Light GB -->
+  <SadjuukLightGB.label>Синий светильник</SadjuukLightGB.label>
+  <SadjuukLightGB.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGB.description>
+  <SadjuukLightGB_Blueprint.label>Синий светильник (чертеж)</SadjuukLightGB_Blueprint.label>
+  <SadjuukLightGB_Blueprint_Install.label>Синий светильник (чертеж)</SadjuukLightGB_Blueprint_Install.label>
+  <SadjuukLightGB_Frame.label>Синий светильник (здание)</SadjuukLightGB_Frame.label>
+  <SadjuukLightGB_Frame.description>P : 15W, L : 12
+Эстетичный продвинутый свет.</SadjuukLightGB_Frame.description>
+  <!-- Table AA -->
+  <SadjuukTableAA.label>Стол из деревянных Бревен</SadjuukTableAA.label>
+  <SadjuukTableAA.description>Размер : 1X1
+Небольшой столик для социальной или рабочей организации.</SadjuukTableAA.description>
+  <!-- Table AB -->
+  <SadjuukTableAB.label>Деревянный Дощатый Стол</SadjuukTableAB.label>
+  <SadjuukTableAB.description>Размер : 1X1
+Небольшой столик для социальной или рабочей организации.</SadjuukTableAB.description>
+  <!-- Table AC -->
+  <SadjuukTableAC.label>Стальной Стол</SadjuukTableAC.label>
+  <SadjuukTableAC.description>Размер : 1X1
+Небольшой столик для социальной или рабочей организации.</SadjuukTableAC.description>
+  <!-- Table AD -->
+  <SadjuukTableAD.label>Стеклянный Стол</SadjuukTableAD.label>
+  <SadjuukTableAD.description>Размер : 1X1
+Небольшой столик для социальной или рабочей организации.</SadjuukTableAD.description>
+  <!-- Table AE -->
+  <SadjuukTableAE.label>Стол из Пластали</SadjuukTableAE.label>
+  <SadjuukTableAE.description>Размер : 1X1
+Небольшой столик для социальной или рабочей организации.</SadjuukTableAE.description>
+  <!-- Table AF -->
+  <SadjuukTableAF.label>Стол из Пластали</SadjuukTableAF.label>
+  <SadjuukTableAF.description>Размер : 1X1
+Небольшой столик для социальной или рабочей организации.</SadjuukTableAF.description>
+  <!-- Table BA -->
+  <SadjuukTableBA.label>Стол из деревянных Бревен</SadjuukTableBA.label>
+  <SadjuukTableBA.description>Размер : 2X1
+Стол для социальной или рабочей организации.</SadjuukTableBA.description>
+  <!-- Table BB -->
+  <SadjuukTableBB.label>Деревянный Дощатый Стол</SadjuukTableBB.label>
+  <SadjuukTableBB.description>Размер : 2X1
+Стол для социальной или рабочей организации.</SadjuukTableBB.description>
+  <!-- Table BC -->
+  <SadjuukTableBC.label>Стальной Стол</SadjuukTableBC.label>
+  <SadjuukTableBC.description>Размер : 2X1
+Стол для социальной или рабочей организации.</SadjuukTableBC.description>
+  <!-- Table BD -->
+  <SadjuukTableBD.label>Стеклянный Стол</SadjuukTableBD.label>
+  <SadjuukTableBD.description>Размер : 2X1
+Стол для социальной или рабочей организации.</SadjuukTableBD.description>
+  <!-- Table BE -->
+  <SadjuukTableBE.label>Стол из Пластали</SadjuukTableBE.label>
+  <SadjuukTableBE.description>Размер : 2X1
+Стол для социальной или рабочей организации.</SadjuukTableBE.description>
+  <!-- Table BF -->
+  <SadjuukTableBF.label>Стол из Пластали</SadjuukTableBF.label>
+  <SadjuukTableBF.description>Размер : 2X1
+Стол для социальной или рабочей организации.</SadjuukTableBF.description>
+  <!-- Table CA -->
+  <SadjuukTableCA.label>Стол из деревянных Бревен</SadjuukTableCA.label>
+  <SadjuukTableCA.description>Размер : 3X1
+Длинный стол для социальной или рабочей организации.</SadjuukTableCA.description>
+  <!-- Table CB -->
+  <SadjuukTableCB.label>Стол из деревянных досок</SadjuukTableCB.label>
+  <SadjuukTableCB.description>Размер : 3X1
+Длинный стол для социальной или рабочей организации.</SadjuukTableCB.description>
+  <!-- Table CC -->
+  <SadjuukTableCC.label>Стальной Стол</SadjuukTableCC.label>
+  <SadjuukTableCC.description>Размер : 3X1
+Длинный стол для социальной или рабочей организации.</SadjuukTableCC.description>
+  <!-- Table CD -->
+  <SadjuukTableCD.label>Стеклянный Стол</SadjuukTableCD.label>
+  <SadjuukTableCD.description>Размер : 3X1
+Длинный стол для социальной или рабочей организации.</SadjuukTableCD.description>
+  <!-- Table CE -->
+  <SadjuukTableCE.label>Стол из Пластали</SadjuukTableCE.label>
+  <SadjuukTableCE.description>Размер : 3X1
+Длинный стол для социальной или рабочей организации.</SadjuukTableCE.description>
+  <!-- Table CF -->
+  <SadjuukTableCF.label>Стол из Пластали</SadjuukTableCF.label>
+  <SadjuukTableCF.description>Размер : 3X1
+Длинный стол для социальной или рабочей организации.</SadjuukTableCF.description>
+  <!-- Table DA -->
+  <SadjuukTableDA.label>Стол из деревянных Бревен</SadjuukTableDA.label>
+  <SadjuukTableDA.description>Размер : 2X2
+Большой квадратный стол для социальной или рабочей организации.</SadjuukTableDA.description>
+  <!-- Table DB -->
+  <SadjuukTableDB.label>Стол из деревянных досок</SadjuukTableDB.label>
+  <SadjuukTableDB.description>Размер : 2X2
+Большой квадратный стол для социальной или рабочей организации.</SadjuukTableDB.description>
+  <!-- Table DC -->
+  <SadjuukTableDC.label>Стальной Стол</SadjuukTableDC.label>
+  <SadjuukTableDC.description>Размер : 2X2
+Большой квадратный стол для социальной или рабочей организации.</SadjuukTableDC.description>
+  <!-- Table DD -->
+  <SadjuukTableDD.label>Стеклянный Стол</SadjuukTableDD.label>
+  <SadjuukTableDD.description>Размер : 2X2
+Большой квадратный стол для социальной или рабочей организации.</SadjuukTableDD.description>
+  <!-- Table DE -->
+  <SadjuukTableDE.label>Стол из Пластали</SadjuukTableDE.label>
+  <SadjuukTableDE.description>Размер : 2X2
+Большой квадратный стол для социальной или рабочей организации.</SadjuukTableDE.description>
+  <!-- Table DF -->
+  <SadjuukTableDF.label>Стол из Пластали</SadjuukTableDF.label>
+  <SadjuukTableDF.description>Размер : 2X2
+Большой квадратный стол для социальной или рабочей организации.</SadjuukTableDF.description>
+  <!-- Table EA -->
+  <SadjuukTableEA.label>Стол из деревянных Бревен</SadjuukTableEA.label>
+  <SadjuukTableEA.description>Размер : 3X2
+Большой стол для социальной или рабочей организации.</SadjuukTableEA.description>
+  <!-- Table EB -->
+  <SadjuukTableEB.label>Стол из деревянных досок</SadjuukTableEB.label>
+  <SadjuukTableEB.description>Размер : 3X2
+Большой стол для социальной или рабочей организации.</SadjuukTableEB.description>
+  <!-- Table EC -->
+  <SadjuukTableEC.label>Стальной Стол</SadjuukTableEC.label>
+  <SadjuukTableEC.description>Размер : 3X2
+Большой стол для социальной или рабочей организации.</SadjuukTableEC.description>
+  <!-- Table ED -->
+  <SadjuukTableED.label>Стеклянный Стол</SadjuukTableED.label>
+  <SadjuukTableED.description>Размер : 3X2
+Большой стол для социальной или рабочей организации.</SadjuukTableED.description>
+  <!-- Table EE -->
+  <SadjuukTableEE.label>Стол из Пластали</SadjuukTableEE.label>
+  <SadjuukTableEE.description>Размер : 3X2
+Большой стол для социальной или рабочей организации.</SadjuukTableEE.description>
+  <!-- Table EF -->
+  <SadjuukTableEF.label>Стол из Пластали</SadjuukTableEF.label>
+  <SadjuukTableEF.description>Размер : 3X2
+Большой стол для социальной или рабочей организации.</SadjuukTableEF.description>
+  <!-- Table GA -->
+  <SadjuukTableGA.label>Маленький Столик</SadjuukTableGA.label>
+  <SadjuukTableGA.description>Размер : 1X1
+Небольшой столик для мебели в спальне.</SadjuukTableGA.description>
+  <!-- Table GB -->
+  <SadjuukTableGB.label>Маленький Дощатый Стол</SadjuukTableGB.label>
+  <SadjuukTableGB.description>Размер : 1X1
+Небольшой столик для мебели в спальне.</SadjuukTableGB.description>
+  <!-- Table GC -->
+  <SadjuukTableGC.label>Небольшой Стальной Стол</SadjuukTableGC.label>
+  <SadjuukTableGC.description>Размер : 1X1
+Небольшой столик для мебели в спальне.</SadjuukTableGC.description>
+  <!-- Table GD -->
+  <SadjuukTableGD.label>Маленький Стеклянный Столик</SadjuukTableGD.label>
+  <SadjuukTableGD.description>Размер : 1X1
+Небольшой столик для мебели в спальне.</SadjuukTableGD.description>
+  <!-- Table GE -->
+  <SadjuukTableGE.label>Маленький стол из пластали</SadjuukTableGE.label>
+  <SadjuukTableGE.description>Размер : 1X1
+Небольшой столик для мебели в спальне.</SadjuukTableGE.description>
+  <!-- Table GF -->
+  <SadjuukTableGF.label>Маленький стол из пластали</SadjuukTableGF.label>
+  <SadjuukTableGF.description>Размер : 1X1
+Небольшой столик для мебели в спальне.</SadjuukTableGF.description>
+  <!-- Table FA -->
+  <SadjuukTableFA.label>Стол для совещаний из Деревянных Бревен</SadjuukTableFA.label>
+  <SadjuukTableFA.description>Размер : 3X1
+Стол для совещаний для общественных или дипломатических встреч.</SadjuukTableFA.description>
+  <!-- Table FB -->
+  <SadjuukTableFB.label>Стол для Совещаний из Деревянных Досок</SadjuukTableFB.label>
+  <SadjuukTableFB.description>Размер : 3X1
+Стол для совещаний для общественных или дипломатических встреч.</SadjuukTableFB.description>
+  <!-- Table FC -->
+  <SadjuukTableFC.label>Стальной Стол Для Совещаний</SadjuukTableFC.label>
+  <SadjuukTableFC.description>Размер : 3X1
+Стол для совещаний для общественных или дипломатических встреч.</SadjuukTableFC.description>
+  <!-- Table FD -->
+  <SadjuukTableFD.label>Стеклянный Стол Для Совещаний</SadjuukTableFD.label>
+  <SadjuukTableFD.description>Размер : 3X1
+Стол для совещаний для общественных или дипломатических встреч.</SadjuukTableFD.description>
+  <!-- Table FE -->
+  <SadjuukTableFE.label>Стол для Совещаний из Пластали</SadjuukTableFE.label>
+  <SadjuukTableFE.description>Размер : 3X1
+Стол для совещаний для общественных или дипломатических встреч.</SadjuukTableFE.description>
+  <!-- Table FF -->
+  <SadjuukTableFF.label>Стол для Совещаний из Пластали</SadjuukTableFF.label>
+  <SadjuukTableFF.description>Размер : 3X1
+Стол для совещаний для общественных или дипломатических встреч.</SadjuukTableFF.description>
+  <!-- Chair AA -->
+  <SadjuukChairAA.label>Стул из деревянных Бревен</SadjuukChairAA.label>
+  <SadjuukChairAA.description>Стул - важнейший элемент для создания жилого пространства.</SadjuukChairAA.description>
+  <!-- Chair AB -->
+  <SadjuukChairAB.label>Стул из Деревянных Досок</SadjuukChairAB.label>
+  <SadjuukChairAB.description>Стул - важнейший элемент для создания жилого пространства.</SadjuukChairAB.description>
+  <!-- Chair AC -->
+  <SadjuukChairAC.label>Стальной Стул</SadjuukChairAC.label>
+  <SadjuukChairAC.description>Стул - важнейший элемент для создания жилого пространства.</SadjuukChairAC.description>
+  <!-- Chair BA -->
+  <SadjuukChairBA.label>Табурет из деревянных бревен</SadjuukChairBA.label>
+  <SadjuukChairBA.description>Табурет, идеально подходящий для рабочего места.</SadjuukChairBA.description>
+  <!-- Chair BB -->
+  <SadjuukChairBB.label>Табурет из Деревянных Досок</SadjuukChairBB.label>
+  <SadjuukChairBB.description>Табурет, идеально подходящий для рабочего места.</SadjuukChairBB.description>
+  <!-- Chair BC -->
+  <SadjuukChairBC.label>Стальной Рабочий Стул</SadjuukChairBC.label>
+  <SadjuukChairBC.description>Табурет, идеально подходящий для рабочего места.</SadjuukChairBC.description>
+  <!-- Chair CA -->
+  <SadjuukChairCA.label>Кресло из деревянных бревен</SadjuukChairCA.label>
+  <SadjuukChairCA.description>Стул хорошего дизайна, чтобы создать пространство для размышлений или дискуссий.</SadjuukChairCA.description>
+  <!-- Chair CB -->
+  <SadjuukChairCB.label>Кресло из Деревянных Досок</SadjuukChairCB.label>
+  <SadjuukChairCB.description>Стул хорошего дизайна, чтобы создать пространство для размышлений или дискуссий.</SadjuukChairCB.description>
+  <!-- Chair CC -->
+  <SadjuukChairCC.label>Стальной Офисный Стул</SadjuukChairCC.label>
+  <SadjuukChairCC.description>Стул хорошего дизайна, чтобы создать пространство для размышлений или дискуссий.</SadjuukChairCC.description>
+  <!-- Bed AA -->
+  <SadjuukBedAA.label>Кровать из деревянных бревен</SadjuukBedAA.label>
+  <SadjuukBedAA.description>Очень деревенский деревянный стол, на котором можно спать.</SadjuukBedAA.description>
+  <!-- Bed AB -->
+  <SadjuukBedAB.label>Деревянная Кровать</SadjuukBedAB.label>
+  <SadjuukBedAB.description>Удобная деревянная кровать.</SadjuukBedAB.description>
+  <!-- Bed AC -->
+  <SadjuukBedAC.label>Стальная Кровать</SadjuukBedAC.label>
+  <SadjuukBedAC.description>Стандартная стальная кровать.</SadjuukBedAC.description>
+  <!-- Bed BA -->
+  <SadjuukBedBA.label>Двуспальная кровать из бревен</SadjuukBedBA.label>
+  <SadjuukBedBA.description>Очень деревенский деревянный стол, на котором можно спать.</SadjuukBedBA.description>
+  <!-- Bed BB -->
+  <SadjuukBedBB.label>Двуспальная Деревянная Кровать</SadjuukBedBB.label>
+  <SadjuukBedBB.description>Удобная деревянная двуспальная кровать.</SadjuukBedBB.description>
+  <!-- Bed BC -->
+  <SadjuukBedBC.label>Двуспальная Стальная Кровать</SadjuukBedBC.label>
+  <SadjuukBedBC.description>Стандартная стальная кровать.</SadjuukBedBC.description>
+  <!-- Furniture AA -->
+  <SadjuukFurnitureAA.label>Деревянный сундук</SadjuukFurnitureAA.label>
+  <SadjuukFurnitureAA.description>Небольшая мебель делает соседние кровати немного более удобными. Должен располагаться непосредственно рядом с изголовьем кровати.</SadjuukFurnitureAA.description>
+  <!-- Furniture AB -->
+  <SadjuukFurnitureAB.label>Деревянная Тумбочка</SadjuukFurnitureAB.label>
+  <SadjuukFurnitureAB.description>Небольшая мебель делает соседние кровати немного более удобными. Должен располагаться непосредственно рядом с изголовьем кровати.</SadjuukFurnitureAB.description>
+  <!-- Furniture AC -->
+  <SadjuukFurnitureAC.label>Стальной сундук</SadjuukFurnitureAC.label>
+  <SadjuukFurnitureAC.description>Небольшая мебель делает соседние кровати немного более удобными. Должен располагаться непосредственно рядом с изголовьем кровати.</SadjuukFurnitureAC.description>
+  <!-- Furniture BA -->
+  <SadjuukFurnitureBA.label>Деревянный Склад</SadjuukFurnitureBA.label>
+  <SadjuukFurnitureBA.description>Мебель среднего размера, повышающая комфорт спальни или казармы.</SadjuukFurnitureBA.description>
+  <!-- Furniture BB -->
+  <SadjuukFurnitureBB.label>Wooden Wardrobe</SadjuukFurnitureBB.label>
+  <SadjuukFurnitureBB.description>Мебель среднего размера, повышающая комфорт спальни или казармы.</SadjuukFurnitureBB.description>
+  <!-- Furniture BC -->
+  <SadjuukFurnitureBC.label>Steel Lockers</SadjuukFurnitureBC.label>
+  <SadjuukFurnitureBC.description>Мебель среднего размера, повышающая комфорт спальни или казармы.</SadjuukFurnitureBC.description>
+  <!-- Carpet AA -->
+  <SadjuukCarpetAA.label>Ковер из сена 2X1</SadjuukCarpetAA.label>
+  <SadjuukCarpetAA.description>Очень простой ковер из плетеной соломы.</SadjuukCarpetAA.description>
+  <SadjuukCarpetAA_Blueprint.label>Ковер из сена 2X1 (чертеж)</SadjuukCarpetAA_Blueprint.label>
+  <SadjuukCarpetAA_Blueprint_Install.label>Ковер из сена 2X1 (чертеж)</SadjuukCarpetAA_Blueprint_Install.label>
+  <SadjuukCarpetAA_Frame.label>Ковер из сена 2X1 (здание)</SadjuukCarpetAA_Frame.label>
+  <SadjuukCarpetAA_Frame.description>Очень простой ковер из плетеной соломы.</SadjuukCarpetAA_Frame.description>
+  <!-- Carpet AB -->
+  <SadjuukCarpetAB.label>Племенной ковер 2X1</SadjuukCarpetAB.label>
+  <SadjuukCarpetAB.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetAB.description>
+  <SadjuukCarpetAB_Blueprint.label>Племенной ковер 2X1 (чертеж)</SadjuukCarpetAB_Blueprint.label>
+  <SadjuukCarpetAB_Blueprint_Install.label>Племенной ковер 2X1 (чертеж)</SadjuukCarpetAB_Blueprint_Install.label>
+  <SadjuukCarpetAB_Frame.label>Племенной ковер 2X1 (здание)</SadjuukCarpetAB_Frame.label>
+  <SadjuukCarpetAB_Frame.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetAB_Frame.description>
+  <!-- Carpet AC -->
+  <SadjuukCarpetAC.label>Племенной ковер 2X1</SadjuukCarpetAC.label>
+  <SadjuukCarpetAC.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetAC.description>
+  <SadjuukCarpetAC_Blueprint.label>Племенной ковер 2X1 (чертеж)</SadjuukCarpetAC_Blueprint.label>
+  <SadjuukCarpetAC_Blueprint_Install.label>Племенной ковер 2X1 (чертеж)</SadjuukCarpetAC_Blueprint_Install.label>
+  <SadjuukCarpetAC_Frame.label>Племенной ковер 2X1 (здание)</SadjuukCarpetAC_Frame.label>
+  <SadjuukCarpetAC_Frame.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetAC_Frame.description>
+  <!-- Carpet AD -->
+  <SadjuukCarpetAD.label>Старинный Ковер 2X1</SadjuukCarpetAD.label>
+  <SadjuukCarpetAD.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetAD.description>
+  <SadjuukCarpetAD_Blueprint.label>Старинный Ковер 2X1 (чертеж)</SadjuukCarpetAD_Blueprint.label>
+  <SadjuukCarpetAD_Blueprint_Install.label>Старинный Ковер 2X1 (чертеж)</SadjuukCarpetAD_Blueprint_Install.label>
+  <SadjuukCarpetAD_Frame.label>Старинный Ковер 2X1 (здание)</SadjuukCarpetAD_Frame.label>
+  <SadjuukCarpetAD_Frame.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetAD_Frame.description>
+  <!-- Carpet AE -->
+  <SadjuukCarpetAE.label>Старинный Ковер 2X1</SadjuukCarpetAE.label>
+  <SadjuukCarpetAE.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetAE.description>
+  <SadjuukCarpetAE_Blueprint.label>Старинный Ковер 2X1 (чертеж)</SadjuukCarpetAE_Blueprint.label>
+  <SadjuukCarpetAE_Blueprint_Install.label>Старинный Ковер 2X1 (чертеж)</SadjuukCarpetAE_Blueprint_Install.label>
+  <SadjuukCarpetAE_Frame.label>Старинный Ковер 2X1 (здание)</SadjuukCarpetAE_Frame.label>
+  <SadjuukCarpetAE_Frame.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetAE_Frame.description>
+  <!-- Carpet AF -->
+  <SadjuukCarpetAF.label>Королевский ковер 2X1</SadjuukCarpetAF.label>
+  <SadjuukCarpetAF.description>Ковер из очень хорошей ткани, предназначенный для самых роскошных мест.</SadjuukCarpetAF.description>
+  <SadjuukCarpetAF_Blueprint.label>Королевский ковер 2X1 (чертеж)</SadjuukCarpetAF_Blueprint.label>
+  <SadjuukCarpetAF_Blueprint_Install.label>Королевский ковер 2X1 (чертеж)</SadjuukCarpetAF_Blueprint_Install.label>
+  <SadjuukCarpetAF_Frame.label>Королевский ковер 2X1 (здание)</SadjuukCarpetAF_Frame.label>
+  <SadjuukCarpetAF_Frame.description>Ковер из очень хорошей ткани, предназначенный для самых роскошных мест.</SadjuukCarpetAF_Frame.description>
+  <!-- Carpet AG -->
+  <SadjuukCarpetAG.label>Современный Ковер 2X1</SadjuukCarpetAG.label>
+  <SadjuukCarpetAG.description>Современный ковер из синтетического материала.</SadjuukCarpetAG.description>
+  <SadjuukCarpetAG_Blueprint.label>Современный Ковер 2X1 (чертеж)</SadjuukCarpetAG_Blueprint.label>
+  <SadjuukCarpetAG_Blueprint_Install.label>Современный Ковер 2X1 (чертеж)</SadjuukCarpetAG_Blueprint_Install.label>
+  <SadjuukCarpetAG_Frame.label>Современный Ковер 2X1 (здание)</SadjuukCarpetAG_Frame.label>
+  <SadjuukCarpetAG_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetAG_Frame.description>
+  <!-- Carpet AH -->
+  <SadjuukCarpetAH.label>Современный Ковер 2X1</SadjuukCarpetAH.label>
+  <SadjuukCarpetAH.description>Современный ковер из синтетического материала.</SadjuukCarpetAH.description>
+  <SadjuukCarpetAH_Blueprint.label>Современный Ковер 2X1 (чертеж)</SadjuukCarpetAH_Blueprint.label>
+  <SadjuukCarpetAH_Blueprint_Install.label>Современный Ковер 2X1 (чертеж)</SadjuukCarpetAH_Blueprint_Install.label>
+  <SadjuukCarpetAH_Frame.label>Современный Ковер 2X1 (здание)</SadjuukCarpetAH_Frame.label>
+  <SadjuukCarpetAH_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetAH_Frame.description>
+  <!-- Carpet AI -->
+  <SadjuukCarpetAI.label>Современный Ковер 2X1</SadjuukCarpetAI.label>
+  <SadjuukCarpetAI.description>Современный ковер из синтетического материала.</SadjuukCarpetAI.description>
+  <SadjuukCarpetAI_Blueprint.label>Современный Ковер 2X1 (чертеж)</SadjuukCarpetAI_Blueprint.label>
+  <SadjuukCarpetAI_Blueprint_Install.label>Современный Ковер 2X1 (чертеж)</SadjuukCarpetAI_Blueprint_Install.label>
+  <SadjuukCarpetAI_Frame.label>Современный Ковер 2X1 (здание)</SadjuukCarpetAI_Frame.label>
+  <SadjuukCarpetAI_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetAI_Frame.description>
+  <!-- Carpet BA -->
+  <SadjuukCarpetBA.label>Ковер из сена 2X2</SadjuukCarpetBA.label>
+  <SadjuukCarpetBA.description>Очень простой ковер из плетеной соломы.</SadjuukCarpetBA.description>
+  <SadjuukCarpetBA_Blueprint.label>Ковер из сена 2X2 (чертеж)</SadjuukCarpetBA_Blueprint.label>
+  <SadjuukCarpetBA_Blueprint_Install.label>Ковер из сена 2X2 (чертеж)</SadjuukCarpetBA_Blueprint_Install.label>
+  <SadjuukCarpetBA_Frame.label>Ковер из сена 2X2 (здание)</SadjuukCarpetBA_Frame.label>
+  <SadjuukCarpetBA_Frame.description>Очень простой ковер из плетеной соломы.</SadjuukCarpetBA_Frame.description>
+  <!-- Carpet BB -->
+  <SadjuukCarpetBB.label>Племенной ковер 2X2</SadjuukCarpetBB.label>
+  <SadjuukCarpetBB.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetBB.description>
+  <SadjuukCarpetBB_Blueprint.label>Племенной ковер 2X2 (чертеж)</SadjuukCarpetBB_Blueprint.label>
+  <SadjuukCarpetBB_Blueprint_Install.label>Племенной ковер 2X2 (чертеж)</SadjuukCarpetBB_Blueprint_Install.label>
+  <SadjuukCarpetBB_Frame.label>Племенной ковер 2X2 (здание)</SadjuukCarpetBB_Frame.label>
+  <SadjuukCarpetBB_Frame.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetBB_Frame.description>
+  <!-- Carpet BC -->
+  <SadjuukCarpetBC.label>Племенной ковер 2X2</SadjuukCarpetBC.label>
+  <SadjuukCarpetBC.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetBC.description>
+  <SadjuukCarpetBC_Blueprint.label>Племенной ковер 2X2 (чертеж)</SadjuukCarpetBC_Blueprint.label>
+  <SadjuukCarpetBC_Blueprint_Install.label>Племенной ковер 2X2 (чертеж)</SadjuukCarpetBC_Blueprint_Install.label>
+  <SadjuukCarpetBC_Frame.label>Племенной ковер 2X2 (здание)</SadjuukCarpetBC_Frame.label>
+  <SadjuukCarpetBC_Frame.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetBC_Frame.description>
+  <!-- Carpet BD -->
+  <SadjuukCarpetBD.label>Старинный Ковер 2X2</SadjuukCarpetBD.label>
+  <SadjuukCarpetBD.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetBD.description>
+  <SadjuukCarpetBD_Blueprint.label>Старинный Ковер 2X2 (чертеж)</SadjuukCarpetBD_Blueprint.label>
+  <SadjuukCarpetBD_Blueprint_Install.label>Старинный Ковер 2X2 (чертеж)</SadjuukCarpetBD_Blueprint_Install.label>
+  <SadjuukCarpetBD_Frame.label>Старинный Ковер 2X2 (здание)</SadjuukCarpetBD_Frame.label>
+  <SadjuukCarpetBD_Frame.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetBD_Frame.description>
+  <!-- Carpet BE -->
+  <SadjuukCarpetBE.label>Старинный Ковер 2X2</SadjuukCarpetBE.label>
+  <SadjuukCarpetBE.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetBE.description>
+  <SadjuukCarpetBE_Blueprint.label>Старинный Ковер 2X2 (чертеж)</SadjuukCarpetBE_Blueprint.label>
+  <SadjuukCarpetBE_Blueprint_Install.label>Старинный Ковер 2X2 (чертеж)</SadjuukCarpetBE_Blueprint_Install.label>
+  <SadjuukCarpetBE_Frame.label>Старинный Ковер 2X2 (здание)</SadjuukCarpetBE_Frame.label>
+  <SadjuukCarpetBE_Frame.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetBE_Frame.description>
+  <!-- Carpet BF -->
+  <SadjuukCarpetBF.label>Королевский ковер 2X2</SadjuukCarpetBF.label>
+  <SadjuukCarpetBF.description>Ковер из очень хорошей ткани, предназначенный для самых роскошных мест.</SadjuukCarpetBF.description>
+  <SadjuukCarpetBF_Blueprint.label>Королевский ковер 2X2 (чертеж)</SadjuukCarpetBF_Blueprint.label>
+  <SadjuukCarpetBF_Blueprint_Install.label>Королевский ковер 2X2 (чертеж)</SadjuukCarpetBF_Blueprint_Install.label>
+  <SadjuukCarpetBF_Frame.label>Королевский ковер 2X2 (здание)</SadjuukCarpetBF_Frame.label>
+  <SadjuukCarpetBF_Frame.description>Ковер из очень хорошей ткани, предназначенный для самых роскошных мест.</SadjuukCarpetBF_Frame.description>
+  <!-- Carpet BG -->
+  <SadjuukCarpetBG.label>Современный Ковер 2X2</SadjuukCarpetBG.label>
+  <SadjuukCarpetBG.description>Современный ковер из синтетического материала.</SadjuukCarpetBG.description>
+  <SadjuukCarpetBG_Blueprint.label>Современный Ковер 2X2 (чертеж)</SadjuukCarpetBG_Blueprint.label>
+  <SadjuukCarpetBG_Blueprint_Install.label>Современный Ковер 2X2 (чертеж)</SadjuukCarpetBG_Blueprint_Install.label>
+  <SadjuukCarpetBG_Frame.label>Современный Ковер 2X2 (здание)</SadjuukCarpetBG_Frame.label>
+  <SadjuukCarpetBG_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetBG_Frame.description>
+  <!-- Carpet BH -->
+  <SadjuukCarpetBH.label>Современный Ковер 2X2</SadjuukCarpetBH.label>
+  <SadjuukCarpetBH.description>Современный ковер из синтетического материала.</SadjuukCarpetBH.description>
+  <SadjuukCarpetBH_Blueprint.label>Современный Ковер 2X2 (чертеж)</SadjuukCarpetBH_Blueprint.label>
+  <SadjuukCarpetBH_Blueprint_Install.label>Современный Ковер 2X2 (чертеж)</SadjuukCarpetBH_Blueprint_Install.label>
+  <SadjuukCarpetBH_Frame.label>Современный Ковер 2X2 (здание)</SadjuukCarpetBH_Frame.label>
+  <SadjuukCarpetBH_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetBH_Frame.description>
+  <!-- Carpet BI -->
+  <SadjuukCarpetBI.label>Современный Ковер 2X2</SadjuukCarpetBI.label>
+  <SadjuukCarpetBI.description>Современный ковер из синтетического материала.</SadjuukCarpetBI.description>
+  <SadjuukCarpetBI_Blueprint.label>Современный Ковер 2X2 (чертеж)</SadjuukCarpetBI_Blueprint.label>
+  <SadjuukCarpetBI_Blueprint_Install.label>Современный Ковер 2X2 (чертеж)</SadjuukCarpetBI_Blueprint_Install.label>
+  <SadjuukCarpetBI_Frame.label>Современный Ковер 2X2 (здание)</SadjuukCarpetBI_Frame.label>
+  <SadjuukCarpetBI_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetBI_Frame.description>
+  <!-- Carpet CA -->
+  <SadjuukCarpetCA.label>Ковер из сена 3X3</SadjuukCarpetCA.label>
+  <SadjuukCarpetCA.description>Очень простой ковер из плетеной соломы.</SadjuukCarpetCA.description>
+  <SadjuukCarpetCA_Blueprint.label>Ковер из сена 3X3 (чертеж)</SadjuukCarpetCA_Blueprint.label>
+  <SadjuukCarpetCA_Blueprint_Install.label>Ковер из сена 3X3 (чертеж)</SadjuukCarpetCA_Blueprint_Install.label>
+  <SadjuukCarpetCA_Frame.label>Ковер из сена 3X3 (здание)</SadjuukCarpetCA_Frame.label>
+  <SadjuukCarpetCA_Frame.description>Очень простой ковер из плетеной соломы.</SadjuukCarpetCA_Frame.description>
+  <!-- Carpet CB -->
+  <SadjuukCarpetCB.label>Племенной ковер 3X3</SadjuukCarpetCB.label>
+  <SadjuukCarpetCB.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetCB.description>
+  <SadjuukCarpetCB_Blueprint.label>Племенной ковер 3X3 (чертеж)</SadjuukCarpetCB_Blueprint.label>
+  <SadjuukCarpetCB_Blueprint_Install.label>Племенной ковер 3X3 (чертеж)</SadjuukCarpetCB_Blueprint_Install.label>
+  <SadjuukCarpetCB_Frame.label>Племенной ковер 3X3 (здание)</SadjuukCarpetCB_Frame.label>
+  <SadjuukCarpetCB_Frame.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetCB_Frame.description>
+  <!-- Carpet CC -->
+  <SadjuukCarpetCC.label>Племенной ковер 3X3</SadjuukCarpetCC.label>
+  <SadjuukCarpetCC.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetCC.description>
+  <SadjuukCarpetCC_Blueprint.label>Племенной ковер 3X3 (чертеж)</SadjuukCarpetCC_Blueprint.label>
+  <SadjuukCarpetCC_Blueprint_Install.label>Племенной ковер 3X3 (чертеж)</SadjuukCarpetCC_Blueprint_Install.label>
+  <SadjuukCarpetCC_Frame.label>Племенной ковер 3X3 (здание)</SadjuukCarpetCC_Frame.label>
+  <SadjuukCarpetCC_Frame.description>Племенной ковер, признак богатой культуры.</SadjuukCarpetCC_Frame.description>
+  <!-- Carpet CD -->
+  <SadjuukCarpetCD.label>Старинный ковер 3X3</SadjuukCarpetCD.label>
+  <SadjuukCarpetCD.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetCD.description>
+  <SadjuukCarpetCD_Blueprint.label>Старинный ковер 3X3 (чертеж)</SadjuukCarpetCD_Blueprint.label>
+  <SadjuukCarpetCD_Blueprint_Install.label>Старинный ковер 3X3 (чертеж)</SadjuukCarpetCD_Blueprint_Install.label>
+  <SadjuukCarpetCD_Frame.label>Старинный ковер 3X3 (здание)</SadjuukCarpetCD_Frame.label>
+  <SadjuukCarpetCD_Frame.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetCD_Frame.description>
+  <!-- Carpet CE -->
+  <SadjuukCarpetCE.label>Старинный ковер 3X3</SadjuukCarpetCE.label>
+  <SadjuukCarpetCE.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetCE.description>
+  <SadjuukCarpetCE_Blueprint.label>Старинный ковер 3X3 (чертеж)</SadjuukCarpetCE_Blueprint.label>
+  <SadjuukCarpetCE_Blueprint_Install.label>Старинный ковер 3X3 (чертеж)</SadjuukCarpetCE_Blueprint_Install.label>
+  <SadjuukCarpetCE_Frame.label>Старинный ковер 3X3 (здание)</SadjuukCarpetCE_Frame.label>
+  <SadjuukCarpetCE_Frame.description>Хорошо сделанный ковер ручной работы.</SadjuukCarpetCE_Frame.description>
+  <!-- Carpet CF -->
+  <SadjuukCarpetCF.label>Королевский ковер 3X3</SadjuukCarpetCF.label>
+  <SadjuukCarpetCF.description>Ковер из очень хорошей ткани, предназначенный для самых роскошных мест.</SadjuukCarpetCF.description>
+  <SadjuukCarpetCF_Blueprint.label>Королевский ковер 3X3 (чертеж)</SadjuukCarpetCF_Blueprint.label>
+  <SadjuukCarpetCF_Blueprint_Install.label>Королевский ковер 3X3 (чертеж)</SadjuukCarpetCF_Blueprint_Install.label>
+  <SadjuukCarpetCF_Frame.label>Королевский ковер 3X3 (здание)</SadjuukCarpetCF_Frame.label>
+  <SadjuukCarpetCF_Frame.description>Ковер из очень хорошей ткани, предназначенный для самых роскошных мест.</SadjuukCarpetCF_Frame.description>
+  <!-- Carpet CG -->
+  <SadjuukCarpetCG.label>Современный Ковер 3X3</SadjuukCarpetCG.label>
+  <SadjuukCarpetCG.description>Современный ковер из синтетического материала.</SadjuukCarpetCG.description>
+  <SadjuukCarpetCG_Blueprint.label>Современный Ковер 3X3 (чертеж)</SadjuukCarpetCG_Blueprint.label>
+  <SadjuukCarpetCG_Blueprint_Install.label>Современный Ковер 3X3 (чертеж)</SadjuukCarpetCG_Blueprint_Install.label>
+  <SadjuukCarpetCG_Frame.label>Современный Ковер 3X3 (здание)</SadjuukCarpetCG_Frame.label>
+  <SadjuukCarpetCG_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetCG_Frame.description>
+  <!-- Carpet CH -->
+  <SadjuukCarpetCH.label>Современный Ковер 3X3</SadjuukCarpetCH.label>
+  <SadjuukCarpetCH.description>Современный ковер из синтетического материала.</SadjuukCarpetCH.description>
+  <SadjuukCarpetCH_Blueprint.label>Современный Ковер 3X3 (чертеж)</SadjuukCarpetCH_Blueprint.label>
+  <SadjuukCarpetCH_Blueprint_Install.label>Современный Ковер 3X3 (чертеж)</SadjuukCarpetCH_Blueprint_Install.label>
+  <SadjuukCarpetCH_Frame.label>Современный Ковер 3X3 (здание)</SadjuukCarpetCH_Frame.label>
+  <SadjuukCarpetCH_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetCH_Frame.description>
+  <!-- Carpet CI -->
+  <SadjuukCarpetCI.label>Современный Ковер 3X3</SadjuukCarpetCI.label>
+  <SadjuukCarpetCI.description>Современный ковер из синтетического материала.</SadjuukCarpetCI.description>
+  <SadjuukCarpetCI_Blueprint.label>Современный Ковер 3X3 (чертеж)</SadjuukCarpetCI_Blueprint.label>
+  <SadjuukCarpetCI_Blueprint_Install.label>Современный Ковер 3X3 (чертеж)</SadjuukCarpetCI_Blueprint_Install.label>
+  <SadjuukCarpetCI_Frame.label>Современный Ковер 3X3 (здание)</SadjuukCarpetCI_Frame.label>
+  <SadjuukCarpetCI_Frame.description>Современный ковер из синтетического материала.</SadjuukCarpetCI_Frame.description>
+  <!-- Surgery AA -->
+  <SadjuukSurgeryAA.label>Простые Хирургические Инструменты</SadjuukSurgeryAA.label>
+  <SadjuukSurgeryAA.description>Очень простые хирургические инструменты, повышающие качество медицинской помощи.
+Уход : 2%, Шанс инфекции : 2%, Хирургия : 2%</SadjuukSurgeryAA.description>
+  <!-- Surgery AB -->
+  <SadjuukSurgeryAB.label>Основные Хирургические Инструменты</SadjuukSurgeryAB.label>
+  <SadjuukSurgeryAB.description>Основные хирургические инструменты, изготовленные из серебра и дерева, повышают качество медицинской помощи.
+Уход : 2%, Шанс инфекции : 2%, Хирургия : 2%</SadjuukSurgeryAB.description>
+  <!-- Surgery AC -->
+  <SadjuukSurgeryAC.label>Стальные Хирургические Инструменты</SadjuukSurgeryAC.label>
+  <SadjuukSurgeryAC.description>Стандартные медицинские инструменты.
+Уход : 5%, Шанс инфекции : 2%, Хирургия : 5%</SadjuukSurgeryAC.description>
+  <!-- Surgery AD -->
+  <SadjuukSurgeryAD.label>Операционный свет.</SadjuukSurgeryAD.label>
+  <SadjuukSurgeryAD.description>Хирургическая лампа, помогающая во время деликатных операций.
+Уход : 5%, Шанс инфекции : 0%, Хирургия : 5%</SadjuukSurgeryAD.description>
+  <!-- Surgery BA -->
+  <SadjuukSurgeryBA.label>Медицинский стол</SadjuukSurgeryBA.label>
+  <SadjuukSurgeryBA.description>Деревянный стол, обеспечивающий плохое медицинское обслуживание.</SadjuukSurgeryBA.description>
+  <!-- Surgery BB -->
+  <SadjuukSurgeryBB.label>Деревянная Медицинская Кровать</SadjuukSurgeryBB.label>
+  <SadjuukSurgeryBB.description>Деревянная кровать, хорошая для выздоровления.</SadjuukSurgeryBB.description>
+  <!-- Surgery BC -->
+  <SadjuukSurgeryBC.label>Стальная Медицинская Кровать</SadjuukSurgeryBC.label>
+  <SadjuukSurgeryBC.description>Стандартная больничная койка, пригодная для выздоровления.</SadjuukSurgeryBC.description>
+  <!-- Surgery BD -->
+  <SadjuukSurgeryBD.label>Операционный стол</SadjuukSurgeryBD.label>
+  <SadjuukSurgeryBD.description>Хирургическая кровать, позволяющая проводить сложные операции.</SadjuukSurgeryBD.description>
+  <!-- Research AA -->
+  <SadjuukResearchAA.label>Исследовательское место</SadjuukResearchAA.label>
+  <SadjuukResearchAA.description>Место, где можно проводить примитивные опыты.</SadjuukResearchAA.description>
+  <!-- Research AB -->
+  <SadjuukResearchAB.label>Исследовательский отдел</SadjuukResearchAB.label>
+  <SadjuukResearchAB.description>Деревянный письменный стол для безмятежной учебы.</SadjuukResearchAB.description>
+  <!-- Research AC -->
+  <SadjuukResearchAC.label>Исследовательский стол</SadjuukResearchAC.label>
+  <SadjuukResearchAC.description>Исследовательский стол, укомплектованный измерительным оборудованием.</SadjuukResearchAC.description>
+  <!-- Research BA -->
+  <SadjuukResearchBA.label>Племенной календарь</SadjuukResearchBA.label>
+  <SadjuukResearchBA.description>Примитивный календарь, показывающий положение звезд и времена года.</SadjuukResearchBA.description>
+  <!-- Research BB -->
+  <SadjuukResearchBB.label>Исследовательская библиотека</SadjuukResearchBB.label>
+  <SadjuukResearchBB.description>Библиотека, в которой хранятся сделанные исследования и планы.</SadjuukResearchBB.description>
+  <!-- Research BC -->
+  <SadjuukResearchBC.label>Чертежный стол</SadjuukResearchBC.label>
+  <SadjuukResearchBC.description>Чертежный стол для проектирования станков с большой точностью.</SadjuukResearchBC.description>
+  <!-- Research BD -->
+  <SadjuukResearchBD.label>Архивный шкаф</SadjuukResearchBD.label>
+  <SadjuukResearchBD.description>Шкаф для хранения файлов и планов, полученных в результате проведенных исследований.</SadjuukResearchBD.description>
+  <!-- Heater AA -->
+  <SadjuukHeaterAA.label>Электрический Нагреватель</SadjuukHeaterAA.label>
+  <SadjuukHeaterAA.description>P : 175W, T/s : 21
+Электрический нагреватель с низкой энергоэффективностью.</SadjuukHeaterAA.description>
+  <!-- Heater AB -->
+  <SadjuukHeaterAB.label>Керамический Нагреватель</SadjuukHeaterAB.label>
+  <SadjuukHeaterAB.description>P : 100W, T/s : 25
+Керамический нагреватель с хорошей энергоэффективностью.</SadjuukHeaterAB.description>
+  <!-- Heater AC -->
+  <SadjuukHeaterAC.label>Центральное отопление</SadjuukHeaterAC.label>
+  <SadjuukHeaterAC.description>P : 1000W, T/s : 300
+Центральное отопление способно обогревать большие объемы.</SadjuukHeaterAC.description>
+  <!-- Cooler AA -->
+  <SadjuukCoolerAA.label>Электрический Вентилятор</SadjuukCoolerAA.label>
+  <SadjuukCoolerAA.description>P : 40W, T min : 24°C
+Электрический вентилятор немного снижает избыточную температуру в помещении.</SadjuukCoolerAA.description>
+  <SadjuukCoolerAA_Blueprint.label>Электрический Вентилятор (чертеж)</SadjuukCoolerAA_Blueprint.label>
+  <SadjuukCoolerAA_Blueprint_Install.label>Электрический Вентилятор (чертеж)</SadjuukCoolerAA_Blueprint_Install.label>
+  <SadjuukCoolerAA_Frame.label>Электрический Вентилятор (здание)</SadjuukCoolerAA_Frame.label>
+  <SadjuukCoolerAA_Frame.description>P : 40W, T min : 24°C
+Электрический вентилятор немного снижает избыточную температуру в помещении.</SadjuukCoolerAA_Frame.description>
+  <!-- Cooler AB -->
+  <SadjuukCoolerAB.label>Стальной Охладитель Воздуха</SadjuukCoolerAB.label>
+  <SadjuukCoolerAB.description>P : 200W, T/s : -21
+Электрический Охладитель Воздуха. Должны быть размещены на стене.</SadjuukCoolerAB.description>
+  <!-- Cooler AC -->
+  <SadjuukCoolerAC.label>Керамический Охладитель Воздуха</SadjuukCoolerAC.label>
+  <SadjuukCoolerAC.description>P : 400W, T/s : -63
+Керамический воздухоохладитель с хорошей производительностью. Должны быть размещены на стене.</SadjuukCoolerAC.description>
+  <!-- Vent AA -->
+  <SadjuukVentAA.label>Стальная Вентиляция</SadjuukVentAA.label>
+  <SadjuukVentAA.description>Очень простая вентиляция, дающая пригодный для дыхания воздух и передающая тепло между помещениями. Должны быть размещены на стене.</SadjuukVentAA.description>
+  <!-- Vent AB -->
+  <SadjuukVentAB.label>Фильтрующая Вентиляция</SadjuukVentAB.label>
+  <SadjuukVentAB.description>Качественная вентиляция повышает комфорт в помещении. Должны быть размещены на стене.</SadjuukVentAB.description>
+  <!-- Vent AC -->
+  <SadjuukVentAC.label>Уютная Вентиляция</SadjuukVentAC.label>
+  <SadjuukVentAC.description>Фильтрующая вентиляция очень хорошего качества, значительно повышающая комфорт помещения. Должны быть размещены на стене.</SadjuukVentAC.description>
+  <!-- Banner AA -->
+  <SadjuukHighBannerAA.label>Баннер СБ ООН</SadjuukHighBannerAA.label>
+  <SadjuukHighBannerAA.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAA.description>
+  <SadjuukHighBannerAA_Blueprint.label>Баннер СБ ООН (чертеж)</SadjuukHighBannerAA_Blueprint.label>
+  <SadjuukHighBannerAA_Blueprint_Install.label>Баннер СБ ООН (чертеж)</SadjuukHighBannerAA_Blueprint_Install.label>
+  <SadjuukHighBannerAA_Frame.label>Баннер СБ ООН (здание)</SadjuukHighBannerAA_Frame.label>
+  <SadjuukHighBannerAA_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAA_Frame.description>
+  <!-- Banner AB -->
+  <SadjuukHighBannerAB.label>Знамя Галлии</SadjuukHighBannerAB.label>
+  <SadjuukHighBannerAB.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAB.description>
+  <SadjuukHighBannerAB_Blueprint.label>Знамя Галлии (чертеж)</SadjuukHighBannerAB_Blueprint.label>
+  <SadjuukHighBannerAB_Blueprint_Install.label>Знамя Галлии (чертеж)</SadjuukHighBannerAB_Blueprint_Install.label>
+  <SadjuukHighBannerAB_Frame.label>Знамя Галлии (здание)</SadjuukHighBannerAB_Frame.label>
+  <SadjuukHighBannerAB_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAB_Frame.description>
+  <!-- Banner AR -->
+  <SadjuukHighBannerAR.label>Лис Баннер</SadjuukHighBannerAR.label>
+  <SadjuukHighBannerAR.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAR.description>
+  <SadjuukHighBannerAR_Blueprint.label>Лис Баннер (чертеж)</SadjuukHighBannerAR_Blueprint.label>
+  <SadjuukHighBannerAR_Blueprint_Install.label>Лис Баннер (чертеж)</SadjuukHighBannerAR_Blueprint_Install.label>
+  <SadjuukHighBannerAR_Frame.label>Лис Баннер (здание)</SadjuukHighBannerAR_Frame.label>
+  <SadjuukHighBannerAR_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAR_Frame.description>
+  <!-- Banner AC -->
+  <SadjuukHighBannerAC.label>Имперское Знамя</SadjuukHighBannerAC.label>
+  <SadjuukHighBannerAC.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAC.description>
+  <SadjuukHighBannerAC_Blueprint.label>Имперское Знамя (чертеж)</SadjuukHighBannerAC_Blueprint.label>
+  <SadjuukHighBannerAC_Blueprint_Install.label>Имперское Знамя (чертеж)</SadjuukHighBannerAC_Blueprint_Install.label>
+  <SadjuukHighBannerAC_Frame.label>Имперское Знамя (здание)</SadjuukHighBannerAC_Frame.label>
+  <SadjuukHighBannerAC_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAC_Frame.description>
+  <!-- Banner AD -->
+  <SadjuukHighBannerAD.label>Баннер Диктата</SadjuukHighBannerAD.label>
+  <SadjuukHighBannerAD.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAD.description>
+  <SadjuukHighBannerAD_Blueprint.label>Баннер Диктата (чертеж)</SadjuukHighBannerAD_Blueprint.label>
+  <SadjuukHighBannerAD_Blueprint_Install.label>Баннер Диктата (чертеж)</SadjuukHighBannerAD_Blueprint_Install.label>
+  <SadjuukHighBannerAD_Frame.label>Баннер Диктата (здание)</SadjuukHighBannerAD_Frame.label>
+  <SadjuukHighBannerAD_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAD_Frame.description>
+  <!-- Banner AE -->
+  <SadjuukHighBannerAE.label>Большевистское Знамя</SadjuukHighBannerAE.label>
+  <SadjuukHighBannerAE.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAE.description>
+  <SadjuukHighBannerAE_Blueprint.label>Большевистское Знамя (чертеж)</SadjuukHighBannerAE_Blueprint.label>
+  <SadjuukHighBannerAE_Blueprint_Install.label>Большевистское Знамя (чертеж)</SadjuukHighBannerAE_Blueprint_Install.label>
+  <SadjuukHighBannerAE_Frame.label>Большевистское Знамя (здание)</SadjuukHighBannerAE_Frame.label>
+  <SadjuukHighBannerAE_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAE_Frame.description>
+  <!-- Banner AF -->
+  <SadjuukHighBannerAF.label>Знамя NOD</SadjuukHighBannerAF.label>
+  <SadjuukHighBannerAF.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAF.description>
+  <SadjuukHighBannerAF_Blueprint.label>Знамя NOD (чертеж)</SadjuukHighBannerAF_Blueprint.label>
+  <SadjuukHighBannerAF_Blueprint_Install.label>Знамя NOD (чертеж)</SadjuukHighBannerAF_Blueprint_Install.label>
+  <SadjuukHighBannerAF_Frame.label>Знамя NOD (здание)</SadjuukHighBannerAF_Frame.label>
+  <SadjuukHighBannerAF_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAF_Frame.description>
+  <!-- Banner AO -->
+  <SadjuukHighBannerAO.label>Знамя GDI</SadjuukHighBannerAO.label>
+  <SadjuukHighBannerAO.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAO.description>
+  <SadjuukHighBannerAO_Blueprint.label>Знамя GDI (чертеж)</SadjuukHighBannerAO_Blueprint.label>
+  <SadjuukHighBannerAO_Blueprint_Install.label>Знамя GDI (чертеж)</SadjuukHighBannerAO_Blueprint_Install.label>
+  <SadjuukHighBannerAO_Frame.label>Знамя GDI (здание)</SadjuukHighBannerAO_Frame.label>
+  <SadjuukHighBannerAO_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAO_Frame.description>
+  <!-- Banner AM -->
+  <SadjuukHighBannerAM.label>Знамя тамплиеров</SadjuukHighBannerAM.label>
+  <SadjuukHighBannerAM.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAM.description>
+  <SadjuukHighBannerAM_Blueprint.label>Знамя тамплиеров (чертеж)</SadjuukHighBannerAM_Blueprint.label>
+  <SadjuukHighBannerAM_Blueprint_Install.label>Знамя тамплиеров (чертеж)</SadjuukHighBannerAM_Blueprint_Install.label>
+  <SadjuukHighBannerAM_Frame.label>Знамя тамплиеров (здание)</SadjuukHighBannerAM_Frame.label>
+  <SadjuukHighBannerAM_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAM_Frame.description>
+  <!-- Banner AS -->
+  <SadjuukHighBannerAS.label>Крестовое Знамя</SadjuukHighBannerAS.label>
+  <SadjuukHighBannerAS.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAS.description>
+  <SadjuukHighBannerAS_Blueprint.label>Крестовое Знамя (чертеж)</SadjuukHighBannerAS_Blueprint.label>
+  <SadjuukHighBannerAS_Blueprint_Install.label>Крестовое Знамя (чертеж)</SadjuukHighBannerAS_Blueprint_Install.label>
+  <SadjuukHighBannerAS_Frame.label>Крестовое Знамя (здание)</SadjuukHighBannerAS_Frame.label>
+  <SadjuukHighBannerAS_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAS_Frame.description>
+  <!-- Banner AN -->
+  <SadjuukHighBannerAN.label>Знамя Лех</SadjuukHighBannerAN.label>
+  <SadjuukHighBannerAN.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAN.description>
+  <SadjuukHighBannerAN_Blueprint.label>Знамя Лех (чертеж)</SadjuukHighBannerAN_Blueprint.label>
+  <SadjuukHighBannerAN_Blueprint_Install.label>Знамя Лех (чертеж)</SadjuukHighBannerAN_Blueprint_Install.label>
+  <SadjuukHighBannerAN_Frame.label>Знамя Лех (здание)</SadjuukHighBannerAN_Frame.label>
+  <SadjuukHighBannerAN_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAN_Frame.description>
+  <!-- Banner AP -->
+  <SadjuukHighBannerAP.label>Знамя RUS</SadjuukHighBannerAP.label>
+  <SadjuukHighBannerAP.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAP.description>
+  <SadjuukHighBannerAP_Blueprint.label>Знамя RUS (чертеж)</SadjuukHighBannerAP_Blueprint.label>
+  <SadjuukHighBannerAP_Blueprint_Install.label>Знамя RUS (чертеж)</SadjuukHighBannerAP_Blueprint_Install.label>
+  <SadjuukHighBannerAP_Frame.label>Знамя RUS (здание)</SadjuukHighBannerAP_Frame.label>
+  <SadjuukHighBannerAP_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAP_Frame.description>
+  <!-- Banner AQ -->
+  <SadjuukHighBannerAQ.label>Знамя Штатов</SadjuukHighBannerAQ.label>
+  <SadjuukHighBannerAQ.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAQ.description>
+  <SadjuukHighBannerAQ_Blueprint.label>Знамя Штатов (чертеж)</SadjuukHighBannerAQ_Blueprint.label>
+  <SadjuukHighBannerAQ_Blueprint_Install.label>Знамя Штатов (чертеж)</SadjuukHighBannerAQ_Blueprint_Install.label>
+  <SadjuukHighBannerAQ_Frame.label>Знамя Штатов (здание)</SadjuukHighBannerAQ_Frame.label>
+  <SadjuukHighBannerAQ_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAQ_Frame.description>
+  <!-- Banner AG -->
+  <SadjuukHighBannerAG.label>Красное Знамя</SadjuukHighBannerAG.label>
+  <SadjuukHighBannerAG.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAG.description>
+  <SadjuukHighBannerAG_Blueprint.label>Красное Знамя (чертеж)</SadjuukHighBannerAG_Blueprint.label>
+  <SadjuukHighBannerAG_Blueprint_Install.label>Красное Знамя (чертеж)</SadjuukHighBannerAG_Blueprint_Install.label>
+  <SadjuukHighBannerAG_Frame.label>Красное Знамя (здание)</SadjuukHighBannerAG_Frame.label>
+  <SadjuukHighBannerAG_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAG_Frame.description>
+  <!-- Banner AH -->
+  <SadjuukHighBannerAH.label>Королевское Синее Знамя</SadjuukHighBannerAH.label>
+  <SadjuukHighBannerAH.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAH.description>
+  <SadjuukHighBannerAH_Blueprint.label>Королевское Синее Знамя (чертеж)</SadjuukHighBannerAH_Blueprint.label>
+  <SadjuukHighBannerAH_Blueprint_Install.label>Королевское Синее Знамя (чертеж)</SadjuukHighBannerAH_Blueprint_Install.label>
+  <SadjuukHighBannerAH_Frame.label>Королевское Синее Знамя (здание)</SadjuukHighBannerAH_Frame.label>
+  <SadjuukHighBannerAH_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAH_Frame.description>
+  <!-- Banner AI -->
+  <SadjuukHighBannerAI.label>Небесно-Голубое знамя</SadjuukHighBannerAI.label>
+  <SadjuukHighBannerAI.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAI.description>
+  <SadjuukHighBannerAI_Blueprint.label>Небесно-Голубое знамя (чертеж)</SadjuukHighBannerAI_Blueprint.label>
+  <SadjuukHighBannerAI_Blueprint_Install.label>Небесно-Голубое знамя (чертеж)</SadjuukHighBannerAI_Blueprint_Install.label>
+  <SadjuukHighBannerAI_Frame.label>Небесно-Голубое знамя (здание)</SadjuukHighBannerAI_Frame.label>
+  <SadjuukHighBannerAI_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAI_Frame.description>
+  <!-- Banner AJ -->
+  <SadjuukHighBannerAJ.label>Желтое знамя</SadjuukHighBannerAJ.label>
+  <SadjuukHighBannerAJ.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAJ.description>
+  <SadjuukHighBannerAJ_Blueprint.label>Желтое знамя (чертеж)</SadjuukHighBannerAJ_Blueprint.label>
+  <SadjuukHighBannerAJ_Blueprint_Install.label>Желтое знамя (чертеж)</SadjuukHighBannerAJ_Blueprint_Install.label>
+  <SadjuukHighBannerAJ_Frame.label>Желтое знамя (здание)</SadjuukHighBannerAJ_Frame.label>
+  <SadjuukHighBannerAJ_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAJ_Frame.description>
+  <!-- Banner AK -->
+  <SadjuukHighBannerAK.label>Черное Знамя</SadjuukHighBannerAK.label>
+  <SadjuukHighBannerAK.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAK.description>
+  <SadjuukHighBannerAK_Blueprint.label>Черное Знамя (чертеж)</SadjuukHighBannerAK_Blueprint.label>
+  <SadjuukHighBannerAK_Blueprint_Install.label>Черное Знамя (чертеж)</SadjuukHighBannerAK_Blueprint_Install.label>
+  <SadjuukHighBannerAK_Frame.label>Черное Знамя (здание)</SadjuukHighBannerAK_Frame.label>
+  <SadjuukHighBannerAK_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAK_Frame.description>
+  <!-- Banner AL -->
+  <SadjuukHighBannerAL.label>Белое Знамя</SadjuukHighBannerAL.label>
+  <SadjuukHighBannerAL.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAL.description>
+  <SadjuukHighBannerAL_Blueprint.label>Белое Знамя (чертеж)</SadjuukHighBannerAL_Blueprint.label>
+  <SadjuukHighBannerAL_Blueprint_Install.label>Белое Знамя (чертеж)</SadjuukHighBannerAL_Blueprint_Install.label>
+  <SadjuukHighBannerAL_Frame.label>Белое Знамя (здание)</SadjuukHighBannerAL_Frame.label>
+  <SadjuukHighBannerAL_Frame.description>Высокое Знамя, символ ваших амбиций и суверенитета.</SadjuukHighBannerAL_Frame.description>
+  <!-- Banner BA -->
+  <SadjuukHighBannerBA.label>Флаг СБ ООН</SadjuukHighBannerBA.label>
+  <SadjuukHighBannerBA.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBA.description>
+  <SadjuukHighBannerBA_Blueprint.label>Флаг СБ ООН (чертеж)</SadjuukHighBannerBA_Blueprint.label>
+  <SadjuukHighBannerBA_Blueprint_Install.label>Флаг СБ ООН (чертеж)</SadjuukHighBannerBA_Blueprint_Install.label>
+  <SadjuukHighBannerBA_Frame.label>Флаг СБ ООН (здание)</SadjuukHighBannerBA_Frame.label>
+  <SadjuukHighBannerBA_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBA_Frame.description>
+  <!-- Banner BB -->
+  <SadjuukHighBannerBB.label>Флаг Галлии</SadjuukHighBannerBB.label>
+  <SadjuukHighBannerBB.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBB.description>
+  <SadjuukHighBannerBB_Blueprint.label>Флаг Галлии (чертеж)</SadjuukHighBannerBB_Blueprint.label>
+  <SadjuukHighBannerBB_Blueprint_Install.label>Флаг Галлии (чертеж)</SadjuukHighBannerBB_Blueprint_Install.label>
+  <SadjuukHighBannerBB_Frame.label>Флаг Галлии (здание)</SadjuukHighBannerBB_Frame.label>
+  <SadjuukHighBannerBB_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBB_Frame.description>
+  <!-- Banner BR -->
+  <SadjuukHighBannerBR.label>Флаг Лис</SadjuukHighBannerBR.label>
+  <SadjuukHighBannerBR.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBR.description>
+  <SadjuukHighBannerBR_Blueprint.label>Флаг Лис (чертеж)</SadjuukHighBannerBR_Blueprint.label>
+  <SadjuukHighBannerBR_Blueprint_Install.label>Флаг Лис (чертеж)</SadjuukHighBannerBR_Blueprint_Install.label>
+  <SadjuukHighBannerBR_Frame.label>Флаг Лис (здание)</SadjuukHighBannerBR_Frame.label>
+  <SadjuukHighBannerBR_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBR_Frame.description>
+  <!-- Banner BC -->
+  <SadjuukHighBannerBC.label>Имперский флаг</SadjuukHighBannerBC.label>
+  <SadjuukHighBannerBC.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBC.description>
+  <SadjuukHighBannerBC_Blueprint.label>Имперский флаг (чертеж)</SadjuukHighBannerBC_Blueprint.label>
+  <SadjuukHighBannerBC_Blueprint_Install.label>Имперский флаг (чертеж)</SadjuukHighBannerBC_Blueprint_Install.label>
+  <SadjuukHighBannerBC_Frame.label>Имперский флаг (здание)</SadjuukHighBannerBC_Frame.label>
+  <SadjuukHighBannerBC_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBC_Frame.description>
+  <!-- Banner BD -->
+  <SadjuukHighBannerBD.label>Флаг Диктата</SadjuukHighBannerBD.label>
+  <SadjuukHighBannerBD.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBD.description>
+  <SadjuukHighBannerBD_Blueprint.label>Флаг Диктата (чертеж)</SadjuukHighBannerBD_Blueprint.label>
+  <SadjuukHighBannerBD_Blueprint_Install.label>Флаг Диктата (чертеж)</SadjuukHighBannerBD_Blueprint_Install.label>
+  <SadjuukHighBannerBD_Frame.label>Флаг Диктата (здание)</SadjuukHighBannerBD_Frame.label>
+  <SadjuukHighBannerBD_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBD_Frame.description>
+  <!-- Banner BE -->
+  <SadjuukHighBannerBE.label>Большевистский флаг</SadjuukHighBannerBE.label>
+  <SadjuukHighBannerBE.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBE.description>
+  <SadjuukHighBannerBE_Blueprint.label>Большевистский флаг (чертеж)</SadjuukHighBannerBE_Blueprint.label>
+  <SadjuukHighBannerBE_Blueprint_Install.label>Большевистский флаг (чертеж)</SadjuukHighBannerBE_Blueprint_Install.label>
+  <SadjuukHighBannerBE_Frame.label>Большевистский флаг (здание)</SadjuukHighBannerBE_Frame.label>
+  <SadjuukHighBannerBE_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBE_Frame.description>
+  <!-- Banner BF -->
+  <SadjuukHighBannerBF.label>Флаг NOD</SadjuukHighBannerBF.label>
+  <SadjuukHighBannerBF.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBF.description>
+  <SadjuukHighBannerBF_Blueprint.label>Флаг NOD (чертеж)</SadjuukHighBannerBF_Blueprint.label>
+  <SadjuukHighBannerBF_Blueprint_Install.label>Флаг NOD (чертеж)</SadjuukHighBannerBF_Blueprint_Install.label>
+  <SadjuukHighBannerBF_Frame.label>Флаг NOD (здание)</SadjuukHighBannerBF_Frame.label>
+  <SadjuukHighBannerBF_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBF_Frame.description>
+  <!-- Banner BO -->
+  <SadjuukHighBannerBO.label>Флаг GDI</SadjuukHighBannerBO.label>
+  <SadjuukHighBannerBO.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBO.description>
+  <SadjuukHighBannerBO_Blueprint.label>Флаг GDI (чертеж)</SadjuukHighBannerBO_Blueprint.label>
+  <SadjuukHighBannerBO_Blueprint_Install.label>Флаг GDI (чертеж)</SadjuukHighBannerBO_Blueprint_Install.label>
+  <SadjuukHighBannerBO_Frame.label>Флаг GDI (здание)</SadjuukHighBannerBO_Frame.label>
+  <SadjuukHighBannerBO_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBO_Frame.description>
+  <!-- Banner BM -->
+  <SadjuukHighBannerBM.label>Флаг тамплиеров</SadjuukHighBannerBM.label>
+  <SadjuukHighBannerBM.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBM.description>
+  <SadjuukHighBannerBM_Blueprint.label>Флаг тамплиеров (чертеж)</SadjuukHighBannerBM_Blueprint.label>
+  <SadjuukHighBannerBM_Blueprint_Install.label>Флаг тамплиеров (чертеж)</SadjuukHighBannerBM_Blueprint_Install.label>
+  <SadjuukHighBannerBM_Frame.label>Флаг тамплиеров (здание)</SadjuukHighBannerBM_Frame.label>
+  <SadjuukHighBannerBM_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBM_Frame.description>
+  <!-- Banner BS -->
+  <SadjuukHighBannerBS.label>Крестовый флаг</SadjuukHighBannerBS.label>
+  <SadjuukHighBannerBS.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBS.description>
+  <SadjuukHighBannerBS_Blueprint.label>Крестовый флаг (чертеж)</SadjuukHighBannerBS_Blueprint.label>
+  <SadjuukHighBannerBS_Blueprint_Install.label>Крестовый флаг (чертеж)</SadjuukHighBannerBS_Blueprint_Install.label>
+  <SadjuukHighBannerBS_Frame.label>Крестовый флаг (здание)</SadjuukHighBannerBS_Frame.label>
+  <SadjuukHighBannerBS_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBS_Frame.description>
+  <!-- Banner BN -->
+  <SadjuukHighBannerBN.label>Флаг Лех</SadjuukHighBannerBN.label>
+  <SadjuukHighBannerBN.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBN.description>
+  <SadjuukHighBannerBN_Blueprint.label>Флаг Лех (чертеж)</SadjuukHighBannerBN_Blueprint.label>
+  <SadjuukHighBannerBN_Blueprint_Install.label>Флаг Лех (чертеж)</SadjuukHighBannerBN_Blueprint_Install.label>
+  <SadjuukHighBannerBN_Frame.label>Флаг Лех (здание)</SadjuukHighBannerBN_Frame.label>
+  <SadjuukHighBannerBN_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBN_Frame.description>
+  <!-- Banner BP -->
+  <SadjuukHighBannerBP.label>Флаг RUS</SadjuukHighBannerBP.label>
+  <SadjuukHighBannerBP.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBP.description>
+  <SadjuukHighBannerBP_Blueprint.label>Флаг RUS (чертеж)</SadjuukHighBannerBP_Blueprint.label>
+  <SadjuukHighBannerBP_Blueprint_Install.label>Флаг RUS (чертеж)</SadjuukHighBannerBP_Blueprint_Install.label>
+  <SadjuukHighBannerBP_Frame.label>Флаг RUS (здание)</SadjuukHighBannerBP_Frame.label>
+  <SadjuukHighBannerBP_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBP_Frame.description>
+  <!-- Banner BQ -->
+  <SadjuukHighBannerBQ.label>Флаг Штатов</SadjuukHighBannerBQ.label>
+  <SadjuukHighBannerBQ.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBQ.description>
+  <SadjuukHighBannerBQ_Blueprint.label>Флаг Штатов (чертеж)</SadjuukHighBannerBQ_Blueprint.label>
+  <SadjuukHighBannerBQ_Blueprint_Install.label>Флаг Штатов (чертеж)</SadjuukHighBannerBQ_Blueprint_Install.label>
+  <SadjuukHighBannerBQ_Frame.label>Флаг Штатов (здание)</SadjuukHighBannerBQ_Frame.label>
+  <SadjuukHighBannerBQ_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBQ_Frame.description>
+  <!-- Banner BG -->
+  <SadjuukHighBannerBG.label>Красный Флаг</SadjuukHighBannerBG.label>
+  <SadjuukHighBannerBG.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBG.description>
+  <SadjuukHighBannerBG_Blueprint.label>Красный Флаг (чертеж)</SadjuukHighBannerBG_Blueprint.label>
+  <SadjuukHighBannerBG_Blueprint_Install.label>Красный Флаг (чертеж)</SadjuukHighBannerBG_Blueprint_Install.label>
+  <SadjuukHighBannerBG_Frame.label>Красный Флаг (здание)</SadjuukHighBannerBG_Frame.label>
+  <SadjuukHighBannerBG_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBG_Frame.description>
+  <!-- Banner BH -->
+  <SadjuukHighBannerBH.label>Королевский Синий флаг</SadjuukHighBannerBH.label>
+  <SadjuukHighBannerBH.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBH.description>
+  <SadjuukHighBannerBH_Blueprint.label>Королевский Синий флаг (чертеж)</SadjuukHighBannerBH_Blueprint.label>
+  <SadjuukHighBannerBH_Blueprint_Install.label>Королевский Синий флаг (чертеж)</SadjuukHighBannerBH_Blueprint_Install.label>
+  <SadjuukHighBannerBH_Frame.label>Королевский Синий флаг (здание)</SadjuukHighBannerBH_Frame.label>
+  <SadjuukHighBannerBH_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBH_Frame.description>
+  <!-- Banner BI -->
+  <SadjuukHighBannerBI.label>Небесно-Голубой флаг</SadjuukHighBannerBI.label>
+  <SadjuukHighBannerBI.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBI.description>
+  <SadjuukHighBannerBI_Blueprint.label>Небесно-Голубой флаг (чертеж)</SadjuukHighBannerBI_Blueprint.label>
+  <SadjuukHighBannerBI_Blueprint_Install.label>Небесно-Голубой флаг (чертеж)</SadjuukHighBannerBI_Blueprint_Install.label>
+  <SadjuukHighBannerBI_Frame.label>Небесно-Голубой флаг (здание)</SadjuukHighBannerBI_Frame.label>
+  <SadjuukHighBannerBI_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBI_Frame.description>
+  <!-- Banner BJ -->
+  <SadjuukHighBannerBJ.label>Желтый флаг</SadjuukHighBannerBJ.label>
+  <SadjuukHighBannerBJ.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBJ.description>
+  <SadjuukHighBannerBJ_Blueprint.label>Желтый флаг (чертеж)</SadjuukHighBannerBJ_Blueprint.label>
+  <SadjuukHighBannerBJ_Blueprint_Install.label>Желтый флаг (чертеж)</SadjuukHighBannerBJ_Blueprint_Install.label>
+  <SadjuukHighBannerBJ_Frame.label>Желтый флаг (здание)</SadjuukHighBannerBJ_Frame.label>
+  <SadjuukHighBannerBJ_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBJ_Frame.description>
+  <!-- Banner BK -->
+  <SadjuukHighBannerBK.label>Черный флаг</SadjuukHighBannerBK.label>
+  <SadjuukHighBannerBK.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBK.description>
+  <SadjuukHighBannerBK_Blueprint.label>Черный флаг (чертеж)</SadjuukHighBannerBK_Blueprint.label>
+  <SadjuukHighBannerBK_Blueprint_Install.label>Черный флаг (чертеж)</SadjuukHighBannerBK_Blueprint_Install.label>
+  <SadjuukHighBannerBK_Frame.label>Черный флаг (здание)</SadjuukHighBannerBK_Frame.label>
+  <SadjuukHighBannerBK_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBK_Frame.description>
+  <!-- Banner BL -->
+  <SadjuukHighBannerBL.label>Белый флаг</SadjuukHighBannerBL.label>
+  <SadjuukHighBannerBL.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBL.description>
+  <SadjuukHighBannerBL_Blueprint.label>Белый флаг (чертеж)</SadjuukHighBannerBL_Blueprint.label>
+  <SadjuukHighBannerBL_Blueprint_Install.label>Белый флаг (чертеж)</SadjuukHighBannerBL_Blueprint_Install.label>
+  <SadjuukHighBannerBL_Frame.label>Белый флаг (здание)</SadjuukHighBannerBL_Frame.label>
+  <SadjuukHighBannerBL_Frame.description>Высокий флаг, отмечающий вашу территорию.</SadjuukHighBannerBL_Frame.description>
+  <!-- Banner CA -->
+  <SadjuukHighBannerCA.label>Знак Пожарной опасности</SadjuukHighBannerCA.label>
+  <SadjuukHighBannerCA.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCA.description>
+  <SadjuukHighBannerCA_Blueprint.label>Знак Пожарной опасности (чертеж)</SadjuukHighBannerCA_Blueprint.label>
+  <SadjuukHighBannerCA_Blueprint_Install.label>Знак Пожарной опасности (чертеж)</SadjuukHighBannerCA_Blueprint_Install.label>
+  <SadjuukHighBannerCA_Frame.label>Знак Пожарной опасности (здание)</SadjuukHighBannerCA_Frame.label>
+  <SadjuukHighBannerCA_Frame.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCA_Frame.description>
+  <!-- Banner CB -->
+  <SadjuukHighBannerCB.label>Знак Смертельной опасности</SadjuukHighBannerCB.label>
+  <SadjuukHighBannerCB.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCB.description>
+  <SadjuukHighBannerCB_Blueprint.label>Знак Смертельной опасности (чертеж)</SadjuukHighBannerCB_Blueprint.label>
+  <SadjuukHighBannerCB_Blueprint_Install.label>Знак Смертельной опасности (чертеж)</SadjuukHighBannerCB_Blueprint_Install.label>
+  <SadjuukHighBannerCB_Frame.label>Знак Смертельной опасности (здание)</SadjuukHighBannerCB_Frame.label>
+  <SadjuukHighBannerCB_Frame.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCB_Frame.description>
+  <!-- Banner CC -->
+  <SadjuukHighBannerCC.label>Предупреждающий Знак о Радиации</SadjuukHighBannerCC.label>
+  <SadjuukHighBannerCC.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCC.description>
+  <SadjuukHighBannerCC_Blueprint.label>Предупреждающий Знак о Радиации (чертеж)</SadjuukHighBannerCC_Blueprint.label>
+  <SadjuukHighBannerCC_Blueprint_Install.label>Предупреждающий Знак о Радиации (чертеж)</SadjuukHighBannerCC_Blueprint_Install.label>
+  <SadjuukHighBannerCC_Frame.label>Предупреждающий Знак о Радиации (здание)</SadjuukHighBannerCC_Frame.label>
+  <SadjuukHighBannerCC_Frame.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCC_Frame.description>
+  <!-- Banner CD -->
+  <SadjuukHighBannerCD.label>Знак Биологической Опасности</SadjuukHighBannerCD.label>
+  <SadjuukHighBannerCD.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCD.description>
+  <SadjuukHighBannerCD_Blueprint.label>Знак Биологической Опасности (чертеж)</SadjuukHighBannerCD_Blueprint.label>
+  <SadjuukHighBannerCD_Blueprint_Install.label>Знак Биологической Опасности (чертеж)</SadjuukHighBannerCD_Blueprint_Install.label>
+  <SadjuukHighBannerCD_Frame.label>Знак Биологической Опасности (здание)</SadjuukHighBannerCD_Frame.label>
+  <SadjuukHighBannerCD_Frame.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCD_Frame.description>
+  <!-- Banner CE -->
+  <SadjuukHighBannerCE.label>Электрический Знак Опасности</SadjuukHighBannerCE.label>
+  <SadjuukHighBannerCE.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCE.description>
+  <SadjuukHighBannerCE_Blueprint.label>Электрический Знак Опасности (чертеж)</SadjuukHighBannerCE_Blueprint.label>
+  <SadjuukHighBannerCE_Blueprint_Install.label>Электрический Знак Опасности (чертеж)</SadjuukHighBannerCE_Blueprint_Install.label>
+  <SadjuukHighBannerCE_Frame.label>Электрический Знак Опасности (здание)</SadjuukHighBannerCE_Frame.label>
+  <SadjuukHighBannerCE_Frame.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCE_Frame.description>
+  <!-- Banner CF -->
+  <SadjuukHighBannerCF.label>Предупреждающий Знак Вилочного Погрузчика</SadjuukHighBannerCF.label>
+  <SadjuukHighBannerCF.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCF.description>
+  <SadjuukHighBannerCF_Blueprint.label>Предупреждающий Знак Вилочного Погрузчика (чертеж)</SadjuukHighBannerCF_Blueprint.label>
+  <SadjuukHighBannerCF_Blueprint_Install.label>Предупреждающий Знак Вилочного Погрузчика (чертеж)</SadjuukHighBannerCF_Blueprint_Install.label>
+  <SadjuukHighBannerCF_Frame.label>Предупреждающий Знак Вилочного Погрузчика (здание)</SadjuukHighBannerCF_Frame.label>
+  <SadjuukHighBannerCF_Frame.description>Предупреждающий знак, предупреждающий об опасности или запретной зоне.</SadjuukHighBannerCF_Frame.description>
+</LanguageData>

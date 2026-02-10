@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\TraitDefs\Traits_OneManArmy.xml -->
+	                            <!-- EN: [TKei]One Man Army -->
+	<TKei_OneManArmy.degreeDatas.0.label>[TKei]Армия Из Одного Человека</TKei_OneManArmy.degreeDatas.0.label>
+	                                  <!-- EN: [PAWN_nameDef] is good in everything -->
+	<TKei_OneManArmy.degreeDatas.0.description>[PAWN_nameDef] хорош во всём</TKei_OneManArmy.degreeDatas.0.description>
+	                                  <!-- EN: [TKei]One Man Army -->
+	<TKei_OneManArmy.degreeDatas.0.labelFemale>[TKei]Армия Из Одного Человека</TKei_OneManArmy.degreeDatas.0.labelFemale>
+</LanguageData>

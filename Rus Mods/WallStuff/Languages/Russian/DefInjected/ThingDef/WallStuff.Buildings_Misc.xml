@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WallToolBoard.label>настенная инструментальная доска</WallToolBoard.label>
+  <WallToolBoard.description>Увеличивает скорость работы при размещении рядом с верстаком. На одном верстаке можно разместить до двух досок для инструментов.</WallToolBoard.description>
+
+  <WallMountedOrbitalTradeBeacon.label>настенный орбитальный торговый маяк</WallMountedOrbitalTradeBeacon.label>
+  <WallMountedOrbitalTradeBeacon.description>Установленный на стене орбитальный маяк, необходимый для орбитальной торговли. Вы можете продавать товары орбитальным торговцам только в том случае, если они находятся рядом с орбитальным торговым маяком. Может быть размещен в помещении.</WallMountedOrbitalTradeBeacon.description>
+
+  <WallMountedCommsConsole.label>настенная консоль связи</WallMountedCommsConsole.label>
+  <WallMountedCommsConsole.description>Позволяет поддерживать радиосвязь с другими фракциями и орбитальными торговцами, теперь установлен на стене для вашего удобства!</WallMountedCommsConsole.description>
+
+
+</LanguageData>

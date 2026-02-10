@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<TwilekPlayerColony.label>Колония тви'леков</TwilekPlayerColony.label>
+	<TwilekPlayerColony.description>Ваше сообщество.</TwilekPlayerColony.description>
+	<TwilekPlayerColony.pawnsplural>колонисты</TwilekPlayerColony.pawnsplural>
+
+	<TwilekPlayerColonyTribal.label>Племя тви'леков</TwilekPlayerColonyTribal.label>
+	<TwilekPlayerColonyTribal.description>Начало за племя тви'леков.</TwilekPlayerColonyTribal.description>
+	<TwilekPlayerColonyTribal.pawnsplural>колонисты</TwilekPlayerColonyTribal.pawnsplural>
+
+</LanguageData>

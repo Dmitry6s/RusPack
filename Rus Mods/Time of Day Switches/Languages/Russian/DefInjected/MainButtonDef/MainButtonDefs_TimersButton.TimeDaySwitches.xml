@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\MainTabDefs\MainButtonDefs_TimersButton.xml -->
+	     <!-- EN: timers -->
+	<Timers.label>таймеры</Timers.label>
+	           <!-- EN: Configure timer switches. -->
+	<Timers.description>Настройка выключателей по времени.</Timers.description>
+</LanguageData>

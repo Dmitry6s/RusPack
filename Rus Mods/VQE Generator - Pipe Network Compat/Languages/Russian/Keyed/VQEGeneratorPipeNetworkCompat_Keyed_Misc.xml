@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Extract 75 uranium -->
+	<PipedARC_ExtractUranium>Извлечь 75 урана</PipedARC_ExtractUranium>
+	<!-- EN: Extract 75 uranium from the tank. A pawn will come to extract it. -->
+	<PipedARC_ExtractUraniumDesc>Извлечь 75 урана из резервуара. Поселенец придёт, чтобы извлечь его.</PipedARC_ExtractUraniumDesc>
+	<!-- EN: Switch uranium flow. -->
+	<PipedARC_UraniumValve>Переключить поток урана.</PipedARC_UraniumValve>
+	<!-- EN: Switches uranium flow on/off. A pawn will come open/close the valve. -->
+	<PipedARC_UraniumValveDesc>Включает или выключает поток урана. Поселенец придёт, чтобы открыть или закрыть вентиль.</PipedARC_UraniumValveDesc>
+</LanguageData>

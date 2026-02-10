@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- #4 Lighting -->
+  <SadjuukLightA.label>Светодиодное освещение</SadjuukLightA.label>
+  <SadjuukLightA.description>Эффективное освещение на основе светодиодной технологии.</SadjuukLightA.description>
+  <SadjuukLightB.label>Уличное освещение</SadjuukLightB.label>
+  <SadjuukLightB.description>Промышленное наружное освещение.</SadjuukLightB.description>
+  <SadjuukLightC.label>Усовершенствованное освещение</SadjuukLightC.label>
+  <SadjuukLightC.description>Усовершенствованное и бронированное освещение.</SadjuukLightC.description>
+  <!-- #4.5 Surgery -->
+  <SadjuukSurgeryA.label>Медицинское Оборудование</SadjuukSurgeryA.label>
+  <SadjuukSurgeryA.description>Медицинская кровать и оборудование для правильной хирургической практики.</SadjuukSurgeryA.description>
+  <SadjuukSurgeryB.label>Хирургическое Оборудование</SadjuukSurgeryB.label>
+  <SadjuukSurgeryB.description>Операционный стол и хирургическое освещение для улучшения качества операции.</SadjuukSurgeryB.description>
+  <!-- #5 Furnitures -->
+  <SadjuukFurnitureA.label>Стальная Мебель</SadjuukFurnitureA.label>
+  <SadjuukFurnitureA.description>Мебель в основном из стали.</SadjuukFurnitureA.description>
+  <SadjuukFurnitureB.label>Стеклянная Мебель</SadjuukFurnitureB.label>
+  <SadjuukFurnitureB.description>Мебель из труднодоступных материалов, таких как стекло или керамическая плита.</SadjuukFurnitureB.description>
+  <SadjuukFurnitureC.label>Современная Мебель</SadjuukFurnitureC.label>
+  <SadjuukFurnitureC.description>Мебель с использованием передового дизайна и современных материалов.</SadjuukFurnitureC.description>
+  <!-- #5.5 Temperature -->
+  <SadjuukTemperatureA.label>Температурные приборы</SadjuukTemperatureA.label>
+  <SadjuukTemperatureA.description>Регулирование температуры на основе керамической технологии.</SadjuukTemperatureA.description>
+  <SadjuukTemperatureB.label>Усовершенствованное регулирование</SadjuukTemperatureB.label>
+  <SadjuukTemperatureB.description>Усовершенствованное Регулирование Температуры.</SadjuukTemperatureB.description>
+</LanguageData>

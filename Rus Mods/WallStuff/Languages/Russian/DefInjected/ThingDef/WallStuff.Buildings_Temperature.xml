@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WallHeater.label>настенный обогреватель</WallHeater.label>
+  <WallHeater.description>Настенный обогреватель, который более эффективен при обогреве больших помещений и баз. Он может автоматически включаться или выключаться для достижения определенной заданной температуры.</WallHeater.description>
+
+  <WallCooler.label>настенный охладитель</WallCooler.label>
+  <WallCooler.description>Настенный охладитель не требует вентиляции, поскольку избыточное тепло утилизируется для снижения энергопотребления. Он может автоматически включаться или выключаться для достижения определенной заданной температуры.</WallCooler.description>
+
+  <WallClimateController.label>настенный климат-контроллер</WallClimateController.label>
+  <WallClimateController.description>Настенный климатический контроллер, не требующий вентиляции, поскольку избыточное тепло перерабатывается для снижения энергопотребления. Он может автоматически включаться и выключаться для достижения определенной заданной температуры.</WallClimateController.description>
+
+  <WallVent.label>настенная вентиляция</WallVent.label>
+  <WallVent.description>Простая вентиляция для выравнивания температуры между двумя комнатами, не позволяющая людям ходить между ними.</WallVent.description>
+
+
+</LanguageData>

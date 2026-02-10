@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThoughtDefs\VIC_ThumperThoughts.xml -->
+	                            <!-- EN: thumper annoyance -->
+	<VIC_ThumperAnnoyance.stages.0.label>раздражение от отпугивателя</VIC_ThumperAnnoyance.stages.0.label>
+	                                  <!-- EN: How am I supposed to even think when the walls are shaking around me! -->
+	<VIC_ThumperAnnoyance.stages.0.description>Да как тут вообще думать, когда вокруг стены трясутся!</VIC_ThumperAnnoyance.stages.0.description>
+</LanguageData>

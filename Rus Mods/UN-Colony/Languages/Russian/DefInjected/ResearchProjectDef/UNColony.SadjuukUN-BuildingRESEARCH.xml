@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- #3.5 Construction -->
+  <SadjuukConstructionA.label>Базовая Конструкция</SadjuukConstructionA.label>
+  <SadjuukConstructionA.description>Это важное исследование позволит вам производить бетон, краску, стекло и другие основные конструкции.</SadjuukConstructionA.description>
+  <SadjuukConstructionB.label>Экранированные Стены</SadjuukConstructionB.label>
+  <SadjuukConstructionB.description>Экранированные стены и двери необходимы для защиты вашей колонии или строительства бункеров.</SadjuukConstructionB.description>
+  <SadjuukConstructionC.label>Бронированные Стены</SadjuukConstructionC.label>
+  <SadjuukConstructionC.description>Разработайте бронированные стены и двери из самых прочных материалов.</SadjuukConstructionC.description>
+</LanguageData>
