@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_MoveSpeed_SuperSlow.label>сверхмедленный бег</MBSG_MoveSpeed_SuperSlow.label>
+  <MBSG_MoveSpeed_SuperSlow.description>Носители этого гена двигаются намного медленнее обычного.</MBSG_MoveSpeed_SuperSlow.description>
+
+  <MBSG_MoveSpeed_ExtremelySlow.label>экстремально медленный бег</MBSG_MoveSpeed_ExtremelySlow.label>
+  <MBSG_MoveSpeed_ExtremelySlow.description>Носители этого гена двигаются намного медленнее обычного.</MBSG_MoveSpeed_ExtremelySlow.description>
+
+  <MBSG_MoveSpeed_VerySlow.label>очень медленный бег</MBSG_MoveSpeed_VerySlow.label>
+  <MBSG_MoveSpeed_VerySlow.description>Носители этого гена двигаются намного медленнее обычного.</MBSG_MoveSpeed_VerySlow.description>
+
+  <MBSG_MoveSpeed_NotablySlow.label>заметно медленный бег</MBSG_MoveSpeed_NotablySlow.label>
+  <MBSG_MoveSpeed_NotablySlow.description>Носители этого гена двигаются медленнее обычного.</MBSG_MoveSpeed_NotablySlow.description>
+
+  <MBSG_MoveSpeed_SomewhatSlow.label>довольно медленный бег</MBSG_MoveSpeed_SomewhatSlow.label>
+  <MBSG_MoveSpeed_SomewhatSlow.description>Носители этого гена двигаются медленнее обычного.</MBSG_MoveSpeed_SomewhatSlow.description>
+
+  <MBSG_MoveSpeed_MarginallySlow.label>незначительно медленный бег</MBSG_MoveSpeed_MarginallySlow.label>
+  <MBSG_MoveSpeed_MarginallySlow.description>Носители этого гена двигаются медленнее обычного.</MBSG_MoveSpeed_MarginallySlow.description>
+
+  <MBSG_MoveSpeed_MarginallyQuick.label>быстрый бег</MBSG_MoveSpeed_MarginallyQuick.label>
+  <MBSG_MoveSpeed_MarginallyQuick.description>Носители этого гена двигаются быстрее обычного.</MBSG_MoveSpeed_MarginallyQuick.description>
+
+  <MBSG_MoveSpeed_SlightlyQuick.label>слегка быстрый бег</MBSG_MoveSpeed_SlightlyQuick.label>
+  <MBSG_MoveSpeed_SlightlyQuick.description>Носители этого гена двигаются быстрее обычного.</MBSG_MoveSpeed_SlightlyQuick.description>
+
+  <MBSG_MoveSpeed_NotablyQuick.label>заметно быстрый бег</MBSG_MoveSpeed_NotablyQuick.label>
+  <MBSG_MoveSpeed_NotablyQuick.description>Носители этого гена двигаются быстрее обычного.</MBSG_MoveSpeed_NotablyQuick.description>
+
+  <MBSG_MoveSpeed_ExtremelyQuick.label>экстремально быстрый бег</MBSG_MoveSpeed_ExtremelyQuick.label>
+  <MBSG_MoveSpeed_ExtremelyQuick.description>Носители этого гена двигаются намного быстрее обычного.</MBSG_MoveSpeed_ExtremelyQuick.description>
+
+  <MBSG_MoveSpeed_SuperQuick.label>сверхбыстрый бег</MBSG_MoveSpeed_SuperQuick.label>
+  <MBSG_MoveSpeed_SuperQuick.description>Носители этого гена двигаются намного быстрее обычного.</MBSG_MoveSpeed_SuperQuick.description>
+
+</LanguageData>

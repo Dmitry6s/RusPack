@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Чтобы учесть несколько потенциальных источников, патч будет проверять сами гены вместо конкретных модов -->
+
+  <EBSG_MinorArchiteHappiness.stages.0.label>генетическая радость</EBSG_MinorArchiteHappiness.stages.0.label>
+  <EBSG_MinorArchiteHappiness.stages.0.description>Естественный бонус от гена «незначительное увеличение счастья».</EBSG_MinorArchiteHappiness.stages.0.description>
+
+  <EBSG_ArchiteHappiness.stages.0.label>генетическая радость</EBSG_ArchiteHappiness.stages.0.label>
+  <EBSG_ArchiteHappiness.stages.0.description>Естественный бонус от гена «увеличение счастья».</EBSG_ArchiteHappiness.stages.0.description>
+
+  <EBSG_MajorArchiteHappiness.stages.0.label>генетическая радость</EBSG_MajorArchiteHappiness.stages.0.label>
+  <EBSG_MajorArchiteHappiness.stages.0.description>Естественный бонус от гена «значительное увеличение счастья».</EBSG_MajorArchiteHappiness.stages.0.description>
+
+</LanguageData>

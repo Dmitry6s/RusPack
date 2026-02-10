@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EBSG_MinorArchiteEnhancedDeathrestSpeed.label>незначительное ускорение торпора</EBSG_MinorArchiteEnhancedDeathrestSpeed.label>
+  <EBSG_MinorArchiteEnhancedDeathrestSpeed.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для сокращения времени, которое пешка должен проводить в смертосне.</EBSG_MinorArchiteEnhancedDeathrestSpeed.description>
+
+  <EBSG_ArchiteEnhancedDeathrestSpeed.label>ускорение торпора</EBSG_ArchiteEnhancedDeathrestSpeed.label>
+  <EBSG_ArchiteEnhancedDeathrestSpeed.description>Носители этого гена имеют архиты в мозге, предназначенные для сокращения времени, которое пешка должен проводить в смертосне.</EBSG_ArchiteEnhancedDeathrestSpeed.description>
+
+  <EBSG_MajorArchiteEnhancedDeathrestSpeed.label>значительное ускорение торпора</EBSG_MajorArchiteEnhancedDeathrestSpeed.label>
+  <EBSG_MajorArchiteEnhancedDeathrestSpeed.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для сокращения времени, которое пешка должен проводить в смертосне.</EBSG_MajorArchiteEnhancedDeathrestSpeed.description>
+
+  <EBSG_MinorArchiteEnhancedBloodRecovery.label>незначительное улучшение восстановления крови</EBSG_MinorArchiteEnhancedBloodRecovery.label>
+  <EBSG_MinorArchiteEnhancedBloodRecovery.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для восполнения потерянной крови. Активно только тогда, когда пешка не истекает кровью.</EBSG_MinorArchiteEnhancedBloodRecovery.description>
+
+  <EBSG_ArchiteEnhancedBloodRecovery.label>улучшение восстановления крови</EBSG_ArchiteEnhancedBloodRecovery.label>
+  <EBSG_ArchiteEnhancedBloodRecovery.description>Носители этого гена имеют архиты в теле, предназначенные для восполнения потерянной крови. Активно только тогда, когда пешка не истекает кровью.</EBSG_ArchiteEnhancedBloodRecovery.description>
+
+  <EBSG_MajorArchiteEnhancedBloodRecovery.label>значительное улучшение восстановления крови</EBSG_MajorArchiteEnhancedBloodRecovery.label>
+  <EBSG_MajorArchiteEnhancedBloodRecovery.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для восполнения потерянной крови. Активно только тогда, когда пешка не истекает кровью.</EBSG_MajorArchiteEnhancedBloodRecovery.description>
+
+  <EBSG_MinorArchiteEnhancedGestationSpeed.label>незначительное ускорение беременности</EBSG_MinorArchiteEnhancedGestationSpeed.label>
+  <EBSG_MinorArchiteEnhancedGestationSpeed.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для сокращения продолжительности беременности.\n\nПо очевидным причинам это обычно не влияет на мужчин.</EBSG_MinorArchiteEnhancedGestationSpeed.description>
+
+  <EBSG_ArchiteEnhancedGestationSpeed.label>ускорение беременности</EBSG_ArchiteEnhancedGestationSpeed.label>
+  <EBSG_ArchiteEnhancedGestationSpeed.description>Носители этого гена имеют архиты в теле, предназначенные для сокращения продолжительности беременности.\n\nПо очевидным причинам это обычно не влияет на мужчин.</EBSG_ArchiteEnhancedGestationSpeed.description>
+
+  <EBSG_MajorArchiteEnhancedGestationSpeed.label>значительное ускорение беременности</EBSG_MajorArchiteEnhancedGestationSpeed.label>
+  <EBSG_MajorArchiteEnhancedGestationSpeed.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для сокращения продолжительности беременности.\n\nПо очевидным причинам это обычно не влияет на мужчин.</EBSG_MajorArchiteEnhancedGestationSpeed.description>
+
+  <EBSG_MinorArchiteInducedAsceticism.label>незначительный аскетизм</EBSG_MinorArchiteInducedAsceticism.label>
+  <EBSG_MinorArchiteInducedAsceticism.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для предотвращения чувства дискомфорта.</EBSG_MinorArchiteInducedAsceticism.description>
+
+  <EBSG_ArchiteInducedAsceticism.label>аскетизм</EBSG_ArchiteInducedAsceticism.label>
+  <EBSG_ArchiteInducedAsceticism.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы перестать заботиться о физическом комфорте.\n\nХотя я не столкнулся с проблемами, возникающими из-за полного отключения потребности в комфорте, пожалуйста, имейте в виду, что это может иметь непредвиденные побочные эффекты.</EBSG_ArchiteInducedAsceticism.description>
+
+  <EBSG_MinorArchiteInducedPhilisthinism.label>незначительное филистерство</EBSG_MinorArchiteInducedPhilisthinism.label>
+  <EBSG_MinorArchiteInducedPhilisthinism.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для предотвращения чувства грусти из-за уродливого окружения, одновременно сокращая время, необходимое для того, чтобы радоваться красивому окружению.</EBSG_MinorArchiteInducedPhilisthinism.description>
+
+  <EBSG_ArchiteInducedPhilisthinism.label>филистерство</EBSG_ArchiteInducedPhilisthinism.label>
+  <EBSG_ArchiteInducedPhilisthinism.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы перестать заботиться о внешнем виде их окружения.\n\nХотя я не столкнулся с проблемами, возникающими из-за полного отключения потребности в красоте, пожалуйста, имейте в виду, что это может иметь непредвиденные побочные эффекты.</EBSG_ArchiteInducedPhilisthinism.description>
+
+  <EBSG_MinorArchiteInducedJoviality.label>незначительная жизнерадостность</EBSG_MinorArchiteInducedJoviality.label>
+  <EBSG_MinorArchiteInducedJoviality.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для сохранения счастья даже при отсутствии времени на развлечения.</EBSG_MinorArchiteInducedJoviality.description>
+
+  <EBSG_ArchiteInducedJoviality.label>жизнерадостность</EBSG_ArchiteInducedJoviality.label>
+  <EBSG_ArchiteInducedJoviality.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы перестать требовать специальных занятий для ощущения счастья.\n\nХотя я не столкнулся с проблемами, возникающими из-за полного отключения потребности в развлечениях, пожалуйста, имейте в виду, что это может иметь непредвиденные побочные эффекты.</EBSG_ArchiteInducedJoviality.description>
+
+  <EBSG_MinorArchiteInducedOptimism.label>незначительный оптимизм</EBSG_MinorArchiteInducedOptimism.label>
+  <EBSG_MinorArchiteInducedOptimism.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в сохранении позитивного настроя за счёт минимизации негативного воздействия нейромедиаторов при плохих событиях.</EBSG_MinorArchiteInducedOptimism.description>
+
+  <EBSG_ArchiteInducedOptimism.label>оптимизм</EBSG_ArchiteInducedOptimism.label>
+  <EBSG_ArchiteInducedOptimism.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в сохранении позитивного настроя за счёт минимизации негативного воздействия нейромедиаторов при плохих событиях.</EBSG_ArchiteInducedOptimism.description>
+
+  <EBSG_Emotionless.label>безэмоциональность</EBSG_Emotionless.label>
+  <EBSG_Emotionless.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для подавления всех эмоций.\n\nХотя я не столкнулся с проблемами, возникающими из-за полного отключения потребности в настроении, пожалуйста, имейте в виду, что это может иметь непредвиденные побочные эффекты. Кроме того, даже при такой стоимости это, вероятно, не очень сбалансировано, даже по стандартам генов архитов.</EBSG_Emotionless.description>
+
+  <EBSG_ArchitePsychicInfluencer.label>психический гармонизатор</EBSG_ArchitePsychicInfluencer.label>
+  <EBSG_ArchitePsychicInfluencer.description>Носители этого гена обладают врождённым психическим гармонизатором. Гармонизатор защищает их от большинства внешних психических эффектов, изменяющих настроение и мнение. В отличие от психической изоляции, это останавливает как негативные настроения, так и динамические настроения (например, гармонизатор и дроны).</EBSG_ArchitePsychicInfluencer.description>
+
+  <EBSG_MinorArchiteEnhancedEntropyMax.label>незначительное увеличение порога нейроперегрева</EBSG_MinorArchiteEnhancedEntropyMax.label>
+  <EBSG_MinorArchiteEnhancedEntropyMax.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для помощи в избежании повреждений от большого количества нейроперегрева.</EBSG_MinorArchiteEnhancedEntropyMax.description>
+
+  <EBSG_ArchiteEnhancedEntropyMax.label>увеличение порога нейроперегрева</EBSG_ArchiteEnhancedEntropyMax.label>
+  <EBSG_ArchiteEnhancedEntropyMax.description>Носители этого гена имеют архиты в теле, предназначенные для помощи в избежании повреждений от большого количества нейроперегрева.</EBSG_ArchiteEnhancedEntropyMax.description>
+
+  <EBSG_MajorArchiteEnhancedEntropyMax.label>значительное увеличение порога нейроперегрева</EBSG_MajorArchiteEnhancedEntropyMax.label>
+  <EBSG_MajorArchiteEnhancedEntropyMax.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для помощи в избежании повреждений от большого количества нейроперегрева.</EBSG_MajorArchiteEnhancedEntropyMax.description>
+
+  <EBSG_MinorArchiteEnhancedEntropyRecovery.label>незначительное улучшение восстановления энтропии</EBSG_MinorArchiteEnhancedEntropyRecovery.label>
+  <EBSG_MinorArchiteEnhancedEntropyRecovery.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для помощи в рассеивании нейроперегрева.</EBSG_MinorArchiteEnhancedEntropyRecovery.description>
+
+  <EBSG_ArchiteEnhancedEntropyRecovery.label>улучшение восстановления энтропии</EBSG_ArchiteEnhancedEntropyRecovery.label>
+  <EBSG_ArchiteEnhancedEntropyRecovery.description>Носители этого гена имеют архиты в теле, предназначенные для помощи в рассеивании нейроперегрева.</EBSG_ArchiteEnhancedEntropyRecovery.description>
+
+  <EBSG_MajorArchiteEnhancedEntropyRecovery.label>значительное улучшение восстановления энтропии</EBSG_MajorArchiteEnhancedEntropyRecovery.label>
+  <EBSG_MajorArchiteEnhancedEntropyRecovery.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для помощи в рассеивании нейроперегрева.</EBSG_MajorArchiteEnhancedEntropyRecovery.description>
+
+  <EBSG_MinorArchiteEnhancedMeditationFocus.label>незначительное улучшение псиконцентрации</EBSG_MinorArchiteEnhancedMeditationFocus.label>
+  <EBSG_MinorArchiteEnhancedMeditationFocus.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в очищении разума и получении большего фокуса во время медитации.</EBSG_MinorArchiteEnhancedMeditationFocus.description>
+
+  <EBSG_ArchiteEnhancedMeditationFocus.label>улучшение псиконцентрации</EBSG_ArchiteEnhancedMeditationFocus.label>
+  <EBSG_ArchiteEnhancedMeditationFocus.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в очищении разума и получении большего фокуса во время медитации.</EBSG_ArchiteEnhancedMeditationFocus.description>
+
+  <EBSG_MajorArchiteEnhancedMeditationFocus.label>значительное улучшение псиконцентрации</EBSG_MajorArchiteEnhancedMeditationFocus.label>
+  <EBSG_MajorArchiteEnhancedMeditationFocus.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в очищении разума и получении большего фокуса во время медитации.</EBSG_MajorArchiteEnhancedMeditationFocus.description>
+
+  <EBSG_MinorArchiteEnhancedSlaying.label>незначительное увеличение урона</EBSG_MinorArchiteEnhancedSlaying.label>
+  <EBSG_MinorArchiteEnhancedSlaying.description>Носители этого гена имеют небольшое количество архитов в теле, которые усиливают их атаки, помогая убивать любые цели.</EBSG_MinorArchiteEnhancedSlaying.description>
+
+  <EBSG_ArchiteEnhancedSlaying.label>увеличение урона</EBSG_ArchiteEnhancedSlaying.label>
+  <EBSG_ArchiteEnhancedSlaying.description>Носители этого гена имеют архиты в теле, которые усиливают их атаки, помогая убивать любые цели.</EBSG_ArchiteEnhancedSlaying.description>
+
+  <EBSG_MajorArchiteEnhancedSlaying.label>значительное увеличение урона</EBSG_MajorArchiteEnhancedSlaying.label>
+  <EBSG_MajorArchiteEnhancedSlaying.description>Носители этого гена имеют большое количество архитов в теле, которые усиливают их атаки, помогая убивать любые цели.</EBSG_MajorArchiteEnhancedSlaying.description>
+
+  <EBSG_MinorArchiteEnhancedHumanlikeSlaying.label>незначительное увеличение урона по гуманоидам</EBSG_MinorArchiteEnhancedHumanlikeSlaying.label>
+  <EBSG_MinorArchiteEnhancedHumanlikeSlaying.description>Носители этого гена имеют небольшое количество архитов в теле, которые усиливают их атаки, помогая убивать гуманоидные цели.</EBSG_MinorArchiteEnhancedHumanlikeSlaying.description>
+
+  <EBSG_ArchiteEnhancedHumanlikeSlaying.label>увеличение урона по гуманоидам</EBSG_ArchiteEnhancedHumanlikeSlaying.label>
+  <EBSG_ArchiteEnhancedHumanlikeSlaying.description>Носители этого гена имеют архиты в теле, которые усиливают их атаки, помогая убивать гуманоидные цели.</EBSG_ArchiteEnhancedHumanlikeSlaying.description>
+
+  <EBSG_MajorArchiteEnhancedHumanlikeSlaying.label>значительное увеличение урона по гуманоидам</EBSG_MajorArchiteEnhancedHumanlikeSlaying.label>
+  <EBSG_MajorArchiteEnhancedHumanlikeSlaying.description>Носители этого гена имеют большое количество архитов в теле, которые усиливают их атаки, помогая убивать гуманоидные цели.</EBSG_MajorArchiteEnhancedHumanlikeSlaying.description>
+
+  <EBSG_MinorArchiteEnhancedMechanoidSlaying.label>незначительное увеличение урона по механоидам</EBSG_MinorArchiteEnhancedMechanoidSlaying.label>
+  <EBSG_MinorArchiteEnhancedMechanoidSlaying.description>Носители этого гена имеют небольшое количество архитов в теле, которые усиливают их атаки, помогая уничтожать механоидов.</EBSG_MinorArchiteEnhancedMechanoidSlaying.description>
+
+  <EBSG_ArchiteEnhancedMechanoidSlaying.label>увеличение урона по механоидам</EBSG_ArchiteEnhancedMechanoidSlaying.label>
+  <EBSG_ArchiteEnhancedMechanoidSlaying.description>Носители этого гена имеют архиты в теле, которые усиливают их атаки, помогая уничтожать механоидов.</EBSG_ArchiteEnhancedMechanoidSlaying.description>
+
+  <EBSG_MajorArchiteEnhancedMechanoidSlaying.label>значительное увеличение урона по механоидам</EBSG_MajorArchiteEnhancedMechanoidSlaying.label>
+  <EBSG_MajorArchiteEnhancedMechanoidSlaying.description>Носители этого гена имеют большое количество архитов в теле, которые усиливают их атаки, помогая уничтожать механоидов.</EBSG_MajorArchiteEnhancedMechanoidSlaying.description>
+
+  <EBSG_MinorArchiteEnhancedAnimalSlaying.label>незначительное увеличение урона по животным</EBSG_MinorArchiteEnhancedAnimalSlaying.label>
+  <EBSG_MinorArchiteEnhancedAnimalSlaying.description>Носители этого гена имеют небольшое количество архитов в теле, которые усиливают их атаки, помогая убивать животных.</EBSG_MinorArchiteEnhancedAnimalSlaying.description>
+
+  <EBSG_ArchiteEnhancedAnimalSlaying.label>увеличение урона по животным</EBSG_ArchiteEnhancedAnimalSlaying.label>
+  <EBSG_ArchiteEnhancedAnimalSlaying.description>Носители этого гена имеют архиты в теле, которые усиливают их атаки, помогая убивать животных.</EBSG_ArchiteEnhancedAnimalSlaying.description>
+
+  <EBSG_MajorArchiteEnhancedAnimalSlaying.label>значительное увеличение урона по животным</EBSG_MajorArchiteEnhancedAnimalSlaying.label>
+  <EBSG_MajorArchiteEnhancedAnimalSlaying.description>Носители этого гена имеют большое количество архитов в теле, которые усиливают их атаки, помогая убивать животных.</EBSG_MajorArchiteEnhancedAnimalSlaying.description>
+
+  <EBSG_MinorArchiteEnhancedInsectSlaying.label>незначительное увеличение урона по насекомым</EBSG_MinorArchiteEnhancedInsectSlaying.label>
+  <EBSG_MinorArchiteEnhancedInsectSlaying.description>Носители этого гена имеют небольшое количество архитов в теле, которые усиливают их атаки, помогая убивать насекомых.</EBSG_MinorArchiteEnhancedInsectSlaying.description>
+
+  <EBSG_ArchiteEnhancedInsectSlaying.label>увеличение урона по насекомым</EBSG_ArchiteEnhancedInsectSlaying.label>
+  <EBSG_ArchiteEnhancedInsectSlaying.description>Носители этого гена имеют архиты в теле, которые усиливают их атаки, помогая убивать насекомых.</EBSG_ArchiteEnhancedInsectSlaying.description>
+
+  <EBSG_MajorArchiteEnhancedInsectSlaying.label>значительное увеличение урона по насекомым</EBSG_MajorArchiteEnhancedInsectSlaying.label>
+  <EBSG_MajorArchiteEnhancedInsectSlaying.description>Носители этого гена имеют большое количество архитов в теле, которые усиливают их атаки, помогая убивать насекомых.</EBSG_MajorArchiteEnhancedInsectSlaying.description>
+
+  <EBSG_MinorArchiteEnhancedRemoteShield.label>незначительное улучшение дистанционного щита</EBSG_MinorArchiteEnhancedRemoteShield.label>
+  <EBSG_MinorArchiteEnhancedRemoteShield.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для увеличения дальности, на которой пешка может защищать удалённых механоидов, а также увеличения количества энергии щита.</EBSG_MinorArchiteEnhancedRemoteShield.description>
+
+  <EBSG_ArchiteEnhancedRemoteShield.label>улучшение дистанционного щита</EBSG_ArchiteEnhancedRemoteShield.label>
+  <EBSG_ArchiteEnhancedRemoteShield.description>Носители этого гена имеют архиты в мозге, предназначенные для увеличения дальности, на которой пешка может защищать удалённых механоидов, а также увеличения количества энергии щита.</EBSG_ArchiteEnhancedRemoteShield.description>
+
+  <EBSG_MajorArchiteEnhancedRemoteShield.label>значительное улучшение дистанционного щита</EBSG_MajorArchiteEnhancedRemoteShield.label>
+  <EBSG_MajorArchiteEnhancedRemoteShield.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для увеличения дальности, на которой пешка может защищать удалённых механоидов, а также увеличения количества энергии щита.</EBSG_MajorArchiteEnhancedRemoteShield.description>
+
+  <EBSG_MinorArchiteEnhancedRemoteRepair.label>незначительное улучшение дистанционного ремонта</EBSG_MinorArchiteEnhancedRemoteRepair.label>
+  <EBSG_MinorArchiteEnhancedRemoteRepair.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для увеличения дальности, на которой пешка может ремонтировать удалённых механоидов.</EBSG_MinorArchiteEnhancedRemoteRepair.description>
+
+  <EBSG_ArchiteEnhancedRemoteRepair.label>улучшение дистанционного ремонта</EBSG_ArchiteEnhancedRemoteRepair.label>
+  <EBSG_ArchiteEnhancedRemoteRepair.description>Носители этого гена имеют архиты в мозге, предназначенные для увеличения дальности, на которой пешка может ремонтировать удалённых механоидов.</EBSG_ArchiteEnhancedRemoteRepair.description>
+
+  <EBSG_MajorArchiteEnhancedRemoteRepair.label>значительное улучшение дистанционного ремонта</EBSG_MajorArchiteEnhancedRemoteRepair.label>
+  <EBSG_MajorArchiteEnhancedRemoteRepair.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для увеличения дальности, на которой пешка может ремонтировать удалённых механоидов.</EBSG_MajorArchiteEnhancedRemoteRepair.description>
+
+  <EBSG_MinorArchiteEnhancedMechRepair.label>незначительное ускорение ремонта механоидов</EBSG_MinorArchiteEnhancedMechRepair.label>
+  <EBSG_MinorArchiteEnhancedMechRepair.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для помощи пешке в концентрации энергии механоида на более быстром ремонте.\n\nЭто не изменит общее количество энергии, необходимой для ремонта.</EBSG_MinorArchiteEnhancedMechRepair.description>
+
+  <EBSG_ArchiteEnhancedMechRepair.label>ускорение ремонта механоидов</EBSG_ArchiteEnhancedMechRepair.label>
+  <EBSG_ArchiteEnhancedMechRepair.description>Носители этого гена имеют архиты в теле, предназначенные для помощи пешке в концентрации энергии механоида на более быстром ремонте.\n\nЭто не изменит общее количество энергии, необходимой для ремонта.</EBSG_ArchiteEnhancedMechRepair.description>
+
+  <EBSG_MajorArchiteEnhancedMechRepair.label>значительное ускорение ремонта механоидов</EBSG_MajorArchiteEnhancedMechRepair.label>
+  <EBSG_MajorArchiteEnhancedMechRepair.description>Носители этого гена имеют большое количество архитов в теле, предназначенные для помощи пешке в концентрации энергии механоида на более быстром ремонте.\n\nЭто не изменит общее количество энергии, необходимой для ремонта.</EBSG_MajorArchiteEnhancedMechRepair.description>
+
+  <EBSG_MinorArchiteEnhancedMechControl.label>незначительное улучшение управления механоидами</EBSG_MinorArchiteEnhancedMechControl.label>
+  <EBSG_MinorArchiteEnhancedMechControl.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в управлении большим количеством механоидов одновременно.</EBSG_MinorArchiteEnhancedMechControl.description>
+
+  <EBSG_ArchiteEnhancedMechControl.label>улучшение управления механоидами</EBSG_ArchiteEnhancedMechControl.label>
+  <EBSG_ArchiteEnhancedMechControl.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в управлении большим количеством механоидов одновременно.</EBSG_ArchiteEnhancedMechControl.description>
+
+  <EBSG_MajorArchiteEnhancedMechControl.label>значительное улучшение управления механоидами</EBSG_MajorArchiteEnhancedMechControl.label>
+  <EBSG_MajorArchiteEnhancedMechControl.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в управлении большим количеством механоидов одновременно.</EBSG_MajorArchiteEnhancedMechControl.description>
+
+  <EBSG_MinorArchiteEnhancedMechForming.label>незначительное ускорение создания механоидов</EBSG_MinorArchiteEnhancedMechForming.label>
+  <EBSG_MinorArchiteEnhancedMechForming.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для помощи пешке в направлении механитов, используемых в механоиде.</EBSG_MinorArchiteEnhancedMechForming.description>
+
+  <EBSG_ArchiteEnhancedMechForming.label>ускорение создания механоидов</EBSG_ArchiteEnhancedMechForming.label>
+  <EBSG_ArchiteEnhancedMechForming.description>Носители этого гена имеют архиты в теле, предназначенные для помощи пешке в направлении механитов, используемых в механоиде.</EBSG_ArchiteEnhancedMechForming.description>
+
+  <EBSG_MajorArchiteEnhancedMechForming.label>значительное ускорение создания механоидов</EBSG_MajorArchiteEnhancedMechForming.label>
+  <EBSG_MajorArchiteEnhancedMechForming.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для помощи пешке в направлении механитов, используемых в механоиде.</EBSG_MajorArchiteEnhancedMechForming.description>
+
+  <EBSG_MinorArchiteEnhancedEncodingSpeed.label>незначительное ускорение кодирования</EBSG_MinorArchiteEnhancedEncodingSpeed.label>
+  <EBSG_MinorArchiteEnhancedEncodingSpeed.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в быстром кодировании новых субъядер.\n\nОбычно это влияет только на скорость кодирования базовых субъядер, хотя другие моды, добавляющие создаваемые субъядра, также могут использовать эту скорость.</EBSG_MinorArchiteEnhancedEncodingSpeed.description>
+
+  <EBSG_ArchiteEnhancedEncodingSpeed.label>ускорение кодирования</EBSG_ArchiteEnhancedEncodingSpeed.label>
+  <EBSG_ArchiteEnhancedEncodingSpeed.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в быстром кодировании новых субъядер.\n\nОбычно это влияет только на скорость кодирования базовых субъядер, хотя другие моды, добавляющие создаваемые субъядра, также могут использовать эту скорость.</EBSG_ArchiteEnhancedEncodingSpeed.description>
+
+  <EBSG_MajorArchiteEnhancedEncodingSpeed.label>значительное ускорение кодирования</EBSG_MajorArchiteEnhancedEncodingSpeed.label>
+  <EBSG_MajorArchiteEnhancedEncodingSpeed.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в быстром кодировании новых субъядер.\n\nОбычно это влияет только на скорость кодирования базовых субъядер, хотя другие моды, добавляющие создаваемые субъядра, также могут использовать эту скорость.</EBSG_MajorArchiteEnhancedEncodingSpeed.description>
+
+  <EBSG_MinorArchiteEnhancedMechWorkSpeed.label>незначительное ускорение работы механоидов</EBSG_MinorArchiteEnhancedMechWorkSpeed.label>
+  <EBSG_MinorArchiteEnhancedMechWorkSpeed.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для увеличения скорости работы всех механоидов под контролем носителя.</EBSG_MinorArchiteEnhancedMechWorkSpeed.description>
+
+  <EBSG_ArchiteEnhancedMechWorkSpeed.label>ускорение работы механоидов</EBSG_ArchiteEnhancedMechWorkSpeed.label>
+  <EBSG_ArchiteEnhancedMechWorkSpeed.description>Носители этого гена имеют архиты в мозге, предназначенные для увеличения скорости работы всех механоидов под контролем носителя.</EBSG_ArchiteEnhancedMechWorkSpeed.description>
+
+  <EBSG_MajorArchiteEnhancedMechWorkSpeed.label>значительное ускорение работы механоидов</EBSG_MajorArchiteEnhancedMechWorkSpeed.label>
+  <EBSG_MajorArchiteEnhancedMechWorkSpeed.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для увеличения скорости работы всех механоидов под контролем носителя.</EBSG_MajorArchiteEnhancedMechWorkSpeed.description>
+
+</LanguageData>

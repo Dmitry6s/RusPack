@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_FireImmune.label>иммунитет к огню</MBSG_FireImmune.label>
+  <MBSG_FireImmune.description>Носители этого гена имеют особые быстродействующие потовые железы и теплостойкую кожу. Они никогда не получают урон от огня и не загораются.</MBSG_FireImmune.description>
+
+  <MBSG_FireResilient.label>устойчивость к огню</MBSG_FireResilient.label>
+  <MBSG_FireResilient.description>Носители этого гена имеют особые быстродействующие потовые железы и теплостойкую кожу. Они получают только 66% от обычного урона от огня. Шанс того, что они загорятся, также снижен вдвое.</MBSG_FireResilient.description>
+
+  <MBSG_FireWeaknessMinor.label>деревянная кожа</MBSG_FireWeaknessMinor.label>
+  <MBSG_FireWeaknessMinor.description>Носители имеют сухую кожу, которая легко горит от огня, и их иммунная система очень плохо реагирует на эту угрозу. Урон от огня умножается на 2.</MBSG_FireWeaknessMinor.description>
+
+  <MBSG_FireWeaknessMajor.label>бумажная кожа</MBSG_FireWeaknessMajor.label>
+  <MBSG_FireWeaknessMajor.description>Носители имеют сухую, чрезвычайно тонкую кожу, которая легко горит от огня, и их иммунная система очень плохо реагирует на эту угрозу. Урон от огня умножается на 6.</MBSG_FireWeaknessMajor.description>
+
+</LanguageData>

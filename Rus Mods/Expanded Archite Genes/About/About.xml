@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Expanded Archite Genes</name>
+  <author>alite</author>
+  <packageId>EBSG.Archite</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  
+  <modDependencies>
+      <li>
+          <packageId>ludeon.rimworld.biotech</packageId>
+          <displayName>Biotech</displayName>
+      </li>
+  </modDependencies>
+
+  <loadAfter>
+    <li>Ludeon.RimWorld.Royalty</li>
+    <li>Ludeon.RimWorld.Ideology</li>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>EBSG.AiO</li>
+    <li>sarg.alphagenes</li>
+    <li>MoreBiotechStyleGenes.Mod</li>
+    <li>EBSG.Food</li>
+    <li>EBSG.Biomes</li>
+    <li>vanillaracesexpanded.insector</li>
+    <li>vanillaracesexpanded.lycanthrope</li>
+    <li>wvc.sergkart.races.biotech</li>
+    <li>EBSG.Framework</li>
+  </loadAfter>
+
+  <description>
+Due to a vanilla bug, this should be loaded after any mods that add darvision genes. When in doubt, putting it close to the bottom of the list should generally be safe.
+
+Expanded Biotech Style Genes(EBSG) is the step beyond [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870]More Biotech Style Genes[/url]. Where that series sought to expand ranges that already exist, this series seeks to add ranges that should exist. You get gene ranges that alter sleep fall rate, but why not a range for changing the rate it recovers? If you can have fire resistance genes, why not have genes to resist other types of damage like frostbite and acid?
+
+Expanded Archite Genes seeks to extend the purpose of archite genes beyond their normal "weird ability" state by adding 89 new genes to the normal ranges of genes. This mod goes through all of the ranges that [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2985153870]More Biotech Style Genes[/url] and [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3020821838]Expanded Biotech Style Genes[/url] expand upon, and adds 3 new options in each range where I believed they fit. The genes are added based on the specific mods you have enabled, so if you only have specific individual mods, you will only see the archite genes related to those mods. 
+
+The first archite level gene is approximately equal to the -4 metabolic efficiency gene in the same range, with some exceptions for standalone things like archite enhanced circadian ryhthm, and the occassional odd range, like beauty. These Archite genes will appear in the same area as the other genes in the range.
+
+If you are using the individual mods instead of the All in Ones, these are the mods that have genes associated with them:
+
+MBSG Mods:
+Beauty
+Cell Stability Genes
+Climate Preference Genes
+Drug Genes
+Fertility Genes
+Happiness Genes
+Hemogenic Genes
+Immunity Genes - Only moves the Archite Immunity gene to the health category
+Movement
+Pain Genes
+Psychic Sensitivity Genes
+Sleepy Genes
+Study Genes
+Toughness Genes
+Toxic Genes
+Violence
+Wound Healing Genes
+
+EBSG Mods:
+Capacity Genes (Sight, Hearing, etc)
+Carry Capacity Genes
+Expanded Food Genes
+Expanded Hemogenic Genes
+Mechanitor Genes
+Expanded Psychic Genes
+Expanded Resistance Genes
+Expanded Violence Genes
+Mental Fortitude Genes
+Productivity Genes
+Expanded Social Genes
+
+
+[url=https://discord.gg/fYP8qkcNDh]Discord link[/url] for those who want an easier way to ask questions, make requests, or just chat. I'll also be posting new releases there.
+
+[url=https://steamcommunity.com/id/alite/myworkshopfiles/?appid=294100]Easy link to all of my Rimworld mods[/url]
+
+[url=https://github.com/KonradHeinser/ExpandedArchiteGenes][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
+[url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+  </description>
+</ModMetaData>
+
+<!--Original textures for gene icons are available on https://game-icons.net-->

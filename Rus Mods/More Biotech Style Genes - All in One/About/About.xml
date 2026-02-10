@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>More Biotech Style Genes - All in One</name>
+  <author>alite</author>
+  <packageId>MoreBiotechStyleGenes.Mod</packageId>
+  <modIconPath IgnoreIfNoMatchingField="True">MBSG/BSGIcon</modIconPath>
+  <supportedVersions>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+  </supportedVersions>
+  
+  <modDependencies>
+    <li>
+      <packageId>ludeon.rimworld.biotech</packageId>
+      <displayName>Biotech</displayName>
+    </li>
+  </modDependencies>
+  
+  <loadAfter>
+    <li>Ludeon.RimWorld.Biotech</li>
+    <li>oskarpotocki.vanillafactionsexpanded.core</li>
+    <li>vanillaracesexpanded.highmate</li>
+    <li>vanillaracesexpanded.genie</li>
+  </loadAfter>
+
+  <description>
+[url=https://steamcommunity.com/id/unix22b/myworkshopfiles/?appid=294100]A lot of these gene icons were made by Moka. You can check out their mods here![/url]
+
+This mod is the All in One for the More X Genes series. It adds over 200 genes that expand upon what Biotech adds naturally. Unlike most large gene mods, this will not amaze you with new creative genes, nor will it add new functionality to the game that opens new doors. 
+
+The only thing it does, is extend the range of options adds by default. 
+
+Where you once had only two fertility options, you may now have 9. Where you once had 4 movement genes, you now get 26 options, none of which should feel out of place with the others.
+
+[url=https://discord.gg/fYP8qkcNDh]Discord link[/url] for those who want an easier way to ask questions, make requests, or just chat. I'll also be posting new releases there.
+
+A full list of all my mods that are currently have implemented:
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2977479357]Cell Stability Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2980961512]Climate Preference Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2974206359]Fertility Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2974405875]Lovin Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2983920064]Happiness Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2980955938]Immunity Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984399827]Pain Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2983557081]Psychic Sensitivity Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2982926988]Sleepy Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984437587]Study Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984451938]Toughness Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2984833775]Toxic Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2983895623]Wound Healing Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2997929736]Hemogenic Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2998654760]UV Sensitivity[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2999132196]Aptitude Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2999686177]Violence[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2999743277]Movement[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3000191942]Vision[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3000266456]Digestion[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3000564841]Fire Resistance[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3000590194]Miscellaneous[/url]
+
+
+[url=https://steamcommunity.com/id/alite/myworkshopfiles/?appid=294100]Easy link to all of my Rimworld mods[/url]
+[url=https://github.com/KonradHeinser/MoreBiotechStyleGenes][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
+[url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+
+Related Mods
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2976573675]Integrated Lovin' and Fertility Genes[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2977564653]Childrens' Traits Affect Learning[/url]
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2977454722]More Biotech Style Xenotypes[/url]
+
+Recommended Mods
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2886375137]Gene Trader[/url] - To see more genepacks
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2891845502]Alpha Genes[/url] - Adds a lot of new genes, a few of which are replaced by mine, but the rest definitely flesh out your gene list a lot more.
+
+  </description>
+</ModMetaData>

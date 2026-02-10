@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: can meats x100 -->
+	<VCE_CanMeats_x100.label>Консервировать мясо x100</VCE_CanMeats_x100.label>
+	<!-- EN: Safely store meat chunks in a steel can. Canning food extends its shelf life almost indefinitely. -->
+	<VCE_CanMeats_x100.description>Безопасное хранение кусков мяса в стальной банке. Консервирование пищи практически бесконечно продлевает срок её хранения.</VCE_CanMeats_x100.description>
+	<!-- EN: Canning meats. -->
+	<VCE_CanMeats_x100.jobString>Консервирование мяса.</VCE_CanMeats_x100.jobString>
+	<!-- EN: can produce x100 -->
+	<VCE_CanProduce_x100.label>Консервировать овощи x100</VCE_CanProduce_x100.label>
+	<!-- EN: Safely store vegetables in a steel can. Canning food extends its shelf life almost indefinitely. -->
+	<VCE_CanProduce_x100.description>Безопасное хранение овощей в стальной банке. Консервирование пищи практически бесконечно продлевает срок её хранения.</VCE_CanProduce_x100.description>
+	<!-- EN: Canning produce. -->
+	<VCE_CanProduce_x100.jobString>Консервирование овощей.</VCE_CanProduce_x100.jobString>
+	<!-- EN: can eggs x100 -->
+	<VCE_CanEggs_x100.label>Консервировать яйца x100</VCE_CanEggs_x100.label>
+	<!-- EN: Safely store boiled eggs in a steel can. Canning food extends its shelf life almost indefinitely. -->
+	<VCE_CanEggs_x100.description>Безопасное хранение варёных яиц в стальной банке. Консервирование пищи практически бесконечно продлевает срок её хранения.</VCE_CanEggs_x100.description>
+	<!-- EN: Canning eggs. -->
+	<VCE_CanEggs_x100.jobString>Консервирование яиц.</VCE_CanEggs_x100.jobString>
+	<!-- EN: can fish x100 -->
+	<VCE_CanFish_x100.label>Консервировать рыбу x100</VCE_CanFish_x100.label>
+	<!-- EN: Safely store fish in a steel can. Canning food extends its shelf life almost indefinitely. -->
+	<VCE_CanFish_x100.description>Безопасное хранение рыбы в стальной банке. Консервирование пищи практически бесконечно продлевает срок её хранения.</VCE_CanFish_x100.description>
+	<!-- EN: Canning fish. -->
+	<VCE_CanFish_x100.jobString>Консервирование рыбы.</VCE_CanFish_x100.jobString>
+	<!-- EN: can fruit x100 -->
+	<VCE_CanFruit_x100.label>Консервировать фрукты x100</VCE_CanFruit_x100.label>
+	<!-- EN: Safely store fruit in a steel can. Canning food extends its shelf life almost indefinitely.\n\nPreserved fruit can be used in the production of desserts. -->
+	<VCE_CanFruit_x100.description>Безопасное хранение фруктов в стальной банке. Консервирование пищи практически бесконечно продлевает срок её хранения.\n\nКонсервированные фрукты можно использовать для производства десертов.</VCE_CanFruit_x100.description>
+	<!-- EN: Canning fruit. -->
+	<VCE_CanFruit_x100.jobString>Консервирование фруктов.</VCE_CanFruit_x100.jobString>	
+</LanguageData>

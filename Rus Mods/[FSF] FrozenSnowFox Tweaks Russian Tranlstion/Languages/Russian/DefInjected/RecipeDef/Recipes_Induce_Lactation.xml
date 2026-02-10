@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: induce lactation -->
+	<FSFInduceLactation.label>Искусственная лактация</FSFInduceLactation.label>
+	<!-- EN: Use some medicinal herbs to induce a person to lactate. -->
+	<FSFInduceLactation.description>Использование лекарственных трав для стимуляции лактации у человека.</FSFInduceLactation.description>
+	<!-- EN: Inducing lactation in TargetA. -->
+	<FSFInduceLactation.jobString>Стимуляция лактации у TargetA.</FSFInduceLactation.jobString>	
+
+</LanguageData>

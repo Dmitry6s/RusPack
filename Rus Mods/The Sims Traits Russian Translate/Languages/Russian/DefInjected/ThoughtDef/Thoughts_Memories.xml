@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ST_ParanoidThought.stages.0.label>Параноик</ST_ParanoidThought.stages.0.label>
+  <ST_ParanoidThought.stages.0.description>Повезло? Меня не проведешь!</ST_ParanoidThought.stages.0.description>
+
+  <ST_NewStuff.stages.0.label>Новые вещи</ST_NewStuff.stages.0.label>
+  <ST_NewStuff.stages.0.description>Шоппинг для меня - это просто терапия.</ST_NewStuff.stages.0.description>
+
+  <ST_ListenedToVirtuoso.stages.0.label>слушал виртуоза</ST_ListenedToVirtuoso.stages.0.label>
+  <ST_ListenedToVirtuoso.stages.0.description>Музыка, исполненная виртуозом, была поистине вдохновляющей.</ST_ListenedToVirtuoso.stages.0.description>
+
+</LanguageData>

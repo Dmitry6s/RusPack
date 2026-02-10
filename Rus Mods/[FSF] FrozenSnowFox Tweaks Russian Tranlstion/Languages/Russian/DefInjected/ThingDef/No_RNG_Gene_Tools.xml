@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A genetic toolkit capable of removing a specific gene from a human target. This removal is quite destructive, and as a result, the target will drop into a coma for 3 days. Using the remover on a colonist suffering from the coma will have no effect. -->
+  <AG_GeneRemover.description>Генетический набор, способный удалить определённый ген у человека. Это удаление довольно разрушительно, и в результате цель впадёт в кому на 3 дня. Использование удалителя на колонисте, страдающем от комы, не даст эффекта.</AG_GeneRemover.description>
+  
+  <!-- EN: A genetic toolkit capable of converting a specific xenogene from a human target into an endogene. As a result, the target will drop into a coma for 3 days. Using the archotech endogenefier on a colonist suffering from the coma will have no effect. -->
+  <AG_Endogenefier.description>Генетический набор, способный преобразовать определённый ксеноген у человека в эндоген. В результате цель впадёт в кому на 3 дня. Использование архитного эндогенификатора на колонисте, страдающем от комы, не даст эффекта.</AG_Endogenefier.description>  
+
+  <!-- EN: A genetic toolkit capable of converting a specific endogene from a human target into a xenogene. As a result, the target will drop into a coma for 3 days. Using the archotech xenogenefier on a colonist suffering from the coma will have no effect. -->
+  <AG_Xenogenefier.description>Генетический набор, способный преобразовать определённый эндоген у человека в ксеноген. В результате цель впадёт в кому на 3 дня. Использование архитного ксогенификатора на колонисте, страдающем от комы, не даст эффекта.</AG_Xenogenefier.description>  
+  
+</LanguageData>

@@ -1,0 +1,1400 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: FrozenSnowFox Tweaks -->
+  <FrozenSnowFoxTweaksSettings.label>[FSF] FrozenSnowFox Tweaks</FrozenSnowFoxTweaksSettings.label>
+  <!-- EN: For any changed settings to take effect the game must be restarted. -->
+  <FSFTweaksModWarning>Для вступления изменений в силу требуется перезагрузка игры.</FSFTweaksModWarning>
+
+  <!-- EN: Core Tweaks -->
+  <FSFTweaksCoreTweaksTitle>Core</FSFTweaksCoreTweaksTitle>
+  <!-- EN: Animals -->
+  <FSFTweaksAnimalsTitle>Животные</FSFTweaksAnimalsTitle>
+   <!-- EN: Filters and Storage -->
+  <FSFTweaksFiltersAndStorageTitle>Фильтры и Хранение</FSFTweaksFiltersAndStorageTitle> 
+   <!-- EN: Food -->
+  <FSFTweaksFoodTitle>Еда</FSFTweaksFoodTitle> 
+   <!-- EN: Misc -->
+  <FSFTweaksMiscTitle>Разное</FSFTweaksMiscTitle>  
+   <!-- EN: Plants -->
+  <FSFTweaksPlantsTitle>Растения</FSFTweaksPlantsTitle>  
+
+
+
+  <!-- EN: Accurate Mechanoid Disassembly -->
+  <FSFTweaksAccurateMechDisassemblyTitle>Точная разборка механоидов</FSFTweaksAccurateMechDisassemblyTitle>
+  <!-- EN: Replaces the mechanoid disassembly returns with accurate resources based on the resources required for gestating them.  It also allows tweaking of the disassembly efficiency stat so the returns can be scaled down while remaining accurate. -->
+  <FSFTweaksAccurateMechDisassemblyOnDesc>Заменяет ресурсы от разборки механоидов точными, на основе ресурсов, требуемых для их создания. Позволяет настроить эффективность разборки.</FSFTweaksAccurateMechDisassemblyOnDesc>
+  <!-- EN: Maximum Disassembly Efficiency {FSFAccurateMechDisassemblyMaxEff} -->
+  <FSFTweaksAccurateMechDisassemblyMaxEff>Макс. эффективность: {FSFAccurateMechDisassemblyMaxEff}</FSFTweaksAccurateMechDisassemblyMaxEff>
+  <!-- EN: Base Disassembly Efficiency {FSFAccurateMechDisassemblyBaseEff} -->
+  <FSFTweaksAccurateMechDisassemblyBaseEff>Базовая эффективность: {FSFAccurateMechDisassemblyBaseEff}</FSFTweaksAccurateMechDisassemblyBaseEff>
+  <!-- EN: Input a value to adjust the efficiency stats for Mechanoid Disassembly.  The Max stat is the maximum percentage of resources acquirable while Base stat is the starting efficiency percentage before factoring in manipulation, eyesight and crafting skill.\nVanilla (1, 0.75). -->
+  <FSFTweaksAccurateMechDisassemblyDesc>Макс. эффективность — максимальный процент получаемых ресурсов. Базовая эффективность — начальный процент до учета манипуляции, зрения и навыка ремесла.\nПо умолчанию: (1, 0.75)</FSFTweaksAccurateMechDisassemblyDesc>
+
+  <!-- EN: Always Refuel Turrets -->
+  <FSFTweaksAlwaysRefuelTurretsTitle>Всегда заправлять турели</FSFTweaksAlwaysRefuelTurretsTitle>
+  <!-- EN: Changes turrets to be rearmed even if they are 99% full of ammo. -->
+  <FSFTweaksAlwaysRefuelTurretsDesc>Турели будут заправляться, даже если у них 99% боезапаса.</FSFTweaksAlwaysRefuelTurretsDesc>
+
+  <!-- EN: Animals Dont Eat Random Things -->
+  <FSFTweaksAnimalsDontEatRandomThingsTitle>Животные не едят случайную пищу</FSFTweaksAnimalsDontEatRandomThingsTitle>
+  <!-- EN: Removes the action of eating random things for curiosity from animal AI logic trees. -->
+  <FSFTweaksAnimalsDontEatRandomThingsDesc>Удаляет из логики ИИ животных действие поедания случайной пищи из любопытства.</FSFTweaksAnimalsDontEatRandomThingsDesc>
+
+  <!-- EN: Animals Don't Mine To Escape -->
+  <FSFTweaksAnimalsDontMineToEscapeTitle>Животные не копают, чтобы сбежать</FSFTweaksAnimalsDontMineToEscapeTitle>
+  <!-- EN: Removes the action of mining through walls and rock to escape when hungry from animal AI logic trees.  Instead they will now just starve to death.\nNote: This does not apply to Alpha Animals creatures who use the Animal Digger logic tree since they are designed to dig through things. -->
+  <FSFTweaksAnimalsDontMineToEscapeDesc>Удаляет из логики ИИ животных действие копания через стены и скалы для победы при голоде.\nНе применяется к существам из Alpha Animals, использующим логику копания.</FSFTweaksAnimalsDontMineToEscapeDesc>
+
+  <!-- EN: Bed Rest Effectiveness -->
+  <FSFTweaksBedRestEffectivenessTitle>Эффективность отдыха в кровати</FSFTweaksBedRestEffectivenessTitle>
+  <!-- EN: Allows you to customise how furniture quality effects the Bed Rest Effectiveness stat. -->
+  <FSFTweaksBedRestEffectivenessOnDesc>Позволяет настроить влияние качества мебели на эффективность отдыха в кровати.</FSFTweaksBedRestEffectivenessOnDesc>
+  <!-- EN: Awful Quality {FSFBedRestEffectivenessAwful} -->
+  <FSFTweaksBedRestEffectivenessAwful>Ужасное:{FSFBedRestEffectivenessAwful}</FSFTweaksBedRestEffectivenessAwful>
+  <!-- EN: Poor Quality {FSFBedRestEffectivenessPoor} -->
+  <FSFTweaksBedRestEffectivenessPoor>Плохое:{FSFBedRestEffectivenessPoor}</FSFTweaksBedRestEffectivenessPoor>
+  <!-- EN: Normal Quality {FSFBedRestEffectivenessNormal} -->
+  <FSFTweaksBedRestEffectivenessNormal>Обычное:{FSFBedRestEffectivenessNormal}</FSFTweaksBedRestEffectivenessNormal>
+  <!-- EN: Good Quality {FSFBedRestEffectivenessGood} -->
+  <FSFTweaksBedRestEffectivenessGood>Хорошее:{FSFBedRestEffectivenessGood}</FSFTweaksBedRestEffectivenessGood>
+  <!-- EN: Excellent Quality {FSFBedRestEffectivenessExcellent} -->
+  <FSFTweaksBedRestEffectivenessExcellent>Отличное:{FSFBedRestEffectivenessExcellent}</FSFTweaksBedRestEffectivenessExcellent>
+  <!-- EN: Masterwork Quality {FSFBedRestEffectivenessMasterwork} -->
+  <FSFTweaksBedRestEffectivenessMasterwork>Шедевральное:{FSFBedRestEffectivenessMasterwork}</FSFTweaksBedRestEffectivenessMasterwork>
+  <!-- EN: Legendary Quality {FSFBedRestEffectivenessLegendary} -->
+  <FSFTweaksBedRestEffectivenessLegendary>Легендарное:{FSFBedRestEffectivenessLegendary}</FSFTweaksBedRestEffectivenessLegendary>
+  <!-- EN: Move the slider to adjust the Bed Rest Effectiveness stat for that particular quality.\nVanilla (0.86, 0.92, 1.00, 1.08, 1.14, 1.25, 1.60). -->
+  <FSFTweaksBedRestEffectivenessDesc>Измените ползунок для настройки эффективности отдыха для данного качества кровати.\nПо умолчанию (0.86, 0.92, 1.00, 1.08, 1.14, 1.25, 1.60).</FSFTweaksBedRestEffectivenessDesc>
+
+  <!-- EN: Better Quest Rewards -->
+  <FSFTweaksBetterQuestRewardsTitle>Лучшие награды за задания</FSFTweaksBetterQuestRewardsTitle>
+  <!-- EN: Allows you to individually enable options that will add or change things in the quest reward pool. -->
+  <FSFTweaksBetterQuestRewardsOnDesc>Позволяет добавить или изменить предметы в пуле наград за задания.</FSFTweaksBetterQuestRewardsOnDesc>
+  <!-- EN: Adds Hyperweave as a filler material. -->
+  <FSFTweaksBetterQuestRewardsHyperweave>Добавить гиперткань</FSFTweaksBetterQuestRewardsHyperweave>
+  <!-- EN: Adds Jade as a filler material. -->
+  <FSFTweaksBetterQuestRewardsJade>Добавить нефрит</FSFTweaksBetterQuestRewardsJade>
+  <!-- EN: Adds Synthread as a filler material. -->
+  <FSFTweaksBetterQuestRewardsSynthread>Добавить синткань</FSFTweaksBetterQuestRewardsSynthread>
+
+  <!-- EN: Better Utility Layers -->
+  <FSFTweaksBetterUtilityLayersTitle>Лучшие слои для утилитарных предметов</FSFTweaksBetterUtilityLayersTitle>
+  <!-- EN: Changes the layering of a large number of utility items so they can be worn together.  For instance, many items are moved to the Torso, Lances are moved to the Shoulders, Orbital items are moved to the Legs.  This change does not cause issues for clothing/armour since all items are on the Utility layer which is normally unused except for Waist.  This tweak also includes a patch to change all Utility items to not count as clothing for nudists in the event they are not tagged correctly. -->
+  <FSFTweaksBetterUtilityLayersDesc>Изменяет слои многих предметов снаряжения, чтобы их можно было носить вместе. Также исправляет их теги для нудистов.</FSFTweaksBetterUtilityLayersDesc>
+
+  <!-- EN: Bigger Rivers -->
+  <FSFTweaksBiggerRiversTitle>Большие реки</FSFTweaksBiggerRiversTitle>
+  <!-- EN: Allows you to customise how large rivers appear on maps. -->
+  <FSFTweaksBiggerRiversOnDesc>Позволяет настроить размер и видимость рек на картах.</FSFTweaksBiggerRiversOnDesc>
+  <!-- EN: Huge River -->
+  <FSFTweaksBiggerRiversHugeRiver>Огромная река</FSFTweaksBiggerRiversHugeRiver>
+  <!-- EN: Large River -->
+  <FSFTweaksBiggerRiversLargeRiver>Большая река</FSFTweaksBiggerRiversLargeRiver>
+  <!-- EN: River -->
+  <FSFTweaksBiggerRiversRiver>Река</FSFTweaksBiggerRiversRiver>
+  <!-- EN: Creek -->
+  <FSFTweaksBiggerRiversCreek>Ручей</FSFTweaksBiggerRiversCreek>  
+  <!-- EN: Input a value to adjust the size of rivers.\nVanilla values (30, 14, 6, 4). -->
+  <FSFTweaksBiggerRiversDesc>Введите значение для настройки размера рек.\nПо умолчанию (30, 14, 6, 4).</FSFTweaksBiggerRiversDesc>
+  
+  <!-- EN: Chat On Comms -->
+  <FSFTweaksFSFChatOnCommsTitle>Общение при помощи консили связи</FSFTweaksFSFChatOnCommsTitle>
+  <!-- EN: Allows pawns to chat on the Comms Console to gain Social Recreation and Social Experience. -->
+  <FSFTweaksFSFChatOnCommsDesc>Позволяет пешкам общаться через консоль связи, получая социальный отдых и опыт.</FSFTweaksFSFChatOnCommsDesc>  
+  
+   <!-- EN: Consciousness Affects Learning Speed -->
+  <FSFTweaksConsciousnessLearningSpeedTitle>Сознание влияет на скорость обучения</FSFTweaksConsciousnessLearningSpeedTitle>
+  <!-- EN: Changes the Global Learning Speed stat to be affected by consciousness.  This makes it so people with brain injuries learn slower while those with increased consciousness from bionics or drugs learn faster. -->
+  <FSFTweaksConsciousnessLearningSpeedDesc>Глобальная скорость обучения зависит от уровня сознания.</FSFTweaksConsciousnessLearningSpeedDesc> 
+  
+  <!-- EN: Default White Light -->
+  <FSFTweaksDefaultWhiteLightsTitle>Свет по умолчанию белый</FSFTweaksDefaultWhiteLightsTitle>
+  <!-- EN: Allows ancient dangers to spawn on encounter maps. -->
+  <FSFTweaksDefaultWhiteLightsDesc>Освещение по умолчанию становится белым.</FSFTweaksDefaultWhiteLightsDesc>
+
+  <!-- EN: Encounter Map Ancient Dangers -->
+  <FSFTweaksEncounterMapAncientDangersTitle>Древние опасности на картах встреч</FSFTweaksEncounterMapAncientDangersTitle>
+  <!-- EN: Allows ancient dangers to spawn on encounter maps. -->
+  <FSFTweaksEncounterMapAncientDangersDesc>Позволяет древним опасностям появляться на картах встреч.</FSFTweaksEncounterMapAncientDangersDesc>
+
+  <!-- EN: Encounter Map Resources -->
+  <FSFTweaksEncounterMapResourcesTitle>Ресурсы на картах встреч</FSFTweaksEncounterMapResourcesTitle>
+  <!-- EN: Allows resources and deep drilling veins to spawn on encounter maps again. -->
+  <FSFTweaksEncounterMapResourcesDesc>Позволяет ресурсам и жилам для глубокого бурения снова появляться на картах встреч.</FSFTweaksEncounterMapResourcesDesc>
+
+  <!-- EN: Faster Components -->
+  <FSFTweaksFasterComponentsTitle>Быстрые компоненты</FSFTweaksFasterComponentsTitle>
+  <!-- EN: Reduces the crafting time of Components and Advanced Components to 1/4.  Also adds bulk recipes for crafting 5x 10x 25x and 50x. -->
+  <FSFTweaksFasterComponentsDesc>Уменьшает время создания компонентов и улучшенных компонентов до 1/4. Добавляет массовые рецепты (5x, 10x, 25x, 50x).</FSFTweaksFasterComponentsDesc>
+
+  <!-- EN: Faster Moisture Pumps -->
+  <FSFTweaksFasterMoisturePumpsTitle>Быстрые влагонасосы</FSFTweaksFasterMoisturePumpsTitle>
+  <!-- EN: Allows you to customise the speed of Moisture Pumps. -->
+  <FSFTweaksFasterMoisturePumpsOnDesc>Позволяет настроить скорость влагонасосов.</FSFTweaksFasterMoisturePumpsOnDesc>
+  <!-- EN: Days to Max Radius -->
+  <FSFTweaksFasterMoisturePumps>Время до макс. радиуса</FSFTweaksFasterMoisturePumps>
+  <!-- EN: Input a value to adjust the speed of Moisture Pumps.  The value is written in days.\nThe Vanilla value is 60 (1 year). -->
+  <FSFTweaksFasterMoisturePumpsDesc>Значение в днях.\nПо умолчанию (60).</FSFTweaksFasterMoisturePumpsDesc>
+
+  <!-- EN: Filth Vanishes With Rain And Time -->
+  <FSFTweaksFilthVanishesWithRainAndTimeTitle>Грязь исчезает от дождя и времени</FSFTweaksFilthVanishesWithRainAndTimeTitle>
+  <!-- EN: Changes all filth types so they disappear within 14-15 days and wash away with rain/snow.  See the Filth Vanishes With Rain And Time workshop page for full details. -->
+  <FSFTweaksFilthVanishesWithRainAndTimeDesc>Вся грязь исчезает через 14-15 дней и смывается дождем/снегом.</FSFTweaksFilthVanishesWithRainAndTimeDesc>
+  <!-- EN: Allow Gray Flesh trails to wash away with rain/snow. -->
+  <FSFTweaksFilthVWRATGrayFlesh>Следы серой плоти смываются дождем/снегом.</FSFTweaksFilthVWRATGrayFlesh>
+  <!-- EN: Warning: This will make Metalhorrors more dangerous during bad weather as their traces will disappear almost immediately. -->
+  <FSFTweaksFilthVWRATGrayFleshDesc>Предупреждение: Металлические ужасы станут опаснее в плохую погоду, так как их следы будут быстро исчезать.</FSFTweaksFilthVWRATGrayFleshDesc>  
+  <!-- EN: Allow Revenant blood and trails to wash away with rain/snow. -->
+  <FSFTweaksFilthVWRATRevenant>Кровь и следы ревенанта смываются дождем/снегом.</FSFTweaksFilthVWRATRevenant>
+  <!-- EN: Warning: This will make Revenants significantly more dangerous during bad weather as their traces will disappear almost immediately making them impossible to track. -->
+  <FSFTweaksFilthVWRATRevenantDesc>Предупреждение: Ревенанты станут значительно опаснее в плохую погоду, так как их следы будут быстро исчезать.</FSFTweaksFilthVWRATRevenantDesc>
+
+
+  <!-- EN: Foods Are Safe -->
+  <FSFTweaksFoodsAreSafeTitle>Безопасная еда</FSFTweaksFoodsAreSafeTitle>
+  <!-- EN: Removes the food poisoning chance from all RawTasty foods and Insect Jelly.  Foods that use RawTasty are things like Berries, Milk and modded foods such as fruits. -->
+  <FSFTweaksFoodsAreSafeDesc>Удаляет шанс отравления со всей сырой вкусной еды (RawTasty) и желе насекомых.</FSFTweaksFoodsAreSafeDesc>
+
+  <!-- EN: Growable Ambrosia -->
+  <FSFTweaksGrowableAmbrosiaTitle>Выращиваемая амброзия</FSFTweaksGrowableAmbrosiaTitle>
+  <!-- EN: Allows ambrosia to be researched and planted in growing zones. -->
+  <FSFTweaksGrowableAmbrosiaDesc>Позволяет исследовать и выращивать амброзию.</FSFTweaksGrowableAmbrosiaDesc>
+
+  <!-- EN: Growable Grass -->
+  <FSFTweaksGrowableGrassTitle>Выращиваемая трава</FSFTweaksGrowableGrassTitle>
+  <!-- EN: Allows grass to be planted in growing zones. -->
+  <FSFTweaksGrowableGrassDesc>Позволяет сажать траву на зонах выращивания.</FSFTweaksGrowableGrassDesc>
+
+  <!-- EN: Growable Mushrooms -->
+  <FSFTweaksGrowableMushroomsTitle>Выращиваемые грибы</FSFTweaksGrowableMushroomsTitle>
+  <!-- EN: Changes Glowstool, Agarilux and Timbershroom to be plantable crops.  Glowstool and Agarilux have tweaked growth/yield so they are comparable to other crops. -->
+  <FSFTweaksGrowableMushroomsDesc>Светлячковый гриб, агарилюкс и древесный гриб становятся культивируемыми растениями.</FSFTweaksGrowableMushroomsDesc>
+
+  <!-- EN: Growable Pasture Grass -->
+  <FSFTweaksPastureGrassTitle>Выращиваемая пастбищная трава</FSFTweaksPastureGrassTitle>
+  <!-- EN: Adds a new type of grass called Pasture Grass.  It's a species of grass designed for feeding grazing animals.  It lives for a long time and although it can be grown in low fertility soil it likes lushier soil. -->
+  <FSFTweaksPastureGrassDesc>Добавляет новый вид травы — пастбищную траву, предназначенную для кормления пасущихся животных.</FSFTweaksPastureGrassDesc>
+
+  <!-- EN: Harder Drop Pod Raids -->
+  <FSFTweaksHarderDropPodRaidsTitle>Сложные рейды с десантными капсулами</FSFTweaksHarderDropPodRaidsTitle>
+  <!-- EN: Doubles the selection weight of Drop Pod raid strategies.  Also removes the raid point scaling so drop pod raids are the same size as normal raids. -->
+  <FSFTweaksHarderDropPodRaidsDesc>Удваивает вес стратегий рейдов с десантными капсулами. Убирает масштабирование очков рейда.</FSFTweaksHarderDropPodRaidsDesc>
+
+  <!-- EN: Harder Environmental Events -->
+  <FSFTweaksHarderEnvironmentalEventsTitle>Более суровые погодные события</FSFTweaksHarderEnvironmentalEventsTitle>
+  <!-- EN: Modifies the duration of Environmental Events and increases the refire interval somewhat to compensate.  This makes events overall harder as they last longer.\n\nCold Snap and Heat Wave x2 Duration, Toxic Fallout x4 Duration, Volcanic Winter x2.5 Min and x1.5 Max Duration, Drought (Vanilla Events Expanded) x1.7 Min and x3 Max Duration. -->
+  <FSFTweaksHarderEnvironmentalEventsDesc>Изменяет продолжительность и перезарядку погодных событий, делая их сложнее.</FSFTweaksHarderEnvironmentalEventsDesc>
+
+  <!-- EN: Herd Migration On Any Biome -->
+  <FSFTweaksHerdMigrationOnAnyBiomeTitle>Миграция стад в любом биоме</FSFTweaksHerdMigrationOnAnyBiomeTitle>
+  <!-- EN: Removes the allowedBiomes tag on the Herd Migration event so it can trigger on any biome. -->
+  <FSFTweaksHerdMigrationOnAnyBiomeDesc>Удаляет тег биомов с события миграции стад.</FSFTweaksHerdMigrationOnAnyBiomeDesc>
+
+  <!-- EN: Immortal Power Conduits -->
+  <FSFTweaksImmortalPowerConduitsTitle>Неразрушимые силовые кабели</FSFTweaksImmortalPowerConduitsTitle>
+  <!-- EN: Makes power conduits immortal, they have no health and can't catch fire. -->
+  <FSFTweaksImmortalPowerConduitsDesc>Силовые кабели не имеют здоровья и не могут загореться.</FSFTweaksImmortalPowerConduitsDesc>
+  
+  <!-- EN: Increased Linkables Range -->
+  <FSFTweaksIncreasedLinkablesRangeTitle>Увеличенная дальность связи</FSFTweaksIncreasedLinkablesRangeTitle>
+  <!-- EN: Changes linkables to have a maximum connection distance of 50 tiles, removes the line of sight requirement and removes the must be placed adjacent requirement.\nNote: The adjacent change is only for certain linkables like Vitals Monitors. -->
+  <FSFTweaksIncreasedLinkablesRangeDesc>Увеличивает максимальную дистанцию связи до 50 клеток, убирает требование прямой видимости и смежности.\nПримечание: Изменение смежности касается только определенных предметов, например, мониторов жизненных показателей.</FSFTweaksIncreasedLinkablesRangeDesc>
+
+  <!-- EN: Improved Vanometric Power Cells -->
+  <FSFTweaksImprovedVanometricPowerCellsTitle>Улучшенные ванометрические генераторы</FSFTweaksImprovedVanometricPowerCellsTitle>
+  <!-- EN: Allows you to multiply the power generation of Vanometric Power Cells by an input value. -->
+  <FSFTweaksImprovedVanometricPowerCellsOnDesc>Позволяет умножить выработку энергии ванометрических генераторов.</FSFTweaksImprovedVanometricPowerCellsOnDesc>
+  <!-- EN: Power Multiplier {FSFImprovedVanometricPowerCells} -->
+  <FSFTweaksImprovedVanometricPowerCells>Множитель мощности: {FSFImprovedVanometricPowerCells}</FSFTweaksImprovedVanometricPowerCells>
+  <!-- EN: Move the slider to adjust the multiplier of Vanometric Power Cells.  The value is a straight multiplier, a value of 2 will double the original while 3 will triple it.\nThe Vanilla value is 1. -->
+  <FSFTweaksImprovedVanometricPowerCellsDesc>Измените ползунок для настройки множителя. Значение 2 удваивает исходную мощность.\nПо умолчанию: 1.</FSFTweaksImprovedVanometricPowerCellsDesc>
+
+  <!-- EN: Indoor Tree Farms -->
+  <FSFTweaksIndoorTreeFarmsTitle>Внутренние лесные фермы</FSFTweaksIndoorTreeFarmsTitle>
+  <!-- EN: Allows you to individually enable options that will allow plants to be plantable under roofs, allow adjacent sowing and allow planting regardless of biome.  These limitations ordinarily only appear on tree or tree like plants. -->
+  <FSFTweaksIndoorTreeFarmsOnDesc>Позволяет включить опции для посадки деревьев внутри помещения, смежного посева и игнорирования биома.</FSFTweaksIndoorTreeFarmsOnDesc>
+  <!-- EN: Allow Adjacent Sowing on plants. -->
+  <FSFTweaksIndoorTreeFarmsAdjacentSow>Разрешить смежный посев</FSFTweaksIndoorTreeFarmsAdjacentSow>
+  <!-- EN: Allow plants to be planted under roofs. -->
+  <FSFTweaksIndoorTreeFarmsRoof>Разрешить посадку под крышей</FSFTweaksIndoorTreeFarmsRoof>
+  <!-- EN: Allow plants to be planted regardless of biome. -->
+  <FSFTweaksIndoorTreeFarmsWildToSow>Игнорировать биом при посадке</FSFTweaksIndoorTreeFarmsWildToSow>
+  
+   <!-- EN: Plants Give Hay -->
+  <FSFTweaksPlantsGiveHayTitle>Растения дают сено</FSFTweaksPlantsGiveHayTitle> 
+   <!-- EN: Patches grass and grass like plants to give Hay when they are cut with harvest yields starting at 33% grown.  Normal grass plants gives 3 Hay when fully grown which is around 50% less efficient than Haygrass.  Tall Grass plants give 6 Hay when fully grown which is around 25% less efficient than Haygrass. -->
+  <FSFTweaksPlantsGiveHayDesc>Трава и подобные растения дают сено при сборе (начиная с 33% роста).</FSFTweaksPlantsGiveHayDesc>   
+
+  <!-- EN: Insect Jelly Isn't A Meal -->
+  <FSFTweaksInsectJellyIsntAMealTitle>Желе насекомых — не еда</FSFTweaksInsectJellyIsntAMealTitle>
+  <!-- EN: Changes the preferability of Insect Jelly from Fine Meal to Raw Tasty.  This means pawns will only prefer it as food if there are no cooked meals.  However, they will still eat it for Gluttonous Recreation.  This allows you to easier keep your expensive jelly for sale and recreation. -->
+  <FSFTweaksInsectJellyIsntAMealDesc>Изменяет предпочтительность желе насекомых на "Сырое вкусное". Пешки будут есть его, только если нет приготовленной еды, но все равно смогут употреблять при обжорстве.</FSFTweaksInsectJellyIsntAMealDesc>
+
+  <!-- EN: Interaction Spots Can Overlap -->
+  <FSFTweaksInteractionSpotsCanOverlapTitle>Точки взаимодействия могут пересекаться</FSFTweaksInteractionSpotsCanOverlapTitle>
+  <!-- EN: Removes the restriction on everything so interaction spots can overlap.  The interaction spot is where a pawn stands while using the building and typically where you place a seat for them. -->
+  <FSFTweaksInteractionSpotsCanOverlapDesc>Убирает ограничение, позволяя точкам взаимодействия перекрываться.</FSFTweaksInteractionSpotsCanOverlapDesc>
+
+  <!-- EN: Less Desirable Long Term Food -->
+  <FSFTweaksLessDesirableLongTermFoodTitle>Менее предпочтительная долгохранящаяся еда</FSFTweaksLessDesirableLongTermFoodTitle>
+  <!-- EN: Changes long term foods like Pemmican and Packaged Survival Meals to be less desirable than normal meals.\nNote: Distance seems to be factored into food choice so for best results long term foods should be stored near other meals. -->
+  <FSFTweaksLessDesirableLongTermFoodDesc>Делает долгохранящуюся еду (пеммикан, походный пайки и т.д.) менее предпочтительной, чем обычные блюда.</FSFTweaksLessDesirableLongTermFoodDesc>
+  <!-- EN: Warning: This tweak may cause friendlies to pilfer your food supplies more as their preserved meals are considered less desirable. -->
+  <FSFTweaksLessDesirableLongTermFoodWarning>Предупреждение: это может заставить союзников чаще воровать ваши запасы еды.</FSFTweaksLessDesirableLongTermFoodWarning>
+
+  <!-- EN: Metal Flammability -->
+  <FSFTweaksMetalFlammabilityTitle>Воспламеняемость металлов</FSFTweaksMetalFlammabilityTitle>
+  <!-- EN: Allows you to customise the flammability stat of each metal.  You can make things less or more flammable or completely immune to fire. -->
+  <FSFTweaksMetalFlammabilityOnDesc>Позволяет настроить воспламеняемость каждого металла.</FSFTweaksMetalFlammabilityOnDesc>
+   <!-- EN: Bioferrite Flammability {FSFMetalFlammabilityBioferrite} -->
+  <FSFTweaksMetalFlammabilityBioferrite>Воспламеняемость биоферрита: {FSFMetalFlammabilityBioferrite}</FSFTweaksMetalFlammabilityBioferrite>  
+  <!-- EN: Gold Flammability {FSFMetalFlammabilityGold} -->
+  <FSFTweaksMetalFlammabilityGold>Воспламеняемость золота: {FSFMetalFlammabilityGold}</FSFTweaksMetalFlammabilityGold>
+  <!-- EN: Iron Flammability {FSFMetalFlammabilityIron} -->
+  <FSFTweaksMetalFlammabilityIron>Воспламеняемость железа: {FSFMetalFlammabilityIron}</FSFTweaksMetalFlammabilityIron>  
+  <!-- EN: Silver Flammability {FSFMetalFlammabilitySilver} -->
+  <FSFTweaksMetalFlammabilitySilver>Воспламеняемость серебра: {FSFMetalFlammabilitySilver}</FSFTweaksMetalFlammabilitySilver>
+  <!-- EN: Steel Flammability {FSFMetalFlammabilitySteel} -->
+  <FSFTweaksMetalFlammabilitySteel>Воспламеняемость стали: {FSFMetalFlammabilitySteel}</FSFTweaksMetalFlammabilitySteel>  
+  <!-- EN: Input a value to adjust the flammability of each metal.  The lower the number the less flammable it is.  The displayed number is a percentage of its flammability.  Setting it to 0 will make that metal completely immune to fire.\nVanilla flammability is 0.4 (40%). -->
+  <FSFTweaksMetalFlammabilityDesc>Введите значение для настройки воспламеняемости. Чем меньше число, тем менее материал горюч. 0 делает его полностью невосприимчивым к огню.\nПо умолчанию: 0.4 (40%).</FSFTweaksMetalFlammabilityDesc>    
+
+  <!-- EN: More Filters -->
+  <FSFTweaksMoreFiltersTitle>Больше фильтров</FSFTweaksMoreFiltersTitle>
+  <!-- EN: Allows you to individually toggle on options to add new filters for easier organisation and accessibility.  Such as sorting food or drugs into more specific categories. -->
+  <FSFTweaksMoreFiltersDesc>Добавляет новые фильтры для еды и наркотиков для более удобной организации.</FSFTweaksMoreFiltersDesc>
+  <!-- EN: More Filters Drugs -->
+  <FSFTweaksMoreFiltersDrugsTitle>Больше фильтров для наркотиков</FSFTweaksMoreFiltersDrugsTitle>
+  <!-- EN: Adds a number of new categories for drugs and organises items so they can be more easily accessed.  The following categories are added, Hard, Medical, Social. -->
+  <FSFTweaksMoreFiltersDrugsDesc>Добавляет новые категории для наркотиков: тяжелые, медицинские, социальные.</FSFTweaksMoreFiltersDrugsDesc>
+  <!-- EN: More Filters Drugs -->
+  <FSFTweaksMoreFiltersFoodTitle>Больше фильтров для еды</FSFTweaksMoreFiltersFoodTitle>
+  <!-- EN: Adds a number of new categories for food and organises items so they can be more easily accessed.  The following categories are added, Awful, Simple, Fine, Lavish, Gourmet (VCE), Confectionery (VCE), Long Term, Jelly (Alpha Animals), Milk (Alpha Animals), Raw Tasty, Baby Food (Biotech DLC), Animal Feed, Gluttonous, Blood (Biotech DLC), Cocktails (VBE). -->
+  <FSFTweaksMoreFiltersFoodDesc>Добавляет множество новых категорий для еды.</FSFTweaksMoreFiltersFoodDesc>
+  <!-- EN: Warning: Due to changing item categories this tweak can interfere with stacking mods that rely on categories.  For OgreStack this causes the items to be classed under Other instead of their default categories.  If you use more specific stacking settings be sure to account for this. -->
+  <FSFTweaksMoreFiltersFoodWarning>Предупреждение: изменение категорий может конфликтовать с модами на складирование.</FSFTweaksMoreFiltersFoodWarning>
+
+  <!-- EN: More Quests -->
+  <FSFTweaksMoreQuestsTitle>Больше заданий</FSFTweaksMoreQuestsTitle>
+  <!-- EN: Allows you to customise how frequently quests appear. -->
+  <FSFTweaksMoreQuestsOnDesc>Позволяет настроить частоту появления заданий.</FSFTweaksMoreQuestsOnDesc>
+  <!-- EN: onDays -->
+  <FSFTweaksMoreQuestsonDays>Продолжительность:</FSFTweaksMoreQuestsonDays>
+  <!-- EN: numIncidentsRange -->
+  <FSFTweaksMoreQuestsnumIncidentsRange>Количество заданий:</FSFTweaksMoreQuestsnumIncidentsRange>
+  <!-- EN: minSpacingDays -->
+  <FSFTweaksMoreQuestsminSpacingDays>Интервал:</FSFTweaksMoreQuestsminSpacingDays>
+  <!-- EN: Input a value to adjust the amount of quests generated within a timeframe.  The minSpacingDays (minimum days between quests) must allow the numIncidentsRange (number of quests) to fit within onDays (how many days before this block of quests ends) otherwise the game will throw errors.\nVanilla (12, 2, 3), Double Vanilla (12, 4, 1), Triple Vanilla (12, 6, 1), Daily (1, 1, 0.5). -->
+  <FSFTweaksMoreQuestsDesc>Настройте количество заданий за период времени. Интервал должен позволять заданному количеству заданий уместиться в продолжительности.\nПо умолчанию (12, 2, 3), в два раза больше (12, 4, 1), в три раза больше (12, 6, 1), ежедневно (1, 1, 0.5).</FSFTweaksMoreQuestsDesc>
+
+  <!-- EN: More Slaves -->
+  <FSFTweaksMoreSlavesTitle>Больше рабов</FSFTweaksMoreSlavesTitle>
+  <!-- EN: Allows you to customise the number of slaves traders have for sale and makes it so you can request slave caravans.  Also removes the Population Intent on slave trading so you always have a full selection of slaves regardless of your colony population. -->
+  <FSFTweaksMoreSlavesOnDesc>Позволяет настроить количество рабов у торговцев и убирает ограничение, связанное с населением колонии.</FSFTweaksMoreSlavesOnDesc>
+  <!-- EN: Slaves For Sale Minimum Range -->
+  <FSFTweaksMoreSlavesMin>Минимальное количество рабов в продаже</FSFTweaksMoreSlavesMin>
+  <!-- EN: Slaves For Sale Maximum Range -->
+  <FSFTweaksMoreSlavesMax>Максимальное количество рабов в продаже</FSFTweaksMoreSlavesMax>
+  <!-- EN: Input a value to adjust the number of slaves traders have for sale\nDefault Setting 9-10. -->
+  <FSFTweaksMoreSlavesDesc>Настройте количество рабов у торговцев.\nПо умолчанию: 9-10.</FSFTweaksMoreSlavesDesc>
+
+  <!-- EN: More Varied Raid Loot -->
+  <FSFTweaksMoreVariedRaidLootTitle>Более разнообразная добыча с рейдов</FSFTweaksMoreVariedRaidLootTitle>
+  <!-- EN: Adds new items to the raid loot tables to add some more variety to the rewards for defeating raids.    Raid loot is a stack of items given to a raider or a number of raiders to serve as a reward for deating them, this typically comes in the form of resources,  medicine or drugs. -->
+  <FSFTweaksMoreVariedRaidLootDesc>Добавляет новые предметы в таблицы добычи с рейдов.</FSFTweaksMoreVariedRaidLootDesc>
+
+  <!-- EN: Mounts For Sale -->
+  <FSFTweaksMountsForSaleTitle>Верховые животные в продаже</FSFTweaksMountsForSaleTitle>
+  <!-- EN: Adds breeding pairs of Horses always for sale at Neolithic bases so you have an easy way to get caravan animals. -->
+  <FSFTweaksMountsForSaleDesc>Добавляет пары лошадей для разведения в неолитических базах.</FSFTweaksMountsForSaleDesc>
+
+  <!-- EN: No Debuff For Banishing -->
+  <FSFTweaksNoDebuffForBanishingTitle>Без дебаффа за изгнание</FSFTweaksNoDebuffForBanishingTitle>
+  <!-- EN: Changes the duration of all thoughts for banishing or rejecting people to expire instantly. -->
+  <FSFTweaksNoDebuffForBanishingDesc>Мгновенно завершает все мысли об изгнании или отказе в присоединении.</FSFTweaksNoDebuffForBanishingDesc>
+
+  <!-- EN: No Default Fungus In Meals -->
+  <FSFTweaksNoDefaultFungusInMealsTitle>Нет грибов по умолчанию в блюдах</FSFTweaksNoDefaultFungusInMealsTitle>
+  <!-- EN: Adds Raw Fungus to the list of default disallowed ingredients on meals. -->
+  <FSFTweaksNoDefaultFungusInMealsDesc>Добавляет сырые грибы в список запрещенных по умолчанию ингредиентов для блюд.</FSFTweaksNoDefaultFungusInMealsDesc>
+
+  <!-- EN: No Default Storage Settings -->
+  <FSFTweaksNoDefaultStorageSettingsTitle>Нет настроек хранения по умолчанию</FSFTweaksNoDefaultStorageSettingsTitle>
+  <!-- EN: Changes every ThingDef to remove the defaultStorageSettings and changes the default priority to normal.  Unlike the mod No Default Shelf Storage which intentionally looks for a ThingClass to target only storage items this patch goes for everything.  This means it'll target things like Mortars, Sarcophaguses, Biosculpters, Growth Pods and more. -->
+  <FSFTweaksNoDefaultStorageSettingsDesc>Удаляет настройки хранения по умолчанию у всех предметов, включая минометы, саркофаги и т.д.</FSFTweaksNoDefaultStorageSettingsDesc>
+
+  <!-- EN: No Human Filth -->
+  <FSFTweaksNoHumanFilthTitle>Нет человеческой грязи</FSFTweaksNoHumanFilthTitle>
+  <!-- EN: Changes the human generated filth Trash to vanish instantly. -->
+  <FSFTweaksNoHumanFilthDesc>Человеческая грязь исчезает мгновенно.</FSFTweaksNoHumanFilthDesc>
+
+  <!-- EN: No Improvised Weapons -->
+  <FSFTweaksNoImprovisedWeaponsTitle>Без импровизированного оружия</FSFTweaksNoImprovisedWeaponsTitle>
+  <!-- EN: Removes the weapon stats from all Ingestible and Resource items so they can no longer be used as weapons.\nNote: If enabled mid save this will cause errors if anyone has these items equipped.  You can use the mod Character Editor to move items to the inventory to fix this. -->
+  <FSFTweaksNoImprovisedWeaponsDesc>Удаляет характеристики оружия у всех съедобных и ресурсных предметов.\nПредупреждение: Включение в середине сохранения вызовет ошибки, если такие предметы экипированы.</FSFTweaksNoImprovisedWeaponsDesc>
+
+  <!-- EN: No One Ever Flees -->
+  <FSFTweaksNoOneEverFleesTitle>Никто не убегает</FSFTweaksNoOneEverFleesTitle>
+  <!-- EN: Patches every faction adding autoflee false as a tag so they will never break or flee no matter how many people die.\nThis setting is best used in combination with other mods.  See the No One Ever Flees workshop page for full details. -->
+  <FSFTweaksNoOneEverFleesDesc>Все фракции никогда спасаются бегством, сколько бы людей ни погибло.</FSFTweaksNoOneEverFleesDesc>
+
+  <!-- EN: No Starting Research -->
+  <FSFTweaksNoStartingResearchTitle>Нет начальных исследований</FSFTweaksNoStartingResearchTitle>
+  <!-- EN: Allows you to pick which starting Player Factions should start the game with no completed research projects. -->
+  <FSFNoStartingResearchOnDesc>Позволяет выбрать, какие игровые фракции начнут игру без завершенных исследований.</FSFNoStartingResearchOnDesc>
+  <!-- EN: All Factions -->
+  <FSFTweaksNoStartingResearchAllTitle>Все</FSFTweaksNoStartingResearchAllTitle>
+  <!-- EN: Removes all starting research from every Player Faction.  This should work for all DLC and mods.  If this is enabled then none of the following settings should be enabled.\nNote: This does not remove any research added by starting Scenarios. -->
+  <FSFTweaksNoStartingResearchAllDesc>Удаляет все начальные исследования у всех игровых фракций.\nПримечание: Не удаляет исследования, добавленные начальными сценариями.</FSFTweaksNoStartingResearchAllDesc>
+  <!-- EN: Colony Faction -->
+  <FSFTweaksNoStartingResearchColonyTitle>Колония (новые поселенцы)</FSFTweaksNoStartingResearchColonyTitle>
+  <!-- EN: Removes all starting research from the Player Colony Faction called New Arrivals which is used for industrial starting scenarios like Crashlanded. -->
+  <FSFTweaksNoStartingResearchColonyDesc>Удаляет начальные исследования у фракции "Новые поселенцы" (промышленные сценарии).</FSFTweaksNoStartingResearchColonyDesc>
+  <!-- EN: Research Expedition -->
+  <FSFTweaksNoStartingResearchResearchExTitle>Научная экспедиция</FSFTweaksNoStartingResearchResearchExTitle>
+  <!-- EN: Removes all starting research from the Player Research Expedition Faction called Research Expedition which is used for industrial starting scenarios like The Anomaly. -->
+  <FSFTweaksNoStartingResearchResearchExDesc>Удаляет начальные исследования у фракции "Научная экспедиция".</FSFTweaksNoStartingResearchResearchExDesc>  
+  <!-- EN: Tribal Faction -->
+  <FSFTweaksNoStartingResearchTribalTitle>Племя (новое племя)</FSFTweaksNoStartingResearchTribalTitle>
+  <!-- EN: Removes all starting research from the Player Tribal Faction called New Tribe which is used for tribal starting scenarios like Lost Tribe. -->
+  <FSFTweaksNoStartingResearchTribalDesc>Удаляет начальные исследования у фракции "Новое племя" (племенные сценарии).</FSFTweaksNoStartingResearchTribalDesc>
+
+  <!-- EN: Power Generation Multiplier -->
+  <FSFTweaksPowerGenerationMultiplierTitle>Множитель генерации энергии</FSFTweaksPowerGenerationMultiplierTitle>
+  <!-- EN: Allows you to multiply the power generation of all Power Generating items and the Storage Capacity of all Batteries by an input value. -->
+  <FSFTweaksPowerGenerationMultiplierOnDesc>Позволяет умножить выработку энергии всех источников и емкость всех аккумуляторов.</FSFTweaksPowerGenerationMultiplierOnDesc>
+  <!-- EN: Power Generation Multiplier {FSFPowerGenerationMultiplier} -->
+  <FSFTweaksPowerGenerationMultiplier>Множитель генерации: {FSFPowerGenerationMultiplier}</FSFTweaksPowerGenerationMultiplier>
+  <!-- EN: Battery Storage Capacity Multiplier {FSFBatteryStorageMultiplier} -->
+  <FSFTweaksBatteryStorageMultiplier>Множитель емкости аккумуляторов: {FSFPowerGenerationMultiplier}</FSFTweaksBatteryStorageMultiplier>
+  <!-- EN: Move the sliders to adjust the multiplier of all Power Generating items and the Storage Capacity of all Batteries.  The value is a straight multiplier, a value of 2 will double the original while 3 will triple it.\nThe Vanilla value is 1. -->
+  <FSFTweaksPowerGenerationMultiplierDesc>Измените ползунки для настройки множителей. Значение 2 удваивает исходный показатель.\nПо умолчанию: 1.</FSFTweaksPowerGenerationMultiplierDesc>
+
+  <!-- EN: Psychic Sensitivity Bonuses -->
+  <FSFTweaksPsychicSensBonusesTitle>Бонусы психочувствительности</FSFTweaksPsychicSensBonusesTitle>
+  <!-- EN: Changes the stats Meditation Psyfocus Gain and Neural Heat Recovery Rate to be affected by Psychic Sensitivity.  Also removes the bonuses to these stats from all GeneDef's (Genes), HediffDef's (Health Conditions), ThingDef's (Weapons and Apparel) and TraitDef's (Traits).  What this means is that Psychic Sensitivity itself will provide these bonuses instead of the aforementioned things.  In this way all bonuses are equally balanced, and those that didn't provide bonuses but probably should have do now.  So now there is a good reason to stack your psycasters with as much Psychic Sensitivity as you can because doing so will increase their overall recovery speed.  With Vanilla Psycasts Expanded the increase in Psyfocus gain will also result in your psycasters gaining XP faster. -->
+  <FSFTweaksPsychicSensBonusesDesc>Показатели "Набор псифокуса" и "Скорость снижения нейроперегрева" теперь зависят от психочувствительности. Бонусы от генов, черт и снаряжения к этим показателям удалены.</FSFTweaksPsychicSensBonusesDesc>
+
+  <!-- EN: Randy Fixes -->
+  <FSFTweaksRandyFixesTitle>Исправления для Рэнди</FSFTweaksRandyFixesTitle>
+  <!-- EN: Randy is missing the fields TraderCaravanArrival, VisitorGroup, TravelerGroup, OrbitalTraderArrival.  This is no doubt so it relies on his randomness.  Unfortunately the randomness tends to result in not getting these events very often.  This fix adds the fields from Cassandra so these events show up regularly.  This is an addition not a replacement, so the original randomness aspect is also present.  If Vanilla Psycasts Expanded is loaded this tweak also adds the fields to Basilicus Bestower, as he's an exact copy of Randy except for his unique ability. -->
+  <FSFTweaksRandyFixesDesc>Добавляет Рэнди недостающие поля для более регулярного появления событий с торговцами и посетителями.</FSFTweaksRandyFixesDesc>
+
+  <!-- EN: Render Hair Over Clothing -->
+  <FSFTweaksRenderHairOverClothingTitle>Волосы поверх одежды</FSFTweaksRenderHairOverClothingTitle>
+  <!-- EN: With the new rendering system clothing is rendered over a pawns head when viewed from behind.  This is most noticeable with long hairstyles, instead of the hair draping over the clothing as it should it instead ends up hidden beneath making things look rather odd.  This tweak patches all clothing that would pose an issue so hair is rendered over clothing allowing hair to drape over clothing as it should. -->
+  <FSFTweaksRenderHairOverClothingDesc>Исправляет рендеринг, чтобы длинные волосы отображались поверх одежды при виде сзади.</FSFTweaksRenderHairOverClothingDesc>
+
+  <!-- EN: Sealed Power Armour -->
+  <FSFTweaksSealedPowerArmourTitle>Герметичная силовая броня</FSFTweaksSealedPowerArmourTitle>
+  <!-- EN: Changes power armour to be airtight if it fully covers the head or body.  Meaning when the body armour and helmet are worn together it provides full Toxic Environmental Resistance.  The helmets will also provide immunity to Toxic Gas. -->
+  <FSFTweaksSealedPowerArmourDesc>Полный комплект силовой брони (шлем и нагрудник) обеспечивает полную защиту от токсинов в окружающей среде и иммунитет к токсичному газу.</FSFTweaksSealedPowerArmourDesc>
+
+  <!-- EN: Stackable Chunks -->
+  <FSFTweaksStackableChunksTitle>Складируемые камни</FSFTweaksStackableChunksTitle>
+  <!-- EN: Changes rock and metal slag chunks to be stacklable and allows you to customise the stack limit. -->
+  <FSFTweaksStackableChunksOnDesc>Делает каменные обломки и металлический шлак складируемыми и позволяет настроить лимит стака.</FSFTweaksStackableChunksOnDesc>
+  <!-- EN: Warning: If enabled midsave this option may cause all rock and slag chunks to vanish. -->
+  <FSFTweaksStackableChunksWarningDesc>Предупреждение: Включение в середине сохранения может привести к исчезновению всех обломков и шлака.</FSFTweaksStackableChunksWarningDesc> 
+  <!-- EN: Rock Chunks Stack Limit -->
+  <FSFTweaksStackableChunksRocks>Лимит стака каменных обломков</FSFTweaksStackableChunksRocks>
+  <!-- EN: Slag Chunks Stack Limit -->
+  <FSFTweaksStackableChunksSlag>Лимит стака металлического шлака</FSFTweaksStackableChunksSlag>
+  <!-- EN: Mechanoid Slag Chunks Stack Limit -->
+  <FSFTweaksStackableChunksMechanoid>Лимит стака шлака механоидов</FSFTweaksStackableChunksMechanoid> 
+  <!-- EN: Input values to adjust the stack limit. -->
+  <FSFTweaksStackableChunksDesc>Введите значения для настройки лимитов стаков.</FSFTweaksStackableChunksDesc>
+
+  <!-- EN: Table Search Radius -->
+  <FSFTweaksTableSearchRadiusTitle>Радиус поиска стола</FSFTweaksTableSearchRadiusTitle>
+  <!-- EN: Allows you to set a maximum radius pawns will search for a table when consuming ingestible items.  This patches all items with a preferability except ones with NeverForNutrition. -->
+  <FSFTweaksTableSearchRadiusOnDesc>Позволяет задать максимальный радиус, в котором пешки будут искать стол для приема пищи.</FSFTweaksTableSearchRadiusOnDesc>
+  <!-- EN: Table Search Radius -->
+  <FSFTweaksTableSearchRadius>Максимальный радиус поиска стола</FSFTweaksTableSearchRadius>
+  <!-- EN: Input a value to set a maximum radius pawns will search for a table when consuming ingestible items.  This patches all items with a preferability except ones with NeverForNutrition.\nNote: If a table is within this radius they will go to it before consuming items so be careful not to set it too high.  The default value of 75 is what I've found to be a nice middle ground. -->
+  <FSFTweaksTableSearchRadiusDesc>Введите значение для настройки радиуса поиска стола.\nПримечание: Если стол находится в радиусе, пешка пойдет к нему перед едой. Не устанавливайте слишком высокое значение. 75 — хороший компромисс.</FSFTweaksTableSearchRadiusDesc>
+
+  <!-- EN: Tidy Crop Textures -->
+  <FSFTweaksTidyCropTexturesTitle>Аккуратные текстуры культур</FSFTweaksTidyCropTexturesTitle>
+  <!-- EN: Changes the texture drawing of crops like rice that have messy texture placement to be nice and uniform like corn. -->
+  <FSFTweaksTidyCropTexturesDesc>Делает текстуры культур (например, риса) аккуратными и равномерными, как у кукурузы.</FSFTweaksTidyCropTexturesDesc>
+
+  <!-- EN: Tribal Patchleather -->
+  <FSFTweaksTribalPatchleatherTitle>Племенная лоскутая кожа</FSFTweaksTribalPatchleatherTitle>
+  <!-- EN: Adds the patchleather recipe to the crafting spot allowing tribals an easier way to craft leather items. -->
+  <FSFTweaksTribalPatchleatherDesc>Добавляет рецепт лоскутаной кожи на место для производства, облегчая племенам создание кожаных предметов.</FSFTweaksTribalPatchleatherDesc>
+
+  <!-- EN: Unlock Hediffs For Scenario Settings -->
+  <FSFTweaksUnlockHediffsForScenarioTitle>Разблокировать хедиффы для настроек сценария</FSFTweaksUnlockHediffsForScenarioTitle>
+  <!-- EN: Changes a number of hediffs so they can be used in the scenario settings.  For instance this allows you to create a scenario where anyone can have a chance to spawn with Metal Horrors (Anomaly DLC), as a Mime (Alpha Animals) or a Traitor (Vanilla Expanded Events).\nTo do this in the scenario editor click Add Part -> Forced Health Condition -> (The hediff you want). Set the severity (depending on the hediff severity can do different things), modify the percentage chance and set the context.\nNote: Currently the scenario settings treats colony born children as non player characters upon creation so its possible for them to inherit these hediffs based on your selected odds. You can use dev mode to remove the hediff should this happen. -->
+  <FSFTweaksUnlockHediffsForScenarioDesc>Разблокирует хедиффы "Металлический ужас", "Предатель" и "Прячущийся на виду" для использования в редакторе сценариев.</FSFTweaksUnlockHediffsForScenarioDesc>
+  <!-- EN: Traitor Minimum Time Range In Ticks -->
+  <FSFTweaksScenarioHediffTraitorMinTicks>Мин. время раскрытия предателя (тики)</FSFTweaksScenarioHediffTraitorMinTicks>
+  <!-- EN: Traitor Maximum Time Range In Ticks -->
+  <FSFTweaksScenarioHediffTraitorMaxTicks>Макс. время раскрытия предателя (тики)</FSFTweaksScenarioHediffTraitorMaxTicks>
+  <!-- EN: Input values to adjust the minimum and maximum time range of a Traitor reveal.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour and 60000 ticks in a day.\nThe Vanilla value is 120000 (2 day) to 360000 (6 days). -->
+  <FSFTweaksScenarioHediffTraitorTicksDesc>Введите значения для настройки времени раскрытия предателя в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 120000 (2 дня) до 360000 (6 дней).</FSFTweaksScenarioHediffTraitorTicksDesc> 
+ 
+  <!-- EN: Quest Reward Pawn Bios -->
+  <FSFTweaksQuestRewardPawnBiosTitle>Биографии наградных пешек</FSFTweaksQuestRewardPawnBiosTitle>
+  <!-- EN: Stops quests from hiding the bio of pawns given as rewards so you can decide if its worth doing the quest or not. -->
+  <FSFTweaksQuestRewardPawnBiosDesc>Задания больше не скрывают биографии пешек, выдаваемых в качестве награды.</FSFTweaksQuestRewardPawnBiosDesc>
+
+  <!-- EN: Update Psychic Stuff -->
+  <FSFTweaksUpdatePsychicStuffTitle>Обновление псионики</FSFTweaksUpdatePsychicStuffTitle>
+  <!-- EN: Updates the Psychic Sensitivity traits and Psychic Sensitizer to have bonuses for Meditation Focus Gain and Psychic Entropy Recovery Rate.  These stats appear on Biotech genes relating to Psychic Sensitivity but these items were never changed. -->
+  <FSFTweaksUpdatePsychicStuffDesc>Добавляет бонусы к набору псифокуса и снижению перегреву чертам псифокуса и пси-сенсибилизатору.</FSFTweaksUpdatePsychicStuffDesc>
+
+  <!-- EN: Water Movement Tweaks -->
+  <FSFTweaksWaterMovementTweaksTitle>Настройки передвижения по воде</FSFTweaksWaterMovementTweaksTitle>
+  <!-- EN: Allows you to customise the pathing cost of water and if the tiles are impassable. -->
+  <FSFTweaksWaterMovementTweaksOnDesc>Позволяет настроить стоимость передвижения по воде и проходимость водных клеток.</FSFTweaksWaterMovementTweaksOnDesc>
+  <!-- EN: Shallow Water Pathing Cost -->
+  <FSFTweaksWaterMovementTweaksShallowCost>Стоимость пути по мелководью:</FSFTweaksWaterMovementTweaksShallowCost>
+  <!-- EN: Shallow Water is Impassable -->
+  <FSFTweaksWaterMovementTweaksShallowImpassable>Мелководье непроходимо</FSFTweaksWaterMovementTweaksShallowImpassable>
+  <!-- EN: Chest Deep Water Pathing Cost -->
+  <FSFTweaksWaterMovementTweaksChestDeepCost>Стоимость пути по воде по грудь:</FSFTweaksWaterMovementTweaksChestDeepCost>
+  <!-- EN: Chest Deep Water is Impassable -->
+  <FSFTweaksWaterMovementTweaksChestDeepImpassable>Вода по грудь непроходима</FSFTweaksWaterMovementTweaksChestDeepImpassable>
+  <!-- EN: Deep Water Pathing Cost -->
+  <FSFTweaksWaterMovementTweaksDeepCost>Стоимость пути по глубокой воде:</FSFTweaksWaterMovementTweaksDeepCost>
+  <!-- EN: Deep Water is Passable -->
+  <FSFTweaksWaterMovementTweaksDeepPassable>Глубокая вода проходима</FSFTweaksWaterMovementTweaksDeepPassable>
+  <!-- EN: Input a value to adjust the pathing cost of water tiles.  The pathing cost is irrelevant if the terrain is set to impassable.\nPathing cost is a bit odd so you'll have to experiment with numbers.  A cost of 4 gives 76% movement speed on a tile but 40 gives 25%.\nVanilla Values Shallow Water 30, Chest Deep Water 42, Deep Water 300. -->
+  <FSFTweaksWaterMovementTweaksDesc>Настройте стоимость пути и проходимость водных клеток.\nПримечание: Стоимость пути работает нелинейно. По умолчанию: мелководье 30, вода по грудь 42, глубокая вода 300.</FSFTweaksWaterMovementTweaksDesc>
+
+  <!-- EN: Wild Animal Reproduction -->
+  <FSFTweaksWildAnimalReproductionTitle>Размножение диких животных</FSFTweaksWildAnimalReproductionTitle>
+  <!-- EN: Allows wild animals to mate so they become pregnant just like colony animals.  Also removes the deterioration rate of fertilized eggs so they can survive outdoors. -->
+  <FSFTweaksWildAnimalReproductionDesc>Позволяет диким животным спариваться и убирает скорость порчи оплодотворенных яиц на открытом воздухе.</FSFTweaksWildAnimalReproductionDesc>
+
+  <!-- EN: Wolves Are Dogs -->
+  <FSFTweaksWolvesAreDogsTitle>Волки — это собаки</FSFTweaksWolvesAreDogsTitle>
+  <!-- EN: Changes the FilthRate to 0, Petness to 1 and nuzzleMtbHours to 12 to match dogs allowing you to have clean, friendly, nuzzle happy wolves.  Also adds mating pairs of Timber Wolves and Arctic Wolves for sale at faction bases so they're easy to acquire. -->
+  <FSFTweaksWolvesAreDogsDesc>Изменяет характеристики волков, чтобы они были милыми и дружелюбными, как собаки. Также добавляет пары волков в продажу.</FSFTweaksWolvesAreDogsDesc>
+
+  <!-- EN: Younger People -->
+  <FSFTweaksYoungerPeopleTitle>Более молодые люди</FSFTweaksYoungerPeopleTitle>
+  <!-- EN: This is intended for games with a high ageing multiplier to ensure a steady supply of new marriage candidates.  The maximum spawning age is capped at 25 but no minimum age is added to avoid breaking children spawning.  The actual age of people should be between 13 and 25 however it should tend toward the average.  The numbers can skew outside of that when parent/child relations are included.  After spawning people will age at your set multiplier so you should see older pawns as time goes on provided they don't die and the game doesn't purge them. -->
+  <FSFTweaksYoungerPeopleDesc>Ограничивает максимальный возраст появления новых пешек 25 годами (для игр с высоким множителем старения).</FSFTweaksYoungerPeopleDesc>
+
+
+
+  <!-- EN: Biotech Tweaks -->
+  <FSFTweaksBiotechTweaksTitle>Biotech</FSFTweaksBiotechTweaksTitle>
+
+  <!-- EN: Additional Xenotypes -->
+  <FSFTweaksAddXenotypesTitle>Дополнительные ксенотипы</FSFTweaksAddXenotypesTitle>
+  <!-- EN: Adds a number of different Custom Xenotypes as Defs for better compatibility with mods.  Enabling this option alone does not toggle anything on, it only displays more options.  All Xenotypes are off by default and can be enabled individually. -->
+  <FSFTweaksAddXenotypesOnDesc>Добавляет пользовательские ксенотипы для лучшей совместимости с модами. Все они по умолчанию выключены.</FSFTweaksAddXenotypesOnDesc>
+  <!-- EN: Venerated Xenotype -->
+  <FSFTweaksAddXenotypesVeneratedTitle>Почитаемый ксенотип</FSFTweaksAddXenotypesVeneratedTitle>
+  <!-- EN: Adds a dummy xenotype to the game meant to be used with the mod Venerated Xenotype Flexibility.  The xenotype itself does not appear in any faction and uses only a couple genes that will likely be used in any end game custom xenotype build.  As such, regardless of the game's theme the Venerated Xenotype should fit the end game custom xenotype when used alongside the Precept that requires specific genes but allows any additional genes.  The genes used are Archite Metabolism, Dark Vision, Quick Study and Xenogerm Reimplanter. -->
+  <FSFTweaksAddXenotypesVeneratedDesc>Добавляет фиктивный ксенотип для использования с модом Venerated Xenotype Flexibility.</FSFTweaksAddXenotypesVeneratedDesc>
+
+  <!-- EN: Coagulate Can Target Self -->
+  <FSFTweaksCoagulateCanTargetSelfTitle>Регенерация может использоваться на себя</FSFTweaksCoagulateCanTargetSelfTitle>
+  <!-- EN: Allows the Sanguophages to target themselves with the Coagulate power. -->
+  <FSFTweaksCoagulateCanTargetSelfDesc>Сангофаги могут использовать способность "Регенерация" на себе.</FSFTweaksCoagulateCanTargetSelfDesc>
+  
+  <!-- EN: Genetics Settings -->
+  <FSFTweaksGeneticsSettingsTitle>Настройки генетики</FSFTweaksGeneticsSettingsTitle>
+  <!-- EN: Provides a suite of options related to Genetics.  This might include adding new genes, tweaking gene related buildings or other similar things. -->
+  <FSFTweaksGeneticsOnDesc>Предоставляет набор опций, связанных с генетикой.</FSFTweaksGeneticsOnDesc>  
+  <!-- EN: Multiple Birth Gene -->
+  <FSFTweaksMultipleBirthGeneTitle>Ген многоплодности</FSFTweaksMultipleBirthGeneTitle>
+  <!-- EN: Adds a new gene that allows pawns to rarely give birth to multiple babies.  With the gene there is a 97% chance of one baby, a 1% chance of twins, a 1% chance of triplets and a 1% chance of quads. -->
+  <FSFTweaksMultipleBirthGeneDesc>Добавляет ген, позволяющий изредка рожать несколько детей за раз.</FSFTweaksMultipleBirthGeneDesc>
+  <!-- EN: Twins Birth Gene -->
+  <FSFTweaksTwinsBirthGeneTitle>Ген двойни</FSFTweaksTwinsBirthGeneTitle>
+  <!-- EN: Adds a new gene that causes a pawn to always give birth to twins. -->
+  <FSFTweaksTwinsBirthGeneDesc>Добавляет ген, заставляющий всегда рожать двойню.</FSFTweaksTwinsBirthGeneDesc>
+  <!-- EN: No RNG Gene Tools -->
+  <FSFTweaksNoRNGGeneToolsTitle>Генетические инструменты без случайности</FSFTweaksNoRNGGeneToolsTitle>
+  <!-- EN: Changes the randomness of the normal Gene Tools from Alpha Genes to use the Archotech variant which allows you to specifically target a gene of your choice. -->
+  <FSFTweaksNoRNGGeneToolsDesc>Делает обычные генетические инструменты из Alpha Genes неслучайными, как аркотех-варианты.</FSFTweaksNoRNGGeneToolsDesc>
+
+  <!-- EN: Growth Vat No Default Settings -->
+  <FSFTweaksGrowthVatNoDefaultSettingsTitle>Капсула роста без настроек по умолчанию</FSFTweaksGrowthVatNoDefaultSettingsTitle>
+  <!-- EN: When enabled Growth Vats will no longer have any default settings for nutrition.\nNote: This tweak is not needed if No Default Storage Settings is enabled but it will not cause issues if it is. -->
+  <FSFTweaksGrowthVatNoDefaultSettingsDesc>Отключает настройки питания по умолчанию для капсул роста.</FSFTweaksGrowthVatNoDefaultSettingsDesc>
+
+  <!-- EN: Hemogen For Food -->
+  <FSFTweaksHemogenForFoodTitle>Гемоген как еда</FSFTweaksHemogenForFoodTitle>
+  <!-- EN: Changes the preferability on Hemogen Packs so pawns will prioritise them as meals.  Also changes the nutrition they provide to match meals. -->
+  <FSFTweaksHemogenForFoodDesc>Меняет предпочтительность и питательность пакетов гемогена, чтобы соответствующие ксенотипы считали их едой.</FSFTweaksHemogenForFoodDesc>
+  
+  <!-- EN: Human Reproduction Settings -->
+  <FSFTweaksReproductonSettingsTitle>Настройки размножения людей</FSFTweaksReproductonSettingsTitle> 
+  <!-- EN: Provides a suite of options to adjust how fertility, lactation and pregnancy functions. -->
+  <FSFTweaksHumanReproductonOnDesc>Предоставляет набор опций для настройки фертильности, лактации и беременности.</FSFTweaksHumanReproductonOnDesc>   
+  <!-- EN: Lactating Doesn't Lower Fertility -->
+  <FSFTweaksLactatingNoFertilityMalusTitle>Лактация не снижает фертильность</FSFTweaksLactatingNoFertilityMalusTitle>  
+  <!-- EN: Removes the massive fertility reduction for people who are lactating. -->
+  <FSFTweaksLactatingNoFertilityMalusDesc>Убирает большое снижение фертильности у кормящих.</FSFTweaksLactatingNoFertilityMalusDesc> 
+  <!-- EN: Primitive Fertility Procedures -->
+  <FSFTweaksNeolithicFertilityProceduresTitle>Примитивные процедуры фертильности</FSFTweaksNeolithicFertilityProceduresTitle>
+  <!-- EN: Adds a new research project for the Neolithic era which provides surgery recipes that use medicine for boosting/inhibiting fertility, inducing/stopping lactation and sterilizing pawns.  Locks the sterilize animal and terminate pregnancy surgery recipes to this research.  Also makes this research a requirement for the Fertility Procedures research but lowers the research cost to compensate. -->
+  <FSFTweaksNeolithicFertilityProceduresDesc>Добавляет исследование для неолита, открывающее хирургические операции по контролю фертильности и лактации.</FSFTweaksNeolithicFertilityProceduresDesc>  
+  <!-- EN: Lactation Duration -->
+  <FSFTweaksLactationDurationTitle>Продолжительность лактации</FSFTweaksLactationDurationTitle>
+  <!-- EN: Lactation Duration In Days -->
+  <FSFTweaksLactationDuration>Продолжительность лактации (в днях):</FSFTweaksLactationDuration>   
+  <!-- EN: Input a value to set the duration of Lactating.\nThe Vanilla value is 10 days. -->
+  <FSFTweaksLactationDurationDesc>Установите продолжительность лактации в днях.\nПо умолчанию: 10 дней.</FSFTweaksLactationDurationDesc>   
+  <!-- EN: Lactation Recharge Speed -->
+  <FSFTweaksLactationRechargeSpeedTitle>Скорость восполнения молока</FSFTweaksLactationRechargeSpeedTitle> 
+  <!-- EN: Lactation Recharge Speed in Ticks -->
+  <FSFTweaksLactationRechargeSpeed>Скорость восполнения молока (в тиках):</FSFTweaksLactationRechargeSpeed>   
+  <!-- EN: Input a value to set how long it takes a person's breasts to reach a full state.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 15000 ticks, a total of 6 hours, it's commented as 2 hours to feed a child and 4 hours to recharge. -->
+  <FSFTweaksLactationRechargeSpeedDesc>Введите значение в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 15000 тиков (6 часов).</FSFTweaksLactationRechargeSpeedDesc>
+  <!-- EN: Warning: Changing this value changes the required food intake of the lactating pawn.  Making it very low will cause the pawn to require a massive amount of food. -->
+  <FSFTweaksLactationRechargeSpeedWarning>Предупреждение: изменение этого значения влияет на потребность в еде у кормящей пешки.</FSFTweaksLactationRechargeSpeedWarning>   
+  <!-- EN: Ovum Extracted Duration -->
+  <FSFTweaksOvumExtractedDurationTitle>Интервал овуляции</FSFTweaksOvumExtractedDurationTitle>
+  <!-- EN: Ovum Extracted Duration in Ticks -->
+  <FSFTweaksOvumExtractedDuration>Интервал овуляции (в тиках):</FSFTweaksOvumExtractedDuration> 
+  <!-- EN: Input a value to set how long it takes a woman's ovum to regenerate.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 600000 ticks (10 Days). -->
+  <FSFTweaksOvumExtractedDurationDesc>Введите значение в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 600000 тиков (10 дней).</FSFTweaksOvumExtractedDurationDesc> 
+  <!-- EN: Human Pregnancy Duration -->
+  <FSFTweaksHumanPregnancyTitle>Продолжительность беременности человека</FSFTweaksHumanPregnancyTitle> 
+  <!-- EN: Pregnancy Duration In Days -->
+  <FSFTweaksHumanPregnancyDays>Продолжительность беременности (в днях):</FSFTweaksHumanPregnancyDays> 
+  <!-- EN: Input a value to set the duration of Human Pregnancies.\nThe Vanilla value is 18 days. -->
+  <FSFTweaksHumanPregnancyDaysDesc>Введите продолжительность беременности человека в днях.\nПо умолчанию: 18 дней.</FSFTweaksHumanPregnancyDaysDesc> 
+  <!-- EN: Human Postpartum Exhaustion Duration -->
+  <FSFTweaksPostpartumDurationTitle>Продолжительность послеродового истощения</FSFTweaksPostpartumDurationTitle> 
+  <!-- EN: Postpartum Duration In Ticks -->
+  <FSFTweaksPostpartumDuration>Продолжительность послеродового истощения (в тиках):</FSFTweaksPostpartumDuration> 
+  <!-- EN: Input a value to set the duration of Human Postpartum Exhaustion.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 40000 ticks (16 hours). -->
+  <FSFTweaksPostpartumDurationDesc>Введите значение в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 40000 тиков (16 часов).</FSFTweaksPostpartumDurationDesc> 
+  <!-- EN: Alpha Genes Asexual Fission Interval -->
+  <FSFTweaksAGAsexualFissionDaysTitle>Интервал бесполого деления (Alpha Genes)</FSFTweaksAGAsexualFissionDaysTitle> 
+  <!-- EN: Asexual Fission Interval In Days -->
+  <FSFTweaksAGAsexualFissionDays>Интервал бесполого деления</FSFTweaksAGAsexualFissionDays> 
+  <!-- EN: Input a value to set the Asexual Fission Interval for the Alpha Genes Asexual Fission gene.\nThe Vanilla value is 25 days. -->
+  <FSFTweaksAGAsexualFissionDaysDesc>Введите интервал бесполого деления в днях.\nПо умолчанию: 25 дней.</FSFTweaksAGAsexualFissionDaysDesc> 
+  <!-- EN: Alpha Genes Oviparous Egg Laying Interval -->
+  <FSFTweaksAGEggLayDaysTitle>Интервал откладки яиц (Alpha Genes)</FSFTweaksAGEggLayDaysTitle> 
+  <!-- EN: Oviparous Egg Laying Interval In Days -->
+  <FSFTweaksAGEggLayDays>Интервал откладки яиц</FSFTweaksAGEggLayDays> 
+  <!-- EN: Input a value to set the Oviparous Egg Laying Interval for the Alpha Genes Oviparous gene.  The progress will count up to 50% of this value and remain there until the female is fertilized.\nThe Vanilla value is 9 days. -->
+  <FSFTweaksAGEggLayDaysDesc>Введите интервал откладки яиц в днях.\nПо умолчанию: 9 дней.</FSFTweaksAGEggLayDaysDesc> 
+  <!-- EN: Alpha Genes Oviparous Egg Days To Hatch -->
+  <FSFTweaksAGEggHatchDaysTitle>Время вылупления яиц (Alpha Genes)</FSFTweaksAGEggHatchDaysTitle> 
+  <!-- EN: Oviparous Egg Days To Hatch -->
+  <FSFTweaksAGEggHatchDays>Время вылупления</FSFTweaksAGEggHatchDays> 
+  <!-- EN: Input a value to set how long it takes for Alpha Genes Human Eggs to hatch.\nThe Vanilla value is 15 days. -->
+  <FSFTweaksAGEggHatchDaysDesc>Введите время вылупления человеческих яиц в днях.\nПо умолчанию: 15 дней.</FSFTweaksAGEggHatchDaysDesc><!-- EN: Alpha Genes Parasitic Implantation Days -->
+  <FSFTweaksAGParasiticImplantationDaysTitle>Время паразитической имплантации (Alpha Genes)</FSFTweaksAGParasiticImplantationDaysTitle> 
+  <!-- EN: Parasitic Implantation Duration In Days -->
+  <FSFTweaksAGParasiticImplantationDays>Время паразитической имплантации</FSFTweaksAGParasiticImplantationDays> 
+  <!-- EN: Input a value to set the duration of Parasitic Implantation for the Alpha Genes Parasitic Implantation gene.\nThe Vanilla value is 15 days. -->
+  <FSFTweaksAGParasiticImplantationDaysDesc>Введите продолжительность паразитической имплантации в днях.\nПо умолчанию: 15 дней.</FSFTweaksAGParasiticImplantationDaysDesc> 
+  <!-- EN: VRE Phytokin Sapling Fatigue Duration -->
+  <FSFTweaksSaplingFatigueTitle>Продолжительность усталости саженца (VRE Фитокины)</FSFTweaksSaplingFatigueTitle> 
+  <!-- EN: Sapling Fatigue Duration In Days -->
+  <FSFTweaksSaplingFatigueDays>Продолжительность усталости саженца</FSFTweaksSaplingFatigueDays> 
+  <!-- EN: Input a value to set the duration for VRE Phytokin Sapling Fatigue.\nThe Vanilla value is 18 days. -->
+  <FSFTweaksSaplingFatigueDaysDesc>Введите продолжительность усталости саженца в днях.\nПо умолчанию: 18 дней.</FSFTweaksSaplingFatigueDaysDesc> 
+  <!-- EN: VRE Saurid Oviparous Egg Days To Hatch -->
+  <FSFTweaksVRESauridEggHatchDaysTitle>Время вылупления яиц (VRE Завриды)</FSFTweaksVRESauridEggHatchDaysTitle> 
+  <!-- EN: Oviparous Egg Days To Hatch -->
+  <FSFTweaksVRESauridEggHatchDays>Время вылупления яиц</FSFTweaksVRESauridEggHatchDays> 
+  <!-- EN: Input a value to set how long it takes for VRE Saurid Human Eggs to hatch.\nThe Vanilla value is 18 days. -->
+  <FSFTweaksVRESauridEggHatchDaysDesc>Введите время вылупления человеческих яиц завридов в днях.\nПо умолчанию: 18 дней.</FSFTweaksVRESauridEggHatchDaysDesc>   
+  <!-- EN: VRE Saurid Oviparous Egg Fatigue Duration -->
+  <FSFTweaksVRESauridEggFatigueDaysTitle>Продолжительность усталости от яйцекладки (VRE Завриды)</FSFTweaksVRESauridEggFatigueDaysTitle> 
+  <!-- EN: Oviparous Egg Days To Hatch -->
+  <FSFTweaksVRESauridEggFatigueDays>Продолжительность усталости от яйцекладки</FSFTweaksVRESauridEggFatigueDays> 
+  <!-- EN: Input a value to set how long it takes for VRE Saurid Human Eggs to hatch.\nThe Vanilla value is 18 days. -->
+  <FSFTweaksVRESauridEggFatigueDaysDesc>Введите продолжительность усталости от яйцекладки в днях.\nПо умолчанию: 18 дней.</FSFTweaksVRESauridEggFatigueDaysDesc>     
+  
+  <!-- EN: Immortal Mechanoid Chips -->
+  <FSFTweaksImmortalMechanoidChipsTitle>Бессмертные чипы механитоидов</FSFTweaksImmortalMechanoidChipsTitle>
+  <!-- EN: Makes the special mechanoid chips immortal, they have no health, can't catch fire, deteriorate from weather or be damaged from combat. -->
+  <FSFTweaksImmortalMechanoidChipsDesc>Специальные чипы механитоидов становятся неуязвимыми.</FSFTweaksImmortalMechanoidChipsDesc>
+
+  <!-- EN: Killed A Child Malus -->
+  <FSFTweaksKilledAChildMalusTitle>Штраф за убийство ребенка</FSFTweaksKilledAChildMalusTitle>
+  <!-- EN: Changes the negative social opinion modifier to 0 for when someone kills a child.  Also changes the Killed Child mood debuff to use DeathMemory as a ParentDef which some mods use to alter how pawns see death.  \nNote: The social opinion change also unfortunately affects killing colony children.  There is a flag so it only affects colonists however this does not seem to function on this thought for some reason. -->
+  <FSFTweaksKilledAChildMalusDesc>Убирает негативное общественное мнение и настроение за убийство ребенка.\nПримечание: также влияет на убийство детей колонии.</FSFTweaksKilledAChildMalusDesc>
+
+  <!-- EN: Larger Gene Banks -->
+  <FSFTweaksLargerGenebanksTitle>Увеличенные генобанки</FSFTweaksLargerGenebanksTitle>
+  <!-- EN: Allows you to customise the amount of Genepacks a Gene Bank can hold. -->
+  <FSFTweaksLargerGenebanksOnDesc>Позволяет настроить вместимость генобанков.</FSFTweaksLargerGenebanksOnDesc>
+  <!-- EN: Gene Bank Storage Limit -->
+  <FSFTweaksLargerGenebanks>Лимит хранения генобанка:</FSFTweaksLargerGenebanks>
+  <!-- EN: Input a value to adjust the capacity of Gene Banks.  The value is how many Genepacks can be stored per Gene Bank.\nThe Vanilla value is 4, the texture has 8 slots, input whatever you want. -->
+  <FSFTweaksLargerGenebanksDesc>Введите значение для настройки вместимости генобанков.\nПо умолчанию: 4.</FSFTweaksLargerGenebanksDesc>
+
+  <!-- EN: Love Is Blind -->
+  <FSFTweaksLoveIsBlindTitle>Любовь слепа</FSFTweaksLoveIsBlindTitle>
+  <!-- EN: Removes the romance chance reduction from genes allowing pawns to fall in love with whoever they like. -->
+  <FSFTweaksLoveIsBlindDesc>Убирает снижение шанса романтики от генов.</FSFTweaksLoveIsBlindDesc>
+
+  <!-- EN: Mechanoids and Mechanitors -->
+  <FSFTweaksBiotechMechsTitle>Механоиды и Механиторы</FSFTweaksBiotechMechsTitle>
+  <!-- EN: Allows you to customise various aspects relating to mechanoids, mechanitors and wastepack management. -->
+  <FSFTweaksBiotechMechsOnDesc>Позволяет настроить различные аспекты, связанные с механоидами, механиторами и отходами.</FSFTweaksBiotechMechsOnDesc>
+  <!-- EN: Mechanoid Wastepacks Per Recharge -->
+  <FSFTweaksMechanoidRechargeWaste>Отходов за перезарядку механоида:</FSFTweaksMechanoidRechargeWaste>
+  <!-- EN: Input a value to adjust the amount of Wastepacks mechanoids generate per recharge.  The value itself is multiplied by the mechanoids bandwidth consumption.\nThe Vanilla value is 5. -->
+  <FSFTweaksMechanoidRechargeWasteDesc>Введите значение для настройки количества отходов, производимых механоидом за перезарядку. Фактическое количество умножается на потребление полосы пропускания.\nПо умолчанию: 5.</FSFTweaksMechanoidRechargeWasteDesc>
+  <!-- EN: Wastepack Atomizer Power Consumption -->
+  <FSFTweaksWastepackAtomizerPower>Потребление энергии атомайзером отходов:</FSFTweaksWastepackAtomizerPower>
+  <!-- EN: Wastepack Atomizer Wastepack Stack Limit -->
+  <FSFTweaksWastepackAtomizerStackLimit>Лимит стака отходов в атомайзере:</FSFTweaksWastepackAtomizerStackLimit>
+  <!-- EN: Wastepack Atomizer Ticks Required to Destroy a Wastepack -->
+  <FSFTweaksWastepackAtomizerSpeed>Тиков на уничтожение упаковки отходов:</FSFTweaksWastepackAtomizerSpeed>
+  <!-- EN: Input values to adjust statistics of the WastePack Atomizer.  Ticks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nVanilla Values 400, 10, 30000. -->
+  <FSFTweaksWastepackAtomizerSpeedDesc>Настройте характеристики атомайзера отходов. Тики: 2500 = 1 час игры.\nПо умолчанию: 400, 10, 30000.</FSFTweaksWastepackAtomizerSpeedDesc>
+
+  <!-- EN: More Children Clothing -->
+  <FSFTweaksMoreChildrenClothingTitle>Больше детской одежды</FSFTweaksMoreChildrenClothingTitle>
+  <!-- EN: Changes numerous clothing items so they can be worn by children.  This may include hats, gloves, boots and utility items.\nNote: Some Utility items may look overly large or not sit right.  Fixing this would require adding new child variants of the items so I opted for including them vs not including them. -->
+  <FSFTweaksMoreChildrenClothingDesc>Позволяет детям носить больше предметов одежды и снаряжения.\nПримечание: Некоторые предметы могут неправильно отображаться на детях.</FSFTweaksMoreChildrenClothingDesc>
+
+  <!-- EN: More Genepacks On Traders -->
+  <FSFTweaksMoreGenepacksOnTradersTitle>Больше генных пакетов у торговцев</FSFTweaksMoreGenepacksOnTradersTitle>
+  <!-- EN: Changes the traders stock for Genepacks and Archite Capsules to the input amount. -->
+  <FSFTweaksMoreGenepacksOnTradersOnDesc>Изменяет количество генных пакетов и архитных капсул у торговцев.</FSFTweaksMoreGenepacksOnTradersOnDesc>
+  <!-- EN: Genepack Amount Minimum Range -->
+  <FSFTweaksMoreGenepacksOnTradersGenepackMin>Мин. количество генных пакетов:</FSFTweaksMoreGenepacksOnTradersGenepackMin>
+  <!-- EN: Genepack Amount Maximum Range -->
+  <FSFTweaksMoreGenepacksOnTradersGenepackMax>Макс. количество генных пакетов:</FSFTweaksMoreGenepacksOnTradersGenepackMax>
+  <!-- EN: Archite Capsule Minimum Range -->
+  <FSFTweaksMoreGenepacksOnTradersArchiteCapulesMin>Мин. количество архитных капсул:</FSFTweaksMoreGenepacksOnTradersArchiteCapulesMin>
+  <!-- EN: Archite Capsule Maximum Range -->
+  <FSFTweaksMoreGenepacksOnTradersArchiteCapulesMax>Макс. количество архитных капсул:</FSFTweaksMoreGenepacksOnTradersArchiteCapulesMax>
+  <!-- EN: Changes the traders stock for Genepacks and Archite Capsules to the input amount.  Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (5-6, 6-7). -->
+  <FSFTweaksMoreGenepacksOnTradersDesc>Настройте диапазоны количества генных пакетов и архитных капсул у торговцев.\nПо умолчанию: (5-6, 6-7).</FSFTweaksMoreGenepacksOnTradersDesc>
+  <!-- EN: More Polux Seeds On Traders -->
+  <FSFTweaksMoreTraderItemsPoluxSeedTitle>Больше семян Полукса у торговцев</FSFTweaksMoreTraderItemsPoluxSeedTitle>
+  <!-- EN: Causes exotic traders and empire traders to stock extra Polux Seeds. -->
+  <FSFTweaksMoreTraderItemsPoluxSeedOnDesc>Заставляет экзотических и имперских торговцев иметь дополнительные семена полукса.</FSFTweaksMoreTraderItemsPoluxSeedOnDesc>
+  <!-- EN: Polux Seed Amount Minimum Range -->
+  <FSFTweaksMoreTraderItemsPoluxSeedMin>Мин. количество семян Полукса:</FSFTweaksMoreTraderItemsPoluxSeedMin>
+  <!-- EN: Polux Seed Amount Maximum Range -->
+  <FSFTweaksMoreTraderItemsPoluxSeedMax>Макс. количество семян Полукса:</FSFTweaksMoreTraderItemsPoluxSeedMax>
+  <!-- EN: Causes exotic traders and empire traders to stock extra Polux Seeds.  Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (0-1). -->
+  <FSFTweaksMoreTraderItemsPoluxSeedDesc>Настройте диапазон количества дополнительных семян Полукса.\nПо умолчанию: 0-1.</FSFTweaksMoreTraderItemsPoluxSeedDesc>
+
+  <!-- EN: Pollution Pumps -->
+  <FSFTweaksPollutionPumpsTitle>Насосы очистки загрязнения</FSFTweaksPollutionPumpsTitle>
+  <!-- EN: Allows you to customise the statistics of Pollution Pumps. -->
+  <FSFTweaksPollutionPumpsOnDesc>Позволяет настроить характеристики насосов очистки загрязнения.</FSFTweaksPollutionPumpsOnDesc>
+  <!-- EN: Power Usage -->
+  <FSFTweaksPollutionPumpsPower>Потребление энергии:</FSFTweaksPollutionPumpsPower>
+  <!-- EN: Radius -->
+  <FSFTweaksPollutionPumpsRadius>Радиус:</FSFTweaksPollutionPumpsRadius>  
+  <!-- EN: Tiles Per Wastepack -->
+  <FSFTweaksPollutionPumpsWaste>Клеток на упаковку отходов:</FSFTweaksPollutionPumpsWaste>
+  <!-- EN: Ticks Per Interval -->
+  <FSFTweaksPollutionPumpsInterval>Интервал (тиков):</FSFTweaksPollutionPumpsInterval>
+  <!-- EN: Input values to adjust the various statistics of Pollution Pumps.  The Interval value is written in ticks.\nTicks are a game term for time.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nVanilla Values 200, 10, 6, 15000.  Based on these numbers the pump can cover 372 tiles, it cleans 1 tile every 6 hours which takes 93 days and produces 62 Wastepacks. -->
+  <FSFTweaksPollutionPumpsDesc>Настройте характеристики насосов очистки загрязнения. Тики: 2500 = 1 час игры.\nПо умолчанию: 200, 10, 6, 15000.</FSFTweaksPollutionPumpsDesc>
+
+  <!-- EN: Xenogene Regrow Time -->
+  <FSFTweaksXenogeneRegrowTimeTitle>Время восстановления ксеногенов</FSFTweaksXenogeneRegrowTimeTitle>
+  <!-- EN: Allows you to adjust the time it takes for Xenogenes to regrow. -->
+  <FSFTweaksXenogeneRegrowTimeOnDesc>Позволяет настроить время, необходимое для восстановления ксеногенов.</FSFTweaksXenogeneRegrowTimeOnDesc>
+  <!-- EN: Xenogene Regrow Time Minimum Range -->
+  <FSFTweaksXenogeneRegrowTimeMin>Мин. время восстановления (тиков):</FSFTweaksXenogeneRegrowTimeMin>
+  <!-- EN: Xenogene Regrow Time Maximum Range -->
+  <FSFTweaksXenogeneRegrowTimeMax>Макс. время восстановления (тиков):</FSFTweaksXenogeneRegrowTimeMax>
+  <!-- EN: Input a value to adjust the regrowth time of Xenogenes.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 6000000 (100 days) to 8400000 (140 Days).\nSome values for easy input, (5 Days) 300000 ticks, (10 Days) 600000 ticks, (15 Days) 900000 ticks, (30 Days) 1800000 ticks, (45 Days) 2700000 ticks, (60 Days) 3600000 ticks. -->
+  <FSFTweaksXenogeneRegrowTimeDesc>Введите значения в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 6000000 (100 дней) до 8400000 (140 дней).</FSFTweaksXenogeneRegrowTimeDesc>
+
+
+  <!-- EN: Ideology Tweaks -->
+  <FSFTweaksIdeologyTweaksTitle>Ideology</FSFTweaksIdeologyTweaksTitle>
+  <!-- EN: Misc -->
+  <FSFTweaksMiscTitle>Разное</FSFTweaksMiscTitle>
+  <!-- EN: Precepts and Memes -->
+  <FSFTweaksPreceptsandMemesTitle>Заповеди и мемы</FSFTweaksPreceptsandMemesTitle>
+  <!-- EN: Roles -->
+  <FSFTweaksRolesTitle>Роли</FSFTweaksRolesTitle>  
+
+  <!-- EN: All Roles Are Capable -->
+  <FSFTweaksAllRolesAreCapableTitle>Все роли способны</FSFTweaksAllRolesAreCapableTitle>
+  <!-- EN: Removes all the disabled worktypes from all ideologion roles. -->
+  <FSFTweaksAllRolesAreCapableDesc>Удаляет все запрещенные типы работ у всех ролей идеологии.</FSFTweaksAllRolesAreCapableDesc>
+
+  <!-- EN: Archonexus Radius -->
+  <FSFTweaksArchonexusRadiusTitle>Радиус Архонексуса</FSFTweaksArchonexusRadiusTitle>
+  <!-- EN: Scales down the radius of the Archonexus's effects on the initial structures so it expands only slightly out from the towers.  This allows you to safely build and plant around the Archonexus while still allowing it to produce its effects.  The number and density of anima grass has also been doubled. -->
+  <FSFTweaksArchonexusRadiusDesc>Уменьшает радиус действия Архонексуса на начальные структуры и удваивает количество анима-травы.</FSFTweaksArchonexusRadiusDesc>
+
+  <!-- EN: Artists Are Production Specialists -->
+  <FSFTweaksArtistsAreProductionSpecialistsTitle>Художники — производственные специалисты</FSFTweaksArtistsAreProductionSpecialistsTitle>
+  <!-- EN: Changes the Production Specialist role to include Artistic as a viable skill. -->
+  <FSFTweaksArtistsAreProductionSpecialistsDesc>Включает навык "Творчество" в бонусы роли "Производственный специалист".</FSFTweaksArtistsAreProductionSpecialistsDesc>
+
+  <!-- EN: Better Mining Worksite Resources -->
+  <FSFTweaksMiningWorksiteResourcesTitle>Лучшие ресурсы на горнодобывающих участках</FSFTweaksMiningWorksiteResourcesTitle>
+  <!-- EN: Changes Mining Worksites so they can spawn with extra resource types like Jade, Plasteel and Uranium.  The weighting odds are balanced around the Deep Drill commonality. -->
+  <FSFTweaksMiningWorksiteResourcesDesc>Горнодобывающие участки могут содержать дополнительные типы ресурсов: нефрит, пласталь, уран.</FSFTweaksMiningWorksiteResourcesDesc>
+
+  <!-- EN: Berserk Trance No Mental Break -->
+  <FSFTweaksBerserkTranceNoMentalBreakTitle>Боевой транс берсерка без психического срыва</FSFTweaksBerserkTranceNoMentalBreakTitle>
+  <!-- EN: Removes the mental break from the berserk trance.  This allows you to continue controlling your pawn while the ability is active. -->
+  <FSFTweaksBerserkTranceNoMentalBreakDesc>Удаляет психический срыв из способности "Боевой транс".</FSFTweaksBerserkTranceNoMentalBreakDesc>
+
+  <!-- EN: Biosculpter Pod No Default Settings -->
+  <FSFTweaksBiosculpterPodNoDefaultSettingsTitle>Биоскульптор без настроек по умолчанию</FSFTweaksBiosculpterPodNoDefaultSettingsTitle>
+  <!-- EN: When enabled Biosculpter Pods will no longer have any default settings for nutrition.\nNote: This tweak is not needed if No Default Storage Settings is enabled but it will not cause issues if it is. -->
+  <FSFTweaksBiosculpterPodNoDefaultSettingsDesc>Отключает настройки питания по умолчанию для биоскульпторов.</FSFTweaksBiosculpterPodNoDefaultSettingsDesc>
+
+  <!-- EN: Biosculpter Pod Restore All Body Parts -->
+  <FSFTweaksBiosculpterPodRestoreAllBodyPartsTitle>Биоскульптор восстанавливает все части тела</FSFTweaksBiosculpterPodRestoreAllBodyPartsTitle>
+  <!-- EN: When enabled the Biosculpter Pods Bioregeneration cycle will restore all body parts.  This includes all organs, bones and limbs. -->
+  <FSFTweaksBiosculpterPodRestoreAllBodyPartsDesc>Цикл биовосстановления биоскульптора теперь восстанавливает все части тела.</FSFTweaksBiosculpterPodRestoreAllBodyPartsDesc>
+
+  <!-- EN: Conversion Ritual Effectiveness -->
+  <FSFTweaksConversionRitualEffectivenessTitle>Эффективность обряда обращения</FSFTweaksConversionRitualEffectivenessTitle>
+  <!-- EN: Allows you to customise the cooldown, chance and certainly gain/loss when performing conversion rituals. -->
+  <FSFTweaksConversionRitualEffectivenessOnDesc>Позволяет настроить откат, шансы и изменение уверенности для обрядов обращения.</FSFTweaksConversionRitualEffectivenessOnDesc>
+  <!-- EN: Ticks to Cooldown (2500 is one hour, 60000 is one day) -->
+  <FSFTweaksConversionRitualCooldown>Откат (тиков):</FSFTweaksConversionRitualCooldown>
+  <!-- EN: Terrible Quality Chance {FSFConversionRETerribleChance} -->
+  <FSFTweaksConversionRETerribleChance>Шанс ужасного: {FSFConversionRETerribleChance}</FSFTweaksConversionRETerribleChance>
+  <!-- EN: Terrible Quality Certainly Gain {FSFConversionRETerribleCertainty} -->
+  <FSFTweaksConversionRETerribleCertainty>Изменение уверенности (ужасное): {FSFConversionRETerribleCertainty}</FSFTweaksConversionRETerribleCertainty>
+  <!-- EN: Ineffective Quality Chance {FSFConversionREIneffectiveChance} -->
+  <FSFTweaksConversionREIneffectiveChance>Шанс неэффективного: {FSFConversionREIneffectiveChance}</FSFTweaksConversionREIneffectiveChance>
+  <!-- EN: Ineffective Quality Certainly Gain {FSFConversionREIneffectiveCertainty} -->
+  <FSFTweaksConversionREIneffectiveCertainty>Изменение уверенности (неэффективное): {FSFConversionREIneffectiveCertainty}</FSFTweaksConversionREIneffectiveCertainty>
+  <!-- EN: Effective Quality Chance {FSFConversionREEffectiveChance} -->
+  <FSFTweaksConversionREEffectiveChance>Шанс эффективного: {FSFConversionREEffectiveChance}</FSFTweaksConversionREEffectiveChance>
+  <!-- EN: Effective Quality Certainly Gain -{FSFConversionREEffectiveCertainty} -->
+  <FSFTweaksConversionREEffectiveCertainty>Изменение уверенности (эффективное): -{FSFConversionREEffectiveCertainty}</FSFTweaksConversionREEffectiveCertainty>
+  <!-- EN: Masterful Quality Chance {FSFConversionREMasterfulChance} -->
+  <FSFTweaksConversionREMasterfulChance>Шанс мастерского: {FSFConversionREMasterfulChance}</FSFTweaksConversionREMasterfulChance>
+  <!-- EN: Masterful Quality Certainly Gain -{FSFConversionREMasterfulCertainty} -->
+  <FSFTweaksConversionREMasterfulCertainty>Изменение уверенности (незабываемое): -{FSFConversionREMasterfulCertainty}</FSFTweaksConversionREMasterfulCertainty>
+  <!-- EN: Input values to adjust the resulting Conversion Ritual Effectiveness's chance and certainty for each ritual quality.  Terrible and Ineffective are always negative and Effective and Masterful are always positive.  If you change the ritual chances ensure the four ritual quality chances add up to 100% otherwise there may be issues.\nVanilla Settings (Terrible 0.05, 0.20, Ineffective 0.15, 0.12, Effective 0.60, -0.30, Masterful 0.20, -1.00). -->
+  <FSFTweaksConversionRitualEffectivenessDesc>Настройте шансы и изменение уверенности для каждого качества обряда. Сумма шансов должна быть равна 100%.\nПо умолчанию: (Ужасное 0.05, 0.20; Неэффективное 0.15, 0.12; Эффективное 0.60, -0.30; Мастерское 0.20, -1.00).</FSFTweaksConversionRitualEffectivenessDesc>
+
+  <!-- EN: Embodied Theist Number Of Deities -->
+  <FSFTweaksEmbodiedTheistDeitiesTitle>Количество божеств у воплощенных теистов</FSFTweaksEmbodiedTheistDeitiesTitle>
+  <!-- EN: Changes the minimum and maximum amount of Deities allowed from 2-4 to 1-10. -->
+  <FSFTweaksEmbodiedTheistDeitiesDesc>Изменяет допустимое количество божеств с 2-4 на 1-10.</FSFTweaksEmbodiedTheistDeitiesDesc>
+
+  <!-- EN: More Ideology Colours -->
+  <FSFTweaksMoreIdeologyColoursTitle>Больше цветов для идеологии</FSFTweaksMoreIdeologyColoursTitle>
+  <!-- EN: Adds a collection of colours usable for Ideologies and Clothing. -->
+  <FSFTweaksMoreIdeologyColoursDesc>Добавляет набор цветов для идеологий и одежды.</FSFTweaksMoreIdeologyColoursDesc>
+
+  <!-- EN: Neural Supercharger Cooldown -->
+  <FSFTweaksNeuralSuperchargerCooldownTitle>Откат нейронного усилителя</FSFTweaksNeuralSuperchargerCooldownTitle>
+  <!-- EN: Allows you to customise the cooldown of the Neural Supercharger. -->
+  <FSFTweaksNeuralSuperchargerCooldownOnDesc>Позволяет настроить откат нейронного усилителя.</FSFTweaksNeuralSuperchargerCooldownOnDesc>
+  <!-- EN: Ticks to Recharge -->
+  <FSFTweaksNeuralSuperchargerCooldown>Время перезарядки (тиков):</FSFTweaksNeuralSuperchargerCooldown>
+  <!-- EN: Input a value to adjust the cooldown of the Neural Supercharger.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour and 60000 ticks in one game day.\nThe Vanilla value is 60000 (1 day), set to 0 to remove the cooldown completely. -->
+  <FSFTweaksNeuralSuperchargerCooldownDesc>Введите значение в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 60000 (1 день). 0 убирает откат.</FSFTweaksNeuralSuperchargerCooldownDesc>
+
+  <!-- EN: No Age Restriction For Ideologies -->
+  <FSFTweaksNoAgeRestrictionForIdeologiesTitle>Нет возрастных ограничений для идеологий</FSFTweaksNoAgeRestrictionForIdeologiesTitle>
+  <!-- EN: Changes the restrictions on Ideology roles, rituals and abilities to allow children.  In other words they can do everything adults can do when it comes to Ideology interactions. -->
+  <FSFTweaksNoAgeRestrictionForIdeologiesDesc>Дети могут выполнять все роли, ритуалы и использовать способности идеологии.</FSFTweaksNoAgeRestrictionForIdeologiesDesc>
+
+  <!-- EN: Pain Idealized Pain Threshold -->
+  <FSFTweaksPainIdealizedPainThresholdTitle>Порог боли у идеализаторов боли</FSFTweaksPainIdealizedPainThresholdTitle>
+  <!-- EN: Adds a buff to the Pain Idealized precept that increases the pain shock threshold. -->
+  <FSFTweaksPainIdealizedPainThresholdDesc>Добавляет бафф к заповеди "Боль идеализирована", увеличивающий порог болевого шока.</FSFTweaksPainIdealizedPainThresholdDesc>
+
+  <!-- EN: People Required For Roles -->
+  <FSFTweaksPeopleRequiredForRolesTitle>Люди, необходимые для ролей</FSFTweaksPeopleRequiredForRolesTitle>
+  <!-- EN: Allows you to change the required amount of people for ideology roles to unlock from the 3 to whatever number you want. -->
+  <FSFTweaksPeopleRequiredForRolesOnDesc>Позволяет изменить необходимое количество людей для разблокировки ролей идеологии.</FSFTweaksPeopleRequiredForRolesOnDesc>
+  <!-- EN: People required for roles to activate -->
+  <FSFTweaksPeopleRequiredForRolesNum>Необходимое количество людей:</FSFTweaksPeopleRequiredForRolesNum>
+  <!-- EN: Input a value to adjust the number of people required to activate ideology roles.\nThe Vanilla value is 3 and the minimum is 2 due to there being a minimum of 2 roles for ideologies the leader and moral guide. -->
+  <FSFTweaksPeopleRequiredForRolesDesc>Введите необходимое количество людей для активации ролей идеологии.\nПо умолчанию: 3. Минимум: 2.</FSFTweaksPeopleRequiredForRolesDesc>
+
+  <!-- EN: Raider No Work Speed Malus -->
+  <FSFTweaksRaiderNoWorkSpeedMalusTitle>Нет штрафа к скорости работы у рейдеров</FSFTweaksRaiderNoWorkSpeedMalusTitle>
+  <!-- EN: Removes the work speed penalty from the Raiding precepts. -->
+  <FSFTweaksRaiderNoWorkSpeedMalusDesc>Убирает штраф к скорости работы у заповедей, связанных с рейдерством.</FSFTweaksRaiderNoWorkSpeedMalusDesc>
+
+  <!-- EN: Ranching No Plant Malus -->
+  <FSFTweaksRanchingNoPlantMalusTitle>Скотоводство без штрафа к растениям</FSFTweaksRanchingNoPlantMalusTitle>
+  <!-- EN: Removes the dislike of plants from the Ranching precept. -->
+  <FSFTweaksRanchingNoPlantMalusDesc>Убирает неприязнь к растениям у заповеди "Скотоводство".</FSFTweaksRanchingNoPlantMalusDesc>
+
+  <!-- EN: Roles Don't Require Memes -->
+  <FSFTweaksRolesDontRequireMemesTitle>Роли не требуют мемов</FSFTweaksRolesDontRequireMemesTitle>
+  <!-- EN: Removes the requirement of Memes from Roles and their associated Abilities. -->
+  <FSFTweaksRolesDontRequireMemesDesc>Убирает требование наличия определенных мемов для ролей и их способностей.</FSFTweaksRolesDontRequireMemesDesc>
+  <!-- EN: Warning: Removing the Meme lock will cause all Ideoligions to spawn with every role initially. -->
+  <FSFTweaksRolesDontRequireMemesWarning>Предупреждение: это приведет к тому, что все идеологии будут появляться со всеми ролями изначально.</FSFTweaksRolesDontRequireMemesWarning>
+
+  <!-- EN: Wear Masks With Hats -->
+  <FSFTweaksWearMasksWithHatsTitle>Носить маски со шляпами</FSFTweaksWearMasksWithHatsTitle>
+  <!-- EN: Changes the Visage Mask layer to EyeCover so it can be worn with hats. -->
+  <FSFTweaksWearMasksWithHatsDesc>Изменяет слой лицевой маски, чтобы ее можно было носить со шляпами.</FSFTweaksWearMasksWithHatsDesc>
+
+
+
+  <!-- EN: Royalty Tweaks -->
+  <FSFTweaksRoyaltyTweaksTitle>Royalty</FSFTweaksRoyaltyTweaksTitle>
+
+  <!-- EN: Better Pawn Lending Quest -->
+  <FSFTweaksBetterPawnLendingQuestTitle>Улучшенный квест на предоставление пешек</FSFTweaksBetterPawnLendingQuestTitle>
+  <!-- EN: Changes the Pawn Lending Quest to provide a much larger reward per colonist by smoothing the point curve, making the curve scale up to 10,000 points and adding a multiplier to the formula.  The multiplier itself can be customised. -->
+  <FSFTweaksBetterPawnLendingQuestOnDesc>Увеличивает награду за квест на предоставление пешек.</FSFTweaksBetterPawnLendingQuestOnDesc>
+  <!-- EN: Quest Reward Multiplier -->
+  <FSFTweaksBetterPawnLendingQuest>Множитель награды:</FSFTweaksBetterPawnLendingQuest>
+  <!-- EN: Changes the Pawn Lending Quest to provide a much larger reward per colonist by smoothing the point curve, making the curve scale up to 10,000 points and adding a multiplier to the formula.  The multiplier itself can be customised.\nDefault setting (5) -->
+  <FSFTweaksBetterPawnLendingQuestDesc>Настройте множитель награды за квест.\nПо умолчанию: 5.</FSFTweaksBetterPawnLendingQuestDesc>
+
+  <!-- EN: Buyable Psylink Neuroformers -->
+  <FSFTweaksBuyablePsylinkTitle>Покупаемые нейроформеры пси-связи</FSFTweaksBuyablePsylinkTitle>
+  <!-- EN: Makes Psylink Neuroformers buyable.  Also adds a stock of Psylink Neuroformers to traders based on an input amount and selected factions. -->
+  <FSFTweaksBuyablePsychicStuffOnDesc>Делает нейроформеры пси-связи покупаемыми и добавляет их торговцам.</FSFTweaksBuyablePsychicStuffOnDesc>
+  <!-- EN: Which factions should sell Psylink Neuroformers? -->
+  <FSFTweaksBuyablePsylinkFactionsDesc>Какие фракции должны продавать нейроформеры пси-связи:</FSFTweaksBuyablePsylinkFactionsDesc>
+  <!-- EN: Only the Empire -->
+  <FSFTweaksBuyablePsylinkFactionsEmpire>Только Империя</FSFTweaksBuyablePsylinkFactionsEmpire>
+  <!-- EN: All High Tech Factions -->
+  <FSFTweaksBuyablePsylinkFactionsEveryone>Все высокотехнологичные фракции</FSFTweaksBuyablePsylinkFactionsEveryone>
+  <!-- EN: Psylink Neuroformer Amount Minimum Range -->
+  <FSFTweaksBuyablePsylinkMin>Мин. количество нейроформеров:</FSFTweaksBuyablePsylinkMin>
+  <!-- EN: Psylink Neuroformer Amount Maximum Range -->
+  <FSFTweaksBuyablePsylinkMax>Макс. количество нейроформеров:</FSFTweaksBuyablePsylinkMax>
+  <!-- EN: Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (1-2) -->
+  <FSFTweaksBuyablePsylinkDesc>Настройте диапазон количества нейроформеров пси-связи у торговцев.\nПо умолчанию: 1-2.</FSFTweaksBuyablePsylinkDesc>
+
+  <!-- EN: Buyable Psytrainers -->
+  <FSFTweaksBuyablePsytrainerTitle>Покупаемые пси-тренеры</FSFTweaksBuyablePsytrainerTitle>
+  <!-- EN: Adds a stock of Psytrainers to traders based on an input amount and selected factions.\nNote: By default Psytrainers appear in small numbers on some traders.  This behaviour is unchanged. -->
+  <FSFTweaksBuyablePsytrainerOnDesc>Добавляет пси-тренеры торговцам на основе заданного количества и выбранных фракций.</FSFTweaksBuyablePsytrainerOnDesc>
+  <!-- EN: Which factions should sell Psytrainers? -->
+  <FSFTweaksBuyablePsytrainerFactionsDesc>Какие фракции должны продавать пси-тренеры:</FSFTweaksBuyablePsytrainerFactionsDesc>
+  <!-- EN: Only the Empire -->
+  <FSFTweaksBuyablePsytrainerFactionsEmpire>Только Империя</FSFTweaksBuyablePsytrainerFactionsEmpire>
+  <!-- EN: All High Tech Factions -->
+  <FSFTweaksBuyablePsytrainerFactionsEveryone>Все высокотехнологичные фракции</FSFTweaksBuyablePsytrainerFactionsEveryone>
+  <!-- EN: Psytrainer Types Minimum Range -->
+  <FSFTweaksBuyablePsytrainerMin>Мин. количество типов пси-тренеры:</FSFTweaksBuyablePsytrainerMin>
+  <!-- EN: Psytrainer Types Maximum Range -->
+  <FSFTweaksBuyablePsytrainerMax>Макс. количество типов пси-тренеры:</FSFTweaksBuyablePsytrainerMax>
+  <!-- EN: Psytrainer Amount Per Type Minimum Range -->
+  <FSFTweaksBuyablePsytrainerRangeMin>Мин. количество каждого типа:</FSFTweaksBuyablePsytrainerRangeMin>
+  <!-- EN: Psytrainer Amount Per Type Maximum Range -->
+  <FSFTweaksBuyablePsytrainerRangeMax>Макс. количество каждого типа:</FSFTweaksBuyablePsytrainerRangeMax>
+  <!-- EN: Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (9-10, 1-2) -->
+  <FSFTweaksBuyablePsytrainerDesc>Настройте диапазоны типов и количества пси-тренеров.\nПо умолчанию: типов 9-10, каждого типа 1-2.</FSFTweaksBuyablePsytrainerDesc>
+
+  <!-- EN: Gunlinks Give Mortar Accuracy -->
+  <FSFTweaksGunlinksGiveMortarAccuracyTitle>Прицельные визоры дают точность минометам</FSFTweaksGunlinksGiveMortarAccuracyTitle>
+  <!-- EN: Changes Gunlinks so they also give a bonus to mortar accuracy. -->
+  <FSFTweaksGunlinksGiveMortarAccuracyDesc>Прицельные визоры теперь также увеличивают точность минометов.</FSFTweaksGunlinksGiveMortarAccuracyDesc>
+
+  <!-- EN: Meditation Freedom -->
+  <FSFTweaksMeditationFreedomTitle>Свобода медитации</FSFTweaksMeditationFreedomTitle>
+  <!-- EN: Provides a suite of changes to allow you to set up meditation areas for your psycasters however you please without nerfing their psyfocus gain. -->
+  <FSFTweaksMeditationFreedomOnDesc>Предоставляет набор изменений для свободной организации зон медитации.</FSFTweaksMeditationFreedomOnDesc>
+  <!-- EN: List of active changes.\nMeditation Focus item is available in Architect Menu.\nAnima Grass lifespan has been greatly extended to prevent premature death.\nNegative Artificial Building Radius has been disabled on Anima Trees and Anima Grass.\nAnima Trees can now be moved and planted.\nAnima Trees can be planted adjacent to trees and can be planted under roofs.\nNature Shrines can be built without a Nature Psycaster.</ -->
+  <FSFTweaksMeditationFreedomDesc>Список изменений: добавлен предмет "Фокус медитации", увеличена продолжительность жизни анима-травы, убраны ограничения на строительство рядом с древом анимы, дерево анимы можно перемещать и сажать под крышей, святилища природы можно строить без природного псикастера.</FSFTweaksMeditationFreedomDesc>  
+  <!-- EN: Remove Backstory Requirement for Natural Meditation -->
+  <FSFTweaksMeditationFreedomBackstoryReq>Убрать требование предыстории для природной медитации</FSFTweaksMeditationFreedomBackstoryReq>  
+  <!-- EN: Meditation Focus Strength {FSFMeditationFreedomFocusStr} -->
+  <FSFTweaksMeditationFreedomFocusStr>Сила фокуса медитации: {FSFMeditationFreedomFocusStr}</FSFTweaksMeditationFreedomFocusStr>    
+  <!-- EN: The Meditation Focus is an item that can be freely placed anywhere and allows pawns to meditate with any type of meditation.  This allows you to set up a optimal meditation area however and wherever you like.  The strength of the Meditation Focus can be adjusted via the slider above.  The number listed is the speed at which a pawn gains psyfocus from meditating at the Meditation Focus.  The default is 0.40, the Anima Tree with all bonuses provides 0.36, a Grand Throne with all bonuses provides 0.33. -->
+  <FSFTweaksMeditationFreedomFocusStrDesc>"Фокус медитации" — предмет, позволяющий медитировать с любым типом медитации. Настройте его силу (скорость набора псифокуса).\nПо умолчанию: 0.40.</FSFTweaksMeditationFreedomFocusStrDesc>  
+  <!-- EN: Anima Tree Focus Strength {FSFMeditationFreedomAnimaTreeStr} -->
+  <FSFTweaksMeditationFreedomAnimaTreeStr>Сила дерева анимы: {FSFMeditationFreedomAnimaTreeStr}</FSFTweaksMeditationFreedomAnimaTreeStr>  
+  <!-- EN: The meditation strength of the Anima Tree can be adjusted via the slider above.  The number listed is the base speed at which a pawn gains psyfocus from meditating at the Anima Tree.  The default base speed is 0.28 which excludes attachement bonuses. -->
+  <FSFTweaksMeditationFreedomAnimaTreeStrDesc>Настройте базовую силу дерева анимы (скорость набора псифокуса).\nПо умолчанию: 0.28.</FSFTweaksMeditationFreedomAnimaTreeStrDesc>  
+
+  <!-- EN: More Varied Refugees -->
+  <FSFTweaksMoreVariedRefugeesTitle>Более разнообразные беженцы</FSFTweaksMoreVariedRefugeesTitle>
+  <!-- EN: Changes the Refugee PawnKindDef so the game creates more varied refugees.  This is done by giving them a wider range of item tags and a higher upper limit of money for spawning things.  As a result, refugees can spawn extremely poor (like normal), or they can spawn with armour, guns and bionics.</ -->
+  <FSFTweaksMoreVariedRefugeesDesc>Беженцы становятся более разнообразными: от очень бедных до хорошо экипированных.</FSFTweaksMoreVariedRefugeesDesc>  
+  
+  <!-- EN: No Empire Trading Permit -->
+  <FSFTweaksNoEmpireTradingPermitTitle>Нет разрешения на торговлю с Империей</FSFTweaksNoEmpireTradingPermitTitle>
+  <!-- EN: Removes the need for a trading permit to trade with the empire faction. -->
+  <FSFTweaksNoEmpireTradingPermitDesc>Убирает необходимость разрешения на торговлю с Империей.</FSFTweaksNoEmpireTradingPermitDesc>
+
+  <!-- EN: No Title Required For Concerts -->
+  <FSFTweaksNoTitleConcertsTitle>Без титула для концертов</FSFTweaksNoTitleConcertsTitle>
+  <!-- EN: Removes the royal title requirement from Concerts.  Allowing any pawn to hold a music concert. -->
+  <FSFTweaksNoTitleConcertsDesc>Убирает требование королевского титула для проведения концертов.</FSFTweaksNoTitleConcertsDesc>
+
+  <!-- EN: Normal Fine Carpet -->
+  <FSFTweaksNormalFineCarpetTitle>Обычный качественный ковер</FSFTweaksNormalFineCarpetTitle>
+  <!-- EN: Adds a carpet with identical stats to fine carpet only with the normal carpet texture. -->
+  <FSFTweaksNormalFineCarpetDesc>Добавляет ковер со статистикой качественного ковра, но с текстурой обычного.</FSFTweaksNormalFineCarpetDesc>
+
+  <!-- EN: Remove Techprints -->
+  <FSFTweaksRemoveTechprintsTitle>Убрать технические чертежи</FSFTweaksRemoveTechprintsTitle>
+  <!-- EN: Removes all techprints from the game. -->
+  <FSFTweaksRemoveTechprintsDesc>Убирает все технические чертежи из игры.</FSFTweaksRemoveTechprintsDesc>
+
+  <!-- EN: Anomaly -->
+  <FSFTweaksAnomalyTweaksTitle>Anomaly</FSFTweaksAnomalyTweaksTitle>
+
+  <!-- EN: Shambler Settings -->
+  <FSFTweaksShamblerSettingsTitle>Настройки шамблеров</FSFTweaksShamblerSettingsTitle>
+  <!-- EN: Provides a suite of options to adjust how shamblers function. -->
+  <FSFTweaksShamblerSettingsOnDesc>Предоставляет набор опций для настройки поведения шамблеров.</FSFTweaksShamblerSettingsOnDesc>
+  <!-- EN: Lethal Shambler Infections -->
+  <FSFTweaksLethalShamblersTitle>Смертельные инфекции шамблеров</FSFTweaksLethalShamblersTitle>
+  <!-- EN: Changes Shambler infections from Alpha Genes and Ushankas Biological Warfare to be lethal.  These infections can no longer be tended and the natural immunity gain is non-existent. -->
+  <FSFTweaksLethalShamblersDesc>Делает инфекции от шамблеров (Alpha Genes, Ushankas Biological Warfare) смертельными и неизлечимыми.</FSFTweaksLethalShamblersDesc>
+  <!-- EN: Shamblers Aggro Further -->
+  <FSFTweaksShamblersAggroFurtherTitle>Шамблеры реагируют на более дальние цели</FSFTweaksShamblersAggroFurtherTitle>
+  <!-- EN: Changes the Shambler Acquire Aggro Radius from 20 to 50 and the Keep Aggro Radius from 30 to 60.  This causes Shamblers to seek out targets much further than before. -->
+  <FSFTweaksShamblersAggroFurtherDesc>Увеличивает радиусы агрессии шамблеров.</FSFTweaksShamblersAggroFurtherDesc>
+  <!-- EN: Shamblers Wander Further -->
+  <FSFTweaksShamblersWanderFurtherTitle>Шамблеры бродят дальше</FSFTweaksShamblersWanderFurtherTitle>
+  <!-- EN: Changes the Shambler wander radius from 5 to the maximum 12.  This causes Shamblers to wander and spread out more instead of idling near the map edge. -->
+  <FSFTweaksShamblersWanderFurtherDesc>Увеличивает радиус блуждания шамблеров до максимального (12).</FSFTweaksShamblersWanderFurtherDesc>
+
+  <!-- EN: Alpha Animals Tweaks -->
+  <FSFTweaksAlphaAnimalsTweaksTitle>Alpha Animals</FSFTweaksAlphaAnimalsTweaksTitle>
+
+  <!-- EN: Mime Scenario Setting -->
+  <FSFTweaksMimeScenarioSettingTitle>Настройка мима для сценария</FSFTweaksMimeScenarioSettingTitle>
+  <!-- EN: Modifies the Mime hediff Hiding in Plain Sight to be usable in the scenario settings.  In the scenario editor click Add Part -> Forced Health Condition -> Hiding in Plain Sight.  Set the severity to 1, modify the percentage chance and set the context.\n\nWhen set up this allows you to have Mimes spawn in place of any person in the game based on the percentage you entered.  Mimes can be anywhere and anyone.  For best results disable the mime wanderer event so there's no predictable reveals.\n\nNote: Currently the scenario settings treats colony born children as non player characters upon creation so its possible for them to inherit the mime trait based on your selected odds.  You can use dev mode to remove the hediff should this happen. -->
+  <FSFTweaksMimeScenarioSettingDesc>Позволяет использовать хедифф мима "Прячущийся на виду" в настройках сценария.</FSFTweaksMimeScenarioSettingDesc>
+
+
+
+  <!-- EN: Anthrosonae Tweaks -->
+  <FSFTweaksAnthrosonaeTweaksTitle>Anthrosonae</FSFTweaksAnthrosonaeTweaksTitle>
+
+  <!-- EN: Anthrosonae Animusen -->
+  <FSFTweaksAnthrosonaeAnimusenTitle>Анимусены Антросоны</FSFTweaksAnthrosonaeAnimusenTitle>
+  <!-- EN: Changes the Yttakin from the Biotech DLC to use cosmetic Anthrosonae Anthrowolf genes. -->
+  <FSFTweaksAnthrosonaeAnimusenDesc>Изменяет анимусенов (Biotech DLC), чтобы они использовали косметические гены антроповолков из Anthrosonae.</FSFTweaksAnthrosonaeAnimusenDesc> 
+
+  <!-- EN: Anthrosonae Yttakin -->
+  <FSFTweaksAnthrosonaeYttakinTitle>Иттакины Anthrosonae</FSFTweaksAnthrosonaeYttakinTitle>
+  <!-- EN: Changes the Yttakin from the Biotech DLC to use cosmetic Anthrosonae Anthrowolf genes. -->
+  <FSFTweaksAnthrosonaeYttakinDesc>Изменяет иттакинов (Biotech DLC), чтобы они использовали косметические гены антроповолков из Anthrosonae.</FSFTweaksAnthrosonaeYttakinDesc>
+
+
+
+  <!-- EN: Dubs Bad Hygiene Tweaks -->
+  <FSFTweaksDubsBadHygieneTweaksTitle>Dubs Bad Hygiene</FSFTweaksDubsBadHygieneTweaksTitle>
+
+  <!-- EN: Immortal Pipes -->
+  <FSFTweaksDubsBadHygieneImmortalPipesTitle>Неуязвимые трубы</FSFTweaksDubsBadHygieneImmortalPipesTitle>
+  <!-- EN: Makes pipes immortal, they have no health and can't catch fire. -->
+  <FSFTweaksDubsBadHygieneImmortalPipesDesc>Трубы становятся неуязвимыми и невоспламеняемыми.</FSFTweaksDubsBadHygieneImmortalPipesDesc>
+
+
+
+  <!-- EN: [LTS] Ammunition - Simple Ammo Pack Tweaks -->
+  <FSFTweaksLTSAmmunitionSimpleTweaksTitle>[LTS] Ammunition - Simple Ammo Pack</FSFTweaksLTSAmmunitionSimpleTweaksTitle>
+
+  <!-- EN:Expensive Ammo -->
+  <FSFTweaksLTSExpensiveAmmoTitle>Дорогие боеприпасы</FSFTweaksLTSExpensiveAmmoTitle>
+  <!-- EN: Changes the ammo crafting recipes from LTS to make ammunition more expensive to create.  The values are balanced around the idea that each ingredient will yield 1.5 units of ammo and each recipe will create 60 units of ammo.  The market price is automatically calculated based on the material costs.  Spacer ammo is made with a 1:2 ratio to make it somewhat cheaper than Ultratech ammo. -->
+  <FSFTweaksLTSExpensiveAmmoDesc>Делает рецепты создания боеприпасов из LTS более дорогими.</FSFTweaksLTSExpensiveAmmoDesc>
+
+  <!-- EN: No Kit Movement Speed Malus -->
+  <FSFTweaksLTSKitSpeedMalusTitle>Нет штрафа к скорости от наборов</FSFTweaksLTSKitSpeedMalusTitle>
+  <!-- EN: Removes the movement speed malus from LTS Ammo Kits. -->
+  <FSFTweaksLTSKitSpeedMalusDesc>Убирает штраф к скорости передвижения от наборов боеприпасов LTS.</FSFTweaksLTSKitSpeedMalusDesc>
+
+  <!-- EN: Ammunition Production Customisation -->
+  <FSFTweaksLTSAmmoCraftTitle>Настройка производства боеприпасов</FSFTweaksLTSAmmoCraftTitle>
+  <!-- EN: Allows you to customise how much work is required and how much ammunition is created when you craft a batch of ammunition. -->
+  <FSFTweaksLTSAmmoCraftOnDesc>Позволяет настроить трудозатраты и выходное количество боеприпасов при создании партии.</FSFTweaksLTSAmmoCraftOnDesc>
+  <!-- EN: Primitive Ammunition Yield -->
+  <FSFTweaksLTSAmmoCraftPrimitiveYield>Выходное количество боеприпасов неолтической эры:</FSFTweaksLTSAmmoCraftPrimitiveYield>
+  <!-- EN: Primitive Ammunition Work To Make -->
+  <FSFTweaksLTSAmmoCraftPrimitiveWork>Трудозатраты боеприпасов неолитической эры:</FSFTweaksLTSAmmoCraftPrimitiveWork>
+  <!-- EN: Market Value {FSFLTSAmmoCraftPrimitivePrice} -->
+  <FSFTweaksLTSAmmoCraftPrimitivePrice>Рыночная стоимость: {FSFLTSAmmoCraftPrimitivePrice}</FSFTweaksLTSAmmoCraftPrimitivePrice>
+  <!-- EN: Medieval Ammunition Yield -->
+  <FSFTweaksLTSAmmoCraftMedievalYield>Выходное количество боеприпасов средневековой эры:</FSFTweaksLTSAmmoCraftMedievalYield>
+  <!-- EN: Medieval Ammunition Work To Make -->
+  <FSFTweaksLTSAmmoCraftMedievalWork>Трудозатраты боеприпасов средневековой эры:</FSFTweaksLTSAmmoCraftMedievalWork>
+  <!-- EN: Market Value {FSFLTSAmmoCraftMedievalPrice} -->
+  <FSFTweaksLTSAmmoCraftMedievalPrice>Рыночная стоимость: {FSFLTSAmmoCraftMedievalPrice}</FSFTweaksLTSAmmoCraftMedievalPrice>
+  <!-- EN: Industrial Ammunition Yield -->
+  <FSFTweaksLTSAmmoCraftIndustrialYield>Выходное количество боеприпасов индустриальной эры:</FSFTweaksLTSAmmoCraftIndustrialYield>
+  <!-- EN: Industrial Ammunition Work To Make -->
+  <FSFTweaksLTSAmmoCraftIndustrialWork>Трудозатраты боеприпасов индустриальной эры:</FSFTweaksLTSAmmoCraftIndustrialWork>
+  <!-- EN: Market Value {FSFLTSAmmoCraftIndustrialPrice} -->
+  <FSFTweaksLTSAmmoCraftIndustrialPrice>Рыночная стоимость: {FSFLTSAmmoCraftIndustrialPrice}</FSFTweaksLTSAmmoCraftIndustrialPrice>
+  <!-- EN: Spacer Ammunition Yield -->
+  <FSFTweaksLTSAmmoCraftSpacerYield>Выходное количество боеприпасов космической эры:</FSFTweaksLTSAmmoCraftSpacerYield>
+  <!-- EN: Spacer Ammunition Work To Make -->
+  <FSFTweaksLTSAmmoCraftSpacerWork>Трудозатраты боеприпасов космической эры:</FSFTweaksLTSAmmoCraftSpacerWork>
+  <!-- EN: Market Value {FSFLTSAmmoCraftSpacerPrice} -->
+  <FSFTweaksLTSAmmoCraftSpacerPrice>Рыночная стоимость: {FSFLTSAmmoCraftSpacerPrice}</FSFTweaksLTSAmmoCraftSpacerPrice>
+  <!-- EN: Explosive Ammunition Yield -->
+  <FSFTweaksLTSAmmoCraftExplosiveYield>Выходное количество взрывных боеприпасов:</FSFTweaksLTSAmmoCraftExplosiveYield>
+  <!-- EN: Explosive Ammunition Work To Make -->
+  <FSFTweaksLTSAmmoCraftExplosiveWork>Трудозатраты взрывных боеприпасов:</FSFTweaksLTSAmmoCraftExplosiveWork>
+  <!-- EN: Market Value {FSFLTSAmmoCraftExplosivePrice} -->
+  <FSFTweaksLTSAmmoCraftExplosivePrice>Рыночная стоимость: {FSFLTSAmmoCraftExplosivePrice}</FSFTweaksLTSAmmoCraftExplosivePrice>
+  <!-- EN: Input a value to adjust the values.  The default ammo yield is calculated to be 1.5 of the material cost which follows Rimworld's turret ammo cost logic.  The default work amount is the original scaled down to match the ammo yield.  \nThe LTS Ammo default numbers are Primitive 75/800/0.5, Medieval 75/1600/0.5, Industrial 150/1200/0.5, Spacer 150/4000/1.5, Explosive 150/1200/0.5.  \nThe FSF Tweaks default numbers are Primitive 45/400/0.8, Medieval 23/500/0.8, Industrial 45/600/1.3, Spacer 30/1300/7.0, Explosive 30/400/2.8. -->
+  <FSFTweaksLTSAmmoCraftDesc>Настройте Выходное количество, трудозатраты и стоимость боеприпасов.\nЗначения по умолчанию LTS: (Выход/Работа/Множитель цены) Неолитические 75/800/0.5, Средневековые 75/1600/0.5, Индустриальные 150/1200/0.5, Космические 150/4000/1.5, Взрывные 150/1200/0.5.\nЗначения по умолчанию FSF: Неолитические 45/400/0.8, Средневековые 23/500/0.8, Индустриальные 45/600/1.3, Космические 30/1300/7.0, Взрывные 30/400/2.8.</FSFTweaksLTSAmmoCraftDesc>
+
+
+
+  <!-- EN: Oops All Gene Banks Tweaks -->
+  <FSFTweaksOopsAllGeneBanksTweaksTitle>Oops All Gene Banks Tweaks</FSFTweaksOopsAllGeneBanksTweaksTitle>
+
+  <!-- EN: Larger Gene Banks -->
+  <FSFTweaksOAGNLargerGenebanksTitle>Увеличенные генобанки</FSFTweaksOAGNLargerGenebanksTitle>
+  <!-- EN: Allows you to customise the amount of Genepacks a Gene Archive and Gene Register can hold. -->
+  <FSFTweaksOAGNLargerGenebanksOnDesc>Позволяет настроить вместимость генного архива и генного регистра.</FSFTweaksOAGNLargerGenebanksOnDesc>
+  <!-- EN: Gene Bank Storage Limit -->
+  <FSFTweaksOAGNLargerGeneArchive>Генный архив:</FSFTweaksOAGNLargerGeneArchive>
+  <!-- EN: Gene Bank Storage Limit -->
+  <FSFTweaksOAGNLargerGeneRegister>Генный регистр:</FSFTweaksOAGNLargerGeneRegister>
+  <!-- EN: Input a value to adjust the capacity of Gene Banks.  The value is how many Genepacks can be stored per Gene Bank.\nVanilla value Gene Archive 24, Gene Register 80.  The textures show 48 slots on the Gene Archive and 144 slots on the Gene Register, input whatever you want. -->
+  <FSFTweaksOAGNLargerGenebanksDesc>Настройте вместимость генного архива и регистра.\nПо умолчанию: Архив 24, Регистр 80.</FSFTweaksOAGNLargerGenebanksDesc>
+
+
+
+  <!-- EN: Packs Are Not Belts Tweaks -->
+  <FSFTweaksPacksAreNotBeltsTitle>Packs Are Not Belts</FSFTweaksPacksAreNotBeltsTitle>
+
+  <!-- EN: Grenade Belt Layering -->
+  <FSFTweaksGrenadeBeltLayeringTitle>Слои поясов с гранатами</FSFTweaksGrenadeBeltLayeringTitle>
+  <!-- EN: Changes the wearable grenade belts from Vanilla Weapons Expanded Grenades to use the Artifact layer added by Packs Are Not Belts.\nNote: This tweak requires the Artifact layer to be enabled in the Packs Are Not Belts mod settings. -->
+  <FSFTweaksGrenadeBeltLayeringDesc>Изменяет носимые пояса с гранатами из VWE Grenades, чтобы они использовали слой артефактов из Packs Are Not Belts.\nПримечание: Требует включения слоя артефактов в настройках мода Packs Are Not Belts.</FSFTweaksGrenadeBeltLayeringDesc>
+
+
+
+  <!-- EN: Research Appropriation Tweaks -->
+  <FSFTweaksResearchAppropriationTweaksTitle>Research Appropriation</FSFTweaksResearchAppropriationTweaksTitle>
+
+  <!-- EN: Buyable Research Data -->
+  <FSFTweaksRABuyableResearchDataTitle>Покупаемые исследовательские данные</FSFTweaksRABuyableResearchDataTitle>
+  <!-- EN: Adds tech appropriate Research Data buyable from bases, caravans and orbital traders for all factions.  The amount of which can be customized. -->
+  <FSFTweaksRABuyableResearchDataOnDesc>Добавляет исследовательские данные в продажу у торговцев.</FSFTweaksRABuyableResearchDataOnDesc>
+  <!-- EN: Research Data Amount Minimum Range -->
+  <FSFTweaksRABuyableResearchDataMin>Мин. количество данных:</FSFTweaksRABuyableResearchDataMin>
+  <!-- EN: Research Data Amount Maximum Range -->
+  <FSFTweaksRABuyableResearchDataMax>Макс. количество данных:</FSFTweaksRABuyableResearchDataMax>
+  <!-- EN: Adds tech appropriate Research Data buyable from bases, caravans and orbital traders for all factions.  Input values to adjust the minimum and maximum ranges for the above items.  You can set a minimum and maximum for the range.  The game will then use RNG to determine a number between those two numbers.\nDefault settings (1-3) -->
+  <FSFTweaksRABuyableResearchDataDesc>Настройте диапазон количества исследовательских данных у торговцев.\nПо умолчанию: 1-3.</FSFTweaksRABuyableResearchDataDesc>
+
+
+
+  <!-- EN: SafeJobWorld Tweaks -->
+  <FSFTweaksSafeJobWorldTweaksTitle>SafeJobWorld</FSFTweaksSafeJobWorldTweaksTitle>
+
+  <!-- EN: No Genital Size Debuffs -->
+  <FSFTweaksSJWNoGenitalSizeDebuffsTitle>Нет дебаффов от размера гениталий</FSFTweaksSJWNoGenitalSizeDebuffsTitle>
+  <!-- EN: Removes the Manipulation and Movement debuffs from large genital sizes. -->
+  <FSFTweaksSJWNoGenitalSizeDebuffsDesc>Убирает дебаффы к работе и передвижению от большого размера гениталий.</FSFTweaksSJWNoGenitalSizeDebuffsDesc>
+
+
+
+  <!-- EN: Simple Utilities Ceiling Tweaks -->
+  <FSFTweaksSimpleUtilitiesCeilingTitle>Simple Utilities Ceiling</FSFTweaksSimpleUtilitiesCeilingTitle>
+
+  <!-- EN: Biodome Sunlamp -->
+  <FSFTweaksBiodomeSunlampTitle>Биокупольная солнечная лампа</FSFTweaksBiodomeSunlampTitle>
+  <!-- EN: Adds a sun lamp that requires no power and is designed to act as a transparent biodome ceiling.  It's a simple alternative to mods that add skylights or transparent roofing.  Material cost and work to build should be fairly reasonable as if you're actually building a glass roof. -->
+  <FSFTweaksBiodomeSunlampDesc>Добавляет солнечную лампу, не требующую энергии, для использования в качестве прозрачной крыши биокупола.</FSFTweaksBiodomeSunlampDesc>
+
+
+
+  <!-- EN: Simple Utilities Fridge Tweaks -->
+  <FSFTweaksSimpleUtilitiesFridgeTweaksTitle>Simple Utilities Fridge</FSFTweaksSimpleUtilitiesFridgeTweaksTitle>
+
+  <!-- EN: Cheaper Utilities -->
+  <FSFTweaksSUFCheaperUtilitiesTitle>Дешевле в использовании</FSFTweaksSUFCheaperUtilitiesTitle>
+  <!-- EN: Allows you to customise the power usage on various utilities. -->
+  <FSFTweaksSUFCheaperUtilitiesOnDesc>Позволяет настроить энергопотребление различных холодильников.</FSFTweaksSUFCheaperUtilitiesOnDesc>
+  <!-- EN: Refrigerator -->
+  <FSFTweaksSUFCheaperUtilitiesFridge>Холодильник:</FSFTweaksSUFCheaperUtilitiesFridge>
+  <!-- EN: Double Refrigerator -->
+  <FSFTweaksSUFCheaperUtilitiesDoubleFridge>Двойной холодильник:</FSFTweaksSUFCheaperUtilitiesDoubleFridge>
+  <!-- EN: Input a value to adjust the power usage.\n Vanilla values Refrigerator (Default 80W), Double Refrigerator (Default 150W). -->
+  <FSFTweaksSUFCheaperUtilitiesDesc>Настройте энергопотребление холодильников.\nПо умолчанию: Холодильник 80 Вт, Двойной холодильник 150 Вт.</FSFTweaksSUFCheaperUtilitiesDesc>
+
+
+
+  <!-- EN: Vanilla Expanded Framework Tweaks -->
+  <FSFTweaksVanillaExpandedFrameworkTweaksTitle>Vanilla Expanded Pipe Network</FSFTweaksVanillaExpandedFrameworkTweaksTitle>
+
+  <!-- EN: Vanilla Expanded Pipe Network -->
+  <FSFVEPipeNetworkTitle>Трубопроводная сеть Vanilla Expanded</FSFVEPipeNetworkTitle>
+  <!-- EN: Allows you to customise the storage capacity of various Pipe Networks that use the Vanilla Expanded Pipe Network framework -->
+  <FSFTweaksVEPipeNetworkOnDesc>Позволяет настроить емкость хранилищ различных трубопроводных сетей, использующих фреймворк VE.</FSFTweaksVEPipeNetworkOnDesc>  
+  <!-- EN: Chemfuel Tanks -->
+  <FSFTweaksVEPNChemfuelTank>Баки химтоплива:</FSFTweaksVEPNChemfuelTank>  
+  <!-- EN: Deepchem Tanks -->
+  <FSFTweaksVEPNDeepchemTank>Баки глубинного химтоплива:</FSFTweaksVEPNDeepchemTank>  
+  <!-- EN: Input a value to adjust the amount of fuel that can be stored within the tanks.  The vanilla stack limit of Chemfuel and Deepchem is 150, the tanks take up 6 tiles, at 10x stack size with shelves providing 3 slots per tile the recommended minimum storage capacity is 27,000. -->
+  <FSFTweaksVEPNChemfuelDesc>Настройте емкость баков химтоплива и глубинного химтоплива.\nПо умолчанию: 3000.</FSFTweaksVEPNChemfuelDesc>  
+  <!-- EN: Helixien Gas Tanks-->
+  <FSFTweaksVEPNHelixienTank>Баки газа геликсена:</FSFTweaksVEPNHelixienTank>  
+  <!-- EN: Input a value to adjust the amount of helixien gas that can be stored within the tanks.  The vanilla capacity is 3000. -->
+  <FSFTweaksVEPNHelixienDesc>Настройте емкость баков газа геликсена.\nПо умолчанию: 3000.</FSFTweaksVEPNHelixienDesc>  
+  <!-- EN: Hemogen Tanks-->
+  <FSFTweaksVEPNHemogenTank>Баки гемогена:</FSFTweaksVEPNHemogenTank>  
+  <!-- EN: Input a value to adjust the amount of hemogen that can be stored within the tanks.  The vanilla capacity is 200, the stack limit of Hemogen Packs is 10, the tank takes up 4 tiles. -->
+  <FSFTweaksVEPNHemogenDesc>Настройте емкость баков гемогена.\nПо умолчанию: 200.</FSFTweaksVEPNHemogenDesc>  
+  <!-- EN: Neutroamine Tanks-->
+  <FSFTweaksVEPNNeutroamineTank>Баки нейтроамина:</FSFTweaksVEPNNeutroamineTank>  
+  <!-- EN: Input a value to adjust the amount of neutroamine that can be stored within the tanks.  The vanilla stack limit of Neutroamine is 150, the tank takes up 6 tiles, at 10x stack size with shelves providing 3 slots per tile the recommended minimum storage capacity is 27,000. -->
+  <FSFTweaksVEPNNeutroamineDesc>Настройте емкость баков нейтроамина.\nПо умолчанию: 3000.</FSFTweaksVEPNNeutroamineDesc>  
+  <!-- EN: Nutrient Paste Tanks-->
+  <FSFTweaksVEPNPasteTank>Баки питательной пасты:</FSFTweaksVEPNPasteTank>  
+  <!-- EN: Input a value to adjust the amount of paste that can be stored within the tanks.  The vanilla stack limit of Paste Meals is 10, the tank takes up 4 tiles, at 10x stack size with shelves providing 3 slots per tile the recommended minimum storage capacity is 1,200. -->
+  <FSFTweaksVEPNPasteDesc>Настройте емкость баков питательной пасты.\nПо умолчанию: 150.</FSFTweaksVEPNPasteDesc>  
+
+
+
+  <!-- EN: Vanilla Cooking Expanded Tweaks -->
+  <FSFTweaksVanillaCookingExpandedTweaksTitle>Vanilla Cooking Expanded</FSFTweaksVanillaCookingExpandedTweaksTitle>
+
+  <!-- EN: Bulk Canning Recipes -->
+  <FSFTweaksVCookEBulkCanningRecipesTitle>Массовые рецепты консервирования</FSFTweaksVCookEBulkCanningRecipesTitle>
+  <!-- EN: Adds recipes to process food in larger quantities with the canning machine. -->
+  <FSFTweaksVCookEBulkCanningRecipesDesc>Добавляет массовые рецепты для консервной машины.</FSFTweaksVCookEBulkCanningRecipesDesc>
+
+  <!-- EN: No Ruined Grills -->
+  <FSFTweaksVCookENoRuinedGrillsTitle>Без испорченных грилей</FSFTweaksVCookENoRuinedGrillsTitle>
+  <!-- EN: Changes grill meals so they no longer get ruined by low temperatures. -->
+  <FSFTweaksVCookENoRuinedGrillsDesc>Еда с гриля больше не портится от низких температур.</FSFTweaksVCookENoRuinedGrillsDesc>
+
+
+
+  <!-- EN: Vanilla Events Expanded Tweaks -->
+  <FSFTweaksVanillaEventsExpandedTweaksTitle>Vanilla Events Expanded</FSFTweaksVanillaEventsExpandedTweaksTitle>
+
+  <!-- EN: Traitor Scenario Setting -->
+  <FSFTweaksTraitorScenarioSettingTitle>Настройка предателя для сценария</FSFTweaksTraitorScenarioSettingTitle>
+  <!-- EN: Modifies the Traitor hediff to be usable in the scenario settings.  When set up this allows you to have Traitors spawn in place of any person in the game based on the percentage you entered.  Traitors can be anywhere and anyone. -->
+  <FSFTweaksTraitorScenarioSettingOnDesc>Позволяет использовать хедифф "Предатель" в настройках сценария.</FSFTweaksTraitorScenarioSettingOnDesc>
+  <!-- EN: Minimum Time Range In Ticks -->
+  <FSFTweaksTraitorScenarioSettingMinTicks>Мин. время раскрытия (тиков):</FSFTweaksTraitorScenarioSettingMinTicks>
+  <!-- EN: Maximum Time Range In Ticks -->
+  <FSFTweaksTraitorScenarioSettingMaxTicks>Макс. время раскрытия (тиков):</FSFTweaksTraitorScenarioSettingMaxTicks>
+  <!-- EN: Input values to adjust the minimum and maximum time range of a Traitor reveal.  The value is written in what the game calls ticks.  There are 2500 ticks in one game hour and 60000 ticks in a day.\nThe Vanilla value is 120000 (2 day) to 360000 (6 days). -->
+  <FSFTweaksTraitorScenarioSettingTicksDesc>Настройте время раскрытия предателя в тиках (2500 тиков = 1 час игры).\nПо умолчанию: 120000 (2 дня) до 360000 (6 дней).</FSFTweaksTraitorScenarioSettingTicksDesc>
+  <!-- EN: Modifies the Traitor hediff to be usable in the scenario settings.  In the scenario editor click Add Part -> Forced Health Condition -> Traitor.  Set the severity to 1, modify the percentage chance and set the context.\n\nWhen set up this allows you to have Traitors spawn in place of any person in the game based on the percentage you entered.  Traitors can be anywhere and anyone.  For best results disable the traitor wanderer event so there's no predictable reveals.\n\nNote: Currently the scenario settings treats colony born children as non player characters upon creation so its possible for them to inherit the traitor trait based on your selected odds.  You can use dev mode to remove the hediff should this happen. -->
+  <FSFTweaksTraitorScenarioSettingDesc>Позволяет использовать хедифф "Предатель" в настройках сценария.</FSFTweaksTraitorScenarioSettingDesc>
+
+
+
+  <!-- EN: Vanilla Factions Expanded Deserters Tweaks -->
+  <FSFTweaksVFEDesertersTweaksTitle>Vanilla Factions Expanded Deserters</FSFTweaksVFEDesertersTweaksTitle>
+
+  <!-- EN: Intel Never Expires -->
+  <FSFTweaksVFEDesertersIntelNeverExpiresTitle>Разведданные не имеют срока годности</FSFTweaksVFEDesertersIntelNeverExpiresTitle>
+  <!-- EN: Changes Intel and Critical Intel so they never expire allowing you to stockpile or use them as you please. -->
+  <FSFTweaksVFEDesertersIntelNeverExpiresDesc>Разведданные и критические разведданные больше не имеют срока годности.</FSFTweaksVFEDesertersIntelNeverExpiresDesc>
+
+  <!-- EN: More Contraband Items -->
+  <FSFTweaksVFEDesertersMoreContrabandItemsTitle>Больше контрабандных товаров</FSFTweaksVFEDesertersMoreContrabandItemsTitle>
+  <!-- EN: Adds a range of new contraband items to be purchased from the deserter network.  The items themselves are all Spacer and Ultra tech items. -->
+  <FSFTweaksVFEDesertersMoreContrabandItemsDesc>Добавляет новые контрабандные товары (космические и ультратехнологичные) в сеть дезертиров.</FSFTweaksVFEDesertersMoreContrabandItemsDesc>
+
+
+
+  <!-- EN: Vanilla Factions Expanded Empire Tweaks -->
+  <FSFTweaksVFEEmpireTweaksTitle>Vanilla Factions Expanded Empire</FSFTweaksVFEEmpireTweaksTitle>
+
+  <!-- EN: Disguised Rebels -->
+  <FSFTweaksVFEEDisguisedRebelsTitle>Замаскированные повстанцы</FSFTweaksVFEEDisguisedRebelsTitle>
+  <!-- EN: Changes the name and equipment of rebel soldiers so they blend in with empire troops. -->
+  <FSFTweaksVFEEDisguisedRebelsDesc>Изменяет имена и снаряжение солдат-повстанцев, чтобы они сливались с войсками Империи.</FSFTweaksVFEEDisguisedRebelsDesc>
+
+
+
+  <!-- EN: Vanilla Ideology Expanded - Dryads Tweaks -->
+  <FSFTweaksVIEDryadsTweaksTitle>Vanilla Ideology Expanded - Dryads</FSFTweaksVIEDryadsTweaksTitle>
+
+  <!-- EN: No Separation Sickness -->
+  <FSFTweaksVIEDNoSeparationSicknessTitle>Нет болезни разлуки</FSFTweaksVIEDNoSeparationSicknessTitle>
+  <!-- EN: Prevents the Separation Sickness from appearing on awakened dryads. -->
+  <FSFTweaksVIEDNoSeparationSicknessDesc>Заболевание разлуки больше не появляется у пробужденных дриад.</FSFTweaksVIEDNoSeparationSicknessDesc>
+
+
+
+  <!-- EN: Vanilla Ideology Expanded - Memes and Structures Tweaks -->
+  <FSFTweaksVanillaExpandedMemesTweaksTitle>Vanilla Ideology Expanded - Memes and Structures</FSFTweaksVanillaExpandedMemesTweaksTitle>
+
+  <!-- EN: Unlock Fishing Traps -->
+  <FSFTweaksUnlockFishingTrapsTitle>Разблокировать рыболовные ловушки</FSFTweaksUnlockFishingTrapsTitle>
+  <!-- EN: Allows building fishing traps without having the Fishing Meme. -->
+  <FSFTweaksUnlockFishingTrapsDesc>Позволяет строить рыболовные ловушки без наличия мема "Рыбная ловля".</FSFTweaksUnlockFishingTrapsDesc>
+  <!-- EN: Warning: Fishing traps are not added if the Odyssey DLC is active.  If you have the Odyssey DLC in your mod list do not enable this tweak. -->
+  <FSFTweaksUnlockFishingTrapsWarning>Предупреждение: Не включайте, если у вас активирован DLC Odyssey.</FSFTweaksUnlockFishingTrapsWarning>  
+
+
+
+  <!-- EN: Vanilla Psycasts Expanded Tweaks -->
+  <FSFTweaksVanillaPsycastsExpandedTweaksTitle>Vanilla Psycasts Expanded</FSFTweaksVanillaPsycastsExpandedTweaksTitle>
+
+  <!-- EN: Psycast Tweaks -->
+  <FSFTweaksPsycastTweaksTitle>Настройки псикастов</FSFTweaksPsycastTweaksTitle>
+  <!-- EN: Allows you to individually enable a variety of tweaks for psycasts.  These changes may be for changing targeting parameters or changing how specific psycasts function. -->
+  <FSFTweaksPsycastTweaksDesc>Позволяет включить различные твики для псикастов.</FSFTweaksPsycastTweaksDesc>
+  <!-- EN: Allow Self Targeting and Pawn Targetting where it makes sense. -->
+  <FSFTweaksPsycastTweaksTargetChanges>Позволить нацеливание на себя и на пешек там, где это уместно</FSFTweaksPsycastTweaksTargetChanges>
+  <!-- EN: Killskip Works Through Walls. -->
+  <FSFTweaksPsycastTweaksKillskip>Убийственный скачок работает сквозь стены</FSFTweaksPsycastTweaksKillskip>
+  <!-- EN: Power Leap Works Through Walls. -->
+  <FSFTweaksPsycastTweaksPowerLeap>Мощный прыжок работает сквозь стены</FSFTweaksPsycastTweaksPowerLeap>
+  <!-- EN: Skip Works Through Walls. -->
+  <FSFTweaksPsycastTweaksSkip>Скачок работает сквозь стены</FSFTweaksPsycastTweaksSkip>
+  <!-- EN: Shield Psycasts Allow Outgoing Projectiles. -->
+  <FSFTweaksPsycastTweaksSkipshield>Псионические щиты позволяют выпускать снаряды</FSFTweaksPsycastTweaksSkipshield>
+  <!-- EN: Solar Pinhole Provides Sunlight. -->
+  <FSFTweaksPsycastTweaksSolarPinhole>Солнечная прокол-дыра обеспечивает солнечный свет</FSFTweaksPsycastTweaksSolarPinhole>
+
+
+  <!-- EN: Unlock Psycast Trees -->
+  <FSFTweaksUnlockPsycastTreesTitle>Разблокировать деревья псикастов</FSFTweaksUnlockPsycastTreesTitle>
+  <!-- EN: Unlocks the locked Psycast trees allowing anyone to use them. -->
+  <FSFTweaksUnlockPsycastTreesDesc>Разблокирует заблокированные деревья псикастов, позволяя всем их использовать.</FSFTweaksUnlockPsycastTreesDesc>
+
+  <!-- EN: Vanilla Races Expanded Genie Tweaks -->
+  <FSFTweaksVREGenieTweaksTitle>Vanilla Races Expanded Genie</FSFTweaksVREGenieTweaksTitle>
+
+  <!-- EN: No Immunity Issues -->
+  <FSFTweaksVREGenieNoImmunityIssuesTitle>Нет проблем с иммунитетом</FSFTweaksVREGenieNoImmunityIssuesTitle>
+  <!-- EN: Removes the genes No Immunity, Slow Diseases and Antibiotics Addiction Resistant from Genies so they no longer have immunity issues. -->
+  <FSFTweaksVREGenieNoImmunityIssuesDesc>Удаляет у джиннов гены "Нет иммунитета", "Медленные болезни" и "Устойчивость к антибиотикам".</FSFTweaksVREGenieNoImmunityIssuesDesc>
+
+
+
+  <!-- EN: Vanilla Races Expanded Highmate Tweaks -->
+  <FSFTweaksVREHighmateTweaksTitle>Vanilla Races Expanded Highmate</FSFTweaksVREHighmateTweaksTitle>
+
+  <!-- EN: High Libido Lovin Ability -->
+  <FSFTweaksVREHighmateHighLibidoLovinAbilityTitle>Способность "Любовь" у высокого либидо</FSFTweaksVREHighmateHighLibidoLovinAbilityTitle>
+  <!-- EN: Adds the initiate lovin ability to the High Libido gene.  Also reduces the mood bonus for lovin to match the vanilla one. -->
+  <FSFTweaksVREHighmateHighLibidoLovinAbilityDesc>Добавляет гену "Высокое либидо" способность "Проявить любовь".</FSFTweaksVREHighmateHighLibidoLovinAbilityDesc>
+
+  <!-- EN: Initiate Lovin Gene -->
+  <FSFTweaksVREHighmateInitiateLovinGeneTitle>Ген "Проявить любовь"</FSFTweaksVREHighmateInitiateLovinGeneTitle>
+  <!-- EN: Adds a new gene to the game with 0 Complexity and 0 Metabolism that provides the Initiate Lovin ability.  Also reduces the mood bonus from lovin to match the vanilla lovin bonus. -->
+  <FSFTweaksVREHighmateInitiateLovinGeneOnDesc>Добавляет новый ген, предоставляющий способность "Проявить любовь".</FSFTweaksVREHighmateInitiateLovinGeneOnDesc>
+  <!-- EN: Add the Initiate Lovin gene to every xenotype in the game allowing any pawn to use the Initiate Lovin ability. -->
+  <FSFTweaksVREHighmateInitiateLovinForEveryone>Добавить ген "Проявить любовь" каждому ксенотипу</FSFTweaksVREHighmateInitiateLovinForEveryone>
+
+
+
+  <!-- EN: Vanilla Races Expanded Phytoki Tweaks -->
+  <FSFTweaksVREPhytokiTweaksTitle>Vanilla Races Expanded Phytoki</FSFTweaksVREPhytokiTweaksTitle>
+
+  <!-- EN: No Workspeed Malus On Sap Blood -->
+  <FSFTweaksVREPhytokiSapBloodNoWorkspeedMalusTitle>Нет штрафа к скорости работы у грибной крови</FSFTweaksVREPhytokiSapBloodNoWorkspeedMalusTitle>
+  <!-- EN: Removes the work speed malus on the Sap Blood gene and lowers the gene complexity from -2 to -1. -->
+  <FSFTweaksVREPhytokiSapBloodNoWorkspeedMalusDesc>Убирает штраф к скорости работы у гена "Грибная кровь" и снижает его сложность с -2 до -1.</FSFTweaksVREPhytokiSapBloodNoWorkspeedMalusDesc>
+
+
+
+  <!-- EN: Vehicle Framework Tweaks -->
+  <FSFTweaksVehicleFrameworkTweaksTitle>Vehicle Framework</FSFTweaksVehicleFrameworkTweaksTitle>
+
+  <!-- EN: Factions Stock Vehicle Parts -->
+  <FSFTweaksVehicleFrameworkFactionsStockVehiclePartsTitle>Фракции продают запчасти для транспорта</FSFTweaksVehicleFrameworkFactionsStockVehiclePartsTitle>
+  <!-- EN: Adds an additional stock of Vehicle Parts to tech appropriate Faction bases based on an input range. -->
+  <FSFTweaksVehicleFrameworkFactionsStockVehiclePartsOnDesc>Добавляет дополнительные запчасти для транспорта на базы технологически подходящих фракций.</FSFTweaksVehicleFrameworkFactionsStockVehiclePartsOnDesc>
+  <!-- EN: Vehicle Parts Stock Minimum Range -->
+  <FSFTweaksVehicleFrameworkFactionsStockVehiclePartsMin>Мин. количество запчастей:</FSFTweaksVehicleFrameworkFactionsStockVehiclePartsMin>
+  <!-- EN: Vehicle Parts Stock Maximum Range -->
+  <FSFTweaksVehicleFrameworkFactionsStockVehiclePartsMax>Макс. количество запчастей:</FSFTweaksVehicleFrameworkFactionsStockVehiclePartsMax>
+  <!-- EN: Adds an additional stock of Vehicle Parts to tech appropriate Faction bases based on an input range.\nDefault setting 5-10. -->
+  <FSFTweaksVehicleFrameworkFactionsStockVehiclePartsDesc>Настройте диапазон дополнительных запчастей для транспорта.\nПо умолчанию: 5-10.</FSFTweaksVehicleFrameworkFactionsStockVehiclePartsDesc>
+
+  <!-- EN: Faster Helicopters -->
+  <FSFTweaksVehicleFrameworkFasterHelicoptersTitle>Более быстрые вертолеты</FSFTweaksVehicleFrameworkFasterHelicoptersTitle>
+  <!-- EN: Speeds up the takeoff and landing animation on helicopters that are slow to use.  For example this tweak changes the takeoff and landing animation speed on Vanilla Expanded Helicopters so they take one third of the time making them comparable in speed to drop pod style vehicles like the Toad. -->
+  <FSFTweaksVehicleFrameworkFasterHelicoptersDesc>Ускоряет анимации взлета и посадки медленных вертолетов.</FSFTweaksVehicleFrameworkFasterHelicoptersDesc>
+
+  <!-- EN: Faster Vehicles -->
+  <FSFTweaksVehicleFrameworkFasterVehiclesTitle>Более быстрый транспорт</FSFTweaksVehicleFrameworkFasterVehiclesTitle>
+  <!-- EN: Allows you to multiply the speed of all land and water vehicles on the world map by an input value. -->
+  <FSFTweaksVehicleFrameworkFasterVehiclesOnDesc>Позволяет умножить скорость всего наземного и водного транспорта на глобальной карте.</FSFTweaksVehicleFrameworkFasterVehiclesOnDesc>
+
+  <!-- EN: Speed Multiplier {FSFVehicleFrameworkFasterVehicles} -->
+  <FSFTweaksVehicleFrameworkFasterVehicles>Множитель скорости: {FSFVehicleFrameworkFasterVehicles}</FSFTweaksVehicleFrameworkFasterVehicles>
+  <!-- EN: Move the slider to adjust the speed multiplier of all land and water Vehicles on the world map.  The value is a straight multiplier, a value of 2 will double the original while 3 will triple it.\nThe Vanilla value is 1. -->
+  <FSFTweaksVehicleFrameworkFasterVehiclesDesc>Настройте множитель скорости транспорта на глобальной карте.\nПо умолчанию: 1.</FSFTweaksVehicleFrameworkFasterVehiclesDesc>
+
+  <!-- EN: Rename Car Parts -->
+  <FSFTweaksVehicleFrameworkRenameCarPartsTitle>Переименовать автозапчасти</FSFTweaksVehicleFrameworkRenameCarPartsTitle>
+  <!-- EN: Changes the name of Car Parts from Vanilla Vehicles Expanded to Vehicle Parts. -->
+  <FSFTweaksVehicleFrameworkRenameCarPartsDesc>Изменяет название "Автозапчасти" из Vanilla Vehicles Expanded на "Запчасти для транспорта".</FSFTweaksVehicleFrameworkRenameCarPartsDesc>
+
+
+
+  <!-- EN: Research Reinvented Stepping Stones Tweaks -->
+  <FSFTweaksRRSSTweaksTitle>Research Reinvented Stepping Stones</FSFTweaksRRSSTweaksTitle>
+  
+  <!-- EN: Sorted Steps -->
+  <FSFTweaksRRSSSortedStepsTitle>Упорядоченные шаги</FSFTweaksRRSSSortedStepsTitle>
+  <!-- EN: Patches numerous items from the Core game and mods that were missed to better fit the flow of research.  This is done by using research projects provided by Research Reinvented Stepping Stones and other mods such as Vanilla Expanded.  Also adds a number of items from mods to Research Reinvented's blacklist so they don't appear as research items.  These items are generally things like invisible walls or items that require a specific Ideology style. -->
+  <FSFTweaksRRSSSortedStepsDesc>Исправляет множество предметов из базовой игры и модов для лучшего соответствия потоку исследований.</FSFTweaksRRSSSortedStepsDesc>  
+  
+
+
+  <!-- EN: Vanilla Races Expanded Android Tweaks -->
+  <FSFTweaksVanillaAndroidsTweaksTitle>Vanilla Races Expanded Android</FSFTweaksVanillaAndroidsTweaksTitle>
+  
+  <!-- EN: Larger Neutroamine Storage -->
+  <FSFTweaksLargerNeutroamineStorageTitle>Увеличенное хранение нейтроамина</FSFTweaksLargerNeutroamineStorageTitle>
+  <!-- EN: Allows you to customise how much Neutroamine the tanks store. -->
+  <FSFTweaksLargerNeutroamineStorageOnDesc>Позволяет настроить, сколько нейтроамина могут хранить баки.</FSFTweaksLargerNeutroamineStorageOnDesc>  
+  <!-- EN: Neutroamine Tanks -->
+  <FSFTweaksLargerNeutroamineStorageTank>Баки нейтроамина:</FSFTweaksLargerNeutroamineStorageTank>
+  <!-- EN: Input a value to adjust the amount of neutroamine that can be stored within the tanks. -->
+  <FSFTweaksLargerNeutroamineStorageDesc>Введите значение для настройки емкости баков нейтроамина.</FSFTweaksLargerNeutroamineStorageDesc> 
+  
+  
+
+  <!-- EN: Vanilla Furniture Expanded Security Tweaks -->
+  <FSFTweaksVFESecurityTweaksTitle>Vanilla Furniture Expanded Security</FSFTweaksVFESecurityTweaksTitle>
+  
+  <!-- EN: Cavalry Spikes Don’t Expire -->
+  <FSFTweaksVFESecurityCavalrySpikesTitle>Кавалерийские пики не кончаются</FSFTweaksVFESecurityCavalrySpikesTitle>
+  <!-- EN: Changes Cavalry Spikes so they no longer expire.  Instead they now have a small chance to break upon triggering. -->
+  <FSFTweaksVFESecurityCavalrySpikesDesc>Кавалерийские пики больше не имеют срока годности, но имеют небольшой шанс сломаться при срабатывании.</FSFTweaksVFESecurityCavalrySpikesDesc>  
+ 
+
+  <!-- EN: Time Kills Tweaks -->
+  <FSFTweaksTimeKillsTweaksTitle>Time Kills</FSFTweaksTimeKillsTweaksTitle>
+  
+  <!-- EN: Ageing Rebalance -->
+  <FSFTweaksTKAgeingRebalanceTitle>Перебалансировка старения</FSFTweaksTKAgeingRebalanceTitle>
+  <!-- EN: Lowers the age requirement for the Old Age condition so it starts at 70 and reaches its maximum chance of 10% per year at 80.  This makes it more accurately reflect the Human life expectancy of 80.  By default Time Kills has the condition start at 80 and reach its peak of 10% per year at 84. -->
+  <FSFTweaksTKAgeingRebalanceDesc>Снижает возраст начала состояния "Старость" до 70 лет и максимальный шанс 10% в год до 80 лет.</FSFTweaksTKAgeingRebalanceDesc>  
+ 
+ 
+ 
+  <!-- EN: Lethal Darkness Tweaks -->
+  <FSFTweaksLethalDarknessTweaksTitle>Lethal Darkness</FSFTweaksLethalDarknessTweaksTitle>
+  
+  <!-- EN: Pitch Black Darkness -->
+  <FSFTweaksPitchBlackDarknessTitle>Непроглядная тьма</FSFTweaksPitchBlackDarknessTitle>
+  <!-- EN: Changes all weather types to give a pitch black darkness effect regardless of the time of day making it impossible to see anything without light sources.  This is designed to be used in conjunction with a permanent variant of Unnatural Darkness. -->
+  <FSFTweaksPitchBlackDarknessDesc>Изменяет все типы погоды, добавляя эффект непроглядной тьмы независимо от времени суток.</FSFTweaksPitchBlackDarknessDesc>  
+ 
+ 
+  <!-- EN: Common Sense Tweaks -->
+  <FSFTweaksCommonSenseTweaksTitle>Common Sense</FSFTweaksCommonSenseTweaksTitle>
+  
+  <!-- EN: Smarter Cleaning -->
+  <FSFTweaksCSSmarterCleaningTitle>Более умная уборка</FSFTweaksCSSmarterCleaningTitle>
+  <!-- EN: Disables opportunistic cleaning for a number of tasks.  Such as Flicking switches, Opening items, Repairing things, Uninstalling things, Deconstructing things, Rearming traps/turrets and more. -->
+  <FSFTweaksCSSmarterCleaningDesc>Отключает случайную уборку при выполнении ряда задач (переключение выключателей, открытие предметов, ремонт и т.д.).</FSFTweaksCSSmarterCleaningDesc>  
+ 
+ 
+ 
+</LanguageData>

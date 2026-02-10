@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- Категории -->
+	<AnomalyPatch_Incidents>Аномальные события</AnomalyPatch_Incidents>
+	<AnomalyPatch_Rituals>Пси-ритуалы</AnomalyPatch_Rituals>
+	<AnomalyPatch_Study>Исследование и сдерживание</AnomalyPatch_Study>
+	<AnomalyPatch_Entities>Темные сущности</AnomalyPatch_Entities>
+	<AnomalyPatch_Misc>Разное</AnomalyPatch_Misc>
+	<AnomalyPatch_RestartRequired>(требует перезагрузки)</AnomalyPatch_RestartRequired>
+
+	<!-- Общие настройки -->
+	<AnomalyPatch_NoResearchSelected>Нет активного исследования аномалий</AnomalyPatch_NoResearchSelected>
+	<AnomalyPatch_StudyAndSuppressByDefault>Исследовать и подавлять сущности по умолчанию</AnomalyPatch_StudyAndSuppressByDefault>
+	<AnomalyPatch_DontHideStats>Не скрывать характеристики сущностей</AnomalyPatch_DontHideStats>
+	<AnomalyPatch_SortBy>Сортировать по:</AnomalyPatch_SortBy>
+	<AnomalyPatch_Reverse>Обратный порядок</AnomalyPatch_Reverse>
+	<AnomalyPatch_Age>Возраст</AnomalyPatch_Age>
+
+	<!-- Исправления и улучшения -->
+	<AnomalyPatch_AtmosphericHeaterFactor>Отключить предупреждение "Нужна теплая одежда" при наличии атмосферного обогревателя</AnomalyPatch_AtmosphericHeaterFactor>
+	<AnomalyPatch_BioferriteHarvesterMultipleSelection>Показывать общий биоферрит при выборе нескольких сборщиков</AnomalyPatch_BioferriteHarvesterMultipleSelection>
+	<AnomalyPatch_CharacterHighlighting>Показывать силуэты даже в неестественной тьме</AnomalyPatch_CharacterHighlighting>
+	<AnomalyPatch_DangerousActivityLevels>Показывать максимальный уровень активности обелиска</AnomalyPatch_DangerousActivityLevels>
+	<AnomalyPatch_DeathPallResurrectionSound>Сообщения о воскрешении без звука</AnomalyPatch_DeathPallResurrectionSound>
+	<AnomalyPatch_DevourerWaterAssaultFix>Исправление бага с провокацией Бездны при атаке Пожирателя в воде</AnomalyPatch_DevourerWaterAssaultFix>
+	<AnomalyPatch_DontBlockDoors>Не работать в дверях камер содержания/тюрем</AnomalyPatch_DontBlockDoors>
+	<AnomalyPatch_UnnaturalDarknessMapFix>Исправление бага с провокацией Бездны в неестественной тьме</AnomalyPatch_UnnaturalDarknessMapFix>
+	<AnomalyPatch_CreepjoinerBodyTypeFix>Исправление типа тела у женских крипджойнеров</AnomalyPatch_CreepjoinerBodyTypeFix>
+
+	<!-- Поведение персонажей -->
+	<AnomalyPatch_FoodPriority>Приоритет скрученного мяса для гулей и животных в караванах</AnomalyPatch_FoodPriority>
+	<AnomalyPatch_GhoulHunting>Разрешить гулям самостоятельно охотиться</AnomalyPatch_GhoulHunting>
+	<AnomalyPatch_NoProjectNoStudy>Не изучать аномалии без активного исследовательского проекта</AnomalyPatch_NoProjectNoStudy>
+	<AnomalyPatch_PsychicRitualZoning>Соблюдать зоны при подготовке к пси-ритуалам</AnomalyPatch_PsychicRitualZoning>
+	<AnomalyPatch_RitualDialogSorting>Сортировать пешек по пси-чувствительности в диалоге ритуалов</AnomalyPatch_RitualDialogSorting>
+	<AnomalyPatch_StopSuppression>Разрешить прекращать подавление до достижения целевого уровня</AnomalyPatch_StopSuppression>
+	<AnomalyPatch_CreepJoinerLove>Разрешить романтику между крипджойнерами и обычными пешками</AnomalyPatch_CreepJoinerLove>
+	<AnomalyPatch_AvoidDreadLeather>Избегать одежды из кожи ужаса, если не нравится</AnomalyPatch_AvoidDreadLeather>
+	<AnomalyPatch_InhumanPregnancyAttitude>Обесчеловеченные пешки не возражают против прерывания беременности</AnomalyPatch_InhumanPregnancyAttitude>
+
+	<!-- Интерфейс и оповещения -->
+	<AnomalyPatch_HorrorMusic>Музыка ужаса/боя включается только при нахождении в Вратах Бездны</AnomalyPatch_HorrorMusic>
+	<AnomalyPatch_LabyrinthClosing>Запрещать предметы из лабиринта вне домашней зоны</AnomalyPatch_LabyrinthClosing>
+	<AnomalyPatch_ForbidMonolithCorpses>Автоматически запрещать трупы вокруг монолита</AnomalyPatch_ForbidMonolithCorpses>
+	<AnomalyPatch_HoldingPlatformAlert>Отключить оповещение "Нужны платформы"</AnomalyPatch_HoldingPlatformAlert>
+	<AnomalyPatch_DeadGhoulsInColonistBar>Показывать гулей в панели колонистов даже после смерти/в караване</AnomalyPatch_DeadGhoulsInColonistBar>
+	<AnomalyPatch_DisableDisturbingVision>Отключить сообщение о тревожных видениях</AnomalyPatch_DisableDisturbingVision>
+	<AnomalyPatch_RitualTargetsDontNeedRescue>Не показывать "Колонисту нужна помощь" для целей пси-ритуалов</AnomalyPatch_RitualTargetsDontNeedRescue>
+</LanguageData>

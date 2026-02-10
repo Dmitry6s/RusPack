@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+   
+  <!-- EN: twin birth -->
+  <FSF_TwinsBirth.label>Рождение близнецов</FSF_TwinsBirth.label>
+  <!-- EN: Carriers of this gene always give birth to twins. -->
+  <FSF_TwinsBirth.description>Носительницы этого гена всегда рожают близнецов.</FSF_TwinsBirth.description>
+  
+</LanguageData>

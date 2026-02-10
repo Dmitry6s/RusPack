@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- EN: administer fertility booster -->
+	<FSFBoostFertility.label>Усилить фертильность</FSFBoostFertility.label>
+	<!-- EN: Use some medicinal herbs to boost a person's fertility for a seven days. -->
+	<FSFBoostFertility.description>Использование лекарственных трав для усиления фертильности человека на семь дней.</FSFBoostFertility.description>
+	<!-- EN: Administering fertility booster drugs to TargetA. -->
+	<FSFBoostFertility.jobString>Введение препаратов для усиления фертильности TargetA.</FSFBoostFertility.jobString>	
+	
+	<!-- EN: remove fertility booster -->
+	<FSFRemoveBoostFertility.label>Убрать усиление фертильности</FSFRemoveBoostFertility.label>
+	<!-- EN: Use some medicinal herbs to remove a person's fertility booster. -->
+	<FSFRemoveBoostFertility.description>Использование лекарственных трав для удаления усиления фертильности у человека.</FSFRemoveBoostFertility.description>
+	<!-- EN: Administering drugs to remove TargetA's fertility booster. -->
+	<FSFRemoveBoostFertility.jobString>Введение препаратов для удаления усиления фертильности у TargetA.</FSFRemoveBoostFertility.jobString>
+	<!-- EN: {0} has removed {1}'s fertility booster using some medicinal herbs. -->
+	<FSFRemoveBoostFertility.successfullyRemovedHediffMessage>{0} удаляет усиление фертильности у {1} с помощью лекарственных трав.</FSFRemoveBoostFertility.successfullyRemovedHediffMessage>
+
+	<!-- EN: administer fertility inhibitor -->
+	<FSFInhibitFertility.label>Подавить фертильность</FSFInhibitFertility.label>
+	<!-- EN: Use some medicinal herbs to inhibit a person's fertility for seven days. -->
+	<FSFInhibitFertility.description>Использование лекарственных трав для подавления фертильности человека на семь дней.</FSFInhibitFertility.description>
+	<!-- EN: Administering fertility inhibitor drugs to TargetA. -->
+	<FSFInhibitFertility.jobString>Введение препаратов для подавления фертильности TargetA.</FSFInhibitFertility.jobString>
+	<!-- EN: {0} has inhibited {1}'s fertility for seven days using some medicinal herbs. -->
+	<FSFInhibitFertility.successfullyRemovedHediffMessage>{0} подавляет фертильность {1} на семь дней с помощью лекарственных трав.</FSFInhibitFertility.successfullyRemovedHediffMessage>
+	
+	<!-- EN: remove fertility inhibitor -->
+	<FSFRemoveInhibitFertility.label>Убрать подавление фертильности</FSFRemoveInhibitFertility.label>
+	<!-- EN: Use some medicinal herbs to remove a person's fertility inhibitor. -->
+	<FSFRemoveInhibitFertility.description>Использование лекарственных трав для удаления подавления фертильности у человека.</FSFRemoveInhibitFertility.description>
+	<!-- EN: Administering drugs to remove TargetA's fertility inhibitor. -->
+	<FSFRemoveInhibitFertility.jobString>Введение препаратов для удаления подавления фертильности у TargetA.</FSFRemoveInhibitFertility.jobString>
+	<!-- EN: {0} has removed {1}'s fertility inhibitor using some medicinal herbs. -->
+	<FSFRemoveInhibitFertility.successfullyRemovedHediffMessage>{0} удаляет подавление фертильности у {1} с помощью лекарственных трав.</FSFRemoveInhibitFertility.successfullyRemovedHediffMessage>
+	
+	<!-- EN: induce lactation -->
+	<FSFInduceLactation.label>Искусственная лактация</FSFInduceLactation.label>
+	<!-- EN: Use some medicinal herbs to induce a person to lactate. -->
+	<FSFInduceLactation.description>Использование лекарственных трав для стимуляции лактации у человека.</FSFInduceLactation.description>
+	<!-- EN: Inducing lactation in TargetA. -->
+	<FSFInduceLactation.jobString>Стимуляция лактации у TargetA.</FSFInduceLactation.jobString>
+	
+	<!-- EN: stop lactation -->
+	<FSFRemoveLactation.label>Остановить лактацию</FSFRemoveLactation.label>
+	<!-- EN: Use some medicinal herbs to stop a person from lactating. -->
+	<FSFRemoveLactation.description>Использование лекарственных трав для остановки лактации у человека.</FSFRemoveLactation.description>
+	<!-- EN: Stopping lactation in TargetA. -->
+	<FSFRemoveLactation.jobString>Остановка лактации у TargetA.</FSFRemoveLactation.jobString>
+	<!-- EN: {0} has stopped {1}'s lactation using some medicinal herbs. -->
+	<FSFRemoveLactation.successfullyRemovedHediffMessage>{0} останавливает лактацию у {1} с помощью лекарственных трав.</FSFRemoveLactation.successfullyRemovedHediffMessage>
+
+	<!-- EN: sterilize -->
+	<FSFSterilizeHumanNonReversible.label>Стерилизация (необратимая)</FSFSterilizeHumanNonReversible.label>
+	<!-- EN: Perform a non reversible procedure to permanently sterilize a patient rendering them unable to reproduce. -->
+	<FSFSterilizeHumanNonReversible.description>Проведение необратимой процедуры для постоянной стерилизации пациента, делающей его неспособным к размножению.</FSFSterilizeHumanNonReversible.description>
+	<!-- EN: Performing a sterilization procedure on TargetA. -->
+	<FSFSterilizeHumanNonReversible.jobString>Проведение процедуры стерилизации на TargetA.</FSFSterilizeHumanNonReversible.jobString>
+	<!-- EN: {0} has successfully performed a sterilizen procedure on {1}. -->
+	<FSFSterilizeHumanNonReversible.successfullyRemovedHediffMessage>{0} успешно проводит процедуру стерилизации на {1}.</FSFSterilizeHumanNonReversible.successfullyRemovedHediffMessage>
+	
+</LanguageData>

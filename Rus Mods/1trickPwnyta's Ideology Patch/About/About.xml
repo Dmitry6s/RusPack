@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>1trickPwnyta's Ideology Patch</name>
+	<author>1trickPwnyta</author>
+	<packageId>ideologypatch.1trickPwnyta</packageId>
+	<modVersion IgnoreIfNoMatchingField="True">1.10.3</modVersion>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>
+This mod makes a handful of small tweaks to the Ideology DLC that are intended to make the game a bit more enjoyable without changing the gameplay too much. Each tweak can be toggled on or off in the mod settings.
+
+=Ideology Memes and Precepts=
+- Sets the default physical love precept to free so that people can have premarital sex like they did before Ideology.
+- Sets the default female clothing requirement for ideologies to groin covering only, as it is for men.
+- Changes the nudity precept "Pants at most" to "Pants only", which does the same thing but is worded correctly.
+- Ranchers no longer get upset about planting "human food crops". They already get a mood penalty for eating vegetables; they don't need another one just for planting them. Besides, who says you're planting them in order to eat them? Maybe you just want to make chemfuel. Or you want to have food onhand that you can use to train your animals.
+- Adds the Corpses: Don't Care precept to the Bloodfeeding meme (because cannibalism).
+- Disables the darkness mood debuff for the Tunneler meme (specifically the Fungus: Preferred precept, because if you like fungus you shouldn't hate planting it).
+- Newly built lights default to darklight setting if the player's primary ideology prefers darklight.
+- Starting research that unlocks things that "require memes that none of your people believe" no longer triggers a pop-up unless ALL of the unlocked things require such memes. In other words, you won't be bothered if there's anything that you CAN build.
+
+=Slaves=
+- Slaves do not count as quest-related guests, ever. This fixes an issue where enslaving a quest-related guest, such as a refugee, prevents you from doing many things with them, such as sending them on caravans, extracting their genes, assigning them apparel policies, etc.
+- Slaves will begrudgingly put on human leather slave gear instead of running around naked, as long as it's allowed in their apparel policies.
+- Slaves can no longer run wild.
+
+=Ideological Practices=
+- When you receive a letter for finishing converting a prisoner, the Jump to location link selects the prisoner that was converted rather than the person who did the converting. This makes it easier to select a new prisoner interaction such as Recruit.
+- When beginning a role change ritual, the role selected by default will be an unfilled role unless all roles are filled so you don't accidentally assign the moral guide role twice and make someone unhappy, for example.
+- Shows a message when an ideology ritual comes off cooldown so you don't forget to perform it again.
+- Brings back the "Look change desired" mechanic that mysteriously disappears with Biotech enabled.
+- Pawns with ideologies that prefer "negative" apparel such as blindfolds will now automatically wear that apparel anyway without being forced.
+
+=Miscellaneous=
+- Gauranlen tree-connected pawns will no longer ignore their needs for hours at a time while pruning the tree. It's not like the tree is the golden cube.
+- Dryads no longer wander further from their tree than the building radius warning (12 tiles -> 7.9 tiles). This makes it more intuitive to build a wall around the tree just outside the warning radius to keep the dryads safe from raiders.
+- If your ideology has only one relic and you bring it with you to a new colony in the archonexus quest, it will not retrigger the "all relics collected" moost boost.
+- Corpses that spawn near archonexus structures are forbidden by default.
+- Faction relationship levels start inside their natural range, so you won't get annoyed by early-game messages telling you that some rough outlander faction relation has soured out of nowhere.
+- Spikecore plates and floor slabs are now paintable.
+
+=== Updates ===
+07/03/2025: Fixed bug that causes faction relations to reset on game reload
+06/14/2025: Categorized the settings UI
+06/13/2025: Update to 1.6
+12/12/2024: Fix the "Look change desired" mechanic with Biotech enabled and add negative apparel desire feature
+10/22/2024: Add message for ideology ritual cooldown ending
+08/02/2024: Remove patch from 1.4 version
+06/25/2024: Use darklight by default in darkness ideologies
+06/11/2024: Add settings to toggle each tweak
+05/24/2024: Remove artificial enhancement calculation change. Genies were not bugged after all.
+04/29/2024: Prevent pawns from pruning the tree non-stop while ignoring their own needs
+04/09/2024: Stopped pawns against recreational drug use from using recreational drugs
+03/20/2024: Update to 1.5
+08/28/2023: Fixed prosthetics count bug
+08/18/2023: Renamed Pants at most to Pants only
+08/17/2023: Disabled the darkness thought for fungus: preferred, associate corpses: don't care with bloodfeeding meme
+10/26/2022: Removed debugging messages from the dev log
+10/26/2022: Added the default physical love precept
+
+=== Credits ===
+Mod icon: twitter.com/mouse_draws
+	</description>
+	<url>https://github.com/1trickPwnyta/IdeologyPatch</url>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+</ModMetaData>

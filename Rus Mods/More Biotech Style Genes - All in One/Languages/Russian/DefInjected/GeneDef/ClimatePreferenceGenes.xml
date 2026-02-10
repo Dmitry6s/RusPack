@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClimatePreference_SuperCold.label>предпочтение экстремального холода</ClimatePreference_SuperCold.label>
+  <ClimatePreference_SuperCold.description>Носителям этого гена комфортно только в экстремально холодном климате, и они могут умереть, если останутся в более тёплом климате слишком долго. Комфортный диапазон с этим геном составляет от -14°C до -4°C.</ClimatePreference_SuperCold.description>
+
+  <ClimatePreference_Cold.label>предпочтение холода</ClimatePreference_Cold.label>
+  <ClimatePreference_Cold.description>Носителям этого гена комфортно только в холодном климате, и они могут умереть, если останутся в более тёплом климате слишком долго. Комфортный диапазон с этим геном составляет от 1°C до 11°C.</ClimatePreference_Cold.description>
+
+  <ClimatePreference_Hot.label>предпочтение жары</ClimatePreference_Hot.label>
+  <ClimatePreference_Hot.description>Носителям этого гена комфортно только в тёплом климате, и они могут умереть, если останутся в более холодном климате слишком долго. Комфортный диапазон с этим геном составляет от 31°C до 41°C.</ClimatePreference_Hot.description>
+
+  <ClimatePreference_SuperHot.label>предпочтение экстремальной жары</ClimatePreference_SuperHot.label>
+  <ClimatePreference_SuperHot.description>Носителям этого гена комфортно только в экстремально жарком климате, и они могут умереть, если останутся в более холодном климате слишком долго. Комфортный диапазон с этим геном составляет от 46°C до 56°C.</ClimatePreference_SuperHot.description>
+
+</LanguageData>

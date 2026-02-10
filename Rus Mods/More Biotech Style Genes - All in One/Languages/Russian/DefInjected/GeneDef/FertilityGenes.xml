@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Гены пониженной фертильности -->
+
+  <ExtremelyLowFertility.label>крайне низкая фертильность</ExtremelyLowFertility.label>
+  <ExtremelyLowFertility.description>Носители этого гена имеют крайне низкий шанс забеременеть или оплодотворить других.</ExtremelyLowFertility.description>
+
+  <VeryLowFertility.label>очень низкая фертильность</VeryLowFertility.label>
+  <VeryLowFertility.description>Носители этого гена имеют намного более низкий шанс забеременеть или оплодотворить других.</VeryLowFertility.description>
+
+  <LowFertility.label>низкая фертильность</LowFertility.label>
+  <LowFertility.description>Носители этого гена имеют более низкий шанс забеременеть или оплодотворить других.</LowFertility.description>
+
+
+  <!-- Гены повышенной фертильности -->
+
+  <AboveAverageFertility.label>высокая фертильность</AboveAverageFertility.label>
+  <AboveAverageFertility.description>Носители этого гена имеют слегка повышенный шанс забеременеть или оплодотворить других.</AboveAverageFertility.description>
+
+  <VeryFertile.label>очень высокая фертильность</VeryFertile.label>
+  <VeryFertile.description>Носители этого гена имеют намного более высокий шанс забеременеть или оплодотворить других.</VeryFertile.description>
+
+  <SuperFertile.label>сверхвысокая фертильность</SuperFertile.label>
+  <SuperFertile.description>Носители этого гена имеют крайне высокий шанс забеременеть или оплодотворить других.</SuperFertile.description>
+
+  <HyperFertile.label>гиперфертильность</HyperFertile.label>
+  <HyperFertile.description>Носители этого гена могут забеременеть или оплодотворить других, просто находясь в одной комнате. Вероятно, этого не произойдёт, но это вполне обоснованное беспокойство.</HyperFertile.description>
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SlightlyDelicate.label>очень хрупкий</SlightlyDelicate.label>
+  <SlightlyDelicate.description>Носители этого гена получают более серьёзные травмы от того же урона, чем другие. У них тонкие, ломкие кости и меньше связующих молекул в суставах и тканях.</SlightlyDelicate.description>
+
+  <MarginallyDelicate.label>хрупкий</MarginallyDelicate.label>
+  <MarginallyDelicate.description>Носители этого гена получают более серьёзные травмы от того же урона, чем другие. У них тонкие, ломкие кости и меньше связующих молекул в суставах и тканях.</MarginallyDelicate.description>
+
+  <SlightlyRobust.label>улучшенная выносливость</SlightlyRobust.label>
+  <SlightlyRobust.description>Носители этого гена получают менее серьёзные травмы от того же урона, чем другие. У них утолщённые, уплотнённые кости, почти сплошные грудные клетки и усиленные связующие факторы в суставах и тканях.</SlightlyRobust.description>
+
+  <VeryRobust.label>высокая выносливость</VeryRobust.label>
+  <VeryRobust.description>Носители этого гена получают менее серьёзные травмы от того же урона, чем другие. У них утолщённые, уплотнённые кости, почти сплошные грудные клетки и усиленные связующие факторы в суставах и тканях.</VeryRobust.description>
+
+  <SuperRobust.label>сверхвыносливость</SuperRobust.label>
+  <SuperRobust.description>Носители этого гена получают менее серьёзные травмы от того же урона, чем другие. У них утолщённые, уплотнённые кости, почти сплошные грудные клетки и усиленные связующие факторы в суставах и тканях.</SuperRobust.description>
+
+</LanguageData>

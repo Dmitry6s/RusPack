@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>1trickPwnyta's Defaults</name>
+	<author>1trickPwnyta</author>
+	<packageId>defaults.1trickPwnyta</packageId>
+	<modVersion>1.7.2</modVersion>
+	<supportedVersions>
+		<li>1.5</li>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>
+Tired of having to go through the same ritual every time you start a new colony of configuring your colonists' schedules, setting your quest reward preferences, turning down the medicine setting so you don't waste your good medicine on bruises, and more? This mod allows you to customize various default settings to use during gameplay, such as the default schedules your colonists will assume. See below for a full list of settings.
+
+Supports all DLC and can be safely added mid-playthrough, however many settings will only apply to new colonies.
+
+Full list of default settings:
+  - Storyteller settings: Set the default storyteller/difficulty settings to use for a new colony, including custom difficulty settings.
+  - World settings: Set the default world and map settings to use for a new colony.
+  - Colonist schedules: Set custom default schedules for colonists. You can create alternating schedules and the mod will cycle between them when assigning them to new colonists.
+  - Policies: Set custom default apparel, food, drug, and reading policies that will be copied to each new colony.
+  - Baby feeding settings: Set the default autofeed setting for colonists based on relationship to baby and whether they are lactating. Also allows you to set which foods babies can be fed by default.
+  - Medicine settings: Set the default medicine settings to use for a new colony as well as the type and amount of medicine that new colonists will carry.
+  - Reward preferences: Set the default reward preferences to use for a new colony.
+  - Expanded resource categories: Set which resource tree categories are expanded by default in categorized mode.
+  - Storage settings: Configure the default settings for stockpile zones, dumping stockpile zones, and storage buildings such as shelves. You can also create your own custom stockpile zone types with their own settings.
+  - Workbench bills: Set default bills for workbenches that will populate automatically upon building a workbench.
+  - Allowed areas: Create default allowed areas for new colonies and control which types of pawns get automatically assigned to which areas.
+  - Hostility response: Set the default hostility response to use for new colonists.
+  - Pregnancy approach: Set the default pregnancy approach that new romantic colonist relationships will take.
+  - Auto rebuild setting: Set the default auto-rebuild setting to use for a new colony.
+  - Auto home area setting: Set the default auto-home area setting to use for a new colony.
+  - Use manual work priorities by default: You can do this.
+  - Plant type: Set the default plant type for new growing zones.
+  - Temperature targets: Set the default temperature targets for heaters and coolers.
+  - Mech work modes: Set the default work modes for the initial two mechanitor control groups as well as a mode for all additional control groups granted by control sublinks.
+
+=== Updates ===
+07/26/2025: Add compatibility with Research Reinvented: Stepping Stones, bug fixes
+07/24/2025: Allow uncapping workbench bills in global bill settings (vanilla caps at 15), UI changes, bug fixes, added compatibility with Better Workbench Management, No Pause Challenge, Mod Options Sort, and RimForge.
+07/10/2025: Massive overhaul! Brand new searchable and categorized settings UI with additional features, various bug fixes, and new settings for default allowed areas, baby feeding, and mech work modes.
+07/03/2025: Remove pregnancy approach option if Biotech not enabled
+06/12/2025: Fixed position of policy lock icon, updated OOTB default policies to match the new vanilla ones.
+06/12/2025: Updated to 1.6, fixed some minor bugs
+05/05/2025: Add mod compatibility with Research Reinvented and Mines 2.0
+04/24/2025: Fix bug that breaks atmospheric heaters
+04/10/2025: Add compatibility with mods that increase max skill level, add null check when building new workbenches
+04/09/2025: Add default workbench bills
+04/03/2025: Fix bug where default shelf settings apply to non-shelf buildings such as nutrient paste hoppers
+03/08/2025: Fix bug where hidden factions are duplicated
+01/26/2025: Add default reading policies, pregnancy approach, target temperature, and shelf settings. Add button to set a policy as default. Add settings locks.
+01/08/2025: Add null pawn check when setting hostility response
+11/05/2024: Add setting for whether guests will be set to carry medicine automatically
+10/29/2024: Fix issue when world settings include more than one of same faction type
+10/10/2024: Add default food policies
+09/21/2024: Add extra error check
+09/11/2024: Added default drug policies
+08/20/2024: Added default apparel policies
+08/02/2024: Added default map settings
+07/31/2024: Fixed bug that prevented hidden factions from being generated
+07/23/2024: Fixed bug that caused incompatibility with the Blueprints mod, added error handling for situations where previously installed mods or DLCs are removed.
+
+=== Credits ===
+Settings category icons: Jerek Dain
+Mod icon: twitter.com/mouse_draws
+	</description>
+	<url>https://github.com/1trickPwnyta/DefaultsMod</url>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+	</modDependencies>
+	<incompatibleWith>
+		<li>experimental.defaults.1trickPwnyta</li>
+	</incompatibleWith>
+	<loadAfter>
+		<li>cain.mineshaft</li>
+		<li>brrainz.nopausechallenge</li>
+		<li>co.uk.epicguru.rimforge</li>
+	</loadAfter>
+</ModMetaData>

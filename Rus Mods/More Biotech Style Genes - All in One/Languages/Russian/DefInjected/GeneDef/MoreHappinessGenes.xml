@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mood_ExtremelyDepressive.label>крайне несчастный</Mood_ExtremelyDepressive.label>
+  <Mood_ExtremelyDepressive.description>Носители этого гена сильно предрасположены к негативным эмоциям. Они будут видеть плохое в любой ситуации и иметь гораздо более низкое настроение, чем другие.</Mood_ExtremelyDepressive.description>
+
+  <Mood_SuperDepressive.label>сверхнесчастный</Mood_SuperDepressive.label>
+  <Mood_SuperDepressive.description>Носители этого гена сильно предрасположены к негативным эмоциям. Они будут видеть плохое в любой ситуации и иметь гораздо более низкое настроение, чем другие.</Mood_SuperDepressive.description>
+
+  <Mood_VeryPessimist.label>значительно несчастный</Mood_VeryPessimist.label>
+  <Mood_VeryPessimist.description>Носители этого гена предрасположены к пессимистическому восприятию. Они склонны интерпретировать события негативно и имеют более низкое настроение, чем другие.</Mood_VeryPessimist.description>
+
+  <Mood_MildPessimist.label>умеренно несчастный</Mood_MildPessimist.label>
+  <Mood_MildPessimist.description>Носители этого гена предрасположены к пессимистическому восприятию. Они склонны интерпретировать события негативно и имеют более низкое настроение, чем другие.</Mood_MildPessimist.description>
+
+  <Mood_SlightPessimist.label>слегка несчастный</Mood_SlightPessimist.label>
+  <Mood_SlightPessimist.description>Носители этого гена предрасположены к пессимистическому восприятию. Они склонны интерпретировать события негативно и имеют более низкое настроение, чем другие.</Mood_SlightPessimist.description>
+
+  <Mood_VerySanguine.label>крайне счастливый</Mood_VerySanguine.label>
+  <Mood_VerySanguine.description>Носители этого гена сильно предрасположены к оптимизму и совсем не склонны мыслить негативно. У них будет гораздо более высокое настроение, чем у других.</Mood_VerySanguine.description>
+
+  <Mood_SuperSanguine.label>сверхсчастливый</Mood_SuperSanguine.label>
+  <Mood_SuperSanguine.description>Носители этого гена сильно предрасположены к оптимизму и совсем не склонны мыслить негативно. У них будет гораздо более высокое настроение, чем у других.</Mood_SuperSanguine.description>
+
+</LanguageData>

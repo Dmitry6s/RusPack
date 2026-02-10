@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EBSG_MinorArchiteEnhancedEntitySlaying.label>незначительно увеличеный урон по аномальным сущностям</EBSG_MinorArchiteEnhancedEntitySlaying.label>
+  <EBSG_MinorArchiteEnhancedEntitySlaying.description>Носители этого гена имеют небольшое количество архитов в теле, которые усиливают их атаки, помогая убивать аномальные сущности.</EBSG_MinorArchiteEnhancedEntitySlaying.description>
+
+  <EBSG_ArchiteEnhancedEntitySlaying.label>увеличеный урон по аномальным сущностям</EBSG_ArchiteEnhancedEntitySlaying.label>
+  <EBSG_ArchiteEnhancedEntitySlaying.description>Носители этого гена имеют архиты в теле, которые усиливают их атаки, помогая убивать аномальные сущности.</EBSG_ArchiteEnhancedEntitySlaying.description>
+
+  <EBSG_MajorArchiteEnhancedEntitySlaying.label>значительно увеличеный урон по аномальным сущностям</EBSG_MajorArchiteEnhancedEntitySlaying.label>
+  <EBSG_MajorArchiteEnhancedEntitySlaying.description>Носители этого гена имеют большое количество архитов в теле, которые усиливают их атаки, помогая убивать аномальные сущности.</EBSG_MajorArchiteEnhancedEntitySlaying.description>
+
+</LanguageData>

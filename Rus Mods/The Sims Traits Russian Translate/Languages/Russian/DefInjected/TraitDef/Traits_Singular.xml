@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ST_Manipulative.degreeDatas.0.label>манипулятор</ST_Manipulative.degreeDatas.0.label>
+  <ST_Manipulative.degreeDatas.0.description>{PAWN_nameDef} хорошо умеет добиваться своего. Будь то лавирование любовью или газлайтинг, жертвы {PAWN_possessive} редко замечают, что на самом деле происходит.</ST_Manipulative.degreeDatas.0.description>
+
+  <ST_Naive.degreeDatas.0.label>наивный</ST_Naive.degreeDatas.0.label>
+  <ST_Naive.degreeDatas.0.description>{PAWN_nameDef} учили, что все люди хорошие и добрые. Возможно, однажды {PAWN_pronoun} усвоит этот урок трудным путём.</ST_Naive.degreeDatas.0.description>
+
+  <ST_Narcissist.degreeDatas.0.label>нарцисс</ST_Narcissist.degreeDatas.0.label>
+  <ST_Narcissist.degreeDatas.0.description>{PAWN_nameDef} верит в привилегии красоты. {PAWN_pronoun} отчаянно стремится достичь безупречной красоты любыми средствами.</ST_Narcissist.degreeDatas.0.description>
+
+  <ST_HealthNut.degreeDatas.0.label>заботящийся о здоровье</ST_HealthNut.degreeDatas.0.label>
+  <ST_HealthNut.degreeDatas.0.description>Тело {PAWN_nameDef} - это храм, {PAWN_pronoun} ест только чтобы выжить. {PAWN_pronoun} здесь надолго, а не для хорошего времяпрепровождения.</ST_HealthNut.degreeDatas.0.description>
+
+  <ST_Emotional.degreeDatas.0.label>эмоциональный</ST_Emotional.degreeDatas.0.label>
+  <ST_Emotional.degreeDatas.0.description>{PAWN_nameDef} чувствует {PAWN_possessive} эмоции более глубоко и испытывает более сильные перепады настроения. {PAWN_pronoun} часто плачет, чтобы выпустить разочарование.</ST_Emotional.degreeDatas.0.description>
+
+  <ST_Paranoid.degreeDatas.0.label>параноик</ST_Paranoid.degreeDatas.0.label>
+  <ST_Paranoid.degreeDatas.0.description>{PAWN_nameDef} считает, что удача - это иллюзия, а плохие события неизбежны. {PAWN_pronoun} всегда готов к худшему сценарию.</ST_Paranoid.degreeDatas.0.description>
+
+  <ST_Goofball.degreeDatas.0.label>чудак</ST_Goofball.degreeDatas.0.label>
+  <ST_Goofball.degreeDatas.0.description>{PAWN_nameDef} ведёт себя забавно в повседневной жизни. {PAWN_possessive} глуповатая натура часто забавляет других.</ST_Goofball.degreeDatas.0.description>
+
+  <ST_Loyal.degreeDatas.0.label>верный</ST_Loyal.degreeDatas.0.label>
+  <ST_Loyal.degreeDatas.0.description>{PAWN_nameDef} никогда тебя не бросит.</ST_Loyal.degreeDatas.0.description>
+
+  <ST_PartyAnimal.degreeDatas.0.label>тусовщик</ST_PartyAnimal.degreeDatas.0.label>
+  <ST_PartyAnimal.degreeDatas.0.description>Для {PAWN_nameDef} каждое время года - время вечеринок!</ST_PartyAnimal.degreeDatas.0.description>
+
+  <ST_Insane.degreeDatas.0.label>безумный</ST_Insane.degreeDatas.0.label>
+  <ST_Insane.degreeDatas.0.description>{PAWN_nameDef} всегда кажется не в своей тарелке. Никто не знает, что творится в {PAWN_possessive} голове, даже {PAWN_objective} сам.</ST_Insane.degreeDatas.0.description>
+
+  <ST_Proper.degreeDatas.0.label>благовоспитанный</ST_Proper.degreeDatas.0.label>
+  <ST_Proper.degreeDatas.0.description>Следуй дресс-коду, говори правильные слова. {PAWN_nameDef} обладает безупречными манерами, которые помогают {PAWN_objective} в любой социальной ситуации.</ST_Proper.degreeDatas.0.description>
+
+  <ST_Grumpy.degreeDatas.0.label>ворчун</ST_Grumpy.degreeDatas.0.label>
+  <ST_Grumpy.degreeDatas.0.description>{PAWN_nameDef} всегда кажется раздражённым, особенно по понедельникам. Окружающие постоянно боятся вызвать {PAWN_possessive} ворчание.</ST_Grumpy.degreeDatas.0.description>
+
+  <ST_Shy.degreeDatas.0.label>застенчивый</ST_Shy.degreeDatas.0.label>
+  <ST_Shy.degreeDatas.0.description>{PAWN_nameDef} трудно общаться с другими людьми, {PAWN_pronoun} особенно ценит, когда проявляют доброту.\n\nСо временем {PAWN_nameDef} научился проводить больше времени за организацией и самоанализом.</ST_Shy.degreeDatas.0.description>
+
+  <ST_Materialistic.degreeDatas.0.label>материалистичный</ST_Materialistic.degreeDatas.0.label>
+  <ST_Materialistic.degreeDatas.0.description>{PAWN_nameDef} любит покупать и хвастаться {PAWN_possessive} новыми приобретениями.</ST_Materialistic.degreeDatas.0.description>
+
+  <ST_Vegan.degreeDatas.0.label>веган</ST_Vegan.degreeDatas.0.label>
+  <ST_Vegan.degreeDatas.0.description>{PAWN_nameDef} избегает есть мясо. {PAWN_pronoun} считает, что с животными нельзя обращаться как с товаром, и стремится спасти как можно больше из них.</ST_Vegan.degreeDatas.0.description>
+
+  <ST_Devout.degreeDatas.0.label>набожный</ST_Devout.degreeDatas.0.label>
+  <ST_Devout.degreeDatas.0.description>{PAWN_nameDef} посвящает {PAWN_possessive} тело и душу тому, во что {PAWN_pronoun} верит. Каким-то образом {PAWN_possessive} молитвы получают ответ.</ST_Devout.degreeDatas.0.description>
+
+  <ST_Procrastinator.degreeDatas.0.label>прокрастинатор</ST_Procrastinator.degreeDatas.0.label>
+  <ST_Procrastinator.degreeDatas.0.description>{PAWN_nameDef} любит откладывать дела на последний момент. {PAWN_pronoun} всё равно успевает выполнить эти задачи, но результаты обычно посредственные.</ST_Procrastinator.degreeDatas.0.description>
+
+  <ST_NonCommital.degreeDatas.0.label>необязательный</ST_NonCommital.degreeDatas.0.label>
+  <ST_NonCommital.degreeDatas.0.description>{PAWN_nameDef} становится напряжённым после некоторого времени на одной работе или в отношениях. {PAWN_possessive} страх обязательств способствует переменам.</ST_NonCommital.degreeDatas.0.description>
+
+  <ST_HighMaintenance.degreeDatas.0.label>требовательный</ST_HighMaintenance.degreeDatas.0.label>
+  <ST_HighMaintenance.degreeDatas.0.description>{PAWN_nameDef} может почувствовать горошину под двадцатью матрасами во время сна. {PAWN_pronoun} рождён с голубой кровью, дорогим вкусом и мелкими проблемами.</ST_HighMaintenance.degreeDatas.0.description>
+
+  <ST_FamilyOriented.degreeDatas.0.label>семейный</ST_FamilyOriented.degreeDatas.0.label>
+  <ST_FamilyOriented.degreeDatas.0.description>{PAWN_nameDef} хочет большую семью и любит быть окружённым детьми. {PAWN_pronoun} станет отличным родителем!</ST_FamilyOriented.degreeDatas.0.description>
+
+  <ST_SteadyHands.degreeDatas.0.label>твёрдая рука</ST_SteadyHands.degreeDatas.0.label>
+  <ST_SteadyHands.degreeDatas.0.description>У {PAWN_nameDef} пара твёрдых рук, которые никогда не дрожат и даже не трясутся под давлением.</ST_SteadyHands.degreeDatas.0.description>
+
+  <ST_Daredevil.degreeDatas.0.label>сорвиголова</ST_Daredevil.degreeDatas.0.label>
+  <ST_Daredevil.degreeDatas.0.description>{PAWN_nameDef} наслаждается хаосом и занимает крайнюю позицию в жизни. {PAWN_pronoun} не может отказаться от выброса адреналина, вызванного безрассудством.</ST_Daredevil.degreeDatas.0.description>
+
+  <ST_Chatterbox.degreeDatas.0.label>болтун</ST_Chatterbox.degreeDatas.0.label>
+  <ST_Chatterbox.degreeDatas.0.description>{PAWN_nameDef} любит поговорить, и {PAWN_pronoun} действительно много говорит. Люди вокруг {PAWN_objective} начали вырабатывать иммунитет к тому, что {PAWN_pronoun} говорит.</ST_Chatterbox.degreeDatas.0.description>
+
+  <ST_Bookworm.degreeDatas.0.label>книжный червь</ST_Bookworm.degreeDatas.0.label>
+  <ST_Bookworm.degreeDatas.0.description>{PAWN_nameDef} имеет глубокую любовь к чтению. {PAWN_pronoun} читает быстро и наслаждается расширением {PAWN_possessive} знаний таким образом.</ST_Bookworm.degreeDatas.0.description>
+
+  <ST_Handy.degreeDatas.0.label>рукастый</ST_Handy.degreeDatas.0.label>
+  <ST_Handy.degreeDatas.0.description>{PAWN_nameDef} любит работать {PAWN_possessive} руками и возиться с механизмами. {PAWN_pronoun} имеет природные способности к работе с мелкими прецизионными компонентами.</ST_Handy.degreeDatas.0.description>
+
+  <ST_Virtuoso.degreeDatas.0.label>виртуоз</ST_Virtuoso.degreeDatas.0.label>
+  <ST_Virtuoso.degreeDatas.0.description>{PAWN_nameDef} имеет природный дар к музыке и инструментам. Кажется, будто музыка, которую {PAWN_pronoun} играет, задерживается в воздухе.</ST_Virtuoso.degreeDatas.0.description>
+
+  <ST_TechWhiz.degreeDatas.0.label>технический гений</ST_TechWhiz.degreeDatas.0.label>
+  <ST_TechWhiz.degreeDatas.0.description>{PAWN_nameDef} блестяще разбирается в компьютерах и технологиях. {PAWN_pronoun} может с лёгкостью взламывать чужие данные и системы безопасности.</ST_TechWhiz.degreeDatas.0.description>
+
+  <ST_Gambler.degreeDatas.0.label>азартный игрок</ST_Gambler.degreeDatas.0.label>
+  <ST_Gambler.degreeDatas.0.description>{PAWN_nameDef} верит в {PAWN_possessive} собственную удачу. Несмотря на разрушительную зависимость, {PAWN_possessive} удача на поле боя явно склоняется в другую сторону.</ST_Gambler.degreeDatas.0.description>
+
+  <ST_Childish.degreeDatas.0.label>ребячливый</ST_Childish.degreeDatas.0.label>
+  <ST_Childish.degreeDatas.0.description>{PAWN_nameDef} никогда не терял детского восхищения. {PAWN_pronoun} смотрит на вещи глазами ребёнка и нуждается в постоянном развлечении.</ST_Childish.degreeDatas.0.description>
+
+  <ST_Nosy.degreeDatas.0.label>любопытный</ST_Nosy.degreeDatas.0.label>
+  <ST_Nosy.degreeDatas.0.description>{PAWN_nameDef} игнорирует границы других и любит выпытывать больше информации, что часто раздражает людей.</ST_Nosy.degreeDatas.0.description>
+
+  <ST_HugePower.degreeDatas.0.label>огромная сила</ST_HugePower.degreeDatas.0.label>
+  <ST_HugePower.degreeDatas.0.description>{PAWN_nameDef} известен {PAWN_possessive} невероятной силой. {PAWN_pronoun} от природы силён без необходимости часто ходить в спортзал.</ST_HugePower.degreeDatas.0.description>
+
+  <ST_Observant.degreeDatas.0.label>наблюдательный</ST_Observant.degreeDatas.0.label>
+  <ST_Observant.degreeDatas.0.description>У {PAWN_nameDef} есть пара зорких глаз, которые сканируют каждую деталь и не упускают ничего странного.</ST_Observant.degreeDatas.0.description>
+
+  <ST_Zen.degreeDatas.0.label>дзен</ST_Zen.degreeDatas.0.label>
+  <ST_Zen.degreeDatas.0.description>{PAWN_nameDef} уделяет время, чтобы открыть красоту во всём. {PAWN_pronoun} видит мир в песчинке.\n\nДля {PAWN_objective} активное саботирование жизни - это презренный поступок.</ST_Zen.degreeDatas.0.description>
+
+  <ST_Submissive.degreeDatas.0.label>покорный</ST_Submissive.degreeDatas.0.label>
+  <ST_Submissive.degreeDatas.0.description>{PAWN_nameDef} хочет, чтобы {PAWN_objective} говорили, что делать. Следование правилам и подчинение власти - их вторая натура.</ST_Submissive.degreeDatas.0.description>
+
+  <ST_DrunkenMaster.degreeDatas.0.label>пьяный мастер</ST_DrunkenMaster.degreeDatas.0.label>
+  <ST_DrunkenMaster.degreeDatas.0.description>{PAWN_nameDef} предположительно специалист по рукопашному бою, но только в состоянии опьянения. {PAWN_pronoun} утверждает, что становится более талантливым, чем больше выпил.</ST_DrunkenMaster.degreeDatas.0.description>
+
+  <ST_Insomniac.degreeDatas.0.label>бессонница</ST_Insomniac.degreeDatas.0.label>
+  <ST_Insomniac.degreeDatas.0.description>{PAWN_nameDef} никогда по-настоящему не спит и не бодрствует. {PAWN_pronoun} почти как зомби, движется неуклюже и работает очень медленно.</ST_Insomniac.degreeDatas.0.description>
+
+</LanguageData>

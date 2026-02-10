@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+    <!-- Уровни элитности -->
+    <EliteLevelLabel>Уровень элитности {0}</EliteLevelLabel>
+    
+    <!-- Основные характеристики -->
+    <EliteStats_Damage>Урон: </EliteStats_Damage>
+    <EliteStats_MoveSpeed>Скорость: </EliteStats_MoveSpeed>
+    <EliteStats_Scale>Размер: </EliteStats_Scale>
+    <EliteStats_Separator> | </EliteStats_Separator>
+    
+    <!-- Типы усилений -->
+    <TraitEnhancement>Усиление черт:</TraitEnhancement>
+    <BossEnhancement>Босс-усиление:</BossEnhancement>
+    
+    <!-- Конкретные модификаторы -->
+    <TraitAddBioncis>Импланты</TraitAddBioncis>
+    <TraitAddDrug>Стимуляторы</TraitAddDrug>
+    <TraitRefineGear>Улучшенная экипировка</TraitRefineGear>
+    <TraitArmorEnhance>Усиленная броня</TraitArmorEnhance>
+    <TraitTemperatureResist>Термостойкость</TraitTemperatureResist>
+    <TraitMeleeEnhance>Улучшение ближнего боя</TraitMeleeEnhance>
+    <TraitRangedSpeedEnhance>Улучшение дальнего боя</TraitRangedSpeedEnhance>
+    <TraitMoveSpeedEnhance>Увеличение скорости</TraitMoveSpeedEnhance>
+    <TraitGiantEnhance>Гигантская форма</TraitGiantEnhance>
+    <TraitBodyPartEnhance>Улучшение тела</TraitBodyPartEnhance>
+    <TraitPainEnhance>Устойчивость к боли</TraitPainEnhance>
+    <TraitMoveSpeedResist>Сопротивление замедлению</TraitMoveSpeedResist>
+    <TraitConsciousnessEnhance>Усиленное сознание</TraitConsciousnessEnhance>
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EBSA_DeadendNerves.label>блокировка нервов</EBSA_DeadendNerves.label>
+  <EBSA_DeadendNerves.description>Психологически индуцированная нечувствительность к боли.</EBSA_DeadendNerves.description>
+
+  <EBSA_DebilitatingNeedle.label>ослабляющая игла</EBSA_DebilitatingNeedle.label>
+  <EBSA_DebilitatingNeedle.description>Вялость и замедленность, вызванные ядовитой иглой.</EBSA_DebilitatingNeedle.description>
+
+  <EBSA_Chameleonlike.label>хамелеон</EBSA_Chameleonlike.label>
+  <EBSA_Chameleonlike.description>Этот пешка сливается с окружающей средой, что делает практически невозможным отслеживание его местоположения.</EBSA_Chameleonlike.description>
+
+  <EBSA_BlindingLuminescence.label>ослепляющее свечение</EBSA_BlindingLuminescence.label>
+  <EBSA_BlindingLuminescence.description>Затуманенное и пятнистое зрение, вызванное внезапным ослепляющим светом.</EBSA_BlindingLuminescence.description>
+
+  <EBSA_DisorientingScreech.label>дезориентирующий визг</EBSA_DisorientingScreech.label>
+  <EBSA_DisorientingScreech.description>В ушах звенит, и сложно идти по прямой линии.</EBSA_DisorientingScreech.description>
+
+  <EBSA_PacifyingNeedle.label>успокаивающая игла</EBSA_PacifyingNeedle.label>
+  <EBSA_PacifyingNeedle.description>Затуманенный, но довольный разум.</EBSA_PacifyingNeedle.description>
+
+</LanguageData>

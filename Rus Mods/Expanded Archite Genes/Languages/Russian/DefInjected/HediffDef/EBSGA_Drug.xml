@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Люциферий -->
+
+  <EBSGA_LuciferiumBlood.label>люциферийная кровь</EBSGA_LuciferiumBlood.label>
+  <EBSGA_LuciferiumBlood.description>Активные люциферийные механиты в теле, контролируемые большим количеством архитов. Они улучшают функционирование тела во всех отношениях.</EBSGA_LuciferiumBlood.description>
+
+
+  <!-- Алкоголь -->
+
+  <EBSGA_AlcoholBlood.label>алкогольная кровь</EBSGA_AlcoholBlood.label>
+  <EBSGA_AlcoholBlood.description>Алкоголь в кровотоке из-за гена. Он делает людей счастливее, но снижает манипуляцию и увеличивает шанс социальных драк.</EBSGA_AlcoholBlood.description>
+  <EBSGA_AlcoholBlood.stages.0.label>тепло</EBSGA_AlcoholBlood.stages.0.label>
+
+
+  <!-- Амброзия -->
+
+  <EBSGA_AmbrosiaBlood.label>амброзийная кровь</EBSGA_AmbrosiaBlood.label>
+  <EBSGA_AmbrosiaBlood.description>Химические вещества амброзии в кровотоке из-за гена. Они поднимают настроение пешки.</EBSGA_AmbrosiaBlood.description>
+
+
+  <!-- Го-сок -->
+
+  <EBSGA_GoJuiceBlood.label>го-соковая кровь</EBSGA_GoJuiceBlood.label>
+  <EBSGA_GoJuiceBlood.description>Го-сок в кровотоке из-за гена. Он усиливает боевые способности.</EBSGA_GoJuiceBlood.description>
+
+
+  <!-- Психитовый чай -->
+
+  <EBSGA_PsychiteBlood.label>психиновая кровь</EBSGA_PsychiteBlood.label>
+  <EBSGA_PsychiteBlood.description>Активный психин в кровотоке из-за гена. Создаёт мягкий эйфорический эффект.</EBSGA_PsychiteBlood.description>
+
+
+  <!-- Хлопья -->
+
+  <EBSGA_FlakeBlood.label>хлопьевая кровь</EBSGA_FlakeBlood.label>
+  <EBSGA_FlakeBlood.description>Активные хлопья психина в кровотоке из-за гена. Создают эйфорическое, изнуряющее опьянение.</EBSGA_FlakeBlood.description>
+
+
+  <!-- Яйо -->
+
+  <EBSGA_YayoBlood.label>порошковая кровь</EBSGA_YayoBlood.label>
+  <EBSGA_YayoBlood.description>Активный химический состав порошка психина в кровотоке из-за гена. Создаёт интенсивное эйфорическое опьянение.</EBSGA_YayoBlood.description>
+
+
+  <!-- Дымолист -->
+
+  <EBSGA_SmokeleafBlood.label>дымолистовая кровь</EBSGA_SmokeleafBlood.label>
+  <EBSGA_SmokeleafBlood.description>Активное химическое вещество дымолиста в кровотоке из-за гена. Создаёт мягкое ощущение нечёткого благополучия.</EBSGA_SmokeleafBlood.description>
+
+
+  <!-- Взбодрись -->
+
+  <EBSGA_WakeUpBlood.label>бодриновая кровь</EBSGA_WakeUpBlood.label>
+  <EBSGA_WakeUpBlood.description>Бодрин в кровотоке из-за гена. Он удовлетворяет потребность в отдыхе, стимулируя мозг, и увеличивает концентрацию, позволяя работать быстрее. Также увеличивает прирост псифокуса от медитации.</EBSGA_WakeUpBlood.description>
+
+</LanguageData>

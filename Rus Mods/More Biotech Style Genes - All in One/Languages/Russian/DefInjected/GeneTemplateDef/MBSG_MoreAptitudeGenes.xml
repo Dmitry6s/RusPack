@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AptitudeInept.label>неспособность к {0}</AptitudeInept.label>
+  <AptitudeInept.description>Способность носителя в {0} снижена на 20, делая её практически непригодной. Кроме того, весь энтузиазм к {0} удаляется.</AptitudeInept.description>
+
+  <AptitudeAbysmal.label>ничтожный {0}</AptitudeAbysmal.label>
+  <AptitudeAbysmal.description>Способность носителя в {0} снижена на 14. Способность действует как смещение уровня навыка. Кроме того, весь энтузиазм к {0} удаляется.</AptitudeAbysmal.description>
+
+  <AptitudeDecent.label>приличный {0}</AptitudeDecent.label>
+  <AptitudeDecent.description>Способность носителя в {0} увеличена на 8. Способность действует как смещение уровня навыка.</AptitudeDecent.description>
+
+  <AptitudePhenomenal.label>феноменальный {0}</AptitudePhenomenal.label>
+  <AptitudePhenomenal.description>Способность носителя в {0} увеличена на 12. Способность действует как смещение уровня навыка. Кроме того, добавляется один уровень энтузиазма к {0}.</AptitudePhenomenal.description>
+
+  <AptitudeInstinctive.label>инстинктивный {0}</AptitudeInstinctive.label>
+  <AptitudeInstinctive.description>Способность носителя в {0} увеличена на 20. Из-за инстинктивной природы этой способности эта пешка никогда не будет проявлять к ней энтузиазм.</AptitudeInstinctive.description>
+
+</LanguageData>

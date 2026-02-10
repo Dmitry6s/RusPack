@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Алкоголь -->
+
+  <EBSGA_AlcoholBlood.stages.0.label>алкогольная кровь</EBSGA_AlcoholBlood.stages.0.label>
+  <EBSGA_AlcoholBlood.stages.0.description>Я просто чувствую себя немного расслабленным. Это хорошо.</EBSGA_AlcoholBlood.stages.0.description>
+
+
+  <!-- Амброзия -->
+
+  <EBSGA_AmbrosiaBlood.stages.0.label>амброзийная кровь</EBSGA_AmbrosiaBlood.stages.0.label>
+  <EBSGA_AmbrosiaBlood.stages.0.description>Я чувствую себя одновременно расслабленным и энергичным.</EBSGA_AmbrosiaBlood.stages.0.description>
+
+
+  <!-- Го-сок -->
+
+  <EBSGA_GoJuiceBlood.stages.0.label>го-сок кровь</EBSGA_GoJuiceBlood.stages.0.label>
+  <EBSGA_GoJuiceBlood.stages.0.description>Я чувствую себя заряженным, но устойчивым. Я — пуля в полёте, готовая пронзить тебя.</EBSGA_GoJuiceBlood.stages.0.description>
+
+
+  <!-- Психитовый чай -->
+
+  <EBSGA_PsychiteBlood.stages.0.label>психиновая кровь</EBSGA_PsychiteBlood.stages.0.label>
+  <EBSGA_PsychiteBlood.stages.0.description>Мне нравится эта энергия!</EBSGA_PsychiteBlood.stages.0.description>
+
+
+  <!-- Хлопья -->
+
+  <EBSGA_FlakeBlood.stages.0.label>хлопьевая кровь</EBSGA_FlakeBlood.stages.0.label>
+  <EBSGA_FlakeBlood.stages.0.description>Так хорошо, так хорошо.</EBSGA_FlakeBlood.stages.0.description>
+
+
+  <!-- Яйо -->
+
+  <EBSGA_YayoBlood.stages.0.label>порошковая кровь</EBSGA_YayoBlood.stages.0.label>
+  <EBSGA_YayoBlood.stages.0.description>Чувствую заряд! Давайте сделаем это!</EBSGA_YayoBlood.stages.0.description>
+
+
+  <!-- Дымолист -->
+
+  <EBSGA_SmokeleafBlood.stages.0.label>дымолистовая кровь</EBSGA_SmokeleafBlood.stages.0.label>
+  <EBSGA_SmokeleafBlood.stages.0.description>Я, типа, под кайфом, чувак.</EBSGA_SmokeleafBlood.stages.0.description>
+
+</LanguageData>

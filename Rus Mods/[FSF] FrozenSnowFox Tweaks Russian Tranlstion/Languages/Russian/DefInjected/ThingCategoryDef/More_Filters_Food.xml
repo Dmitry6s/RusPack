@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: raw tasty -->
+  <FSFRawTasty.label>Вкусная сырая еда</FSFRawTasty.label>
+  
+  <!-- EN: milk -->
+  <FSFMilk.label>Молоко</FSFMilk.label>
+  
+  <!-- EN: jelly -->
+  <FSFJelly.label>Желе</FSFJelly.label>
+
+  <!-- EN: awful -->
+  <FSFMealAwful.label>Отвратительные блюда</FSFMealAwful.label>
+
+  <!-- EN: simple -->
+  <FSFMealSimple.label>Простые блюда</FSFMealSimple.label>
+
+  <!-- EN: fine -->
+  <FSFMealFine.label>Вкусные блюда</FSFMealFine.label>
+
+  <!-- EN: lavish -->
+  <FSFMealLavish.label>Роскошные блюда</FSFMealLavish.label>  
+ 
+  <!-- EN: gourmet -->
+  <FSFMealGourmet.label>Блюдо для гурманов</FSFMealGourmet.label>  
+
+  <!-- EN: long term -->
+  <FoodMeals.label>Приготовленная еда</FoodMeals.label>  
+
+  <!-- EN: confectionery -->
+  <FSFConfectionery.label>Кондитерские изделия</FSFConfectionery.label>  
+
+  <!-- EN: baby food -->
+  <FSFMealBaby.label>Детское питание</FSFMealBaby.label>  
+
+  <!-- EN: animal feed -->
+  <FSFMealAnimal.label>Корм для животных</FSFMealAnimal.label>  
+
+  <!-- EN: gluttonous -->
+  <FSFGluttonous.label>Сытная еда</FSFGluttonous.label>
+
+  <!-- EN: blood -->
+  <FSFBlood.label>Кровь</FSFBlood.label>  
+
+  <!-- EN: cocktails -->
+  <FSFDrinksCocktails.label>Коктейли</FSFDrinksCocktails.label>
+ 
+</LanguageData>

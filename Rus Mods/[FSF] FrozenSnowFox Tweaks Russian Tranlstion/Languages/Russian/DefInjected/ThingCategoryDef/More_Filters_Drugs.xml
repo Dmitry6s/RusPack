@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Hard -->
+  <FSFDrugsHard.label>Тяжёлые наркотики</FSFDrugsHard.label>
+  
+  <!-- EN: Medical -->
+  <FSFDrugsMedical.label>Медицинские препараты</FSFDrugsMedical.label>
+  
+  <!-- EN: Social -->
+  <FSFDrugsSocial.label>Социальные наркотики</FSFDrugsSocial.label>
+
+  
+</LanguageData>

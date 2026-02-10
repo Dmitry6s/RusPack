@@ -121,6 +121,20 @@
 		<li IfModActive="Fuu.AutoStripOnHaul">Rus Mods/Auto Strip on Haul</li>
 		<li IfModActive="klvlt.asf.storage.settings">Rus Mods/Settings for Various ASF Storage Mods</li>
 		<li IfModActive="ferny.progressioncore">Rus Mods/Progression Core</li>
+
+		<li IfModActive="nilchei.dynamicdiplomacycontinued">Mods/Dynamic Diplomacy - Continued</li>
+        <li IfModActive="trigger.eliteRaid">Mods/Elite Raid</li>
+        <li IfModActive="anomalypatch.1trickPwnyta">Mods/1trickPwnyta's Anomaly Patch</li>
+        <li IfModActive="biotechpatch.1trickPwnyta">Mods/1trickPwnyta's Biotech Patch</li>
+        <li IfModActive="ideologypatch.1trickPwnyta">Mods/1trickPwnyta's Ideology Patch</li>
+        <li IfModActive="defaults.1trickPwnyta">Mods/1trickPwnyta's Defaults</li>
+        <li IfModActive="divinederivative.romance">Mods/Way Better Romance</li>
+        <li IfModActive="FrozenSnowFox.FrozenSnowFoxTweaks">Mods/[FSF] FrozenSnowFox Tweaks</li>
+        <li IfModActive="EBSG.Archite">Mods/Expanded Archite Genes</li>
+        <li IfModActive="EBS.Abilities">Mods/Expanded Biotech Style Abilities</li>
+        <li IfModActive="MoreBiotechStyleGenes.Mod">Mods/More Biotech Style Genes - All in One</li>
+        <li IfModActive="Goji.TheSimsTraits">Mods/The Sims Traits</li>
+
 		
 		</v1.6>
 </loadFolders>

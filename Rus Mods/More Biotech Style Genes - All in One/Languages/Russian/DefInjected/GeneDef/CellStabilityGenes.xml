@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Instability_Hyper.label>гипернестабильность клеток</Instability_Hyper.label>
+  <Instability_Hyper.description>Носителям этого гена требуется гораздо меньше метаболической энергии для выживания, но за счёт сильно сниженной стабильности их клеточной репликационной системы.</Instability_Hyper.description>
+
+  <Instability_Super.label>супернестабильность клеток</Instability_Super.label>
+  <Instability_Super.description>Носителям этого гена требуется гораздо меньше метаболической энергии для выживания, но за счёт сильно сниженной стабильности их клеточной репликационной системы.</Instability_Super.description>
+
+  <Instability_Extreme.label>экстремальная нестабильность клеток</Instability_Extreme.label>
+  <Instability_Extreme.description>Носителям этого гена требуется гораздо меньше метаболической энергии для выживания, но за счёт сильно сниженной стабильности их клеточной репликационной системы.</Instability_Extreme.description>
+
+  <Instability_Notable.label>заметная нестабильность клеток</Instability_Notable.label>
+  <Instability_Notable.description>Носителям этого гена требуется меньше метаболической энергии для выживания, но за счёт сниженной стабильности их клеточной репликационной системы.</Instability_Notable.description>
+
+  <Instability_Minor.label>незначительная нестабильность клеток</Instability_Minor.label>
+  <Instability_Minor.description>Носителям этого гена требуется меньше метаболической энергии для выживания, но за счёт сниженной стабильности их клеточной репликационной системы.</Instability_Minor.description>
+
+  <Stability_Minor.label>незначительная стабильность клеток</Stability_Minor.label>
+  <Stability_Minor.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на повышение стабильности их клеточной репликационной системы.</Stability_Minor.description>
+
+  <Stability_Mild.label>умеренная стабильность клеток</Stability_Mild.label>
+  <Stability_Mild.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на повышение стабильности их клеточной репликационной системы.</Stability_Mild.description>
+
+  <Stability_Notable.label>заметная стабильность клеток</Stability_Notable.label>
+  <Stability_Notable.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на значительное повышение стабильности их клеточной репликационной системы.</Stability_Notable.description>
+
+  <Stability_Major.label>высокая стабильность клеток</Stability_Major.label>
+  <Stability_Major.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на значительное повышение стабильности их клеточной репликационной системы.</Stability_Major.description>
+
+  <Stability_Extreme.label>экстремальная стабильность клеток</Stability_Extreme.label>
+  <Stability_Extreme.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на чрезвычайно высокое повышение стабильности их клеточной репликационной системы.</Stability_Extreme.description>
+
+  <Stability_Super.label>суперстабильность клеток</Stability_Super.label>
+  <Stability_Super.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на чрезвычайно высокое повышение стабильности их клеточной репликационной системы.</Stability_Super.description>
+
+  <Stability_Hyper.label>гиперстабильность клеток</Stability_Hyper.label>
+  <Stability_Hyper.description>Носителям этого гена требуется больше метаболической энергии для выживания в обмен на чрезвычайно высокое повышение стабильности их клеточной репликационной системы.</Stability_Hyper.description>
+
+</LanguageData>

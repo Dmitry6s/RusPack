@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_MinorArchite_Shooting.label>незначительное улучшение стрельбы</MBSG_MinorArchite_Shooting.label>
+  <MBSG_MinorArchite_Shooting.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Shooting.description>
+
+  <MBSG_MinorArchite_Melee.label>незначительное улучшение рукопашного боя</MBSG_MinorArchite_Melee.label>
+  <MBSG_MinorArchite_Melee.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Melee.description>
+
+  <MBSG_MinorArchite_Construction.label>незначительное улучшение строительства</MBSG_MinorArchite_Construction.label>
+  <MBSG_MinorArchite_Construction.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Construction.description>
+
+  <MBSG_MinorArchite_Mining.label>незначительное улучшение добычи ресурсов</MBSG_MinorArchite_Mining.label>
+  <MBSG_MinorArchite_Mining.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Mining.description>
+
+  <MBSG_MinorArchite_Cooking.label>незначительное улучшение кулинарии</MBSG_MinorArchite_Cooking.label>
+  <MBSG_MinorArchite_Cooking.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Cooking.description>
+
+  <MBSG_MinorArchite_Plants.label>незначительное улучшение растениеводства</MBSG_MinorArchite_Plants.label>
+  <MBSG_MinorArchite_Plants.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Plants.description>
+
+  <MBSG_MinorArchite_Animals.label>незначительное улучшение животноводства</MBSG_MinorArchite_Animals.label>
+  <MBSG_MinorArchite_Animals.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Animals.description>
+
+  <MBSG_MinorArchite_Crafting.label>незначительное улучшение ремесла</MBSG_MinorArchite_Crafting.label>
+  <MBSG_MinorArchite_Crafting.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Crafting.description>
+
+  <MBSG_MinorArchite_Artistic.label>незначительное улучшение искусства</MBSG_MinorArchite_Artistic.label>
+  <MBSG_MinorArchite_Artistic.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Artistic.description>
+
+  <MBSG_MinorArchite_Medicine.label>незначительное улучшение медицины</MBSG_MinorArchite_Medicine.label>
+  <MBSG_MinorArchite_Medicine.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Medicine.description>
+
+  <MBSG_MinorArchite_Social.label>незначительное улучшение общения</MBSG_MinorArchite_Social.label>
+  <MBSG_MinorArchite_Social.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Social.description>
+
+  <MBSG_MinorArchite_Intellectual.label>незначительное улучшение интеллекта</MBSG_MinorArchite_Intellectual.label>
+  <MBSG_MinorArchite_Intellectual.description>Способность носителя в этом навыке повышена до 16 благодаря небольшому количеству специализированных архитов в мозге.</MBSG_MinorArchite_Intellectual.description>
+
+  <MBSG_Archite_Shooting.label>улучшение стрельбы</MBSG_Archite_Shooting.label>
+  <MBSG_Archite_Shooting.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Shooting.description>
+
+  <MBSG_Archite_Melee.label>улучшение рукопашного боя</MBSG_Archite_Melee.label>
+  <MBSG_Archite_Melee.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Melee.description>
+
+  <MBSG_Archite_Construction.label>улучшение строительства</MBSG_Archite_Construction.label>
+  <MBSG_Archite_Construction.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Construction.description>
+
+  <MBSG_Archite_Mining.label>улучшение добычи ресурсов</MBSG_Archite_Mining.label>
+  <MBSG_Archite_Mining.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Mining.description>
+
+  <MBSG_Archite_Cooking.label>улучшение кулинарии</MBSG_Archite_Cooking.label>
+  <MBSG_Archite_Cooking.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Cooking.description>
+
+  <MBSG_Archite_Plants.label>улучшение растениеводства</MBSG_Archite_Plants.label>
+  <MBSG_Archite_Plants.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Plants.description>
+
+  <MBSG_Archite_Animals.label>улучшение животноводства</MBSG_Archite_Animals.label>
+  <MBSG_Archite_Animals.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Animals.description>
+
+  <MBSG_Archite_Crafting.label>улучшение ремесла</MBSG_Archite_Crafting.label>
+  <MBSG_Archite_Crafting.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Crafting.description>
+
+  <MBSG_Archite_Artistic.label>улучшение искусства</MBSG_Archite_Artistic.label>
+  <MBSG_Archite_Artistic.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Artistic.description>
+
+  <MBSG_Archite_Medicine.label>улучшение медицины</MBSG_Archite_Medicine.label>
+  <MBSG_Archite_Medicine.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Medicine.description>
+
+  <MBSG_Archite_Social.label>улучшение общения</MBSG_Archite_Social.label>
+  <MBSG_Archite_Social.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Social.description>
+
+  <MBSG_Archite_Intellectual.label>улучшение интеллекта</MBSG_Archite_Intellectual.label>
+  <MBSG_Archite_Intellectual.description>Способность носителя в этом навыке повышена до 20 благодаря специализированным архитам в мозге. Эти архиты также запрограммированы выделять дофамин каждый раз, когда носитель использует способность, повышая энтузиазм к ней на два уровня.</MBSG_Archite_Intellectual.description>
+
+</LanguageData>

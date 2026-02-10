@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtremelySleepy.label>экстремально высокая потребность в сне</ExtremelySleepy.label>
+  <ExtremelySleepy.description>Носители этого гена устают чрезвычайно быстро по сравнению с другими. Примечание: этот ген приводит к тому, что пешке требуется полноценный отдых более двух раз в день.</ExtremelySleepy.description>
+
+  <SuperSleepy.label>сверхвысокая потребность в сне</SuperSleepy.label>
+  <SuperSleepy.description>Носители этого гена устают намного быстрее, чем другие. Примечание: этот ген приводит к тому, что пешке требуется полноценный отдых два раза в день.</SuperSleepy.description>
+
+  <HighSleepy.label>очень высокая потребность в сне</HighSleepy.label>
+  <HighSleepy.description>Носители этого гена устают заметно быстрее, чем другие.</HighSleepy.description>
+
+  <SomewhatSleepy.label>довольно высокая потребность в сне</SomewhatSleepy.label>
+  <SomewhatSleepy.description>Носители этого гена устают немного быстрее, чем другие.</SomewhatSleepy.description>
+
+  <SlightlyBelowAverageSleep.label>потребность в сне ниже среднего</SlightlyBelowAverageSleep.label>
+  <SlightlyBelowAverageSleep.description>Носители этого гена устают немного медленнее, чем другие.</SlightlyBelowAverageSleep.description>
+
+  <BelowAverageSleep.label>низкая потребность в сне</BelowAverageSleep.label>
+  <BelowAverageSleep.description>Носители этого гена устают немного медленнее, чем другие.</BelowAverageSleep.description>
+
+  <SomewhatLowSleep.label>очень низкая потребность в сне</SomewhatLowSleep.label>
+  <SomewhatLowSleep.description>Носители этого гена устают медленнее, чем другие.</SomewhatLowSleep.description>
+
+  <VeryLowSleep.label>сверхнизкая потребность в сне</VeryLowSleep.label>
+  <VeryLowSleep.description>Носители этого гена устают намного медленнее, чем другие.</VeryLowSleep.description>
+
+  <ExtremelyLowSleep.label>экстремально низкая потребность в сне</ExtremelyLowSleep.label>
+  <ExtremelyLowSleep.description>Носители этого гена устают чрезвычайно медленно по сравнению с нормой. Примечание: стоимость такая же, как у гена «Никогда не спит», но пешка всё равно ложится спать, поэтому может участвовать в интимных отношениях.</ExtremelyLowSleep.description>
+
+</LanguageData>

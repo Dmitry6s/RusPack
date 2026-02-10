@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EBSG_MinorArchiteSenses.label>незначительная архитная чувствительность</EBSG_MinorArchiteSenses.label>
+  <EBSG_MinorArchiteSenses.description>Носители этого гена имеют небольшое количество архитов в мозге, которые позволяют им легче обрабатывать сенсорную информацию.\n\nИз-за природы этого гена он несовместим с большинством генов в категории чувств.</EBSG_MinorArchiteSenses.description>
+
+  <EBSG_ArchiteSenses.label>архитная чувствительность</EBSG_ArchiteSenses.label>
+  <EBSG_ArchiteSenses.description>Носители этого гена имеют архиты в мозге, которые позволяют им легче обрабатывать сенсорную информацию.\n\nИз-за природы этого гена он несовместим с большинством генов в категории чувств.</EBSG_ArchiteSenses.description>
+
+  <EBSG_MajorArchiteSenses.label>значительная архитная чувствительность</EBSG_MajorArchiteSenses.label>
+  <EBSG_MajorArchiteSenses.description>Носители этого гена имеют большое количество архитов в мозге, которые позволяют им легче обрабатывать сенсорную информацию.\n\nИз-за природы этого гена он несовместим с большинством генов в категории чувств.</EBSG_MajorArchiteSenses.description>
+
+  <EBSG_ExtremeArchiteSenses.label>экстремальная архитная чувствительность</EBSG_ExtremeArchiteSenses.label>
+  <EBSG_ExtremeArchiteSenses.description>Носители этого гена имеют небольшое количество сжатых скоплений архитов в мозге, которые позволяют им легче обрабатывать сенсорную информацию.\n\nИз-за природы этого гена он несовместим с большинством генов в категории чувств.</EBSG_ExtremeArchiteSenses.description>
+
+  <EBSG_MinorArchiteCarry.label>незначительное увеличение грузоподъёмности</EBSG_MinorArchiteCarry.label>
+  <EBSG_MinorArchiteCarry.description>Носители этого гена имеют небольшое количество архитов, распределённых по рукам и спине, что увеличивает их грузоподъёмность.</EBSG_MinorArchiteCarry.description>
+
+  <EBSG_ArchiteCarry.label>увеличение грузоподъёмности</EBSG_ArchiteCarry.label>
+  <EBSG_ArchiteCarry.description>Носители этого гена имеют архиты, распределённые по рукам и спине, что увеличивает их грузоподъёмность.</EBSG_ArchiteCarry.description>
+
+  <EBSG_MajorArchiteCarry.label>значительное увеличение грузоподъёмности</EBSG_MajorArchiteCarry.label>
+  <EBSG_MajorArchiteCarry.description>Носители этого гена имеют большое количество архитов, распределённых по рукам и спине, что увеличивает их грузоподъёмность.</EBSG_MajorArchiteCarry.description>
+
+  <EBSG_ArchiteDigestion.label>улучшенное пищеварение</EBSG_ArchiteDigestion.label>
+  <EBSG_ArchiteDigestion.description>Носители этого гена имеют архиты в желудке, которые защищают их от пищевых отравлений и невероятно эффективно перерабатывают сырую пищу.</EBSG_ArchiteDigestion.description>
+
+  <EBSGA_MinorArchiteEatingSpeed.label>незначительное ускоренние потребления пищи</EBSGA_MinorArchiteEatingSpeed.label>
+  <EBSGA_MinorArchiteEatingSpeed.description>Носители этого гена имеют небольшое количество архитов во рту, предназначенных для быстрого расщепления пищи, чтобы облегчить её потребление.</EBSGA_MinorArchiteEatingSpeed.description>
+
+  <EBSGA_ArchiteEatingSpeed.label>ускоренние потребления пищи</EBSGA_ArchiteEatingSpeed.label>
+  <EBSGA_ArchiteEatingSpeed.description>Носители этого гена имеют архиты во рту, предназначенные для быстрого расщепления пищи, чтобы облегчить её потребление.</EBSGA_ArchiteEatingSpeed.description>
+
+  <EBSGA_MajorArchiteEatingSpeed.label>значительное ускоренние потребления пищи</EBSGA_MajorArchiteEatingSpeed.label>
+  <EBSGA_MajorArchiteEatingSpeed.description>Носители этого гена имеют большое количество архитов во рту, предназначенных для быстрого расщепления пищи, чтобы облегчить её потребление.</EBSGA_MajorArchiteEatingSpeed.description>
+
+  <EBSG_MinorArchiteHemogenGain.label>незначительное улучшение эффективности обработки гемогена</EBSG_MinorArchiteHemogenGain.label>
+  <EBSG_MinorArchiteHemogenGain.description>Носители этого гена имеют небольшое количество архитов в крови, которые позволяют им невероятно эффективно перерабатывать кровь других в гемоген.</EBSG_MinorArchiteHemogenGain.description>
+
+  <EBSG_ArchiteHemogenGain.label>улучшение эффективности обработки гемогена</EBSG_ArchiteHemogenGain.label>
+  <EBSG_ArchiteHemogenGain.description>Носители этого гена имеют архиты в крови, которые позволяют им невероятно эффективно перерабатывать кровь других в гемоген.</EBSG_ArchiteHemogenGain.description>
+
+  <EBSG_MajorArchiteHemogenGain.label>значительное улучшение эффективности обработки гемогена</EBSG_MajorArchiteHemogenGain.label>
+  <EBSG_MajorArchiteHemogenGain.description>Носители этого гена имеют большое количество архитов в крови, которые позволяют им невероятно эффективно перерабатывать кровь других в гемоген.</EBSG_MajorArchiteHemogenGain.description>
+
+  <EBSG_ArchiteMentalFortitude.label>психическая устойчивость</EBSG_ArchiteMentalFortitude.label>
+  <EBSG_ArchiteMentalFortitude.description>Носители этого гена имеют архиты в мозге, которые помогают защищать их разум от беспокойства, вызванного внешними воздействиями. Это значительно снижает вероятность психического срыва. Для тех, у кого есть Ideology, это также значительно затрудняет их подавление и изменение их убеждений.</EBSG_ArchiteMentalFortitude.description>
+
+  <EBSG_MinorArchiteEnhancedBurrowing.label>незначительное улучшение горной добычи</EBSG_MinorArchiteEnhancedBurrowing.label>
+  <EBSG_MinorArchiteEnhancedBurrowing.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в более эффективной добыче ресурсов.\n\nЭто улучшение не повлияет на количество добываемых ресурсов, только на скорость добычи. Это касается как обычной добычи, так и глубокого бурения.</EBSG_MinorArchiteEnhancedBurrowing.description>
+
+  <EBSG_ArchiteEnhancedBurrowing.label>улучшение горной добычи</EBSG_ArchiteEnhancedBurrowing.label>
+  <EBSG_ArchiteEnhancedBurrowing.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в более эффективной добыче ресурсов.\n\nЭто улучшение не повлияет на количество добываемых ресурсов, только на скорость добычи. Это касается как обычной добычи, так и глубокого бурения.</EBSG_ArchiteEnhancedBurrowing.description>
+
+  <EBSG_MajorArchiteEnhancedBurrowing.label>значительное улучшение горной добычи</EBSG_MajorArchiteEnhancedBurrowing.label>
+  <EBSG_MajorArchiteEnhancedBurrowing.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в более эффективной добыче ресурсов.\n\nЭто улучшение не повлияет на количество добываемых ресурсов, только на скорость добычи. Это касается как обычной добычи, так и глубокого бурения.</EBSG_MajorArchiteEnhancedBurrowing.description>
+
+  <EBSG_MinorArchiteEnhancedCaring.label>незначительное улучшение внимательности к окружающим</EBSG_MinorArchiteEnhancedCaring.label>
+  <EBSG_MinorArchiteEnhancedCaring.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в гораздо более быстром определении проблем человека по сравнению с нормой.\n\nЭтот инстинкт не поможет им с более сложными операциями и не поможет им понять, как правильно ухаживать за индивидуумом.</EBSG_MinorArchiteEnhancedCaring.description>
+
+  <EBSG_ArchiteEnhancedCaring.label>улучшение внимательности к окружающим</EBSG_ArchiteEnhancedCaring.label>
+  <EBSG_ArchiteEnhancedCaring.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в гораздо более быстром определении проблем человека по сравнению с нормой.\n\nЭтот инстинкт не поможет им с более сложными операциями и не поможет им понять, как правильно ухаживать за индивидуумом.</EBSG_ArchiteEnhancedCaring.description>
+
+  <EBSG_MajorArchiteEnhancedCaring.label>значительное улучшение внимательности к окружающим</EBSG_MajorArchiteEnhancedCaring.label>
+  <EBSG_MajorArchiteEnhancedCaring.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в гораздо более быстром определении проблем человека по сравнению с нормой.\n\nЭтот инстинкт не поможет им с более сложными операциями и не поможет им понять, как правильно ухаживать за индивидуумом.</EBSG_MajorArchiteEnhancedCaring.description>
+
+  <EBSG_MinorArchiteEnhancedConstruction.label>незначительное улучшение строительства</EBSG_MinorArchiteEnhancedConstruction.label>
+  <EBSG_MinorArchiteEnhancedConstruction.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в гораздо более быстром строительстве сооружений по сравнению с нормой, чтобы защитить себя от внешних опасностей.\n\nЭтот инстинкт не поможет им избежать неудач при строительстве, а только ускорит темп строительства.</EBSG_MinorArchiteEnhancedConstruction.description>
+
+  <EBSG_ArchiteEnhancedConstruction.label>улучшение строительства</EBSG_ArchiteEnhancedConstruction.label>
+  <EBSG_ArchiteEnhancedConstruction.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в гораздо более быстром строительстве сооружений по сравнению с нормой, чтобы защитить себя от внешних опасностей.\n\nЭтот инстинкт не поможет им избежать неудач при строительстве, а только ускорит темп строительства.</EBSG_ArchiteEnhancedConstruction.description>
+
+  <EBSG_MajorArchiteEnhancedConstruction.label>значительное улучшение строительства</EBSG_MajorArchiteEnhancedConstruction.label>
+  <EBSG_MajorArchiteEnhancedConstruction.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в гораздо более быстром строительстве сооружений по сравнению с нормой, чтобы защитить себя от внешних опасностей.\n\nЭтот инстинкт не поможет им избежать неудач при строительстве, а только ускорит темп строительства.</EBSG_MajorArchiteEnhancedConstruction.description>
+
+  <EBSG_MinorArchiteEnhancedCuriosity.label>незначительное улучшение любознательности</EBSG_MinorArchiteEnhancedCuriosity.label>
+  <EBSG_MinorArchiteEnhancedCuriosity.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в открытии ранее неизвестных концепций, немного увеличивая скорость исследований.\n\nЭто не повлияет на скорость обучения, только на скорость исследований.\n\nДля большего количества вариантов, влияющих на скорость обучения пешки, посмотрите мод More Study Genes. Вы можете использовать их, чтобы изменить, насколько хорошо пешка может совершенствоваться.</EBSG_MinorArchiteEnhancedCuriosity.description>
+
+  <EBSG_ArchiteEnhancedCuriosity.label>улучшение любознательности</EBSG_ArchiteEnhancedCuriosity.label>
+  <EBSG_ArchiteEnhancedCuriosity.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в открытии ранее неизвестных концепций, немного увеличивая скорость исследований.\n\nЭто не повлияет на скорость обучения, только на скорость исследований.\n\nДля большего количества вариантов, влияющих на скорость обучения пешки, посмотрите мод More Study Genes. Вы можете использовать их, чтобы изменить, насколько хорошо пешка может совершенствоваться.</EBSG_ArchiteEnhancedCuriosity.description>
+
+  <EBSG_MajorArchiteEnhancedCuriosity.label>значительное улучшение любознательности</EBSG_MajorArchiteEnhancedCuriosity.label>
+  <EBSG_MajorArchiteEnhancedCuriosity.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в открытии ранее неизвестных концепций, немного увеличивая скорость исследований.\n\nЭто не повлияет на скорость обучения, только на скорость исследований.\n\nДля большего количества вариантов, влияющих на скорость обучения пешки, посмотрите мод More Study Genes. Вы можете использовать их, чтобы изменить, насколько хорошо пешка может совершенствоваться.</EBSG_MajorArchiteEnhancedCuriosity.description>
+
+  <EBSG_MinorArchiteEnhancedForaging.label>незначительное улучшение растениеводства</EBSG_MinorArchiteEnhancedForaging.label>
+  <EBSG_MinorArchiteEnhancedForaging.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в гораздо более быстрой посадке и сборе растений по сравнению с большинством.\n\nЭтот инстинкт не поможет им получить больше от растений, а только поможет быстрее собирать материалы.</EBSG_MinorArchiteEnhancedForaging.description>
+
+  <EBSG_ArchiteEnhancedForaging.label>улучшение растениеводства</EBSG_ArchiteEnhancedForaging.label>
+  <EBSG_ArchiteEnhancedForaging.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в гораздо более быстрой посадке и сборе растений по сравнению с большинством.\n\nЭтот инстинкт не поможет им получить больше от растений, а только поможет быстрее собирать материалы.</EBSG_ArchiteEnhancedForaging.description>
+
+  <EBSG_MajorArchiteEnhancedForaging.label>значительное улучшение растениеводства</EBSG_MajorArchiteEnhancedForaging.label>
+  <EBSG_MajorArchiteEnhancedForaging.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в гораздо более быстрой посадке и сборе растений по сравнению с большинством.\n\nЭтот инстинкт не поможет им получить больше от растений, а только поможет быстрее собирать материалы.</EBSG_MajorArchiteEnhancedForaging.description>
+
+  <EBSG_MinorArchiteEnhancedHerding.label>незначительное улучшение животноводства</EBSG_MinorArchiteEnhancedHerding.label>
+  <EBSG_MinorArchiteEnhancedHerding.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в немного более быстром сборе материалов от животных по сравнению с большинством.\n\nЭтот инстинкт не поможет им собрать больше материалов от животных, а только ускорит скорость их получения.</EBSG_MinorArchiteEnhancedHerding.description>
+
+  <EBSG_ArchiteEnhancedHerding.label>улучшение животноводства</EBSG_ArchiteEnhancedHerding.label>
+  <EBSG_ArchiteEnhancedHerding.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в немного более быстром сборе материалов от животных по сравнению с большинством.\n\nЭтот инстинкт не поможет им собрать больше материалов от животных, а только ускорит скорость их получения.</EBSG_ArchiteEnhancedHerding.description>
+
+  <EBSG_MajorArchiteEnhancedHerding.label>значительное улучшение животноводства</EBSG_MajorArchiteEnhancedHerding.label>
+  <EBSG_MajorArchiteEnhancedHerding.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в немного более быстром сборе материалов от животных по сравнению с большинством.\n\nЭтот инстинкт не поможет им собрать больше материалов от животных, а только ускорит скорость их получения.</EBSG_MajorArchiteEnhancedHerding.description>
+
+  <EBSG_MinorArchiteEnhancedHunting.label>незначительное улучшение охоты</EBSG_MinorArchiteEnhancedHunting.label>
+  <EBSG_MinorArchiteEnhancedHunting.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в охоте на животных, оставаясь незамеченными, немного легче, чем обычно.</EBSG_MinorArchiteEnhancedHunting.description>
+
+  <EBSG_ArchiteEnhancedHunting.label>улучшение охоты</EBSG_ArchiteEnhancedHunting.label>
+  <EBSG_ArchiteEnhancedHunting.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в охоте на животных, оставаясь незамеченными, немного легче, чем обычно.</EBSG_ArchiteEnhancedHunting.description>
+
+  <EBSG_MajorArchiteEnhancedHunting.label>значительное улучшение охоты</EBSG_MajorArchiteEnhancedHunting.label>
+  <EBSG_MajorArchiteEnhancedHunting.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в охоте на животных, оставаясь незамеченными, немного легче, чем обычно.</EBSG_MajorArchiteEnhancedHunting.description>
+
+  <EBSG_MinorArchiteEnhancedHacking.label>незначительное улучшение эффективности взлома</EBSG_MinorArchiteEnhancedHacking.label>
+  <EBSG_MinorArchiteEnhancedHacking.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи во взломе устройств гораздо быстрее, чем большинство.</EBSG_MinorArchiteEnhancedHacking.description>
+
+  <EBSG_ArchiteEnhancedHacking.label>улучшение взлома</EBSG_ArchiteEnhancedHacking.label>
+  <EBSG_ArchiteEnhancedHacking.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи во взломе устройств гораздо быстрее, чем большинство.</EBSG_ArchiteEnhancedHacking.description>
+
+  <EBSG_MajorArchiteEnhancedHacking.label>значительное улучшение эффективности взлома</EBSG_MajorArchiteEnhancedHacking.label>
+  <EBSG_MajorArchiteEnhancedHacking.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи во взломе устройств гораздо быстрее, чем большинство.</EBSG_MajorArchiteEnhancedHacking.description>
+
+  <EBSG_MinorArchiteEnhancedPiloting.label>незначительное улучшение эффективности пилотирования</EBSG_MinorArchiteEnhancedPiloting.label>
+  <EBSG_MinorArchiteEnhancedPiloting.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для помощи в пилотировании кораблей легче, чем большинство.</EBSG_MinorArchiteEnhancedPiloting.description>
+
+  <EBSG_ArchiteEnhancedPiloting.label>улучшение эффективности пилотирования</EBSG_ArchiteEnhancedPiloting.label>
+  <EBSG_ArchiteEnhancedPiloting.description>Носители этого гена имеют архиты в мозге, предназначенные для помощи в пилотировании кораблей легче, чем большинство.</EBSG_ArchiteEnhancedPiloting.description>
+
+  <EBSG_MajorArchiteEnhancedPiloting.label>значительное улучшение эффективности пилотирования</EBSG_MajorArchiteEnhancedPiloting.label>
+  <EBSG_MajorArchiteEnhancedPiloting.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для помощи в пилотировании кораблей легче, чем большинство.</EBSG_MajorArchiteEnhancedPiloting.description>
+
+  <EBSG_MinorArchiteEnhancedConvincing.label>незначительное улучшение эффективности убеждения</EBSG_MinorArchiteEnhancedConvincing.label>
+  <EBSG_MinorArchiteEnhancedConvincing.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо более убедительными по сравнению с большинством людей. Им легче убеждать других присоединиться к их стороне.</EBSG_MinorArchiteEnhancedConvincing.description>
+
+  <EBSG_ArchiteEnhancedConvincing.label>улучшение эффективности убеждения</EBSG_ArchiteEnhancedConvincing.label>
+  <EBSG_ArchiteEnhancedConvincing.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы сделать их гораздо более убедительными по сравнению с большинством людей. Им легче убеждать других присоединиться к их стороне.</EBSG_ArchiteEnhancedConvincing.description>
+
+  <EBSG_MajorArchiteEnhancedConvincing.label>значительное улучшение эффективности убеждения</EBSG_MajorArchiteEnhancedConvincing.label>
+  <EBSG_MajorArchiteEnhancedConvincing.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо более убедительными по сравнению с большинством людей. Им легче убеждать других присоединиться к их стороне.</EBSG_MajorArchiteEnhancedConvincing.description>
+
+  <EBSG_MinorArchiteEnhancedSuave.label>незначительное улучшение обходительности</EBSG_MinorArchiteEnhancedSuave.label>
+  <EBSG_MinorArchiteEnhancedSuave.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо более обходительными по сравнению с большинством людей. Это помогает им удерживать интерес других к тому, о чём они говорят.\n\nЭто улучшение цены торговли настолько высоко, что может вызвать странные проблемы в поздней игре.</EBSG_MinorArchiteEnhancedSuave.description>
+
+  <EBSG_ArchiteEnhancedSuave.label>улучшение обходительности</EBSG_ArchiteEnhancedSuave.label>
+  <EBSG_ArchiteEnhancedSuave.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы сделать их гораздо более обходительными по сравнению с большинством людей. Это помогает им удерживать интерес других к тому, о чём они говорят.\n\nЭто улучшение цены торговли настолько высоко, что может вызвать странные проблемы в поздней игре.</EBSG_ArchiteEnhancedSuave.description>
+
+  <EBSG_MajorArchiteEnhancedSuave.label>значительное улучшение обходительности</EBSG_MajorArchiteEnhancedSuave.label>
+  <EBSG_MajorArchiteEnhancedSuave.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо более обходительными по сравнению с большинством людей. Это помогает им удерживать интерес других к тому, о чём они говорят.\n\nЭто улучшение цены торговли настолько высоко, что может вызвать странные проблемы в поздней игре.</EBSG_MajorArchiteEnhancedSuave.description>
+
+  <EBSG_MinorArchiteEnhancedTerrifying.label>незначительное улучшение эффективности устрашения</EBSG_MinorArchiteEnhancedTerrifying.label>
+  <EBSG_MinorArchiteEnhancedTerrifying.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо более устрашающими по сравнению с большинством людей. Они с большей вероятностью смогут удерживать других в подчинении, когда это необходимо.</EBSG_MinorArchiteEnhancedTerrifying.description>
+
+  <EBSG_ArchiteEnhancedTerrifying.label>улучшение эффективности устрашения</EBSG_ArchiteEnhancedTerrifying.label>
+  <EBSG_ArchiteEnhancedTerrifying.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы сделать их гораздо более устрашающими по сравнению с большинством людей. Они с большей вероятностью смогут удерживать других в подчинении, когда это необходимо.</EBSG_ArchiteEnhancedTerrifying.description>
+
+  <EBSG_MajorArchiteEnhancedTerrifying.label>значительное улучшение эффективности устрашения</EBSG_MajorArchiteEnhancedTerrifying.label>
+  <EBSG_MajorArchiteEnhancedTerrifying.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо более устрашающими по сравнению с большинством людей. Они с большей вероятностью смогут удерживать других в подчинении, когда это необходимо.</EBSG_MajorArchiteEnhancedTerrifying.description>
+
+  <EBSG_ArchiteEnchantment.label>архитное очарование</EBSG_ArchiteEnchantment.label>
+  <EBSG_ArchiteEnchantment.description>Носители этого гена имеют архиты в системе, которые делают невероятно лёгким соблазнение других. архиты в их системе предотвращают влияние на них других носителей архит-очарования, хотя это не мешает очаровывающим пешким влиять на них.</EBSG_ArchiteEnchantment.description>
+
+  <EBSG_MinorArchiteEnhancedBrawler.label>незначительное улучшение рукопашных атак</EBSG_MinorArchiteEnhancedBrawler.label>
+  <EBSG_MinorArchiteEnhancedBrawler.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для того, чтобы сделать их гораздо лучшими бойцами в рукопашном бою по сравнению с большинством людей. Это помогает им сражаться с врагами в ближнем бою, делая их более точными и увёртливыми.</EBSG_MinorArchiteEnhancedBrawler.description>
+
+  <EBSG_ArchiteEnhancedBrawler.label>улучшение рукопашных атак</EBSG_ArchiteEnhancedBrawler.label>
+  <EBSG_ArchiteEnhancedBrawler.description>Носители этого гена имеют архиты в теле, предназначенные для того, чтобы сделать их гораздо лучшими бойцами в рукопашном бою по сравнению с большинством людей. Это помогает им сражаться с врагами в ближнем бою, делая их более точными и увёртливыми.</EBSG_ArchiteEnhancedBrawler.description>
+
+  <EBSG_MajorArchiteEnhancedBrawler.label>значительное улучшение рукопашных атак</EBSG_MajorArchiteEnhancedBrawler.label>
+  <EBSG_MajorArchiteEnhancedBrawler.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для того, чтобы сделать их гораздо лучшими бойцами в рукопашном бою по сравнению с большинством людей. Это помогает им сражаться с врагами в ближнем бою, делая их более точными и увёртливыми.</EBSG_MajorArchiteEnhancedBrawler.description>
+
+  <EBSG_MinorArchiteEnhancedShooter.label>незначительное улучшение дальнего боя</EBSG_MinorArchiteEnhancedShooter.label>
+  <EBSG_MinorArchiteEnhancedShooter.description>Носители этого гена имеют небольшое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо лучшими стрелками по сравнению с большинством людей. Это помогает им снайперить врагов в ближнем бою, делая их более точными и увёртливыми.</EBSG_MinorArchiteEnhancedShooter.description>
+
+  <EBSG_ArchiteEnhancedShooter.label>улучшение дальнего боя</EBSG_ArchiteEnhancedShooter.label>
+  <EBSG_ArchiteEnhancedShooter.description>Носители этого гена имеют архиты в мозге, предназначенные для того, чтобы сделать их гораздо лучшими стрелками по сравнению с большинством людей. Это помогает им снайперить врагов в ближнем бою, делая их более точными и увёртливыми.</EBSG_ArchiteEnhancedShooter.description>
+
+  <EBSG_MajorArchiteEnhancedShooter.label>значительное улучшение дальнего боя</EBSG_MajorArchiteEnhancedShooter.label>
+  <EBSG_MajorArchiteEnhancedShooter.description>Носители этого гена имеют большое количество архитов в мозге, предназначенных для того, чтобы сделать их гораздо лучшими стрелками по сравнению с большинством людей. Это помогает им снайперить врагов в ближнем бою, делая их более точными и увёртливыми.</EBSG_MajorArchiteEnhancedShooter.description>
+
+  <EBSG_MinorElementalProtection.label>незначительная защита от стихий</EBSG_MinorElementalProtection.label>
+  <EBSG_MinorElementalProtection.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для защиты от различных типов стихийного урона. Количество элементов в этом списке может увеличиваться в зависимости от включённых модов.</EBSG_MinorElementalProtection.description>
+
+  <EBSG_ElementalProtection.label>защита от стихий</EBSG_ElementalProtection.label>
+  <EBSG_ElementalProtection.description>Носители этого гена имеют архиты в теле, предназначенные для защиты от различных типов стихийного урона. Количество элементов в этом списке может увеличиваться в зависимости от включённых модов.</EBSG_ElementalProtection.description>
+
+  <EBSG_ElementalImmunity.label>иммунитет к стихиям</EBSG_ElementalImmunity.label>
+  <EBSG_ElementalImmunity.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для защиты от различных типов стихийного урона. Количество элементов в этом списке может увеличиваться в зависимости от включённых модов.\n\nЭто НЕ делает пешки неуязвимым ко всем видам урона. Пули и лезвия всё ещё могут убить пешки, как и определённые типы урона, намеренно исключённые из списка.</EBSG_ElementalImmunity.description>
+
+</LanguageData>

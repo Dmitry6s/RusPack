@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PsychicAbility_SlightlyEnhanced.label>слабая пси-чувствительность</PsychicAbility_SlightlyEnhanced.label>
+  <PsychicAbility_SlightlyEnhanced.description>Носители этого гена немного более пси-чувствительны.</PsychicAbility_SlightlyEnhanced.description>
+
+  <PsychicAbility_VeryEnhanced.label>сильная пси-чувствительность</PsychicAbility_VeryEnhanced.label>
+  <PsychicAbility_VeryEnhanced.description>Носители этого гена намного более пси-чувствительны.</PsychicAbility_VeryEnhanced.description>
+
+  <PsychicAbility_SuperEnhanced.label>исключительная пси-чувствительность</PsychicAbility_SuperEnhanced.label>
+  <PsychicAbility_SuperEnhanced.description>Носители этого гена сверхчувствительны к пси-воздействиям.</PsychicAbility_SuperEnhanced.description>
+
+  <PsychicAbility_SuperExtreme.label>экстремальная пси-чувствительность</PsychicAbility_SuperExtreme.label>
+  <PsychicAbility_SuperExtreme.description>Носители этого гена имеют экстремальную пси-чувствительность.</PsychicAbility_SuperExtreme.description>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MBSG_MeleeDamage_Abysmal.label>ничтожный урон в ближнем бою</MBSG_MeleeDamage_Abysmal.label>
+  <MBSG_MeleeDamage_Abysmal.description>Носители этого гена наносят меньше урона в ближнем бою. Слабые быстросокращающиеся мышечные волокна делают их удары дрожащими и слабыми.</MBSG_MeleeDamage_Abysmal.description>
+
+  <MBSG_MeleeDamage_Decent.label>приличный урон в ближнем бою</MBSG_MeleeDamage_Decent.label>
+  <MBSG_MeleeDamage_Decent.description>Носители этого гена наносят больше урона в ближнем бою. Сверхсильные быстросокращающиеся мышечные волокна делают их удары точными и мощными.</MBSG_MeleeDamage_Decent.description>
+
+  <MBSG_MeleeDamage_Extreme.label>экстремальный урон в ближнем бою</MBSG_MeleeDamage_Extreme.label>
+  <MBSG_MeleeDamage_Extreme.description>Носители этого гена наносят больше урона в ближнем бою. Сверхсильные быстросокращающиеся мышечные волокна делают их удары точными и мощными.</MBSG_MeleeDamage_Extreme.description>
+
+  <MBSG_MeleeDamage_Super.label>сверхвысокий урон в ближнем бою</MBSG_MeleeDamage_Super.label>
+  <MBSG_MeleeDamage_Super.description>Носители этого гена наносят больше урона в ближнем бою. Сверхсильные быстросокращающиеся мышечные волокна делают их удары точными и мощными.</MBSG_MeleeDamage_Super.description>
+
+  <MBSG_Aggression_MildlyAggressive.label>умеренно агрессивный</MBSG_Aggression_MildlyAggressive.label>
+  <MBSG_Aggression_MildlyAggressive.description>Носители этого гена быстро впадают в ярость. Они в полтора раза чаще начинают социальные драки. При психических срывах они в полтора раза чаще выбирают агрессивный тип срыва.</MBSG_Aggression_MildlyAggressive.description>
+
+  <MBSG_ViolenceHatred.label>ненависть к насилию</MBSG_ViolenceHatred.label>
+  <MBSG_ViolenceHatred.description>Носители этого гена эмоционально и психически ненавидят применение насилия. Они сопротивляются идее убийства другого.</MBSG_ViolenceHatred.description>
+
+  <MBSG_ViolenceDislike.label>неприязнь к насилию</MBSG_ViolenceDislike.label>
+  <MBSG_ViolenceDislike.description>Носители этого гена эмоционально и психически не любят применение насилия. Они в некоторой степени сопротивляются идее причинения вреда другому.</MBSG_ViolenceDislike.description>
+
+</LanguageData>

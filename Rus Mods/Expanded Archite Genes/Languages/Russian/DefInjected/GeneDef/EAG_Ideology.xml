@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EBSG_MinorArchiteEnhancedBiosculptingSpeed.label>слегка ускоренный биоскульптинг</EBSG_MinorArchiteEnhancedBiosculptingSpeed.label>
+  <EBSG_MinorArchiteEnhancedBiosculptingSpeed.description>Носители этого гена имеют небольшое количество архитов в теле, предназначенных для взаимодействия с капсулами биоскульптора, что сокращает время, которое пешка должен провести внутри.</EBSG_MinorArchiteEnhancedBiosculptingSpeed.description>
+
+  <EBSG_ArchiteEnhancedBiosculptingSpeed.label>ускоренный биоскульптинг</EBSG_ArchiteEnhancedBiosculptingSpeed.label>
+  <EBSG_ArchiteEnhancedBiosculptingSpeed.description>Носители этого гена имеют архиты в теле, предназначенные для взаимодействия с капсулами биоскульптора, что сокращает время, которое пешка должен провести внутри.</EBSG_ArchiteEnhancedBiosculptingSpeed.description>
+
+  <EBSG_MajorArchiteEnhancedBiosculptingSpeed.label>сильно ускоренный биоскульптинг</EBSG_MajorArchiteEnhancedBiosculptingSpeed.label>
+  <EBSG_MajorArchiteEnhancedBiosculptingSpeed.description>Носители этого гена имеют большое количество архитов в теле, предназначенных для взаимодействия с капсулами биоскульптора, что сокращает время, которое пешка должен провести внутри.</EBSG_MajorArchiteEnhancedBiosculptingSpeed.description>
+
+</LanguageData>
