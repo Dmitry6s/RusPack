@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <EH.Title>Выберите, какие типы посетителей должны пытаться появляться рядом с точкой входа</EH.Title>
+  <EH.Traders>Трейдеры</EH.Traders>
+  <EH.Traders.Tooltip>Все трейдеры, использующие ванильную торговую логику</EH.Traders.Tooltip>
+  <EH.Visitors>Посетители</EH.Visitors>
+  <EH.Visitors.Tooltip>Группы посетителей, желающих провести некоторое время в колонии</EH.Visitors.Tooltip>
+  <EH.Travelers>Путешественники</EH.Travelers>
+  <EH.Travelers.Tooltip>Группы путешественников, проходящие через ваш район</EH.Travelers.Tooltip>
+  <EH.MustPlaceNearEdge>Должны быть расположены вблизи края карты</EH.MustPlaceNearEdge>
+  
+  <EnterHereSpot.label>пожалуйста, войдите сюда</EnterHereSpot.label>
+  <EnterHereSpot.description>Обозначает место, куда посетители, заходящие на карту, должны попытаться войти.</EnterHereSpot.description>
+</LanguageData>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/Weapons_GrenadeLauncher/GrenadeLauncher.xml-->
+                      <!-- Grenade launcher -->
+<ADE_GrenadeLauncher.label>Гранатомёт</ADE_GrenadeLauncher.label>
+                            <!-- Military grade grenade launcher 
+ Its principle is very simple, like a revolver, but the material is expensive 
+ The turntable magazine design can launch a large number of grenades in a short time, and the grenades will release killing fragments after impact. -->
+<ADE_GrenadeLauncher.description>Гранатомёт военного образца \n Принцип его работы очень прост, как у револьвера, но материал дорогой \n Поворотная конструкция магазина может запустить большое количество гранат за короткое время, и гранаты будут выпускать осколки после удара.</ADE_GrenadeLauncher.description>
+                              <!-- barrel -->
+<ADE_GrenadeLauncher.tools.0.label>ствол</ADE_GrenadeLauncher.tools.0.label>
+                         <!-- Grenade -->
+<Bullet_Grenadelauncher.label>Граната</Bullet_Grenadelauncher.label>
+
+</LanguageData>

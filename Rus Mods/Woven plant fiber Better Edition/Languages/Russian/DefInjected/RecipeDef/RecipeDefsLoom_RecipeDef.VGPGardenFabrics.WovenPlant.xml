@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Compat\VGPGardenFabrics\Defs\RecipeDefs\RecipeDefsLoom.xml -->
+	<!-- EN: make plant fiber from gathered plant -->
+	<Make_PlantFiber_FromGatheredPlant_Loom.label>делать растительное волокно из собранных растений</Make_PlantFiber_FromGatheredPlant_Loom.label>
+	<!-- EN: Make plant fiber from gathered plant. -->
+	<Make_PlantFiber_FromGatheredPlant_Loom.description>Изготовление растительного волокна из собранных растений.</Make_PlantFiber_FromGatheredPlant_Loom.description>
+	<!-- EN: Making plant fiber. -->
+	<Make_PlantFiber_FromGatheredPlant_Loom.jobString>Делает растительное волокно.</Make_PlantFiber_FromGatheredPlant_Loom.jobString>
+	
+	<!-- EN: make plant fiber from hay -->
+	<Make_PlantFiber_FromHay.label>делать растительное волокно из сена</Make_PlantFiber_FromHay.label>
+	<!-- EN: Make plant fiber from hay. Using hay is better than using gathered plant, you can mass produce fiber with it. -->
+	<Make_PlantFiber_FromHay.description>Изготовление растительного волокна из сена. Использовать сено выгоднее, чем собранные растения; с его помощью можно наладить массовое производство волокна.</Make_PlantFiber_FromHay.description>
+	<!-- EN: Making plant fiber. -->
+	<Make_PlantFiber_FromHay.jobString>Делает растительное волокно.</Make_PlantFiber_FromHay.jobString>
+</LanguageData>

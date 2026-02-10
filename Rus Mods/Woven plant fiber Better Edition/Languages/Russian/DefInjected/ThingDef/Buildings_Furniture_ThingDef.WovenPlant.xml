@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Buildings\Buildings_Furniture.xml -->
+	<!-- EN: plant bedding -->
+	<plantbedding.label>растительная подстилка</plantbedding.label>
+	<!-- EN: A simple bedding made of plant fiber, slightly better than a sleeping spot but very flammable. -->
+	<plantbedding.description>Простая подстилка из растительного волокна. Она чуть лучше обычного спального места, но очень легко воспламеняется.</plantbedding.description>
+</LanguageData>

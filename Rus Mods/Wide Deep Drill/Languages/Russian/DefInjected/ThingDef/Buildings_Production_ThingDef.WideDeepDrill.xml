@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Defs\ThingDefs_Buildings\Buildings_Production.xml -->
+	<!-- EN: wide deep drill -->
+	<GuangJueDeepDrill.label>глобальная глубинная буровая</GuangJueDeepDrill.label>
+	<!-- EN: A map-wide deep drill. It can be placed anywhere and, on each drilling cycle, extracts one unit from every discovered deep resource cell on the map. Output is scaled by the operator's mining yield. -->
+	<GuangJueDeepDrill.description>Глубинная буровая установка, действующая в масштабах всей карты. Её можно разместить в любом месте. За каждый цикл бурения она извлекает по одной единице ресурса из каждой обнаруженной клетки глубоких залежей на карте. Количество добытых ресурсов зависит от эффективности добычи оператора.</GuangJueDeepDrill.description>
+	
+	<!-- EN: auto wide deep drill -->
+	<GuangJueDeepDrill_Auto.label>автоматическая глобальная буровая</GuangJueDeepDrill_Auto.label>
+	<!-- EN: An automated wide deep drill. It operates without colonists, advances at 50% deep drill speed, and produces resources at 100% mining yield when progress completes. -->
+	<GuangJueDeepDrill_Auto.description>Автоматизированная глобальная буровая установка. Она работает без участия поселенцев, прогресс бурения идёт с 50% скоростью, а по завершении цикла ресурсы добываются со 100% эффективностью.</GuangJueDeepDrill_Auto.description>
+</LanguageData>

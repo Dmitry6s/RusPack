@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Plant fiber mod -->
+	<PlantFibber.PlantFibberMod>Woven plant fiber Better™ Edition</PlantFibber.PlantFibberMod>
+	<!-- EN: Spawn gathered plant in growing zones -->
+	<PlantFibber.PlantFibberInZone>Собранные растения появляются в областях выращивания</PlantFibber.PlantFibberInZone>
+	<!-- EN: Allow pawns to harvest plant fiber -->
+	<PlantFibber.TogglePlantHarvest>Разрешить поселенцам собирать растительное волокно</PlantFibber.TogglePlantHarvest>
+</LanguageData>

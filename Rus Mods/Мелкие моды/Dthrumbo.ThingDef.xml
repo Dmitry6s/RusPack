@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Races/Races_Animal_Dthrumbo.xml-->
+                          <!-- domestic thrumbo -->
+<DomesticThrumboPentirin.label>мини-трумбо</DomesticThrumboPentirin.label>
+                                <!-- A miniature thrumbo, lacking many features of it's non-domestic counterpart. -->
+<DomesticThrumboPentirin.description>Миниатюрный тромбо, не имеющий многих особенностей его невыносимого аналога.</DomesticThrumboPentirin.description>
+                                  <!-- left claw -->
+<DomesticThrumboPentirin.tools.0.label>левый коготь</DomesticThrumboPentirin.tools.0.label>
+                                  <!-- right claw -->
+<DomesticThrumboPentirin.tools.1.label>правый коготь</DomesticThrumboPentirin.tools.1.label>
+                                  <!-- OmnivoreAnimal, DendrovoreAnimal -->
+<DomesticThrumboPentirin.race.foodType>Всеядное, Дендровирусное животное</DomesticThrumboPentirin.race.foodType>
+
+</LanguageData>

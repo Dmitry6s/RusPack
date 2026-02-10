@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Defs\ThingDefs\ThingDefs.xml -->
+	<!-- EN: Plant fiber -->
+	<PlantFibber.label>Растительное волокно</PlantFibber.label>
+	<!-- EN: Fabric made out of wild plants. it does not insulate very well but it's better than nothing... at least you can make pants and bedroll out of this ! -->
+	<PlantFibber.description>Ткань, изготовленная из дикорастущих растений. Она плохо держит тепло, но это лучше, чем ничего... По крайней мере, из неё можно сшить брюки или сделать спальник!</PlantFibber.description>
+	<!-- EN: Adjective Plant fiber -->
+	<PlantFibber.stuffProps.stuffAdjective>растительно-волоконный</PlantFibber.stuffProps.stuffAdjective>
+	
+	<!-- EN: Gathered plant -->
+	<GatheredPlant.label>Собранные растения</GatheredPlant.label>
+	<!-- EN: A bunch of plants collected in the wild, it deteriorates pretty fast if left outside. You can turn it into hay, salvage it or make plant fiber with it, a very weak textile, using a crafting spot or a tailoring bench for more efficiency. Alternatively, you may be able to craft a lovely-looking tunic with it! -->
+	<GatheredPlant.description>Связка растений, собранных в дикой природе. Она довольно быстро портится под открытым небом. Вы можете переработать их в сено, разобрать на ресурсы или изготовить из них растительное волокно (весьма посредственный текстиль) на месте мастера или, что эффективнее, на швейном столе. Кроме того, из них можно сшить очень милую тунику!</GatheredPlant.description>
+	
+	<!-- EN: Timberweave is often regarded as the elder sibling of plain plant fiber because it is tougher and sturdier while remaining relatively cheap to make. Crafted from a mix of plant fibers, wood shavings, and hay, it produces a dense yet breathable fabric that absorbs moisture and disperses it quickly, making it especially useful in hot climates. -->
+	<Leather_Timberweave.description>Древоткань часто называют «старшим братом» обычного растительного волокна, так как она прочнее и надёжнее, при этом оставаясь относительно дешёвой в производстве. Изготовленная из смеси растительных волокон, древесной стружки и сена, она представляет собой плотную, но дышащую ткань, которая быстро впитывает и отводит влагу, что делает её особенно полезной в жарком климате.</Leather_Timberweave.description>
+	<!-- EN: Timberweave -->
+	<Leather_Timberweave.label>Древоткань</Leather_Timberweave.label>
+</LanguageData>

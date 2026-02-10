@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Defs\RecipeDefs\RecipeDefs.xml -->
+	<!-- EN: sift gathered plant -->
+	<Sift_GatheredPlant_CraftingSpot.label>перебирать собранные растения</Sift_GatheredPlant_CraftingSpot.label>
+	<!-- EN: Sift through gathered plants for useful material like wood and berries. It's not very effective, but a good way to dispose of them. -->
+	<Sift_GatheredPlant_CraftingSpot.description>Перебор собранных растений в поисках полезных материалов, таких как древесина и ягоды. Это не очень эффективно, но является хорошим способом утилизации излишков.</Sift_GatheredPlant_CraftingSpot.description>
+	<!-- EN: sifting through gathered plants. -->
+	<Sift_GatheredPlant_CraftingSpot.jobString>перебирает собранные растения.</Sift_GatheredPlant_CraftingSpot.jobString>
+	
+	<!-- EN: make plant fiber by hand -->
+	<Make_PlantFiber_FromGatheredPlant_CraftingSpot.label>делать растительное волокно вручную</Make_PlantFiber_FromGatheredPlant_CraftingSpot.label>
+	<!-- EN: Make plant fiber by hand at a crafting spot. It's not very effective, you really could use a tailoring bench... -->
+	<Make_PlantFiber_FromGatheredPlant_CraftingSpot.description>Изготовление растительного волокна вручную на месте мастера. Это не очень эффективно, вам бы действительно пригодился швейный стол...</Make_PlantFiber_FromGatheredPlant_CraftingSpot.description>
+	<!-- EN: Making plant fiber. -->
+	<Make_PlantFiber_FromGatheredPlant_CraftingSpot.jobString>делает растительное волокно.</Make_PlantFiber_FromGatheredPlant_CraftingSpot.jobString>
+	
+	<!-- EN: make plant fiber from gathered plant -->
+	<Make_PlantFiber_FromGatheredPlant_TailoringBench.label>делать растительное волокно из собранных растений</Make_PlantFiber_FromGatheredPlant_TailoringBench.label>
+	<!-- EN: Make plant fiber from gathered plant. You produce more fiber at a higher rate using a tailoring bench than a crafting spot -->
+	<Make_PlantFiber_FromGatheredPlant_TailoringBench.description>Изготовление растительного волокна из собранных растений. На швейном столе вы производите больше волокна и с гораздо большей скоростью, чем на месте мастера.</Make_PlantFiber_FromGatheredPlant_TailoringBench.description>
+	<!-- EN: Making plant fiber. -->
+	<Make_PlantFiber_FromGatheredPlant_TailoringBench.jobString>делает растительное волокно.</Make_PlantFiber_FromGatheredPlant_TailoringBench.jobString>
+	
+	<!-- EN: make plant fiber from hay -->
+	<Make_PlantFiber_FromHay.label>делать растительное волокно из сена</Make_PlantFiber_FromHay.label>
+	<!-- EN: Make plant fiber from hay. Using hay is better than using gathered plant, you can mass produce fiber with it. -->
+	<Make_PlantFiber_FromHay.description>Изготовление растительного волокна из сена. Использовать сено выгоднее, чем собранные растения; с его помощью можно наладить массовое производство волокна.</Make_PlantFiber_FromHay.description>
+	<!-- EN: Making plant fiber. -->
+	<Make_PlantFiber_FromHay.jobString>делает растительное волокно.</Make_PlantFiber_FromHay.jobString>
+	
+	<!-- EN: make hay from gathered plant -->
+	<Make_Hay_FromGatheredPlant.label>делать сено из собранных растений</Make_Hay_FromGatheredPlant.label>
+	<!-- EN: Convert gathered plant into edible food for your farm animal ! however, gathered plant have a pretty low nutritional value and working them into hay is not very efficient, so use this only if you have too much and don't know what to do with them... -->
+	<Make_Hay_FromGatheredPlant.description>Переработка собранных растений в корм для ваших животных! Однако собранные растения имеют довольно низкую питательную ценность, а их переработка в сено не слишком эффективна. Используйте это только в том случае, если у вас скопилось слишком много растений и вы не знаете, что с ними делать...</Make_Hay_FromGatheredPlant.description>
+	<!-- EN: Converting plant fiber into hay. -->
+	<Make_Hay_FromGatheredPlant.jobString>перерабатывает растительное волокно в сено.</Make_Hay_FromGatheredPlant.jobString>
+	
+	<!-- EN: make timberweave -->
+	<Make_Timberweave_FromGatheredPlant_TailoringBench.label>изготовить древоткань</Make_Timberweave_FromGatheredPlant_TailoringBench.label>
+	<!-- EN: Make timberweave from plant fiber, hay and wood. -->
+	<Make_Timberweave_FromGatheredPlant_TailoringBench.description>Изготовление древоткани из растительного волокна, сена и древесины.</Make_Timberweave_FromGatheredPlant_TailoringBench.description>
+	<!-- EN: Making plant fiber. -->
+	<Make_Timberweave_FromGatheredPlant_TailoringBench.jobString>делает растительное волокно.</Make_Timberweave_FromGatheredPlant_TailoringBench.jobString>
+</LanguageData>

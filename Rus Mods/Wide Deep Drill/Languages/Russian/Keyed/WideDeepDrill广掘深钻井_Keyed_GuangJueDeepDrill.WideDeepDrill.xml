@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: No discovered deep resources on the map. -->
+	<GJDD_NoDeepResources>На карте нет обнаруженных глубинных залежей.</GJDD_NoDeepResources>
+	<!-- EN: Discovered resource cells: {0} -->
+	<GJDD_DeepResourceCells>Обнаружено клеток залежей: {0}</GJDD_DeepResourceCells>
+	<!-- EN: No discovered deep resources in range. -->
+	<GJDD_NoDeepResourcesInRange>В радиусе действия нет обнаруженных глубинных залежей.</GJDD_NoDeepResourcesInRange>
+	<!-- EN: Mining range -->
+	<GJDD_MiningRangeTitle>Радиус добычи</GJDD_MiningRangeTitle>
+	<!-- EN: Range: Unlimited -->
+	<GJDD_MiningRangeUnlimited>Радиус: Не ограничен</GJDD_MiningRangeUnlimited>
+	<!-- EN: Range: {0} tiles -->
+	<GJDD_MiningRangeValue>Радиус: {0} кл.</GJDD_MiningRangeValue>
+	<!-- EN: Limit mining to a radius around this drill. Set to 0 for unlimited (whole map). -->
+	<GJDD_MiningRangeTooltip>Ограничивает добычу определённым радиусом вокруг буровой. Установите значение на 0 для неограниченного радиуса (вся карта).</GJDD_MiningRangeTooltip>
+	<!-- EN: Wide Deep Drill -->
+	<GJDD_SettingsTitle>Глобальная глубинная буровая</GJDD_SettingsTitle>
+	<!-- EN: Work speed multiplier -->
+	<GJDD_SettingsWorkSpeed>Множитель скорости работы</GJDD_SettingsWorkSpeed>
+	<!-- EN: Current: {0}% -->
+	<GJDD_SettingsWorkSpeedValue>Текущий: {0}%</GJDD_SettingsWorkSpeedValue>
+	<!-- EN: Allowed deep resources -->
+	<GJDD_SettingsResources>Допустимые глубинные ресурсы</GJDD_SettingsResources>
+	<!-- EN: Unchecked resources are ignored for counting and output. -->
+	<GJDD_SettingsResourcesNote>Ресурсы без галочки будут игнорироваться при подсчёте и добыче.</GJDD_SettingsResourcesNote>
+</LanguageData>

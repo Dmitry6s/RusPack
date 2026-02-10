@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Defs\WorkGiverDefs\WorkGivers.xml -->
+	<!-- EN: drill at wide deep drill -->
+	<GJDD_OperateDeepDrill.label>бурить на глобальной глубинной буровой</GJDD_OperateDeepDrill.label>
+	<!-- EN: drill -->
+	<GJDD_OperateDeepDrill.verb>бурить</GJDD_OperateDeepDrill.verb>
+	<!-- EN: drilling -->
+	<GJDD_OperateDeepDrill.gerund>бурение</GJDD_OperateDeepDrill.gerund>
+</LanguageData>

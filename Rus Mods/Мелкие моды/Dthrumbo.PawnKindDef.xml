@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/Defs/ThingDefs_Races/Races_Animal_Dthrumbo.xml-->
+                          <!-- domestic thrumbo -->
+<DomesticThrumboPentirin.label>мини-трумбо</DomesticThrumboPentirin.label>
+                                <!-- domestic thrumbos -->
+<DomesticThrumboPentirin.labelPlural>мини-трумбо</DomesticThrumboPentirin.labelPlural>
+                                       <!-- Domestic Thrumbo Foal -->
+<DomesticThrumboPentirin.lifeStages.0.label>мини-трумбо</DomesticThrumboPentirin.lifeStages.0.label>
+                                             <!-- Domestic Thrumbo Foals -->
+<DomesticThrumboPentirin.lifeStages.0.labelPlural>мини-трумбо</DomesticThrumboPentirin.lifeStages.0.labelPlural>
+                              <!-- Male domestic thrumbo -->
+<DomesticThrumboPentirin.labelMale>мини-трумбо</DomesticThrumboPentirin.labelMale>
+                                    <!-- Male Plural domestic thrumbo -->
+<DomesticThrumboPentirin.labelMalePlural>мини-трумбо</DomesticThrumboPentirin.labelMalePlural>
+                                <!-- Female domestic thrumbo -->
+<DomesticThrumboPentirin.labelFemale>мини-трумбо</DomesticThrumboPentirin.labelFemale>
+                                      <!-- Female Plural domestic thrumbo -->
+<DomesticThrumboPentirin.labelFemalePlural>мини-трумбо</DomesticThrumboPentirin.labelFemalePlural>
+
+</LanguageData>
