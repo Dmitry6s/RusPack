@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- JobsLimitsTweak — русская локализация -->
+  
+  <!-- Название в меню настроек -->
+  <JobsLimitsTweak>JobsLimitsTweak настройки</JobsLimitsTweak>
+  
+  <!-- Общие -->
+  <JobsLimitsTweak.RestartRequired>Перезапустите игру, чтобы применить изменения.</JobsLimitsTweak.RestartRequired>
+  
+  <!-- Поля настроек -->
+  <JobsLimitsTweak.MaxCompletedJobs>Макс. завершённых работ за проверку</JobsLimitsTweak.MaxCompletedJobs>
+  <JobsLimitsTweak.UnsafeMode>Небезопасный режим</JobsLimitsTweak.UnsafeMode>
+  <JobsLimitsTweak.UnsafeModeTip>Мод не будет ограничивать вводимые значения. Используйте только если знаете, что делаете.</JobsLimitsTweak.UnsafeModeTip>
+  <JobsLimitsTweak.RequiresUnsafe>Всё ниже требует небезопасный режим</JobsLimitsTweak.RequiresUnsafe>
+  <JobsLimitsTweak.DisableCheck>Отключить проверку в FinalizeTick(). ОПАСНО.</JobsLimitsTweak.DisableCheck>
+  <JobsLimitsTweak.DisableCheckTip>Используйте только если знаете, что делаете.</JobsLimitsTweak.DisableCheckTip>
+  <JobsLimitsTweak.CustomILFinalizeTick>Индекс IL для FinalizeTick() (RimWorld 1.6: 66, -1 = откл.)</JobsLimitsTweak.CustomILFinalizeTick>
+  <JobsLimitsTweak.CustomILStartJob>Индекс IL для StartJob() (RimWorld 1.6: 38, -1 = откл.)</JobsLimitsTweak.CustomILStartJob>
+</LanguageData>

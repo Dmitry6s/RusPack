@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Misc\HnF_Apparel_Handwear.xml -->
+	             <!-- EN: gloves -->
+	<Apparel_Gloves.label>перчатки</Apparel_Gloves.label>
+	                   <!-- EN: A matching pair of gloves to protect your hands and all eight fingers! -->
+	<Apparel_Gloves.description>Пара перчаток для защиты ваших рук и всех восьми пальцев!</Apparel_Gloves.description>
+	
+	                      <!-- EN: dexterous gloves -->
+	<Apparel_DexterousGloves.label>проворные перчатки</Apparel_DexterousGloves.label>
+	                            <!-- EN: High-tech, unconventionally-designed, glitterworld-produced gloves that take ergonomics to the extreme; so much so that many dexterous tasks are actually carried out more efficiently than normal. -->
+	<Apparel_DexterousGloves.description>Высокотехнологичные перчатки из блестящего мира с необычным, но чрезвычайно эргономичным дизайном. Настолько эргономичным, что многие задачи, требующие ловкости, выполняются даже эффективнее, чем голыми руками.</Apparel_DexterousGloves.description>
+	
+	                   <!-- EN: plated gloves -->
+	<Apparel_PlatedGloves.label>латные перчатки</Apparel_PlatedGloves.label>
+	                         <!-- EN: A bulky pair of gloves fit for protecting one's hands during the heat of battle. -->
+	<Apparel_PlatedGloves.description>Массивная пара перчаток, подходящая для защиты рук в пылу битвы.</Apparel_PlatedGloves.description>
+	
+	                  <!-- EN: power gloves -->
+	<Apparel_PowerGloves.label>силовые перчатки</Apparel_PowerGloves.label>
+	                        <!-- EN: Gloves for a suit of powered armor. -->
+	<Apparel_PowerGloves.description>Перчатки для комплекта силовой брони.</Apparel_PowerGloves.description>
+</LanguageData>

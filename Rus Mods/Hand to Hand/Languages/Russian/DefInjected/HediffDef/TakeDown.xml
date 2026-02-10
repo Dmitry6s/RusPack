@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_CQC_TakeDown.label>нокаутирован CQC</CP_CQC_TakeDown.label>
+	<CP_CQC_TakeDown.description>нокаутирован CQC</CP_CQC_TakeDown.description>
+	<CP_CQC_TakeDown.stages.0.label>без сознания</CP_CQC_TakeDown.stages.0.label>
+
+	<CP_Hediff_RKO.label>нокаутирован RKO</CP_Hediff_RKO.label>
+	<CP_Hediff_RKO.description>нокаутирован RKO</CP_Hediff_RKO.description>
+	<CP_Hediff_RKO.stages.0.label>без сознания</CP_Hediff_RKO.stages.0.label>
+
+	<CP_Hediff_LegSweep.label>нокаутирован подсечкой</CP_Hediff_LegSweep.label>
+	<CP_Hediff_LegSweep.description>нокаутирован подсечкой</CP_Hediff_LegSweep.description>
+	<CP_Hediff_LegSweep.stages.0.label>без сознания</CP_Hediff_LegSweep.stages.0.label>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Enable bill interception -->
+	<IT.EnableBillInterception>Включить перехват ресурсов для заданий</IT.EnableBillInterception>
+	<!-- EN: Intercept bill materials to be hauled and teleport them. -->
+	<IT.EnableBillInterceptionDesc>Перехватывать материалы, необходимые для выполнения заданий на верстаках, и телепортировать их напрямую.</IT.EnableBillInterceptionDesc>
+
+	<!-- EN: Enable hauling interception -->
+	<IT.EnableHaulingInterception>Включить перехват переноски</IT.EnableHaulingInterception>
+	<!-- EN: Intercept things for hauling and teleport them. -->
+	<IT.EnableHaulingInterceptionDesc>Перехватывать предметы, предназначенные для переноски, и телепортировать их в место назначения.</IT.EnableHaulingInterceptionDesc>
+</LanguageData>

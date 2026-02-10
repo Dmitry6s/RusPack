@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\TrainableDefs\Trainables.xml -->
+	                  <!-- EN: killing -->
+	<KFM_KillingTraining.label>убийство</KFM_KillingTraining.label>
+	                        <!-- EN: The animal will randomly kill enemies for the colony. -->
+	<KFM_KillingTraining.description>Животное будет случайным образом убивать врагов колонии.</KFM_KillingTraining.description>
+</LanguageData>

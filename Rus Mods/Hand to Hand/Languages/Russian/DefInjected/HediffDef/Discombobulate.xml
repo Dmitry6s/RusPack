@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_Hediff_Discombobulate.label>дезориентирован</CP_Hediff_Discombobulate.label>
+    <CP_Hediff_Discombobulate.labelNoun>Дезориентирование</CP_Hediff_Discombobulate.labelNoun>
+	<CP_Hediff_Discombobulate.description>Цель дезориентирована и отвлечена, в ушах звенит.</CP_Hediff_Discombobulate.description>
+	<CP_Hediff_Discombobulate.stages.0.label>Дезориентирован</CP_Hediff_Discombobulate.stages.0.label>
+
+</LanguageData>

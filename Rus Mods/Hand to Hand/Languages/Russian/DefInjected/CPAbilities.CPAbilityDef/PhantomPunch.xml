@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_Ability_PhantomPunch.label>фантомный удар</CP_Ability_PhantomPunch.label>
+	<CP_Ability_PhantomPunch.description>Выполнить быстрый и мощный фантомный удар, который может нанести серьезные повреждения и на короткое время вырубить противника.</CP_Ability_PhantomPunch.description>
+
+	<CP_Ability_KneeStrike.label>удар коленом</CP_Ability_KneeStrike.label>
+	<CP_Ability_KneeStrike.description>Выполнить наносящий большой урон удар коленом, который может на короткое время оглушить противника.</CP_Ability_KneeStrike.description>
+
+	<CP_Ability_Roundhouse.label>круговой удар</CP_Ability_Roundhouse.label>
+	<CP_Ability_Roundhouse.description>Выполнить повреждающий круговой удар, который может на короткое время оглушить противника.</CP_Ability_Roundhouse.description>
+
+</LanguageData>

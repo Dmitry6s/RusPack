@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- Defs\ThingDefs_Misc\HnF_Apparel_Footwear.xml -->
+	            <!-- EN: shoes -->
+	<Apparel_Shoes.label>ботинки</Apparel_Shoes.label>
+	                  <!-- EN: A basic, lightweight pair of shoes. -->
+	<Apparel_Shoes.description>Простая и лёгкая пара ботинок.</Apparel_Shoes.description>
+	
+	                  <!-- EN: tribal boots -->
+	<Apparel_TribalBoots.label>племенные ботинки</Apparel_TribalBoots.label>
+	                        <!-- EN: Large, rugged boots made out of animal hide. -->
+	<Apparel_TribalBoots.description>Большие и грубые ботинки, сделанные из шкур животных.</Apparel_TribalBoots.description>
+	
+	                  <!-- EN: cowboy boots -->
+	<Apparel_CowboyBoots.label>ковбойские сапоги</Apparel_CowboyBoots.label>
+	                        <!-- EN: A pair of stylish, hard-wearing cowboy boots. -->
+	<Apparel_CowboyBoots.description>Пара стильных и износостойких ковбойских сапог.</Apparel_CowboyBoots.description>
+	
+	                  <!-- EN: plated boots -->
+	<Apparel_PlatedBoots.label>латные ботинки</Apparel_PlatedBoots.label>
+	                        <!-- EN: Cumbersome boots that protect the feet from various forms of physical harm. -->
+	<Apparel_PlatedBoots.description>Громоздкие ботинки, которые защищают ноги от различных физических повреждений.</Apparel_PlatedBoots.description>
+	
+	                 <!-- EN: power boots -->
+	<Apparel_PowerBoots.label>силовые ботинки</Apparel_PowerBoots.label>
+	                       <!-- EN: Boots for a suit of powered armor. -->
+	<Apparel_PowerBoots.description>Ботинки для комплекта силовой брони.</Apparel_PowerBoots.description>
+</LanguageData>

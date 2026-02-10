@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmergencySurgery_RemoveBodyPart.label>экстренно удалить часть</EmergencySurgery_RemoveBodyPart.label>
+  <EmergencySurgery_RemoveBodyPart.description>Удалить часть тела без лекарств</EmergencySurgery_RemoveBodyPart.description>
+  <EmergencySurgery_RemoveBodyPart.jobString>Удаление части тела без анестезии</EmergencySurgery_RemoveBodyPart.jobString>
+
+
+</LanguageData>

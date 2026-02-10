@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LabelWordSlave>Заключёный</LabelWordSlave>
+  <ImprisonedPawnSuccess>{{0} заключён в тюрьму {1} без инцидентов и теперь является узником колонии.</ImprisonedPawnSuccess>
+  <ReasonFailedImprison>Не может быть заключен в тюрьму</ReasonFailedImprison>
+
+  <Imprison_skillRequired>Требуется колонист с социальным навыком {0} или выше для использования.</Imprison_skillRequired>
+  <Imprison_pawnSkillRequired>Требуется социальное умение {0}</Imprison_pawnSkillRequired>
+  <Imprison_success>{0} цели отмечены.</Imprison_success>
+  <Imprison_failure>Не найдено действительно сражёных людей.</Imprison_failure>
+  <Imprison_rescue>Ухаживает за сражённым заключённым </Imprison_rescue>
+  <Imprison_floatMenu>Посадить {0}</Imprison_floatMenu>
+  <Imprison_notEnoughSkill>Требуется колонист с медицинским навыком 8 или выше, чтобы ухаживать за заключенным.</Imprison_notEnoughSkill>
+  <target_position_is_null>Целевая позиция равна нулю!</target_position_is_null>
+
+</LanguageData>

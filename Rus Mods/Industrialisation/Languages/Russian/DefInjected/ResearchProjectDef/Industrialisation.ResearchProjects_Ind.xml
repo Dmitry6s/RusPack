@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_ConcreteProduction.label>Область применения: производство бетона</Ind_ConcreteProduction.label>
+  <Ind_ConcreteProduction.description>Позволяет производить бетон.</Ind_ConcreteProduction.description>
+
+  <Ind_IndustrialBatteries.label>Ind: промышленные аккумуляторы</Ind_IndustrialBatteries.label>
+  <Ind_IndustrialBatteries.description>Allows you to build industrial batteries.</Ind_IndustrialBatteries.description>
+
+  <Ind_NuclearPower.label>Область применения: ядерная энергетика</Ind_NuclearPower.label>
+  <Ind_NuclearPower.description>Позволяет построить атомную электростанцию.</Ind_NuclearPower.description>
+
+
+</LanguageData>

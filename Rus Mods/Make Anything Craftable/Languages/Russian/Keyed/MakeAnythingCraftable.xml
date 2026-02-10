@@ -1,0 +1,71 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Create new recipe -->
+	<MAC.CreateNewRecipe>Создать новый рецепт</MAC.CreateNewRecipe>
+	<!-- EN: Existing recipes -->
+	<MAC.ExistingRecipes>Существующие рецепты</MAC.ExistingRecipes>
+	<!-- EN: Select product -->
+	<MAC.SelectProduct>Выбрать продукт</MAC.SelectProduct>
+	<!-- EN: Select -->
+	<MAC.Select>Выбрать</MAC.Select>
+	<!-- EN: Search -->
+	<MAC.Search>Поиск</MAC.Search>
+	<!-- EN: Select workbenches -->
+	<MAC.SelectWorkbenches>Выбрать верстаки</MAC.SelectWorkbenches>
+	<!-- EN: Set skill requirements (optional) -->
+	<MAC.SetSkillRequirements>Указать требования к навыкам (опционально)</MAC.SetSkillRequirements>
+	<!-- EN: Min skill level: {0} -->
+	<MAC.SkillLevel>Мин. уровень навыка: {0}</MAC.SkillLevel>
+	<!-- EN: Set research requirements (optional) -->
+	<MAC.SetResearchRequirements>Указать требования к исследованиям (опционально)</MAC.SetResearchRequirements>
+	<!-- EN: Set ingredients (optional) -->
+	<MAC.SetIngredientRequirements>Указать ингредиенты (опционально)</MAC.SetIngredientRequirements>
+	<!-- EN: Set disallowed thing defs -->
+	<MAC.DisallowThingDefs>Указать запрещённые предметы</MAC.DisallowThingDefs>
+	<!-- EN: Count:  -->
+	<MAC.Count>Количество: </MAC.Count>
+	<!-- EN: Recipe label:  -->
+	<MAC.RecipeLabel>Название рецепта: </MAC.RecipeLabel>
+	<!-- EN: Set work effect (optional) -->
+	<MAC.SetWorkEffect>Указать эффект работы (опционально)</MAC.SetWorkEffect>
+	<!-- EN: Set sound working (optional) -->
+	<MAC.SetSoundWorking>Указать звук работы (опционально)</MAC.SetSoundWorking>
+	<!-- EN: Set work speed stat (optional) -->
+	<MAC.SetWorkSpeedStat>Указать параметр скорости работы (опционально)</MAC.SetWorkSpeedStat>
+	<!-- EN: Set efficiency speed stat (optional) -->
+	<MAC.SetEfficiencySpeedStat>Указать параметр эффективности (опционально)</MAC.SetEfficiencySpeedStat>
+	<!-- EN: Set unfinished thing (optional) -->
+	<MAC.SetUnfinishedThing>Указать незавершённый предмет (опционально)</MAC.SetUnfinishedThing>
+	<!-- EN: Set work skill (optional) -->
+	<MAC.SetWorkSkill>Указать используемый навык (опционально)</MAC.SetWorkSkill>
+	<!-- EN: Save recipe -->
+	<MAC.SaveRecipe>Сохранить рецепт</MAC.SaveRecipe>
+	<!-- EN: Set work amount -->
+	<MAC.SetWorkAmount>Указать трудозатраты</MAC.SetWorkAmount>
+	<!-- EN: Select recipe -->
+	<MAC.SelectRecipe>Выбрать рецепт</MAC.SelectRecipe>
+	<!-- EN: Add category -->
+	<MAC.AddCategory>Добавить категорию</MAC.AddCategory>
+	<!-- EN: Add thing def -->
+	<MAC.AddThingDef>Добавить предмет</MAC.AddThingDef>
+	<!-- EN: Remove ingredient -->
+	<MAC.RemoveIngredient>Удалить ингредиент</MAC.RemoveIngredient>
+	<!-- EN: [T]  -->
+	<MAC.ThingDefMark>[П] </MAC.ThingDefMark>
+	<!-- EN: [C]  -->
+	<MAC.CategoryMark>[К] </MAC.CategoryMark>
+	<!-- EN: Clone recipe -->
+	<MAC.CloneRecipe>Клонировать рецепт</MAC.CloneRecipe>
+	<!-- EN: Remove recipe -->
+	<MAC.RemoveRecipe>Удалить рецепт</MAC.RemoveRecipe>
+	<!-- EN: Restore recipe -->
+	<MAC.RestoreRecipe>Восстановить рецепт</MAC.RestoreRecipe>
+	<!-- EN:  (removed) -->
+	<MAC.RemovedPostfix> (удалено)</MAC.RemovedPostfix>
+	<!-- EN: Description:  -->
+	<MAC.RecipeDescription>Описание: </MAC.RecipeDescription>
+	<!-- EN: Job string:  -->
+	<MAC.JobString>Строка состояния: </MAC.JobString>
+	<!-- EN: Reset to default -->
+	<MAC.ResetToDefault>Сбросить настройки</MAC.ResetToDefault>
+</LanguageData>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_Damage_Takedown.label>сбит с ног</CP_Damage_Takedown.label>
+	<CP_Damage_Takedown.deathmessage>{0} был забит до смерти.</CP_Damage_Takedown.deathmessage>
+
+</LanguageData>

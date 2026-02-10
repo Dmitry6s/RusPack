@@ -1,0 +1,29 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Search -->
+	<MAB.Search>Поиск</MAB.Search>
+	<!-- EN: Select -->
+	<MAB.Select>Выбрать</MAB.Select>
+	<!-- EN: Select building -->
+	<MAB.SelectBuilding>Выбрать постройку</MAB.SelectBuilding>
+	<!-- EN:  (Non buildable) -->
+	<MAB.NonBuildable> (Недоступно для постройки)</MAB.NonBuildable>
+	<!-- EN: Set work to build (in ticks):  -->
+	<MAB.SetWorkToBuild>Трудозатраты на постройку (в тиках): </MAB.SetWorkToBuild>
+	<!-- EN: Set cost list -->
+	<MAB.SetCostList>Настроить список ресурсов</MAB.SetCostList>
+	<!-- EN: Count -->
+	<MAB.Count>Количество</MAB.Count>
+	<!-- EN: Set research requirements -->
+	<MAB.SetResearchRequirements>Указать требования к исследованиям</MAB.SetResearchRequirements>
+	<!-- EN: Save changes -->
+	<MAB.SaveChanges>Сохранить изменения</MAB.SaveChanges>
+	<!-- EN: Set stuff categories -->
+	<MAB.SetStuffCategories>Выбрать категории материалов</MAB.SetStuffCategories>
+	<!-- EN: Set cost stuff count:  -->
+	<MAB.SetCostStuffCount>Количество основного материала: </MAB.SetCostStuffCount>
+	<!-- EN: Set designation category (required):  -->
+	<MAB.SelectDesignationCategory>Категория в меню «Архитектура» (обязательно): </MAB.SelectDesignationCategory>
+	<!-- EN: Reset to default -->
+	<MAB.ResetToDefault>Сбросить настройки</MAB.ResetToDefault>
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_Damage_PhantomPunch.label>фантомный удар</CP_Damage_PhantomPunch.label>
+	<CP_Damage_PhantomPunch.deathmessage>{0} был забит до смерти.</CP_Damage_PhantomPunch.deathmessage>
+
+	<CP_Damage_KneeStrike.label>удар коленом</CP_Damage_KneeStrike.label>
+	<CP_Damage_KneeStrike.deathmessage>{0} был забит до смерти.</CP_Damage_KneeStrike.deathmessage>
+
+	<CP_Damage_Roundhouse.label>круговой удар</CP_Damage_Roundhouse.label>
+	<CP_Damage_Roundhouse.deathmessage>{0} был забит до смерти.</CP_Damage_Roundhouse.deathmessage>
+
+</LanguageData>

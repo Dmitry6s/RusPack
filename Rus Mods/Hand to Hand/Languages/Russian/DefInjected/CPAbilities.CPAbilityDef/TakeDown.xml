@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_CQC_Throw.label>CQC-бросок</CP_CQC_Throw.label>
+	<CP_CQC_Throw.description>Сбросьте противника вниз, используя его собственный вес в несмертельном броске, который вырубит его.</CP_CQC_Throw.description>
+
+	<CP_CQC_Pummel.label>CQC-удар в лицо</CP_CQC_Pummel.label>
+	<CP_CQC_Pummel.description>Нокаутируйте противника, используя CQC-удар в лицо.</CP_CQC_Pummel.description>
+
+	<CP_Ability_RKO.label>RKO</CP_Ability_RKO.label>
+	<CP_Ability_RKO.description>Выполнить RKO, которое вырубит противника на долгое время.</CP_Ability_RKO.description>
+
+	<CP_Ability_LegSweep.label>подсечка</CP_Ability_LegSweep.label>
+	<CP_Ability_LegSweep.description>Сделайте подсечку, чтобы ненадолго отправить противника в нокаут и потенциально обезоружить его.</CP_Ability_LegSweep.description>
+
+</LanguageData>

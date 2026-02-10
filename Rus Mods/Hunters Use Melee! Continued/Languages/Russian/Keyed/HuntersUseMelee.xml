@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <!-- EN: Hunters Use Melee! -->
+  <HuntersUseMeleeCategoryLabel>Hunters Use Melee</HuntersUseMeleeCategoryLabel>
+  <!-- EN: Enable Fist Fighting -->
+  <HuntersUseMeleeFistFightingLabel>Охота кулаками</HuntersUseMeleeFistFightingLabel>
+  <!-- EN: This setting allows pawns to hunt using their fists, beware that this could backfire! -->
+  <HuntersUseMeleeFistFightDesc>Эта настройка позволяет пешкам охотиться с помощью своих кулаков. Остерегайтесь, это может привести к ответному нападению!</HuntersUseMeleeFistFightDesc>
+  <!-- EN: Enable Simple Sidearms Support -->
+  <HuntersUseMeleeSimpleSidearmsLabel>Совместимость с Simple Sidearms</HuntersUseMeleeSimpleSidearmsLabel>
+  <!-- EN: Simple Sidearms support allows pawns to consider using their secondary weapons for hunting. -->
+  <HuntersUseMeleeSidearmsDesc>Совместимость с Simple Sidearms позволяет пешкам рассмотреть возможность использования своего вторичного оружия для охоты.</HuntersUseMeleeSidearmsDesc>
+  
+  <!-- EN: Hunter lacks weapon -->
+  <HUMHunterLacksWeapon>Охотник без оружия</HUMHunterLacksWeapon>
+  <!-- EN: A hunter does not have any weapon.\n\nWhile they can still perform their job, it is highly recommended to give them a weapon. -->
+  <HUMHunterLacksWeaponDesc>У охотника нет оружия.\n\nИ хотя он может выполнять обычную работу, рекомендуется всё же выдать ему оружие.</HUMHunterLacksWeaponDesc>
+</LanguageData>

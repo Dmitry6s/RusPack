@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Common\Defs\EmergencySurgery.xml -->
+
+	<!-- EN: Awake for surgery -->
+	<EmergencySurgery_AwakeForOperation.stages.0.label>Операция без анестезии</EmergencySurgery_AwakeForOperation.stages.0.label>
+	<!-- EN: I had surgery without anesthetic... -->
+	<EmergencySurgery_AwakeForOperation.stages.0.description>Мне сделали операцию без анестезии...</EmergencySurgery_AwakeForOperation.stages.0.description>
+	
+	<!-- EN: Awake for surgery -->
+	<EmergencySurgery_AwakeForOperationGood.stages.0.label>Операция без анестезии</EmergencySurgery_AwakeForOperationGood.stages.0.label>
+	<!-- EN: I had surgery without anesthetic... I feel so alive! -->
+	<EmergencySurgery_AwakeForOperationGood.stages.0.description>Мне сделали операцию без анестезии... Ощущаю небывалый вкус к жизни!</EmergencySurgery_AwakeForOperationGood.stages.0.description>
+	
+	<!-- EN: Performed painful surgery -->
+	<EmergencySurgery_PsychopathPerformedAwakeSurgery.stages.0.label>Проведена болезненная операция</EmergencySurgery_PsychopathPerformedAwakeSurgery.stages.0.label>
+	<!-- EN: I got to cut up someone while they screamed! -->
+	<EmergencySurgery_PsychopathPerformedAwakeSurgery.stages.0.description>Мне довелось покромсать кого-то под его истошные крики!</EmergencySurgery_PsychopathPerformedAwakeSurgery.stages.0.description>
+</LanguageData>

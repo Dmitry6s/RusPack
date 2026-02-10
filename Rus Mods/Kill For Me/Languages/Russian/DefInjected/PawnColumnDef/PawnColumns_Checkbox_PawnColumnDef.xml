@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\Misc\PawnColumnDefs\PawnColumns_Checkbox.xml -->
+	              <!-- EN: Mark animals to be killed by pack. -->
+	<KFM_PC_Kill.headerTip>Отметить животных для убийства стаей.</KFM_PC_Kill.headerTip>
+	               <!-- EN: Mark animals to not be killed by pack. -->
+	<KFM_PC_DKill.headerTip>Отметить животных, которых стая не будет убивать.</KFM_PC_DKill.headerTip>
+</LanguageData>

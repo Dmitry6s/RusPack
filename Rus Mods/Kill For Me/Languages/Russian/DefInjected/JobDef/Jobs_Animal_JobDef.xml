@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\JobDefs\Jobs_Animal.xml -->
+	                    <!-- EN: kill TargetA (trained). -->
+	<KFM_KillTarget.reportString>убивает TargetA (обучено).</KFM_KillTarget.reportString>
+	                      <!-- EN: in group mode -->
+	<KFM_GroupToPoint.reportString>в режиме группы</KFM_GroupToPoint.reportString>
+</LanguageData>

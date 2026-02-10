@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_Hediff_RippedAndTorn.label>растерзанный</CP_Hediff_RippedAndTorn.label>
+    <CP_Hediff_RippedAndTorn.labelNoun>Растерзание</CP_Hediff_RippedAndTorn.labelNoun>
+	<CP_Hediff_RippedAndTorn.description>Разорванные и растерзанные части тела после великолепного убийства.</CP_Hediff_RippedAndTorn.description>
+	<CP_Hediff_RippedAndTorn.stages.0.label>Растерзанный</CP_Hediff_RippedAndTorn.stages.0.label>
+
+</LanguageData>

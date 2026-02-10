@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CP.CommandEnableAutoCastLabel>Автоприменение способностей H2H</CP.CommandEnableAutoCastLabel>
+  <CP.CommandEnableAutoCastDesc>Переключите автоматическое применение способностей рукопашного боя.\n\n Если этот параметр отключен, персонаж не будет автоматически выполнять рукопашные действия на врагах в пределах досягаемости. Не влияет на дальний бой.</CP.CommandEnableAutoCastDesc>
+
+  <CP.EnableAbilities>Включить способности:</CP.EnableAbilities>
+  <CP.HideAbilities>Скрыть способности (Не отключает эту способность! Будет по-прежнему использоваться, если включено автоматическое применение):</CP.HideAbilities>
+  <CP.EnableAutocastForAbilities>Включить автоматическое применение способностей:</CP.EnableAutocastForAbilities>
+
+  <CP.EnableAutocastForNPC>Включить автоматическое применение для NPC</CP.EnableAutocastForNPC>
+  <CP.EnableAutoCastForNonHumanlikeNPCs>Разрешить NPC автоматическое применение способностей (не сработает, если у NPC не развит ближний бой.)</CP.EnableAutoCastForNonHumanlikeNPCs>
+  <CP.EnableAutoCastAgainstNonHumanlike>Включение/отключение способностей против нечеловекоподобных существ (отключает применение на животных и механоидов)</CP.EnableAutoCastAgainstNonHumanlike>
+  <CP.TweakSkillRequirementsForAbilities>Изменить требования к навыкам для способностей:</CP.TweakSkillRequirementsForAbilities>
+
+</LanguageData>

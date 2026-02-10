@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<CP_Hediff_PhantomPunch.label>нокаутирован</CP_Hediff_PhantomPunch.label>
+    <CP_Hediff_PhantomPunch.labelNoun>Нокаутирование</CP_Hediff_PhantomPunch.labelNoun>
+	<CP_Hediff_PhantomPunch.description>Нокаутирован от удара.</CP_Hediff_PhantomPunch.description>
+	<CP_Hediff_PhantomPunch.stages.0.label>без сознания</CP_Hediff_PhantomPunch.stages.0.label>
+
+	<CP_Hediff_Roundhouse.label>нокаутирован</CP_Hediff_Roundhouse.label>
+    <CP_Hediff_Roundhouse.labelNoun>Нокаутирование</CP_Hediff_Roundhouse.labelNoun>
+	<CP_Hediff_Roundhouse.description>Нокаутирован от удара.</CP_Hediff_Roundhouse.description>
+	<CP_Hediff_Roundhouse.stages.0.label>без сознания</CP_Hediff_Roundhouse.stages.0.label>
+
+</LanguageData>

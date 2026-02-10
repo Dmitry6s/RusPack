@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Keep Converting -->
+	<KC_GizmoKeepConvertingLabel>Постоянное обращение</KC_GizmoKeepConvertingLabel>
+	<!-- EN: Set target to automatically re-use Convert on, until their ideology matches yours. -->
+	<KC_GizmoKeepConvertingDesc>Назначить цель для автоматического использования способности «Обращение», пока её идеология не совпадёт с вашей.</KC_GizmoKeepConvertingDesc>
+	<!-- EN: Keep Converting: {0} -->
+	<KC_GizmoKeepConvertingCancelLabel>Постоянное обращение: {0}</KC_GizmoKeepConvertingCancelLabel>
+	<!-- EN: Click to cancel the target for Keep Converting. -->
+	<KC_GizmoKeepConvertingCancelDesc>Нажмите, чтобы отменить автоматическое обращение для этой цели.</KC_GizmoKeepConvertingCancelDesc>
+	<!-- EN: Auto-convert cancelled: Target is not human. -->
+	<KC_RemoveTargetNoHumanlike>Автообращение отменено: цель не является человеком.</KC_RemoveTargetNoHumanlike>
+	<!-- EN: Auto-convert cancelled: Can not be applied to self. -->
+	<KC_RemoveTargetSelf>Автообращение отменено: нельзя применить к себе.</KC_RemoveTargetSelf>
+	<!-- EN: Auto-convert cancelled: Target is dead. -->
+	<KC_RemoveTargetDeadTarget>Автообращение отменено: цель мертва.</KC_RemoveTargetDeadTarget>
+	<!-- EN: Auto-convert cancelled: Target is in cryptosleep. -->
+	<KC_RemoveTargetCryptosleepTarget>Автообращение отменено: цель в криптосне.</KC_RemoveTargetCryptosleepTarget>
+	<!-- EN: Auto-convert cancelled: Target must not be hostile. -->
+	<KC_RemoveTargetHostileTarget>Автообращение отменено: цель не должна быть враждебной.</KC_RemoveTargetHostileTarget>
+	<!-- EN: Auto-convert cancelled: Target has the same ideology now. -->
+	<KC_RemoveTargetTargetHasSameIdeology>Автообращение отменено: теперь у цели такая же идеология.</KC_RemoveTargetTargetHasSameIdeology>
+	<!-- EN: Keep Converting -->
+	<KC_SettingsTitle>Постоянное обращение</KC_SettingsTitle>
+	<!-- EN: Ticks Between Checks: {0} -->
+	<KC_SettingsTicksBetweenChecksLabel>Тиков между проверками: {0}</KC_SettingsTicksBetweenChecksLabel>
+	<!-- EN: (2500 = 1 in-game hour, 60000 = 1 in-game day) -->
+	<KC_SettingsTicksBetweenChecksDesc>(2500 = 1 игровой час, 60000 = 1 игровой день)</KC_SettingsTicksBetweenChecksDesc>
+	<!-- EN: Limit Distance to Trigger Auto Convert -->
+	<KC_SettingsEnableMaxDistanceLabel>Ограничить дистанцию автообращения</KC_SettingsEnableMaxDistanceLabel>
+	<!-- EN: If the Moral Guide is greater than the specified distance away from the Target, they will ignore the Convert action for this check. This is to avoid having the Moral Guide run all over the map to use Convert. -->
+	<KC_SettingsEnableMaxDistanceDesc>Если духовный наставник находится дальше указанного расстояния от цели, он проигнорирует действие «Обращение» при этой проверке. Это нужно, чтобы духовный наставник не бегал через всю карту ради использования способности.</KC_SettingsEnableMaxDistanceDesc>
+	<!-- EN: Max Distance to Target to Trigger Auto Convert (in tiles): {0} -->
+	<KC_SettingsMaxDistanceLabel>Макс. расстояние до цели для автообращения (в клетках): {0}</KC_SettingsMaxDistanceLabel>
+	<!-- EN: Allow waking up target -->
+	<KC_SettingsAllowWakeupLabel>Разрешить будить цель</KC_SettingsAllowWakeupLabel>
+	<!-- EN: If unchecked, Moral Guide won't attempt to Convert target, if target is sleeping. -->
+	<KC_SettingsAllowWakeupDesc>Если галочка не стоит, духовный наставник не будет пытаться обратить цель, пока та спит.</KC_SettingsAllowWakeupDesc>
+	<!-- EN: Skip Convert if Conversion ritual is ready -->
+	<KC_SettingsSkipWhenConversionRitualOffPenaltyLabel>Пропускать, если готов ритуал обращения</KC_SettingsSkipWhenConversionRitualOffPenaltyLabel>
+	<!-- EN: Conversion Ritual has a 20 day penalty period after being held. Enabling this option will disable auto-converting while Conversion Ritual is off penalty. Please note that Conversion Rituals are not automated. -->
+	<KC_SettingsSkipWhenConversionRitualOffPenaltyDesc>У ритуала обращения есть 20-дневный период штрафа после проведения. Включение этой опции отключит автоматическое обращение, пока ритуал доступен без штрафа. Пожалуйста, учтите, что сами ритуалы обращения не автоматизированы.</KC_SettingsSkipWhenConversionRitualOffPenaltyDesc>
+</LanguageData>

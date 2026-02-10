@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Ind_SkydrillerCallmaker.label>Оператор вызова Скайдриллера</Ind_SkydrillerCallmaker.label>
+  <Ind_SkydrillerCallmaker.description>Вызывает скайдриллер, низкоорбитальный плазменный бур. Skydriller выстрелит плазменным лучом по координатам коллмейкера, создав глубокую шахтную яму и уничтожив коллмейкера в процессе. Необходимо выбрать колониста и приказать ему активировать callmaker. ПРИМЕЧАНИЕ. Сигнал коллмейкера блокируется внутри пещер и построек, поэтому его необходимо размещать снаружи.</Ind_SkydrillerCallmaker.description>
+  <Ind_SkydrillerCallmaker.comps.0.useLabel>Активный абонент скайдриллера</Ind_SkydrillerCallmaker.comps.0.useLabel>
+  <Ind_SkydrillerCallmaker_Blueprint_Install.label>Создатель вызовов Skydriller (чертеж)</Ind_SkydrillerCallmaker_Blueprint_Install.label>
+
+  <Ind_SkydrillerCallmaker_Calling.label>Создатель вызовов Skydriller (активен)</Ind_SkydrillerCallmaker_Calling.label>
+  <Ind_SkydrillerCallmaker_Calling.description>Вызывает скайдриллер, низкоорбитальный плазменный бур. Skydriller выстрелит плазменным лучом по координатам коллмейкера, создав глубокую шахтную яму и уничтожив коллмейкера в процессе. Необходимо выбрать колониста и приказать ему активировать callmaker. ПРИМЕЧАНИЕ. Сигнал коллмейкера блокируется внутри пещер и построек, поэтому его необходимо размещать снаружи.</Ind_SkydrillerCallmaker_Calling.description>
+
+  <Ind_SkydrillerCallmaker_Drilling.label>Бурение Skydriller (активное)</Ind_SkydrillerCallmaker_Drilling.label>
+  <Ind_SkydrillerCallmaker_Drilling.description>Выполняется плазменное бурение.  Очистите территорию!!!</Ind_SkydrillerCallmaker_Drilling.description>
+
+  <Ind_MiningHole.label>добыча полезных ископаемых</Ind_MiningHole.label>
+  <Ind_MiningHole.description>Шахтная скважина.</Ind_MiningHole.description>
+
+
+</LanguageData>

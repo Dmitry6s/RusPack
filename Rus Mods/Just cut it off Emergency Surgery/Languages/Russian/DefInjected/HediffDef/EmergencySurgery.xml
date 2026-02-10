@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EmergencySurgery_SurgicalTrauma.label>хирургическая травма</EmergencySurgery_SurgicalTrauma.label>
+  <EmergencySurgery_SurgicalTrauma.description>травма после экстренной операции</EmergencySurgery_SurgicalTrauma.description>
+  <EmergencySurgery_SurgicalTrauma.comps.0.labelTendedWell>перевязанный</EmergencySurgery_SurgicalTrauma.comps.0.labelTendedWell>
+  <EmergencySurgery_SurgicalTrauma.comps.0.labelTendedWellInner>зашитые швы</EmergencySurgery_SurgicalTrauma.comps.0.labelTendedWellInner>
+  <EmergencySurgery_SurgicalTrauma.stages.0.label>лёгкая</EmergencySurgery_SurgicalTrauma.stages.0.label>
+  <EmergencySurgery_SurgicalTrauma.stages.1.label>лёгкая</EmergencySurgery_SurgicalTrauma.stages.1.label>
+  <EmergencySurgery_SurgicalTrauma.stages.2.label>тяжёлая</EmergencySurgery_SurgicalTrauma.stages.2.label>
+  <EmergencySurgery_SurgicalTrauma.stages.3.label>тяжёлая</EmergencySurgery_SurgicalTrauma.stages.3.label>
+  <EmergencySurgery_SurgicalTrauma.stages.4.label>экстремальная</EmergencySurgery_SurgicalTrauma.stages.4.label>
+  <EmergencySurgery_SurgicalTrauma.labelNoun>хирургическая травма</EmergencySurgery_SurgicalTrauma.labelNoun>
+
+
+</LanguageData>
