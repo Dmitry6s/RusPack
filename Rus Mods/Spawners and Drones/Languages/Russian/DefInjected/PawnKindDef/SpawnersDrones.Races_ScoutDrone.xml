@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scrappie -->
+
+  <Drone_Scrappie.label>скраппи дрон</Drone_Scrappie.label>
+  <Drone_Scrappie.labelPlural>скраппи дроны</Drone_Scrappie.labelPlural>
+  <Drone_Scrappie.labelMale>мужской скраппи дрон</Drone_Scrappie.labelMale>
+  <Drone_Scrappie.labelMalePlural>мужские скраппи дроны</Drone_Scrappie.labelMalePlural>
+  <Drone_Scrappie.labelFemale>женский скраппи дрон</Drone_Scrappie.labelFemale>
+  <Drone_Scrappie.labelFemalePlural>женские скраппи дроны</Drone_Scrappie.labelFemalePlural>
+
+
+  <!-- Pepper -->
+
+  <Drone_Pepper.label>пеппер дрон</Drone_Pepper.label>
+  <Drone_Pepper.labelPlural>пеппер дроны</Drone_Pepper.labelPlural>
+  <Drone_Pepper.labelMale>мужской пеппер дрон</Drone_Pepper.labelMale>
+  <Drone_Pepper.labelMalePlural>мужские пеппер дроны</Drone_Pepper.labelMalePlural>
+  <Drone_Pepper.labelFemale>женкий пеппер дрон</Drone_Pepper.labelFemale>
+  <Drone_Pepper.labelFemalePlural>женкие пеппер дроны</Drone_Pepper.labelFemalePlural>
+
+
+  <!-- Logger -->
+
+  <Drone_Logger.label>логгер дрон</Drone_Logger.label>
+  <Drone_Logger.labelPlural>логгер дроны</Drone_Logger.labelPlural>
+  <Drone_Logger.labelMale>мужской логгер дрон</Drone_Logger.labelMale>
+  <Drone_Logger.labelMalePlural>мужские логгер дроны</Drone_Logger.labelMalePlural>
+  <Drone_Logger.labelFemale>женский логгер дрон</Drone_Logger.labelFemale>
+  <Drone_Logger.labelFemalePlural>женские логгер дроны</Drone_Logger.labelFemalePlural>
+
+
+  <!-- Tokamac -->
+
+  <Drone_Tokamac.label>токамак дрон</Drone_Tokamac.label>
+  <Drone_Tokamac.labelPlural>токамак дроны</Drone_Tokamac.labelPlural>
+  <Drone_Tokamac.labelMale>мужской токамак дрон</Drone_Tokamac.labelMale>
+  <Drone_Tokamac.labelMalePlural>мужские токамак дроны</Drone_Tokamac.labelMalePlural>
+  <Drone_Tokamac.labelFemale>женский токамак дрон</Drone_Tokamac.labelFemale>
+  <Drone_Tokamac.labelFemalePlural>женские токамак дроны</Drone_Tokamac.labelFemalePlural>
+
+
+</LanguageData>

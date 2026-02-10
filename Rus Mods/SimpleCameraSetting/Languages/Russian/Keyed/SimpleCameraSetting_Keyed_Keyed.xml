@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: 
+     -->
+	<SimpleCameraSetting>
+    <Label>Simple Camera Setting</Label>
+  </SimpleCameraSetting>
+	<!-- EN: Zoom Range -->
+	<ZoomRange>Диапазон зума</ZoomRange>
+	<!-- EN: Zoom Speed -->
+	<ZoomSpeed>Скорость зума</ZoomSpeed>
+	<!-- EN: Silhouette Distance -->
+	<SilhouetteDistance>Дистанция силуэтов</SilhouetteDistance>
+	<!-- EN: Hide Pawn Name -->
+	<HidePawnName>Скрывать имена пешек</HidePawnName>
+	<!-- EN: Hide Pawn's name when displaying its silhouette. -->
+	<HidePawnNameTooltip>Скрывать имена пешек при отображении их силуэтов.</HidePawnNameTooltip>
+	<!-- EN: Display Distance -->
+	<DisplayDistance>Дистанция отображения</DisplayDistance>
+	<!-- EN: Smooth Zoom -->
+	<SmoothZoom>Плавный зум</SmoothZoom>
+	<!-- EN: Hide Pawn Border -->
+	<HideBracket>Скрывать рамку пешки</HideBracket>
+
+	<!-- EN: Zoom Debug Message -->
+	<ZoomDebugMessage>Отладочное сообщение зума</ZoomDebugMessage>
+	<!-- EN: Displays the current zoom as a message. -->
+	<ZoomDebugMessageTooltip>Выводит текущий уровень зума в виде сообщения.</ZoomDebugMessageTooltip>
+
+	<!-- EN: Default Value -->
+	<DefaultValue>Значение по умолчанию</DefaultValue>
+
+
+	<!-- EN: Follow Camera Key -->
+	<followCameraKey>Клавиша слежения камеры</followCameraKey>
+	<!-- EN: Auto Off Following -->
+	<AutoOffFollow>Автовыключение слежения</AutoOffFollow>
+	<!-- EN: If you are not selecting your pawn, turns off Following automatically. -->
+	<AutoOffFollowTooltip>Если пешка не выбрана, слежение выключается автоматически.</AutoOffFollowTooltip>
+
+	<!-- EN: Camera Speed Settings -->
+	<CameraSpeedSettingsTitle>Настройки скорости камеры</CameraSpeedSettingsTitle>
+	<!-- EN: Adjust the camera movement speed for each zoom level.
+This controls camera movement speed, not zoom speed.
+You can check the current zoom level via the "Zoom Debug Message" option.
+   -->
+	<CameraSpeedSettingsTooltip>Настройка скорости перемещения камеры для каждого уровня зума.
+Это управляет скоростью движения камеры, а не скоростью самого зума.
+Вы можете узнать текущий уровень зума с помощью опции «Отладочное сообщение зума».
+  </CameraSpeedSettingsTooltip>
+
+	<!-- EN: Camera Speed (Zoom < 1) -->
+	<CameraSpeed1>Скорость камеры (Зум &lt; 1)</CameraSpeed1>
+	<!-- EN: Camera Speed (Zoom < 3) -->
+	<CameraSpeed3>Скорость камеры (Зум &lt; 3)</CameraSpeed3>
+	<!-- EN: Camera Speed (Zoom < 5) -->
+	<CameraSpeed5>Скорость камеры (Зум &lt; 5)</CameraSpeed5>
+	<!-- EN: Camera Speed (Zoom < 10) -->
+	<CameraSpeed10>Скорость камеры (Зум &lt; 10)</CameraSpeed10>
+	<!-- EN: Camera Speed (Zoom < 20) -->
+	<CameraSpeed20>Скорость камеры (Зум &lt; 20)</CameraSpeed20>
+	<!-- EN: Camera Speed (Zoom < 40) -->
+	<CameraSpeed40>Скорость камеры (Зум &lt; 40)</CameraSpeed40>
+	<!-- EN: Camera Speed (Zoom < 60) -->
+	<CameraSpeed60>Скорость камеры (Зум &lt; 60)</CameraSpeed60>
+	<!-- EN: Camera Speed (Zoom < 100) -->
+	<CameraSpeed100>Скорость камеры (Зум &lt; 100)</CameraSpeed100>
+	<!-- EN: Camera Speed (Zoom < 200) -->
+	<CameraSpeed200>Скорость камеры (Зум &lt; 200)</CameraSpeed200>
+
+	<!-- EN: Selection Bracket -->
+	<SCS_BracketHideMode_Title>Рамка выделения</SCS_BracketHideMode_Title>
+	<!-- EN: Choose when to hide the selection brackets. -->
+	<SCS_BracketHideMode_Tooltip>Выберите, когда скрывать рамки выделения объектов.</SCS_BracketHideMode_Tooltip>
+
+	<!-- EN: Always show -->
+	<SCS_BracketHideMode_Never>Всегда показывать</SCS_BracketHideMode_Never>
+	<!-- EN: Always hide -->
+	<SCS_BracketHideMode_Always>Всегда скрывать</SCS_BracketHideMode_Always>
+	<!-- EN: Hide when following -->
+	<SCS_BracketHideMode_WhenFollowing>Скрывать при слежении</SCS_BracketHideMode_WhenFollowing>
+
+	<!-- EN: Set to 100 to disable -->
+	<SilhouetteDistanceTooltip>Установите на 100, чтобы отключить</SilhouetteDistanceTooltip>
+	<!-- EN: Display distance for item quantities and progress bars -->
+	<DisplayDistanceTooltip>Дистанция отображения количества предметов и шкал прогресса</DisplayDistanceTooltip>
+</LanguageData>

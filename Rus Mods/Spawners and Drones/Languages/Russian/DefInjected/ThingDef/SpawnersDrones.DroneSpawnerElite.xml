@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Elite Scout Spawner -->
+
+  <EScoutAssembler.label>сборщик элитных скаутов</EScoutAssembler.label>
+  <EScoutAssembler.description>Этот конкретный сборщик дронов, похоже, был каким-то образом модифицирован.</EScoutAssembler.description>
+
+
+  <!-- Elite Specialist Spawner -->
+
+  <ESpecialistAssembler.label>сборщик элитных специалистов</ESpecialistAssembler.label>
+  <ESpecialistAssembler.description>Этот конкретный сборщик дронов, похоже, был каким-то образом модифицирован.</ESpecialistAssembler.description>
+
+
+</LanguageData>

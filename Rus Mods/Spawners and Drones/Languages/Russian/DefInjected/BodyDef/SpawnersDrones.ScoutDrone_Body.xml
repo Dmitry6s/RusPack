@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ScoutDrone.label>разведчик</ScoutDrone.label>
+  <ScoutDrone.corePart.parts.0.parts.1.customLabel>датчик левого прицела</ScoutDrone.corePart.parts.0.parts.1.customLabel>
+  <ScoutDrone.corePart.parts.0.parts.2.customLabel>датчик среднего прицела</ScoutDrone.corePart.parts.0.parts.2.customLabel>
+  <ScoutDrone.corePart.parts.0.parts.3.customLabel>датчик правого прицела</ScoutDrone.corePart.parts.0.parts.3.customLabel>
+  <ScoutDrone.corePart.parts.0.parts.4.customLabel>левый слуховой датчик</ScoutDrone.corePart.parts.0.parts.4.customLabel>
+  <ScoutDrone.corePart.parts.0.parts.5.customLabel>правый слуховой датчик</ScoutDrone.corePart.parts.0.parts.5.customLabel>
+  <ScoutDrone.corePart.parts.1.customLabel>точка оружия</ScoutDrone.corePart.parts.1.customLabel>
+  <ScoutDrone.corePart.parts.2.customLabel>передняя левая нога</ScoutDrone.corePart.parts.2.customLabel>
+  <ScoutDrone.corePart.parts.2.parts.0.customLabel>передняя левая ступня</ScoutDrone.corePart.parts.2.parts.0.customLabel>
+  <ScoutDrone.corePart.parts.3.customLabel>передняя правая нога</ScoutDrone.corePart.parts.3.customLabel>
+  <ScoutDrone.corePart.parts.3.parts.0.customLabel>передняя правая ступня</ScoutDrone.corePart.parts.3.parts.0.customLabel>
+  <ScoutDrone.corePart.parts.4.customLabel>задняя левая нога</ScoutDrone.corePart.parts.4.customLabel>
+  <ScoutDrone.corePart.parts.4.parts.0.customLabel>задняя левая ступня</ScoutDrone.corePart.parts.4.parts.0.customLabel>
+  <ScoutDrone.corePart.parts.5.customLabel>задняя правая нога</ScoutDrone.corePart.parts.5.customLabel>
+  <ScoutDrone.corePart.parts.5.parts.0.customLabel>задняя правая ступня</ScoutDrone.corePart.parts.5.parts.0.customLabel>
+
+
+</LanguageData>

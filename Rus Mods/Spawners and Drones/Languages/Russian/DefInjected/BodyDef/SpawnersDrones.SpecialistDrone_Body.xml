@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SpecialistDrone.label>специалист</SpecialistDrone.label>
+  <SpecialistDrone.corePart.parts.0.parts.1.customLabel>датчик прицела</SpecialistDrone.corePart.parts.0.parts.1.customLabel>
+  <SpecialistDrone.corePart.parts.0.parts.2.customLabel>левый слуховой датчик</SpecialistDrone.corePart.parts.0.parts.2.customLabel>
+  <SpecialistDrone.corePart.parts.0.parts.3.customLabel>правый слуховой датчик</SpecialistDrone.corePart.parts.0.parts.3.customLabel>
+  <SpecialistDrone.corePart.parts.1.customLabel>точка оружия</SpecialistDrone.corePart.parts.1.customLabel>
+  <SpecialistDrone.corePart.parts.2.customLabel>левый протектор</SpecialistDrone.corePart.parts.2.customLabel>
+  <SpecialistDrone.corePart.parts.2.parts.0.customLabel>первое левое колесо протектора</SpecialistDrone.corePart.parts.2.parts.0.customLabel>
+  <SpecialistDrone.corePart.parts.2.parts.1.customLabel>второе левое колесо протектора</SpecialistDrone.corePart.parts.2.parts.1.customLabel>
+  <SpecialistDrone.corePart.parts.2.parts.2.customLabel>третье левое колесо протектора</SpecialistDrone.corePart.parts.2.parts.2.customLabel>
+  <SpecialistDrone.corePart.parts.3.customLabel>правый протектор</SpecialistDrone.corePart.parts.3.customLabel>
+  <SpecialistDrone.corePart.parts.3.parts.0.customLabel>первое правое колесо протектора</SpecialistDrone.corePart.parts.3.parts.0.customLabel>
+  <SpecialistDrone.corePart.parts.3.parts.1.customLabel>второе правое колесо протектора</SpecialistDrone.corePart.parts.3.parts.1.customLabel>
+  <SpecialistDrone.corePart.parts.3.parts.2.customLabel>третье правое колесо протектора</SpecialistDrone.corePart.parts.3.parts.2.customLabel>
+
+
+</LanguageData>

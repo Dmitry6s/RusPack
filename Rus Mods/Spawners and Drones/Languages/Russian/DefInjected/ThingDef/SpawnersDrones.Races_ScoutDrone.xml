@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scrappie -->
+
+  <Drone_Scrappie.label>дрон скраппи</Drone_Scrappie.label>
+  <Drone_Scrappie.description>Дроны класса разведчик - это многоногие боевые дроны размером с большую собаку. \nДроны класса разведчик легко бронированы и представляют угрозу в большом количестве. \n\nСкраппи - это беспилотный летательный аппарат класса разведчик, оснащенный шрапнельными пушками ближнего действия, которые могут разлетаться по нескольким врагам.</Drone_Scrappie.description>
+  <Drone_Scrappie.tools.0.label>передняя левая нога</Drone_Scrappie.tools.0.label>
+  <Drone_Scrappie.tools.1.label>передняя правая нога</Drone_Scrappie.tools.1.label>
+  <Drone_Scrappie.tools.2.label>голова</Drone_Scrappie.tools.2.label>
+
+
+  <!-- Pepper -->
+
+  <Drone_Pepper.label>дрон пеппер</Drone_Pepper.label>
+  <Drone_Pepper.description>Дроны класса разведчик - это многоногие боевые дроны размером с большую собаку. \nДроны класса разведчик легко бронированы и представляют угрозу в большом количестве. \n\n"Пепперы" - это беспилотные летательные аппараты класса "разведчик", оснащенные автопушками, стреляющими очередями из слабых взрывчатых веществ.</Drone_Pepper.description>
+  <Drone_Pepper.tools.0.label>передняя левая нога</Drone_Pepper.tools.0.label>
+  <Drone_Pepper.tools.1.label>передняя правая нога</Drone_Pepper.tools.1.label>
+  <Drone_Pepper.tools.2.label>голова</Drone_Pepper.tools.2.label>
+
+
+  <!-- Logger -->
+
+  <Drone_Logger.label>дрон логгер</Drone_Logger.label>
+  <Drone_Logger.description>Дроны класса разведчик - это многоногие боевые дроны размером с большую собаку. \nДроны класса разведчик легко бронированы и представляют угрозу в большом количестве. \n\nЛоггеры - это дроны класса разведчиков, которые несут пулеметы и могут похвастаться значительно уменьшенным временем перезарядки между очередями.</Drone_Logger.description>
+  <Drone_Logger.tools.0.label>передняя левая нога</Drone_Logger.tools.0.label>
+  <Drone_Logger.tools.1.label>передняя правая нога</Drone_Logger.tools.1.label>
+  <Drone_Logger.tools.2.label>голова</Drone_Logger.tools.2.label>
+
+
+  <!-- Tokamac -->
+
+  <Drone_Tokamac.label>дрон токамак</Drone_Tokamac.label>
+  <Drone_Tokamac.description>Дроны класса разведчик - это многоногие боевые дроны размером с большую собаку. \nДроны класса разведчик легко бронированы и представляют угрозу в большом количестве. \n\nТокамаки - это дроны класса разведчиков, которые несут зарядные винтовки, которые справляются с бронированными противниками.</Drone_Tokamac.description>
+  <Drone_Tokamac.tools.0.label>передняя левая нога</Drone_Tokamac.tools.0.label>
+  <Drone_Tokamac.tools.1.label>передняя правая нога</Drone_Tokamac.tools.1.label>
+  <Drone_Tokamac.tools.2.label>голова</Drone_Tokamac.tools.2.label>
+
+
+</LanguageData>

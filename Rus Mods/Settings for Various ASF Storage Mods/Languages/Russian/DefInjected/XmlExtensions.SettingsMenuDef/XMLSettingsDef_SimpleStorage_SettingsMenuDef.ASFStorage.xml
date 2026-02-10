@@ -1,0 +1,57 @@
+<LanguageData>
+	<!-- Mods\SimpleStorage\Defs\XMLSettingsDef_SimpleStorage.xml -->
+	                          <!-- EN: ASF Simple Storage -->
+	<klvlt_SimpleStorageSettings.label>ASF Simple Storage</klvlt_SimpleStorageSettings.label>
+	                                    <!-- EN: - Changes require restart - -->
+	<klvlt_SimpleStorageSettings.settings.2.text>- Для применения изменений требуется перезапуск -</klvlt_SimpleStorageSettings.settings.2.text>
+	                                               <!-- EN: Change Number of Stacks per Cell (Default in Brackets) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.1.text>Изменить количество стаков на ячейку (значение по умолчанию указано в скобках)</klvlt_SimpleStorageSettings.settings.6.settings.1.text>
+	                                                <!-- EN: Barrel A (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.4.label>Бочка A (8)</klvlt_SimpleStorageSettings.settings.6.settings.4.label>
+	                                                <!-- EN: Barrel B (12) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.5.label>Бочка B (12)</klvlt_SimpleStorageSettings.settings.6.settings.5.label>
+	                                                <!-- EN: Barrel C (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.6.label>Бочка C (8)</klvlt_SimpleStorageSettings.settings.6.settings.6.label>
+	                                                <!-- EN: Bundle A (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.7.label>Связка A (8)</klvlt_SimpleStorageSettings.settings.6.settings.7.label>
+	                                                <!-- EN: Bundle B (10) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.8.label>Связка B (10)</klvlt_SimpleStorageSettings.settings.6.settings.8.label>
+	                                                <!-- EN: Bundle C (20) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.9.label>Связка C (20)</klvlt_SimpleStorageSettings.settings.6.settings.9.label>
+	                                                 <!-- EN: Canister A (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.10.label>Канистра A (8)</klvlt_SimpleStorageSettings.settings.6.settings.10.label>
+	                                                 <!-- EN: Canister B (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.11.label>Канистра B (8)</klvlt_SimpleStorageSettings.settings.6.settings.11.label>
+	                                                 <!-- EN: Crate A (6) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.12.label>Ящик A (6)</klvlt_SimpleStorageSettings.settings.6.settings.12.label>
+	                                                 <!-- EN: Crate B (12) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.13.label>Ящик B (12)</klvlt_SimpleStorageSettings.settings.6.settings.13.label>
+	                                                 <!-- EN: Crate C (5) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.14.label>Ящик C (5)</klvlt_SimpleStorageSettings.settings.6.settings.14.label>
+	                                                 <!-- EN: Crate D (9) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.15.label>Ящик D (9)</klvlt_SimpleStorageSettings.settings.6.settings.15.label>
+	                                                 <!-- EN: Crate E (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.16.label>Ящик E (8)</klvlt_SimpleStorageSettings.settings.6.settings.16.label>
+	                                                 <!-- EN: Crate F (12) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.17.label>Ящик F (12)</klvlt_SimpleStorageSettings.settings.6.settings.17.label>
+	                                                 <!-- EN: Crate G (16) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.18.label>Ящик G (16)</klvlt_SimpleStorageSettings.settings.6.settings.18.label>
+	                                                 <!-- EN: Metal Crate A (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.19.label>Металлический ящик A (8)</klvlt_SimpleStorageSettings.settings.6.settings.19.label>
+	                                                 <!-- EN: Metal Crate B (10) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.20.label>Металлический ящик B (10)</klvlt_SimpleStorageSettings.settings.6.settings.20.label>
+	                                                 <!-- EN: Metal Crate C (16) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.21.label>Металлический ящик C (16)</klvlt_SimpleStorageSettings.settings.6.settings.21.label>
+	                                                 <!-- EN: Metal Crate D (16) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.22.label>Металлический ящик D (16)</klvlt_SimpleStorageSettings.settings.6.settings.22.label>
+	                                                 <!-- EN: Pallet Crate A (6) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.23.label>Ящик на поддоне A (6)</klvlt_SimpleStorageSettings.settings.6.settings.23.label>
+	                                                 <!-- EN: Pallet Crate B (8) -->
+	<klvlt_SimpleStorageSettings.settings.6.settings.24.label>Ящик на поддоне B (8)</klvlt_SimpleStorageSettings.settings.6.settings.24.label>
+	                                     <!-- EN: Reset to default values -->
+	<klvlt_SimpleStorageSettings.settings.12.text>Сбросить до значений по умолчанию</klvlt_SimpleStorageSettings.settings.12.text>
+	                                                 <!-- EN: Reset Settings -->
+	<klvlt_SimpleStorageSettings.settings.13.settings.0.label>Сбросить настройки</klvlt_SimpleStorageSettings.settings.13.settings.0.label>
+	                                                   <!-- EN: Settings will be set to default. -->
+	<klvlt_SimpleStorageSettings.settings.13.settings.0.message>Настройкам будут возвращены значения по умолчанию.</klvlt_SimpleStorageSettings.settings.13.settings.0.message>
+</LanguageData>

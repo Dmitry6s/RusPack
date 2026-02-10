@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: shackle -->
+  <LabelWordShackle>кандалы</LabelWordShackle>
+  <!-- EN: Mark whether or not {0} is to be shackled. Shackled slaves are unable to move quickly, making them easier to catch but less productive. -->
+  <CommandDescriptionShackle>Отметить, должен ли {0} быть скован. Скованные рабы не могут двигаться быстро, поэтому их легче поймать, но их труд менее производителен.</CommandDescriptionShackle>
+  <!-- EN: Arm Collar -->
+  <Label_CollarExplosive_Arm>Взвести ошейник</Label_CollarExplosive_Arm>
+  <!-- EN: Ready the explosives in the slave collar for detonation. -->
+  <Desc_CollarExplosive_Arm>Подготовить взрывчатку в ошейнике раба к подрыву.</Desc_CollarExplosive_Arm>
+  <!-- EN: Detonate -->
+  <Label_CollarExplosive_Detonate>Взорвать</Label_CollarExplosive_Detonate>
+  <!-- EN: Detonate the explosives in the collar, instantly killing the wearer. -->
+  <Desc_CollarExplosive_Detonate>Взорвать ошейник, мгновенно убив носителя.</Desc_CollarExplosive_Detonate>
+  <!-- EN: Explosive collar was armed to detonate. -->
+  <ReasonArmedExplosiveCollar>Взрывной ошейник взведён перед взрывом.</ReasonArmedExplosiveCollar>
+  <!-- EN: Zap -->
+  <Label_CollarElectric_Arm>Электрошок</Label_CollarElectric_Arm>
+  <!-- EN: Electrocutes wearer untill uncouscious. -->
+  <Desc_CollarElectric_Arm>Бить носителя электрическим током до потери сознания.</Desc_CollarElectric_Arm>
+  <!-- EN: {0} is having a heart attack from an electric shock! -->
+  <LetterIncidentECHeartAttack>От удара током сердце {0} остановилось!</LetterIncidentECHeartAttack>
+  <!-- EN: Heart Attack -->
+  <LetterLabelECHeartAttack>Сердечный приступ</LetterLabelECHeartAttack>
+  <!-- EN: Freeze -->
+  <Label_CollarCrypto_Arm>Заморозить</Label_CollarCrypto_Arm>
+  <!-- EN: Freezes wearer in place. -->
+  <Desc_CollarCrypto_Arm>Парализует носителя на месте.</Desc_CollarCrypto_Arm>
+  <!-- EN: {0} has {1} wear a slave collar. -->
+  <TargetSetSlaveCollar>{0} заставляет {1} носить рабский ошейник.</TargetSetSlaveCollar>
+  <!-- EN: {0} is trying to wear a slave collar to {1}. -->
+  <ReasonFailedSetSlaveCollar>{0} пытается надеть рабский ошейник на {1}.</ReasonFailedSetSlaveCollar>
+  <!-- EN: Shackles Default -->
+  <shacklesDefaultSetting_title>Кандалы: по умолчанию</shacklesDefaultSetting_title>
+  <!-- EN: Choose whether to put the shackles on when you enslave the pawn. Default: On -->
+  <shacklesDefaultSetting_desc>Выберите, надевать ли кандалы, когда вы порабощаете пешку. По умолчанию: Включено.</shacklesDefaultSetting_desc>
+  <!-- EN: Slave Stage On/Off -->
+  <slavestageEnableSetting_title>Стадии рабства</slavestageEnableSetting_title>
+  <!-- EN: Choose whether to activate the slave's emotional changes. Default: On -->
+  <slavestageEnableSetting_desc>Выберите, активировать ли стадии эмоциональных изменений для раба. По умолчанию: Включено.</slavestageEnableSetting_desc>
+  <!-- EN: Rebellion Cycle Change On/Off -->
+  <rebelcyclechangeEnableSetting_title>Смена периодичности восстаний</rebelcyclechangeEnableSetting_title>
+  <!-- EN: Choose whether to enable Rebellion Cycle Change by Slave Stage. If the slave stage is off, it has no effect. Default: On -->
+  <rebelcyclechangeEnableSetting_desc>Выберите, следует ли включить изменение пеоиодичности восстаний в зависимости от стадии рабства. Если стадии рабства отключены, эта настройка не даст эффекта. По умолчанию: Включено.</rebelcyclechangeEnableSetting_desc>
+  <!-- EN: Remove Global Work Speed Debuff On/Off -->
+  <removeworkspeeddebuffEnableSetting_title>Удалить дебафф скорости работы</removeworkspeeddebuffEnableSetting_title>
+  <!-- EN: Choose whether to Remove Global Work Speed Debuff by Slave Stage. If the slave stage or reduce rebellion cycle is off, it has no effect. Default: On -->
+  <removeworkspeeddebuffEnableSetting_desc>Выберите, следует ли удалить глобальный дебафф скорости работы в зависимости от стадии рабства. Если стадии рабства или смена периодичности восстаний отключены, эта настройка не даст эффекта. По умолчанию: Включено.</removeworkspeeddebuffEnableSetting_desc>
+  <!-- EN: Assign Slave On/Off -->
+  <assignslaveEnableSetting_title>Назначать рабов на роли</assignslaveEnableSetting_title>
+  <!-- EN: Choose whether to allow slaves to be assigned to roles. If the slave stage or reduce rebellion cycle is off, it has no effect. Default: On -->
+  <assignslaveEnableSetting_desc>Выберите, разрешено ли назначать рабов на роли. Если стадии рабства или смена периодичности восстаний отключены, эта настройка не даст эффекта. По умолчанию: Включено.</assignslaveEnableSetting_desc>
+  <!-- EN: Assimilation Slave On/Off -->
+  <assimilationslaveEnableSetting_title>Ассимиляция рабов</assimilationslaveEnableSetting_title>
+  <!-- EN: Choose whether to allow the slave's home faction to be changed to the player's faction when the slave stage reaches level 5. If you release the slave who has become the player's faction, the slave will join the settlement. If the slave stage is off, it has no effect. Default: On -->
+  <assimilationslaveEnableSetting_desc>Выберите, разрешить ли смену родной фракции раба на фракцию игрока, когда стадия рабства достигнет 5-го уровня. Если раба, принявшего фракцию игрока, освободить, он присоединится к поселению. Если стадии рабства отключены, эта настройка не даст эффекта. По умолчанию: Включено.</assimilationslaveEnableSetting_desc>
+  <!-- EN: Slave Stage 1 Period -->
+  <slavestage1Period_title>Стадия рабства 1, дней</slavestage1Period_title>
+  <!-- EN: Sets the slave stage 1 period. Default: 15 days -->
+  <slavestage1Period_desc>Установить продолжительность первого периода рабства. По умолчанию: 15 дней</slavestage1Period_desc>
+  <!-- EN: Slave Stage 2 Period -->
+  <slavestage2Period_title>Стадия рабства 2, дней</slavestage2Period_title>
+  <!-- EN: Sets the slave stage 2 period. Default: 15 days -->
+  <slavestage2Period_desc>Установить продолжительность второго периода рабства. По умолчанию: 15 дней</slavestage2Period_desc>
+  <!-- EN: Slave Stage 3 Period -->
+  <slavestage3Period_title>Стадия рабства 3, дней</slavestage3Period_title>
+  <!-- EN: Sets the slave stage 3 period. Default: 15 days -->
+  <slavestage3Period_desc>Установить продолжительность третьего периода рабства. По умолчанию: 15 дней</slavestage3Period_desc>
+  <!-- EN: Slave Stage 4 Period -->
+  <slavestage4Period_title>Стадия рабства 4, дней</slavestage4Period_title>
+  <!-- EN: Sets the slave stage 4 period. Default: 15 days -->
+  <slavestage4Period_desc>Установить продолжительность четвёртого периода рабства. По умолчанию: 15 дней</slavestage4Period_desc>
+  <!-- EN: Slave Stage -->
+  <SuppressionSlavestageFactor>Стадия рабства</SuppressionSlavestageFactor>
+  <!-- EN: Must not be slave -->
+  <RoleRequirementLabelNotSlave>Не должен быть рабом</RoleRequirementLabelNotSlave>
+  <!-- EN: Must be at least slave stage 4 -->
+  <RoleRequirementLabelSlaveStage>Должена быть по крайней мере 4 стадия рабства </RoleRequirementLabelSlaveStage>
+  <!-- EN: Arm Collar -->
+  <Label_CollarExplosive_Arm_Remote>Взвести ошейник</Label_CollarExplosive_Arm_Remote>
+  <!-- EN: Ready the explosives in the slave collar for detonation. -->
+  <Desc_CollarExplosive_Arm_Remote>Подготовить взрывчатку в ошейнике раба к подрыву.</Desc_CollarExplosive_Arm_Remote>
+  <!-- EN: Detonate -->
+  <Label_CollarExplosive_Detonate_Remote>Взорвать</Label_CollarExplosive_Detonate_Remote>
+  <!-- EN: Detonate the explosives in the collar, instantly killing the wearer. -->
+  <Desc_CollarExplosive_Detonate_Remote>Взорвать ошейник, мгновенно убив носителя.</Desc_CollarExplosive_Detonate_Remote>
+  <!-- EN: Zap -->
+  <Label_CollarElectric_Arm_Remote>Электрошок</Label_CollarElectric_Arm_Remote>
+  <!-- EN: Electrocutes wearer untill uncouscious. -->
+  <Desc_CollarElectric_Arm_Remote>>Бить носителя электрическим током до потери сознания.</Desc_CollarElectric_Arm_Remote>
+  <!-- EN: Freeze -->
+  <Label_CollarCrypto_Arm_Remote>Заморозить</Label_CollarCrypto_Arm_Remote>
+  <!-- EN: Freezes wearer in place. -->
+  <Desc_CollarCrypto_Arm_Remote>Парализует носителя на месте.</Desc_CollarCrypto_Arm_Remote>
+  <!-- EN: [PAWN_nameDef] is assimilated into the settlement and considers the settlement [PAWN_possessive] home. -->
+  <MessageAssimilationSlave>[PAWN_nameDef] присоединяется к поселению, теперь здесь [PAWN_possessive] дом.</MessageAssimilationSlave>
+
+</LanguageData>

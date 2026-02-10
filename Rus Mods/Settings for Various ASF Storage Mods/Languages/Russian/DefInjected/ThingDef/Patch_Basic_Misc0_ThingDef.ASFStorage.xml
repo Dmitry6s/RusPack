@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- _Translation\Grabbed_Defs_from_patches\phaneron_basic_storage\Patch_Basic_Misc0.xml -->
+	                 <!-- EN: medium pallet -->
+	<klvlt_MediumPallet.label>средний поддон</klvlt_MediumPallet.label>
+	                       <!-- EN: A pallet that keeps your things a bit more organized and away from the ground. It can store raw resources and other commonly used materials. Items stored inside will never deteriorate and don't affect the beauty of their surroundings.\n\nRotate to change appearance. -->
+	<klvlt_MediumPallet.description>Поддон, который позволяет хранить ваши вещи чуть более упорядоченно и не на земле. На нём можно хранить сырые ресурсы и другие часто используемые материалы. Предметы, хранящиеся внутри, никогда не будут разрушаться и не влияют на красоту окружающей обстановки.\n\nПоверните, чтобы изменить внешний вид.</klvlt_MediumPallet.description>
+</LanguageData>

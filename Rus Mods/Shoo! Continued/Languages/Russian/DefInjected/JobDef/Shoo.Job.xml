@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: shooing TargetA. -->
+  <ShooJob.reportString>собирается прогнать TargetA</ShooJob.reportString>
+
+  <!-- EN: fleeing. -->
+  <FleeBecauseShoo.reportString>спасается бегством</FleeBecauseShoo.reportString>
+
+</LanguageData>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <Drone_Centipede.label>реплика многоножки</Drone_Centipede.label>
+  <Drone_Centipede.description>Тяжелые боевые механоиды, которые скользят на десятках крошечных ножек. Их мощная защита и огневая мощь делают их очень эффективными против сгруппированных статичных защитников. Они в некоторой степени уязвимы для мобильной тактики наезда и бегства. \n\nКосмические военные всегда включали механоидов в свои ряды, этот ничем не отличается от любого другого.</Drone_Centipede.description>
+  <Drone_Centipede.tools.0.label>голова</Drone_Centipede.tools.0.label>
+
+
+  <!-- Lancer - fast mid-range shooter -->
+
+  <Drone_Lancer.label>реплика улана</Drone_Lancer.label>
+  <Drone_Lancer.description>Быстрые боевые механоиды размером с человека, созданные для боя на средних и дальних дистанциях. Их тела легкие, что делает их уязвимыми мишенями на близком расстоянии - особенно в ближнем бою. \n\nКосмические военные всегда включали механоидов в свои ряды, этот ничем не отличается от любого другого.</Drone_Lancer.description>
+  <Drone_Lancer.tools.0.label>левый кулак</Drone_Lancer.tools.0.label>
+  <Drone_Lancer.tools.1.label>правый кулак</Drone_Lancer.tools.1.label>
+  <Drone_Lancer.tools.2.label>голова</Drone_Lancer.tools.2.label>
+
+
+  <!-- Scyther - fast melee -->
+
+  <Drone_Scyther.label>реплика жнеца</Drone_Scyther.label>
+  <Drone_Scyther.description>Быстрые, веретенообразные боевые механоиды размером с человека, специализирующиеся на быстром сближении и ближнем бою. Их тела покрыты остриями и лезвиями, но в основном они используют два ручных лезвия, чтобы отрезать конечности или выпотрошить своих жертв живьем. \n\nКосмические военные всегда включали механоидов в свои ряды, этот ничем не отличается от любого другого.</Drone_Scyther.description>
+  <Drone_Scyther.tools.0.label>левое лезвие</Drone_Scyther.tools.0.label>
+  <Drone_Scyther.tools.1.label>правый клинок</Drone_Scyther.tools.1.label>
+  <Drone_Scyther.tools.2.label>голова</Drone_Scyther.tools.2.label>
+
+
+  <!-- Pikeman - slow sniper weak at close range -->
+
+  <Drone_Pikeman.label>реплика копейщика</Drone_Pikeman.label>
+  <Drone_Pikeman.description>Неуклюжий многоногий боевой механоид, специализирующийся на оружейной платформе дальнего действия. Хотя он эффективен на расстоянии, он слаб в ближнем бою и в ближнем бою.\n\nВетераны механоидных войн знают, что часто самое безопасное место рядом с копейщиком - это прикасаться к нему. \n\nКосмические военные всегда включали механоидов в свои ряды, этот ничем не отличается от любого другого.</Drone_Pikeman.description>
+  <Drone_Pikeman.tools.0.label>передняя левая нога</Drone_Pikeman.tools.0.label>
+  <Drone_Pikeman.tools.1.label>передняя правая нога</Drone_Pikeman.tools.1.label>
+  <Drone_Pikeman.tools.2.label>голова</Drone_Pikeman.tools.2.label>
+
+
+</LanguageData>

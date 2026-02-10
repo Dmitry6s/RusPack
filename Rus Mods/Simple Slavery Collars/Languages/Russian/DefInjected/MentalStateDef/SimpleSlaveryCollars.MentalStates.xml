@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: crypto Stasis -->
+  <CryptoStasis.label>криостатиз</CryptoStasis.label>
+  <!-- EN: Mental state: CryptoStasis -->
+  <CryptoStasis.baseInspectLine>Психическое состояние: криостатиз</CryptoStasis.baseInspectLine>
+
+</LanguageData>

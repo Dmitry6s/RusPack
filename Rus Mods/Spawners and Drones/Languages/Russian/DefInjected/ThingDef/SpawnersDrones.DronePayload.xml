@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Payload_Cluster.label>кассетная бомба</Payload_Cluster.label>
+  <Payload_Cluster.description>Заряд взрывчатого вещества, несомый сопровождающей миной</Payload_Cluster.description>
+  <Payload_Cluster.tools.0.label>снаряд</Payload_Cluster.tools.0.label>
+
+  <Bullet_Payload.label>кассетная бомба</Bullet_Payload.label>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scout Elite -->
+
+  <Drone_EliteScout.label>элитный разведывательный дрон</Drone_EliteScout.label>
+  <Drone_EliteScout.description>Дроны класса разведчик - это многоногие боевые дроны размером с большую собаку. \nДроны класса Разведчик легкобронированы и представляют угрозу в больших количестве. \n\nЭта конкретная модель, по-видимому, имеет улучшенную броню и улучшенный интеллект, позволяющий ей использовать укрытие.</Drone_EliteScout.description>
+  <Drone_EliteScout.tools.0.label>передняя левая нога</Drone_EliteScout.tools.0.label>
+  <Drone_EliteScout.tools.1.label>передняя правая нога</Drone_EliteScout.tools.1.label>
+  <Drone_EliteScout.tools.2.label>голова</Drone_EliteScout.tools.2.label>
+
+
+  <!-- Specialist Elite -->
+
+  <Drone_EliteSpecialist.label>элитный специалист-дрон</Drone_EliteSpecialist.label>
+  <Drone_EliteSpecialist.description>Дроны специального класса - это боевые дроны, разработанные с адаптивным шасси, подходящим для уникального вооружения. \nДроны специального класса хорошо бронированы и обычно представляют угрозу, если с ними не бороться. \n\nЭта конкретная модель, по-видимому, имеет улучшенную броню и улучшенный интеллект, позволяющий ей использовать укрытие.</Drone_EliteSpecialist.description>
+  <Drone_EliteSpecialist.tools.0.label>голова</Drone_EliteSpecialist.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\Buildings_Storage.xml -->
+	<!-- EN: Small underground vault -->
+	<NEC_SmallUndergroundVault.label>Малое подземное хранилище</NEC_SmallUndergroundVault.label>
+	<!-- EN: This small underground vault is near impenetrable and has 512 container slots. The underground portion contains a quick-lift elevator system to gain access to deep levels in the ground. Items will not deteriorate within the vault. -->
+	<NEC_SmallUndergroundVault.description>Это малое подземное хранилище практически неприступно и имеет 512 ячеек хранения. Подземная часть оснащена системой скоростных лифтов для доступа к глубоким уровням грунта. Предметы внутри хранилища не портятся.</NEC_SmallUndergroundVault.description>
+	
+	<!-- EN: Underground vault -->
+	<NEC_UndergroundVault.label>Подземное хранилище</NEC_UndergroundVault.label>
+	<!-- EN: This giant underground vault is near impenetrable and has 1,024 container slots. The underground portion contains a quick-lift elevator system to gain access to deep levels in the ground. Items will not deteriorate within the vault. -->
+	<NEC_UndergroundVault.description>Это огромное подземное хранилище практически неприступно и имеет 1024 ячейки хранения. Подземная часть оснащена системой скоростных лифтов для доступа к глубоким уровням грунта. Предметы внутри хранилища не портятся.</NEC_UndergroundVault.description>
+</LanguageData>

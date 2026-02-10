@@ -1,0 +1,21 @@
+<LanguageData>
+	<!-- Mods\SpecializedStorageSolutions\Defs\XMLSettingsDef_SpecializedStorageSolutions.xml -->
+	                                        <!-- EN: ASF Specialized Storage Solutions -->
+	<klvlt_SpecializedStorageSolutionsSettings.label>ASF Specialized Storage Solutions</klvlt_SpecializedStorageSolutionsSettings.label>
+	                                                  <!-- EN: - Changes require restart - -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.2.text>- Для применения изменений требуется перезапуск -</klvlt_SpecializedStorageSolutionsSettings.settings.2.text>
+	                                                             <!-- EN: Change Number of Stacks per Cell (Default in Brackets) -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.1.text>Изменить количество стаков на ячейку (значение по умолчанию указано в скобках)</klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.1.text>
+	                                                              <!-- EN: Medicine crate (8) -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.4.label>Ящик для медикаментов (8)</klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.4.label>
+	                                                              <!-- EN: Seed crate (10) -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.5.label>Ящик для семян (10)</klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.5.label>
+	                                                              <!-- EN: Waste bin (6) -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.6.label>Мусорное ведро (6)</klvlt_SpecializedStorageSolutionsSettings.settings.6.settings.6.label>
+	                                                   <!-- EN: Reset to default values -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.12.text>Сбросить до значений по умолчанию</klvlt_SpecializedStorageSolutionsSettings.settings.12.text>
+	                                                               <!-- EN: Reset Settings -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.13.settings.0.label>Сбросить настройки</klvlt_SpecializedStorageSolutionsSettings.settings.13.settings.0.label>
+	                                                                 <!-- EN: Settings will be set to default. -->
+	<klvlt_SpecializedStorageSolutionsSettings.settings.13.settings.0.message>Настройкам будут возвращены значения по умолчанию.</klvlt_SpecializedStorageSolutionsSettings.settings.13.settings.0.message>
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: enslaved (hidden) -->
+  <Enslaved.label>в рабстве (скрыто)</Enslaved.label>
+  <!-- EN: hidden -->
+  <Enslaved.description>скрыто</Enslaved.description>
+
+  <!-- EN: crypto stasis -->
+  <Crypto_Stasis.label>криостатиз</Crypto_Stasis.label>
+  <!-- EN: crypto stasis -->
+  <Crypto_Stasis.description>криостатиз</Crypto_Stasis.description>
+
+  <!-- EN: Electrocuted -->
+  <Electrocuted.label>электрошок</Electrocuted.label>
+  <!-- EN: Electrocuted -->
+  <Electrocuted.description>электрошок</Electrocuted.description>
+
+</LanguageData>

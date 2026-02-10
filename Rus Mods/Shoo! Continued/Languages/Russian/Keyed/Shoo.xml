@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- EN: Shoo -->
+  <DesignatorShoo>Брысь!</DesignatorShoo>
+  <!-- EN: Marks animals to be nonviolently shooed away from the colony. Animals will pass through doors while fleeing. -->
+  <DesignatorShooDesc>Помечает животных, чтобы их прогнать из колонии без насилия. Животные будут проходить через двери во время бегства.</DesignatorShooDesc>
+  <!-- EN: Must designate animals. ??? -->
+  <MessageMustDesignateShooable>Должны обозначать животных.</MessageMustDesignateShooable>
+  <!-- EN: Warning: {0} may attack if shooed. -->
+  <MessageAnimalDangerousToShoo>Предупреждение: {0} может напасть при попытке отпугнуть.</MessageAnimalDangerousToShoo>
+  <!-- EN: fleeing -->
+  <ShooSuccess>спасается бегством</ShooSuccess>
+  <!-- EN: shoo failed ({0} chance) -->
+  <ShooFailure>Не удалось прогнать ({0} шанс)</ShooFailure>
+  <!-- EN: {0} is attacking after having been shooed. -->
+  <ManhuntOnFailedShoo>В результате испуга {0} выбирает атаку, а не бегство.</ManhuntOnFailedShoo>
+  <!-- EN: {0} revenge -->
+  <ManhuntOnFailedShooLabel>{0} мстит</ManhuntOnFailedShooLabel>
+</LanguageData>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Homer mine base -->
+
+  <Drone_Chaperone.label>сопровождающая мина</Drone_Chaperone.label>
+  <Drone_Chaperone.labelPlural>сопровождающие мины</Drone_Chaperone.labelPlural>
+  <Drone_Chaperone.labelMale>мужская сопровождающая мина</Drone_Chaperone.labelMale>
+  <Drone_Chaperone.labelMalePlural>мужские сопровождающие мины</Drone_Chaperone.labelMalePlural>
+  <Drone_Chaperone.labelFemale>женская сопровождающая мина</Drone_Chaperone.labelFemale>
+  <Drone_Chaperone.labelFemalePlural>женские сопровождающие мины</Drone_Chaperone.labelFemalePlural>
+
+
+</LanguageData>

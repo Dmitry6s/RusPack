@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: time as a slave -->
+  <TimeAsSlave.label>время рабства</TimeAsSlave.label>
+  <!-- EN: Total time spent as a slave. -->
+  <TimeAsSlave.description>Полное количество времени, проведённого в рабстве.</TimeAsSlave.description>
+
+</LanguageData>

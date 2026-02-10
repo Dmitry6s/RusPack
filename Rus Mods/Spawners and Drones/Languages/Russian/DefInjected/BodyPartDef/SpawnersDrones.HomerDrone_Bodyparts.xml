@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Homer Drone base model -->
+
+  <HomerMechanicalThoraxCanManipulate.label>шасси</HomerMechanicalThoraxCanManipulate.label>
+  <HomerMechanicalCore.label>ядро</HomerMechanicalCore.label>
+  <HomerArtificialBrain.label>информационный процессор</HomerArtificialBrain.label>
+  <HomerGenerator.label>генератор</HomerGenerator.label>
+  <HomerFluidReprocessor.label>жидкостный переработчик</HomerFluidReprocessor.label>
+  <HomerSightSensor.label>визуальный датчик</HomerSightSensor.label>
+  <HomerHearingSensor.label>звуковой датчик</HomerHearingSensor.label>
+  <HomerSmellSensor.label>химический анализатор</HomerSmellSensor.label>
+  <HomerMechanicalShell.label>кольцо перемещения</HomerMechanicalShell.label>
+
+
+</LanguageData>

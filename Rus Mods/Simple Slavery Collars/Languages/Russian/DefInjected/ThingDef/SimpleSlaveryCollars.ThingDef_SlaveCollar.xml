@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: explosive collar -->
+  <Apparel_SlaveCollar_Explosive.label>взрывной ошейник</Apparel_SlaveCollar_Explosive.label>
+  <!-- EN: ***DANGER EXPLOSIVE***\n\nA metal collar fastened around the necks of slaves. When armed and activated, blows the slave's head off with a small but powerful bang. \n\n***DANGER EXPLOSIVE*** -->
+  <Apparel_SlaveCollar_Explosive.description>***ОСТОРОЖНО, ВЗРЫВЧАТКА!***\n\nМеталлический ошейник, застёгиваемый на шее раба. Если взвести и активировать, то небольшой но громкий взрыв оторвёт ему голову. \n\n***ОСТОРОЖНО, ВЗРЫВЧАТКА!***</Apparel_SlaveCollar_Explosive.description>
+  <!-- EN: Put the collar on the target -->
+  <Apparel_SlaveCollar_Explosive.comps.0.useLabel>Надеть ошейник на target</Apparel_SlaveCollar_Explosive.comps.0.useLabel>
+
+  <!-- EN: electric collar -->
+  <Apparel_SlaveCollar_Electric.label>шоковый ошейник</Apparel_SlaveCollar_Electric.label>
+  <!-- EN: A metal collar fastened around the necks of slaves. When activated, electrocutes wearer until unconscious. -->
+  <Apparel_SlaveCollar_Electric.description>Металлический ошейник, застёгиваемый на шее раба. При активации бьёт его током до потери сознания.</Apparel_SlaveCollar_Electric.description>
+  <!-- EN: Put the collar on the target -->
+  <Apparel_SlaveCollar_Electric.comps.0.useLabel>Надеть ошейник на target</Apparel_SlaveCollar_Electric.comps.0.useLabel>
+
+  <!-- EN: crypto collar -->
+  <Apparel_SlaveCollar_Crypto.label>статизный ошейник</Apparel_SlaveCollar_Crypto.label>
+  <!-- EN: A metal collar fastened around the necks of slaves. When activated, it freezes it's wearer in place leaving them completely immobile and defenceless. Used for non-violent suppresion of slaves. -->
+  <Apparel_SlaveCollar_Crypto.description>Металлический ошейник, застёгиваемый на шее раба. При активации замораживает его на месте, делая полностью неподвижным и беззащитным. Используется для ненасильственного усмирения рабов.</Apparel_SlaveCollar_Crypto.description>
+  <!-- EN: Put the collar on the target -->
+  <Apparel_SlaveCollar_Crypto.comps.0.useLabel>Надеть ошейник на target</Apparel_SlaveCollar_Crypto.comps.0.useLabel>
+
+  <!-- EN: heavy slave collar -->
+  <Apparel_SlaveCollar_Heavy.label>тяжёлый ошейник</Apparel_SlaveCollar_Heavy.label>
+  <!-- EN: A metal collar fastened around the necks of slaves. -->
+  <Apparel_SlaveCollar_Heavy.description>Металлический ошейник, застёгиваемый на шее раба.</Apparel_SlaveCollar_Heavy.description>
+  <!-- EN: Put the collar on the target -->
+  <Apparel_SlaveCollar_Heavy.comps.0.useLabel>Надеть ошейник на target</Apparel_SlaveCollar_Heavy.comps.0.useLabel>
+
+  <!-- EN:  -->
+  <Apparel_SlaveCollar_Tribal.label>примитивный ошейник</Apparel_SlaveCollar_Tribal.label>
+  <!-- EN: A simple leather collar fastened around the necks of slaves. -->
+  <Apparel_SlaveCollar_Tribal.description>Простой кожаный ошейник, завязываемый на шее раба.</Apparel_SlaveCollar_Tribal.description>
+  <!-- EN: Put the collar on the target -->
+  <Apparel_SlaveCollar_Tribal.comps.0.useLabel>Надеть ошейник на target</Apparel_SlaveCollar_Tribal.comps.0.useLabel>
+
+</LanguageData>

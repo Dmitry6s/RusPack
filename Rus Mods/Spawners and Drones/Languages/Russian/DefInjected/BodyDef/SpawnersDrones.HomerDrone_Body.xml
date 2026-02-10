@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HomerDrone.label>сопровождающий</HomerDrone.label>
+  <HomerDrone.corePart.parts.0.parts.1.customLabel>датчик прицела</HomerDrone.corePart.parts.0.parts.1.customLabel>
+  <HomerDrone.corePart.parts.0.parts.2.customLabel>левый слуховой датчик</HomerDrone.corePart.parts.0.parts.2.customLabel>
+  <HomerDrone.corePart.parts.0.parts.3.customLabel>правый слуховой датчик</HomerDrone.corePart.parts.0.parts.3.customLabel>
+  <HomerDrone.corePart.parts.1.customLabel>левое кольцо перемещения</HomerDrone.corePart.parts.1.customLabel>
+  <HomerDrone.corePart.parts.2.customLabel>центральное кольцо перемещения</HomerDrone.corePart.parts.2.customLabel>
+  <HomerDrone.corePart.parts.3.customLabel>правое кольцо перемещения</HomerDrone.corePart.parts.3.customLabel>
+
+
+</LanguageData>

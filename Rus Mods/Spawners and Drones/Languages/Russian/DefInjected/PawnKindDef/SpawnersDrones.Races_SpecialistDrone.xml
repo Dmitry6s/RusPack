@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Cinder -->
+
+  <Drone_Cinder.label>циндер дрон</Drone_Cinder.label>
+  <Drone_Cinder.labelPlural>циндер дроны</Drone_Cinder.labelPlural>
+  <Drone_Cinder.labelMale>мужской циндер дрон</Drone_Cinder.labelMale>
+  <Drone_Cinder.labelMalePlural>мужские циндер дроны</Drone_Cinder.labelMalePlural>
+  <Drone_Cinder.labelFemale>женский циндер дрон</Drone_Cinder.labelFemale>
+  <Drone_Cinder.labelFemalePlural>женские циндер дроны</Drone_Cinder.labelFemalePlural>
+
+
+  <!-- Cutram -->
+
+  <Drone_Cutram.label>кутрам дрон</Drone_Cutram.label>
+  <Drone_Cutram.labelPlural>кутрам дроны</Drone_Cutram.labelPlural>
+  <Drone_Cutram.labelMale>мужской кутрам дрон</Drone_Cutram.labelMale>
+  <Drone_Cutram.labelMalePlural>мужские кутрам дроны</Drone_Cutram.labelMalePlural>
+  <Drone_Cutram.labelFemale>женский кутрам дрон</Drone_Cutram.labelFemale>
+  <Drone_Cutram.labelFemalePlural>женские кутрам дроны</Drone_Cutram.labelFemalePlural>
+
+
+</LanguageData>

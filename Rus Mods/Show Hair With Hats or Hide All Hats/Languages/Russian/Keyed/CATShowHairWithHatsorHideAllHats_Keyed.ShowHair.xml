@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Show Hair -->
+	<ShowHair.ShowHair>Show Hair</ShowHair.ShowHair>
+	<!-- EN: Only Apply to Colonists -->
+	<ShowHair.OnlyApplyToColonists>Только для колонистов</ShowHair.OnlyApplyToColonists>
+	<!-- EN: Hide Hat -->
+	<ShowHair.HideHat>Скрывать головной убор</ShowHair.HideHat>
+	<!-- EN: Show Hair -->
+	<ShowHair.ShowsHair>Показывать причёску</ShowHair.ShowsHair>
+	<!-- EN: Hide All Hair -->
+	<ShowHair.HidesAllHair>Скрывать причёску и бороду</ShowHair.HidesAllHair>
+	<!-- EN: Hide Hair, Show Beard -->
+	<ShowHair.HidesHairShowsBeard>Скрывать причёску, показывать бороду</ShowHair.HidesHairShowsBeard>
+	<!-- EN: Show Hair, Hide Beard -->
+	<ShowHair.ShowsHairHidesBeard>Показывать причёску, скрывать бороду</ShowHair.ShowsHairHidesBeard>
+	<!-- EN: Hair That All Hats Will Hide -->
+	<ShowHair.HairThatWillHideHats>Причёски, скрываемые всеми головными уборами</ShowHair.HairThatWillHideHats>
+	<!-- EN: Use "Don't Shave Your Hair" hairs -->
+	<ShowHair.UseDontShaveHead>Исп. причёски из мода "Don't Shave Your Hair"</ShowHair.UseDontShaveHead>
+	<!-- EN: All -->
+	<ShowHair.all>Все</ShowHair.all>
+	<!-- EN: Any -->
+	<ShowHair.any>Любое</ShowHair.any>
+	<!-- EN: Always -->
+	<ShowHair.Always>Всегда</ShowHair.Always>
+	<!-- EN: Add Setting Entry -->
+	<ShowHair.AddSettingEntry>Добавить правило</ShowHair.AddSettingEntry>
+		<!--Tooltips-->
+	<!-- EN: 
+        This toggles whether one of the checked/unchecked conditions
+        must match/not match, or if all of them must match/not match
+     -->
+	<ShowHair.AnyAllTooltip>
+        Переключает, должно ли для срабатывания выполняться хотя бы одно из условий («Любое») или все условия сразу («Все»).
+    </ShowHair.AnyAllTooltip>
+	<!-- EN: Determines whether hat, hairs and beards are hidden when conditions match. -->
+	<ShowHair.DropdownTooltip>Определяет, будут ли скрыты головной убор, причёска и борода при выполнении условий.</ShowHair.DropdownTooltip>
+	<!-- EN: 
+        Setting entries are evaluated from top to bottom,
+        using the display options from the first matching entry.
+     -->
+	<ShowHair.AddSettingEntryTooltip>
+        Правила проверяются по порядку сверху вниз. Применяются настройки первого же правила, условия которого были выполнены.
+    </ShowHair.AddSettingEntryTooltip>
+	<!-- EN: 
+        If the checkbox is checked, then the condition must be true (e.g. pawn is drafted if drafted is checked) for this entry to apply.
+        If the checkbox is unchecked, then the condition must be false (e.g. pawn is undrafted if drafted is unchecked) for this entry to apply.
+        If the checkbox is yellow, then the condition is not checked for this entry. (e.g. for drafted it will apply whether or not the pawn is drafted.)
+        LEAVE ALL OF THEM YELLOW IF YOU WANT THIS ENTRY TO ALWAYS APPLY.
+     -->
+	<ShowHair.ConditionsTooltip>
+        Если флажок установлен, то для срабатывания правила условие должно быть выполнено (например, колонист должен быть призван, если отмечено «Призван»).
+        Если флажок снят, то условие не должно быть выполнено (например, колонист не должен быть призван, если «Призван» не отмечено).
+        Если флажок неактивен (жёлтый), то это условие игнорируется (правило сработает независимо от того, призван колонист или нет).
+        ЧТОБЫ ПРАВИЛО ПРИМЕНЯЛОСЬ ВСЕГДА, ОСТАВЬТЕ ВСЕ УСЛОВИЯ НЕАКТИВНЫМИ.
+    </ShowHair.ConditionsTooltip>
+	<!-- EN: Either -->
+	<ShowHair.PartialDescription>Любое из</ShowHair.PartialDescription>
+</LanguageData>

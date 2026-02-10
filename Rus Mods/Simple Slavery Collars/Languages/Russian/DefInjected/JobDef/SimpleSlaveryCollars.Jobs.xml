@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Adjusting collars for TargetA. -->
+  <SetSlaveCollar.reportString>Регулировать ошейник TargetA.</SetSlaveCollar.reportString>
+  <!-- EN: Adjusting shackles for TargetA. -->
+  <ShackleSlave.reportString>Регулировать кандалы TargetA.</ShackleSlave.reportString>
+
+</LanguageData>

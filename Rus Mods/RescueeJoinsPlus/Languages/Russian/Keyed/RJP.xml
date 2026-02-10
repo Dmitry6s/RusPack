@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Rescuee join request at {0} -->
+	<RescueeAskJoin.WindowTitle>Запрос о присоединении от: {0}</RescueeAskJoin.WindowTitle>
+	<!-- EN: {0} the {1} that you rescued is thankful that you saved him and would like join the colony.\n\n{0} is a {2} year old -->
+	<RescueeAskJoin.WindowDesc>{0} ({1}), которого вы спасли, очень благодарен вам за помощь и хочет присоединиться к поселению.\n\n{0}, возраст: {2}</RescueeAskJoin.WindowDesc>
+	<!-- EN: {0} the {1} that you rescued is thankful that you saved him and would like join the colony.\n\n{0} is a {2} year old {3} -->
+	<RescueeAskJoin.WindowAlienDesc>{0} ({1}), которого вы спасли, очень благодарен вам за помощь и хочет присоединиться к поселению.\n\n{0}, возраст: {2}, раса: {3}</RescueeAskJoin.WindowAlienDesc>
+	<!-- EN: Accept -->
+	<RescueeAskJoin.Accept>Принять</RescueeAskJoin.Accept>
+	<!-- EN: Reject -->
+	<RescueeAskJoin.Reject>Отклонить</RescueeAskJoin.Reject>
+	<!-- EN: Passionate about -->
+	<RescueeAskJoin.PassionateFor>Имеет страсть к:</RescueeAskJoin.PassionateFor>
+	<!-- EN:  (Major) -->
+	<RescueeAskJoin.PassionateMajor> (Рвение)</RescueeAskJoin.PassionateMajor>
+		<!--<RescueeAskJoin.PassionateMinor> (Minor)</RescueeAskJoin.PassionateMinor>-->
+	<!-- EN: (Race: {0} ) -->
+	<RescueeAskJoin.RaceInfo>(Раса: {0} )</RescueeAskJoin.RaceInfo>
+	<!-- EN: [PAWN_nameDef] has recovered and is leaving as requested. -->
+	<RescueeAskJoin.MessageRescueeDidntJoin>[PAWN_nameDef] поправился и уходит, как вы и просили.</RescueeAskJoin.MessageRescueeDidntJoin>
+</LanguageData>

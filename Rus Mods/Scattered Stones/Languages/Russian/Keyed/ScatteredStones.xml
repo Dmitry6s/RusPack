@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<!-- EN: Min scale modifier (Mod default: {0}, Min: {1}, Max: {2}):  -->
+  <ScatteredStones.Settings.ScaleSliderMin>Мин. модификатор масштабирования (По умолчанию: {0}, Мин: {1}, Макс: {2}):</ScatteredStones.Settings.ScaleSliderMin>
+	<!-- EN: Max scale modifier (Mod default: {0}, Min: {1}, Max: {2}):  -->
+  <ScatteredStones.Settings.ScaleSliderMax>Макс. модификатор масштабирования (По умолчанию: {0}, Мин: {1}, Макс: {2}):</ScatteredStones.Settings.ScaleSliderMax>
+	
+	<!-- EN: Offset modifier (Mod default: {0}, Min: {1}, Max: {2}):  -->
+  <ScatteredStones.Settings.OffsetSlider>Модификатор смещения (По умолчанию: {0}, Мин: {1}, Макс: {2}):</ScatteredStones.Settings.OffsetSlider>
+	
+	<!-- EN: Allow rock filth on water -->
+  <ScatteredStones.Settings.AllowOnWater>Допускать попадание каменной крошки на воду</ScatteredStones.Settings.AllowOnWater>
+	<!-- EN: If disabled, rock filth will never be allowed to spawn in the water. -->
+  <ScatteredStones.Settings.AllowOnWater.Desc>Если этот параметр отключен, каменной крошки никогда не будет позволено спавниться на воде.</ScatteredStones.Settings.AllowOnWater.Desc>
+	
+	<!-- EN: Rock filth never despawns -->
+  <ScatteredStones.Settings.NeverDespawn>Каменная крошка никогда не исчезает сама</ScatteredStones.Settings.NeverDespawn>
+	<!-- EN: If enabled, the rocky filth added by this mod won't ever despawn unless a pawn cleans it. -->
+  <ScatteredStones.Settings.NeverDespawn.Desc>Если включено, то каменная крошка, добавленная этим модом, никогда не исчезнет, пока пешка не очистит её.</ScatteredStones.Settings.NeverDespawn.Desc>
+	
+	<!-- EN: Dirty mining -->
+  <ScatteredStones.Settings.MinedFilth>Грязное горное дело</ScatteredStones.Settings.MinedFilth>
+	<!-- EN: If enabled, the stone chunks that come from mined stone will also have rocky debris. -->
+  <ScatteredStones.Settings.MinedFilth.Desc>Если эта функция включена, каменные обломки, полученные из добытого камня, также будут содержать каменную крошку.</ScatteredStones.Settings.MinedFilth.Desc>
+</LanguageData>

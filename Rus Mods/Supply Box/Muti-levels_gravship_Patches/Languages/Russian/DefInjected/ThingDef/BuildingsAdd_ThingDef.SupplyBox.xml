@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Muti-levels_gravship_Patches\Defs\ThingDefs_Buildings\BuildingsAdd.xml -->
+	<!-- EN: gravship ladder -->
+	<MFGS_BigLadderUpper.label>лестница гравикорабля</MFGS_BigLadderUpper.label>
+	<!-- EN: An entrance leading to the upper level of the spaceship, which is sealed off during takeoff. -->
+	<MFGS_BigLadderUpper.description>Вход, ведущий на верхний уровень космического корабля, который герметизируется во время взлёта.</MFGS_BigLadderUpper.description>
+</LanguageData>

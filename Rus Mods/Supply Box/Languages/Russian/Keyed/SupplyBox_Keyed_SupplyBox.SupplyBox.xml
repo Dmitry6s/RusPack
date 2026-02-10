@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Pairing related -->
+	<!-- EN: Set Receiver: {0} -->
+	<SupplyBox_SetReceiver>Выбрать получателя: {0}</SupplyBox_SetReceiver>
+	<!-- EN: Select the receiver box to pair with. The sender will automatically supply items to the receiver. -->
+	<SupplyBox_SetReceiverDesc>Выберите ящик-получатель для установки связи. Отправитель будет автоматически поставлять предметы получателю.</SupplyBox_SetReceiverDesc>
+	<!-- EN: Not Set -->
+	<SupplyBox_NotSet>Не выбрано</SupplyBox_NotSet>
+	<!-- EN: Unpair -->
+	<SupplyBox_Unpair>Разорвать связь</SupplyBox_Unpair>
+	<!-- EN: No receiver box found. Please build a receiver first. -->
+	<SupplyBox_NoReceiverFound>Ящик-получатель не найден. Сначала постройте получатель.</SupplyBox_NoReceiverFound>
+	<!-- EN: Paired to {0}, storage settings synced -->
+	<SupplyBox_Paired>Связь с {0} установлена, настройки склада синхронизированы</SupplyBox_Paired>
+	<!-- EN: Unpaired -->
+	<SupplyBox_Unpaired>Связь разорвана</SupplyBox_Unpaired>
+
+	<!-- Receiver related -->
+	<!-- EN: New Receiver -->
+	<SupplyBox_DefaultReceiverName>Новый получатель</SupplyBox_DefaultReceiverName>
+	<!-- EN: Rename this receiver box for easy identification when pairing -->
+	<SupplyBox_RenameDesc>Переименуйте этот ящик-получатель для удобства поиска при настройке связи</SupplyBox_RenameDesc>
+	<!-- EN: Rename Receiver Box -->
+	<SupplyBox_RenameTitle>Переименовать ящик-получатель</SupplyBox_RenameTitle>
+	<!-- EN: All item target quantities have been reset to default -->
+	<SupplyBox_ResetAllTargetQuantities>Все целевые значения количества предметов были сброшены до исходных</SupplyBox_ResetAllTargetQuantities>
+
+	<!-- Quantity settings -->
+	<!-- EN: Set Restock Quantity -->
+	<SupplyBox_SetTargetQuantity_Receiver>Задать количество пополнения</SupplyBox_SetTargetQuantity_Receiver>
+	<!-- EN: Set Storage Limit -->
+	<SupplyBox_SetTargetQuantity_Sender>Задать лимит хранения</SupplyBox_SetTargetQuantity_Sender>
+	<!-- EN: Restock Qty -->
+	<SupplyBox_TargetQuantity_Receiver>Кол-во пополнения</SupplyBox_TargetQuantity_Receiver>
+	<!-- EN: Storage Limit -->
+	<SupplyBox_TargetQuantity_Sender>Лимит хранения</SupplyBox_TargetQuantity_Sender>
+	<!-- EN: Current -->
+	<SupplyBox_CurrentQuantity>Текущее</SupplyBox_CurrentQuantity>
+	<!-- EN: Target -->
+	<SupplyBox_TargetQuantity>Целевое</SupplyBox_TargetQuantity>
+	<!-- EN: Stack Limit -->
+	<SupplyBox_StackLimit>Лимит стака</SupplyBox_StackLimit>
+	<!-- EN: Click to set custom quantity (can exceed stack limit) -->
+	<SupplyBox_SetCustomQuantity_Receiver>Нажмите, чтобы установить желаемое количество (может превышать лимит стака)</SupplyBox_SetCustomQuantity_Receiver>
+	<!-- EN: Click to set custom storage limit (can exceed stack limit, will create multiple stacks) -->
+	<SupplyBox_SetCustomQuantity_Sender>Нажмите, чтобы установить желаемый лимит хранения (может превышать лимит стака; будет создано несколько стаков)</SupplyBox_SetCustomQuantity_Sender>
+
+	<!-- Quantity setting dialog -->
+	<!-- EN: Enter target quantity (>= 1) -->
+	<SupplyBox_Dialog_EnterQuantity>Введите целевое количество (>= 1)</SupplyBox_Dialog_EnterQuantity>
+	<!-- EN: Enter an integer >= 1, can exceed stack limit (will create multiple stacks) -->
+	<SupplyBox_Dialog_Hint>Введите целое число >= 1. Оно может быть больше лимита стака (в этом случае будет создано несколько стаков)</SupplyBox_Dialog_Hint>
+	<!-- EN: Confirm -->
+	<SupplyBox_Dialog_Confirm>Подтвердить</SupplyBox_Dialog_Confirm>
+	<!-- EN: Set All Quantities -->
+	<SupplyBox_Dialog_UnifiedSet>Установить всё количество</SupplyBox_Dialog_UnifiedSet>
+	<!-- EN: Reset All -->
+	<SupplyBox_Dialog_ResetAll>Сбросить всё</SupplyBox_Dialog_ResetAll>
+	<!-- EN: Are you sure you want to reset all item target quantities? -->
+	<SupplyBox_Dialog_ResetAllConfirm>Вы уверены, что хотите сбросить целевые значения количества для всех предметов?</SupplyBox_Dialog_ResetAllConfirm>
+	<!-- EN: Please enter a valid number (>= 1) -->
+	<SupplyBox_Dialog_InvalidInput>Пожалуйста, введите корректное число (>= 1)</SupplyBox_Dialog_InvalidInput>
+
+	<!-- Unified quantity dialog -->
+	<!-- EN: Set All Quantities -->
+	<SupplyBox_UnifiedQuantityTitle>Установить всё количество</SupplyBox_UnifiedQuantityTitle>
+	<!-- EN: Batch set target quantity for all stackable items (stack limit > 1)\nThis will override current quantity settings for all stackable items in this box -->
+	<SupplyBox_UnifiedQuantityDesc>Групповая установка целевого количества для всех складываемых предметов (размер стака > 1)\nЭто действие перезапишет текущие настройки количества для всех складываемых предметов в этом ящике</SupplyBox_UnifiedQuantityDesc>
+	<!-- EN: Unified Quantity -->
+	<SupplyBox_UnifiedQuantityLabel>Единое количество</SupplyBox_UnifiedQuantityLabel>
+	<!-- EN: All stackable item target quantities have been set to {0} -->
+	<SupplyBox_UnifiedQuantitySuccess>Целевое количество для всех складываемых предметов установлено на {0}</SupplyBox_UnifiedQuantitySuccess>
+</LanguageData>

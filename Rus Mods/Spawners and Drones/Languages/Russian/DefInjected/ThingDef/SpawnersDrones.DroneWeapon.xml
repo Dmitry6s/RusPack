@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shrapnel Cannon -->
+
+  <DroneWeapon_Shrapnel.label>шрапнельная пушка</DroneWeapon_Shrapnel.label>
+  <DroneWeapon_Shrapnel.description>Установленная шрапнельная пушка, эффективная против небронированных противников.</DroneWeapon_Shrapnel.description>
+  <DroneWeapon_Shrapnel.tools.0.label>ствол</DroneWeapon_Shrapnel.tools.0.label>
+
+  <Bullet_ShrapnelCannon.label>шрапнельный пушечный выстрел</Bullet_ShrapnelCannon.label>
+
+
+  <!-- Bombadier Cannon -->
+
+  <DroneWeapon_Bombadier.label>бомбадирская пушка</DroneWeapon_Bombadier.label>
+  <DroneWeapon_Bombadier.description>Дальнобойная автоматическая пушка, заряженная слабыми разрывными снарядами. Очень маленький радиус взрыва.</DroneWeapon_Bombadier.description>
+  <DroneWeapon_Bombadier.tools.0.label>ствол</DroneWeapon_Bombadier.tools.0.label>
+
+  <Bullet_BombadierCannon.label>снаряд бомбадирской пушки</Bullet_BombadierCannon.label>
+
+
+  <!-- ChainMG -->
+
+  <DroneWeapon_ChainMG.label>цепной пулемет</DroneWeapon_ChainMG.label>
+  <DroneWeapon_ChainMG.description>Пулемет с сокращенным временем перезарядки, чтобы подавлять врагов.</DroneWeapon_ChainMG.description>
+  <DroneWeapon_ChainMG.tools.0.label>ствол</DroneWeapon_ChainMG.tools.0.label>
+
+  <Bullet_ChainMG.label>Пуля цепного пулемета</Bullet_ChainMG.label>
+
+
+  <!-- Ion Repeater -->
+
+  <DroneWeapon_Ion.label>ионный ретранслятор</DroneWeapon_Ion.label>
+  <DroneWeapon_Ion.description>Архаичная интерпретация импульсно заряженного оружия, обладающего высоким уроном и бронепробиваемостью для борьбы с тяжелыми бронированными противниками.</DroneWeapon_Ion.description>
+  <DroneWeapon_Ion.tools.0.label>ствол</DroneWeapon_Ion.tools.0.label>
+
+  <Bullet_IonRepeater.label>зарядный выстрел</Bullet_IonRepeater.label>
+
+
+  <!-- Aurum projector -->
+
+  <DroneWeapon_Aurum.label>проектор аурум</DroneWeapon_Aurum.label>
+  <DroneWeapon_Aurum.description>Уникальное оружие, способное пробить любую обычную броню. Разработанное архотех, это устройство, по-видимому, заставляет фотоны "вибрировать" с резонирующей частотой, способной нанести кинетический ущерб. Небольшой урон, но устойчивый и очень точный.</DroneWeapon_Aurum.description>
+  <DroneWeapon_Aurum.tools.0.label>ствол</DroneWeapon_Aurum.tools.0.label>
+
+  <Bullet_AurumProjector.label>импульс проектора аурум</Bullet_AurumProjector.label>
+
+
+  <!-- Focus igniter -->
+
+  <DroneWeapon_Igniter.label>фокусировочный воспламенитель</DroneWeapon_Igniter.label>
+  <DroneWeapon_Igniter.description>Оружие типа воспламенителя было получено из гражданских устройств управления, усовершенствованных для войны. Созданное для разгона толп свободомыслящих существ, это оружие вызывает панику, поджигая цели. Менее эффективен против несгораемой цели.</DroneWeapon_Igniter.description>
+  <DroneWeapon_Igniter.tools.0.label>ствол</DroneWeapon_Igniter.tools.0.label>
+
+  <Bullet_FocusIgniter.label>волна воспламенителя</Bullet_FocusIgniter.label>
+
+
+</LanguageData>

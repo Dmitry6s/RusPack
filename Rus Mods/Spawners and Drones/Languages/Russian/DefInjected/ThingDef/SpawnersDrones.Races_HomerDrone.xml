@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Homer mine base -->
+
+  <Drone_Chaperone.label>сопровождающий мины</Drone_Chaperone.label>
+  <Drone_Chaperone.description>Взрывоопасный груз, прикрепленный к элементарной системе слежения и передвижения. \nПо соображениям безопасности он никогда не взорвется, если не активируется сам по себе. \n"Сопровождающий" будет следовать за своими целями с экстремальной скоростью, что затруднит попадание, по крайней мере, на расстоянии. \n\nЛегко перехватывается, используется с отвлекающими факторами.</Drone_Chaperone.description>
+  <Drone_Chaperone.tools.0.label>пуля</Drone_Chaperone.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<rep><!-- EN: shoo animals -->
+	<path>Shoo.label</path>
+	<trans>прогонять животных</trans>
+</rep>	
+<rep><!-- EN: shoo -->
+	<path>Shoo.verb</path>
+	<trans>спугнуть</trans>
+</rep>
+<rep><!-- EN: shooing -->
+	<path>Shoo.gerund</path>
+	<trans>прогнать</trans>
+</rep>
+
+</LanguageData>

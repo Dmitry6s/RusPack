@@ -1,0 +1,61 @@
+<LanguageData>
+	<!-- 1.5\Mods\PhaneronsBasicStorage\Defs\XMLSettingsDef_BasicStorage.xml -->
+	                         <!-- EN: ASF Phaneron's Basic Storage -->
+	<klvlt_BasicStorageSettings.label>ASF Phaneron's Basic Storage</klvlt_BasicStorageSettings.label>
+	                                   <!-- EN: - Changes require restart - -->
+	<klvlt_BasicStorageSettings.settings.2.text>- Для применения изменений требуется перезапуск -</klvlt_BasicStorageSettings.settings.2.text>
+	                                              <!-- EN: Change Number of Stacks per Cell (Default in Brackets) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.1.text>Изменить количество стаков на ячейку (значение по умолчанию указано в скобках)</klvlt_BasicStorageSettings.settings.6.settings.1.text>
+	                                               <!-- EN: Large bundle (4) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.4.label>Большая связка (4)</klvlt_BasicStorageSettings.settings.6.settings.4.label>
+	                                               <!-- EN: Sack (4) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.5.label>Мешок (4)</klvlt_BasicStorageSettings.settings.6.settings.5.label>
+	                                               <!-- EN: Food barrel (4) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.6.label>Бочка для еды (4)</klvlt_BasicStorageSettings.settings.6.settings.6.label>
+	                                               <!-- EN: Stone pot (3) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.7.label>Каменный горшок (3)</klvlt_BasicStorageSettings.settings.6.settings.7.label>
+	                                               <!-- EN: Cask (5) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.8.label>Бочонок (5)</klvlt_BasicStorageSettings.settings.6.settings.8.label>
+	                                               <!-- EN: Small pallet (3) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.9.label>Малый поддон (3)</klvlt_BasicStorageSettings.settings.6.settings.9.label>
+	                                                <!-- EN: Large pallet (3) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.10.label>Большой поддон (3)</klvlt_BasicStorageSettings.settings.6.settings.10.label>
+	                                                <!-- EN: Small crate (4) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.11.label>Малый ящик (4)</klvlt_BasicStorageSettings.settings.6.settings.11.label>
+	                                                <!-- EN: Medium crate (5) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.12.label>Средний ящик (5)</klvlt_BasicStorageSettings.settings.6.settings.12.label>
+	                                                <!-- EN: Large crate (5) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.13.label>Большой ящик (5)</klvlt_BasicStorageSettings.settings.6.settings.13.label>
+	                                                <!-- EN: Metal crate (4) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.14.label>Металлический ящик (4)</klvlt_BasicStorageSettings.settings.6.settings.14.label>
+	                                                <!-- EN: Fuel tank (4) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.15.label>Топливный бак (4)</klvlt_BasicStorageSettings.settings.6.settings.15.label>
+	                                                <!-- EN: Industrial dumpster (6) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.16.label>Промышленный контейнер (6)</klvlt_BasicStorageSettings.settings.6.settings.16.label>
+	                                                <!-- EN: Cargo container (3) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.17.label>Грузовой контейнер (3)</klvlt_BasicStorageSettings.settings.6.settings.17.label>
+	                                                <!-- EN: Meat hook (5) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.18.label>Мясной крюк (5)</klvlt_BasicStorageSettings.settings.6.settings.18.label>
+	                                                <!-- EN: Meal cupboard (8) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.19.label>Шкаф для блюд (8)</klvlt_BasicStorageSettings.settings.6.settings.19.label>
+	                                                <!-- EN: Pantry shelf (8) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.20.label>Кухонная полка (8)</klvlt_BasicStorageSettings.settings.6.settings.20.label>
+	                                                <!-- EN: Weapon rack (6) -->
+	<klvlt_BasicStorageSettings.settings.6.settings.21.label>Оружейная стойка (6)</klvlt_BasicStorageSettings.settings.6.settings.21.label>
+	                                               <!-- EN: Misc -->
+	<klvlt_BasicStorageSettings.settings.11.settings.0.text>Разное</klvlt_BasicStorageSettings.settings.11.settings.0.text>
+	                                                <!-- EN: Add medium 2x1 pallet -->
+	<klvlt_BasicStorageSettings.settings.11.settings.3.label>Добавить средний поддон 2x1</klvlt_BasicStorageSettings.settings.11.settings.3.label>
+	                                                <!-- EN: Max number of stacks per cell (3) -->
+	<klvlt_BasicStorageSettings.settings.11.settings.4.label>Макс. число стаков на ячейку (3)</klvlt_BasicStorageSettings.settings.11.settings.4.label>
+	                                                <!-- EN: Add leather to stuff for large bundle -->
+	<klvlt_BasicStorageSettings.settings.11.settings.7.label>Добавить кожу в список материалов для большой связки</klvlt_BasicStorageSettings.settings.11.settings.7.label>
+	                                                <!-- EN: Use stuffed texture for large bundle -->
+	<klvlt_BasicStorageSettings.settings.11.settings.9.label>Использовать текстуру материала для большой связки</klvlt_BasicStorageSettings.settings.11.settings.9.label>
+	                                    <!-- EN: Reset to default values -->
+	<klvlt_BasicStorageSettings.settings.17.text>Сбросить до значений по умолчанию</klvlt_BasicStorageSettings.settings.17.text>
+	                                                <!-- EN: Reset Settings -->
+	<klvlt_BasicStorageSettings.settings.18.settings.0.label>Сбросить настройки</klvlt_BasicStorageSettings.settings.18.settings.0.label>
+	                                                  <!-- EN: Settings will be set to default. -->
+	<klvlt_BasicStorageSettings.settings.18.settings.0.message>Настройкам будут возвращены значения по умолчанию.</klvlt_BasicStorageSettings.settings.18.settings.0.message>
+</LanguageData>

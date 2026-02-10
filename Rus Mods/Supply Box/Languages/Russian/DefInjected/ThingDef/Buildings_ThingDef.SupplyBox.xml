@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\Buildings.xml -->
+	<!-- EN: supply box sender -->
+	<SupplyBox_Sender.label>отправитель ящиков снабжения</SupplyBox_Sender.label>
+	<!-- EN: A smart supply box that automatically detects paired receivers' needs and transmits supplies across maps. Each item type can only hold one stack. Requires power. -->
+	<SupplyBox_Sender.description>Умный ящик снабжения, который автоматически определяет нужды связанных с ним получателей и передаёт припасы между картами. Для каждого типа предметов предусмотрено место только под один стак. Требует электроэнергию.</SupplyBox_Sender.description>
+	
+	<!-- EN: supply box receiver -->
+	<SupplyBox_Receiver.label>получатель ящиков снабжения</SupplyBox_Receiver.label>
+	<!-- EN: A receiving supply box that can be paired with senders. Maintains item quantities automatically. Can be renamed for easy identification. Requires power. -->
+	<SupplyBox_Receiver.description>Принимающий ящик снабжения, который может быть связан с отправителями. Автоматически поддерживает заданное количество предметов. Для удобства идентификации устройство можно переименовать. Требует электроэнергию.</SupplyBox_Receiver.description>
+</LanguageData>

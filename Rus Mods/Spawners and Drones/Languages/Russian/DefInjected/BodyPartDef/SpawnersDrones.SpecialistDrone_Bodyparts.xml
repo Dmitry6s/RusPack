@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Specialist Drone base model -->
+
+  <SpecialistMechanicalHead.label>место для лица</SpecialistMechanicalHead.label>
+  <SpecialistArtificialBrain.label>информационный процессор</SpecialistArtificialBrain.label>
+  <SpecialistGenerator.label>генератор</SpecialistGenerator.label>
+  <SpecialistFluidReprocessor.label>жидкостный переработчик</SpecialistFluidReprocessor.label>
+  <SpecialistSightSensor.label>визуальный датчик</SpecialistSightSensor.label>
+  <SpecialistHearingSensor.label>звуковой датчик</SpecialistHearingSensor.label>
+  <SpecialistSmellSensor.label>химический анализатор</SpecialistSmellSensor.label>
+  <SpecialistWeaponHardpoint.label>точка оружия</SpecialistWeaponHardpoint.label>
+  <SpecialistArm.label>рука</SpecialistArm.label>
+  <SpecialistWeaponManipulator.label>манипулятор оружия</SpecialistWeaponManipulator.label>
+  <SpecialistTread.label>гусеница</SpecialistTread.label>
+  <SpecialistTreadWheel.label>нога</SpecialistTreadWheel.label>
+  <SpecialistGyro.label>гироскоп</SpecialistGyro.label>
+  <SpecialistRerouter.label>координационный перенаправитель</SpecialistRerouter.label>
+  <SpecialistMechanicalThorax.label>грудная клетка</SpecialistMechanicalThorax.label>
+  <SpecialistMechanicalThoraxCanManipulate.label>шасси</SpecialistMechanicalThoraxCanManipulate.label>
+
+
+</LanguageData>

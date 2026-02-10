@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scout Drone base model -->
+
+  <ScoutMechanicalHead.label>место для лица</ScoutMechanicalHead.label>
+  <ScoutArtificialBrain.label>информационный процессор</ScoutArtificialBrain.label>
+  <ScoutGenerator.label>генератор</ScoutGenerator.label>
+  <ScoutFluidReprocessor.label>жидкостный переработчик</ScoutFluidReprocessor.label>
+  <ScoutSightSensor.label>визуальный датчик</ScoutSightSensor.label>
+  <ScoutHearingSensor.label>звуковой датчик</ScoutHearingSensor.label>
+  <ScoutSmellSensor.label>химический анализатор</ScoutSmellSensor.label>
+  <ScoutWeaponHardpoint.label>точка оружия</ScoutWeaponHardpoint.label>
+  <ScoutArm.label>рука</ScoutArm.label>
+  <ScoutWeaponManipulator.label>манипулятор оружия</ScoutWeaponManipulator.label>
+  <ScoutMechanicalLeg.label>нога</ScoutMechanicalLeg.label>
+  <ScoutMechanicalFoot.label>ступня</ScoutMechanicalFoot.label>
+  <ScoutGyro.label>гироскоп</ScoutGyro.label>
+  <ScoutRerouter.label>координационный перенаправитель</ScoutRerouter.label>
+  <ScoutMechanicalThorax.label>грудная клетка</ScoutMechanicalThorax.label>
+  <ScoutMechanicalThoraxCanManipulate.label>шасси</ScoutMechanicalThoraxCanManipulate.label>
+
+
+</LanguageData>

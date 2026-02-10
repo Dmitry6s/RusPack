@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scout Elite -->
+
+  <Drone_EliteScout.label>элитный дрон-разведчик</Drone_EliteScout.label>
+  <Drone_EliteScout.labelPlural>элитные дроны-разведчики</Drone_EliteScout.labelPlural>
+  <Drone_EliteScout.labelMale>мужской элитный дрон-разведчик</Drone_EliteScout.labelMale>
+  <Drone_EliteScout.labelMalePlural>мужские элитные дроны-разведчики</Drone_EliteScout.labelMalePlural>
+  <Drone_EliteScout.labelFemale>женский элитный дрон-разведчик</Drone_EliteScout.labelFemale>
+  <Drone_EliteScout.labelFemalePlural>женские элитные дроны-разведчики</Drone_EliteScout.labelFemalePlural>
+
+
+  <!-- Specialist Elite -->
+
+  <Drone_EliteSpecialist.label>элитный специалист-дрон</Drone_EliteSpecialist.label>
+  <Drone_EliteSpecialist.labelPlural>элитные специалист-дроны</Drone_EliteSpecialist.labelPlural>
+  <Drone_EliteSpecialist.labelMale>мужской элитный специалист-дрон</Drone_EliteSpecialist.labelMale>
+  <Drone_EliteSpecialist.labelMalePlural>мужские элитные специалист-дроны</Drone_EliteSpecialist.labelMalePlural>
+  <Drone_EliteSpecialist.labelFemale>женский элитный специалист-дрон</Drone_EliteSpecialist.labelFemale>
+  <Drone_EliteSpecialist.labelFemalePlural>женские элитные специалист-дроны</Drone_EliteSpecialist.labelFemalePlural>
+
+
+</LanguageData>

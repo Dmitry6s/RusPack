@@ -1,0 +1,19 @@
+<LanguageData>
+	<!-- Common\Defs\XMLSettingsDef_AdaptiveStorageFramework.xml -->
+	                                     <!-- EN: ASF Adaptive Storage Framework -->
+	<klvlt_AdaptiveStorageFrameworkSettings.label>ASF Adaptive Storage Framework</klvlt_AdaptiveStorageFrameworkSettings.label>
+	                                               <!-- EN: - Changes require restart - -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.1.text>- Для применения изменений требуется перезапуск -</klvlt_AdaptiveStorageFrameworkSettings.settings.1.text>
+	                                                          <!-- EN: Set Default Priority -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.1.text>Установить приоритет по умолчанию</klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.1.text>
+	                                                                     <!-- EN: Low -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.0.label>Низкий</klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.0.label>
+	                                                                     <!-- EN: Normal -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.1.label>Средний</klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.1.label>
+	                                                                     <!-- EN: Preferred -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.2.label>Желательный</klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.2.label>
+	                                                                     <!-- EN: Important (ASF default) -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.3.label>Важный (по умолчанию для ASF)</klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.3.label>
+	                                                                     <!-- EN: Critical -->
+	<klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.4.label>Критический</klvlt_AdaptiveStorageFrameworkSettings.settings.4.settings.4.buttons.4.label>
+</LanguageData>

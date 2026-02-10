@@ -1,0 +1,65 @@
+<LanguageData>
+	<!-- 1.6\Defs\HatConditionFlagDef\HatConditionFlagDefs.xml -->
+	    <!-- EN: In Bed -->
+	<InBed.label>В кровати</InBed.label>
+	                 <!-- EN: In bed -->
+	<InBed.checkedDescription>В кровати</InBed.checkedDescription>
+	                   <!-- EN: Not in bed -->
+	<InBed.uncheckedDescription>Не в кровати</InBed.uncheckedDescription>
+	
+	      <!-- EN: Drafted -->
+	<Drafted.label>Призван</Drafted.label>
+	                   <!-- EN: Drafted -->
+	<Drafted.checkedDescription>Призван</Drafted.checkedDescription>
+	                     <!-- EN: Undrafted -->
+	<Drafted.uncheckedDescription>Не призван</Drafted.uncheckedDescription>
+	
+	      <!-- EN: Indoors -->
+	<Indoors.label>В помещении</Indoors.label>
+	                   <!-- EN: Indoors -->
+	<Indoors.checkedDescription>В помещении</Indoors.checkedDescription>
+	                     <!-- EN: Outdoors -->
+	<Indoors.uncheckedDescription>На улице</Indoors.uncheckedDescription>
+	
+	         <!-- EN: In Home Area -->
+	<InHomeArea.label>В домашней области</InHomeArea.label>
+	                      <!-- EN: In home area -->
+	<InHomeArea.checkedDescription>В домашней области</InHomeArea.checkedDescription>
+	                        <!-- EN: Outside home area -->
+	<InHomeArea.uncheckedDescription>Вне домашней области</InHomeArea.uncheckedDescription>
+	
+	         <!-- EN: Meditating -->
+	<Meditating.label>Медитирует</Meditating.label>
+	                      <!-- EN: Meditating -->
+	<Meditating.checkedDescription>Медитирует</Meditating.checkedDescription>
+	                        <!-- EN: Not meditating -->
+	<Meditating.uncheckedDescription>Не медитирует</Meditating.uncheckedDescription>
+	
+	       <!-- EN: In Vacuum -->
+	<InVacuum.label>В вакууме</InVacuum.label>
+	                    <!-- EN: In vacuum -->
+	<InVacuum.checkedDescription>В вакууме</InVacuum.checkedDescription>
+	                      <!-- EN: In pressurized area -->
+	<InVacuum.uncheckedDescription>В герметичной зоне</InVacuum.uncheckedDescription>
+	
+	         <!-- EN: Is Colony Faction -->
+	<IsColonist.label>Принадлежит к фракции</IsColonist.label>
+	                      <!-- EN: Is Colony Faction (this includes slaves) -->
+	<IsColonist.checkedDescription>Принадлежит к фракции колонии (включая рабов)</IsColonist.checkedDescription>
+	                        <!-- EN: Is not Colony Faction (this includes slaves) -->
+	<IsColonist.uncheckedDescription>Не принадлежит к фракции колонии (включая рабов)</IsColonist.uncheckedDescription>
+	
+	      <!-- EN: Is Slave -->
+	<IsSlave.label>Раб</IsSlave.label>
+	                   <!-- EN: Is a Slave -->
+	<IsSlave.checkedDescription>Является рабом</IsSlave.checkedDescription>
+	                     <!-- EN: Is not a Slave -->
+	<IsSlave.uncheckedDescription>Не является рабом</IsSlave.uncheckedDescription>
+	
+	         <!-- EN: Is Prisoner -->
+	<IsPrisoner.label>Заключённый</IsPrisoner.label>
+	                      <!-- EN: Is a Prisoner -->
+	<IsPrisoner.checkedDescription>Является заключённым</IsPrisoner.checkedDescription>
+	                        <!-- EN: Is not a Prisoner -->
+	<IsPrisoner.uncheckedDescription>Не является заключённым</IsPrisoner.uncheckedDescription>
+</LanguageData>

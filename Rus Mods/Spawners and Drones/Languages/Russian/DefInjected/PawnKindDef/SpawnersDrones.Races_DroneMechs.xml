@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Centipede -->
+
+  <Drone_Centipede.label>реплика-сороконожка</Drone_Centipede.label>
+  <Drone_Centipede.labelPlural>реплики сороконожки</Drone_Centipede.labelPlural>
+  <Drone_Centipede.labelMale>мужская реплика-сороконожка</Drone_Centipede.labelMale>
+  <Drone_Centipede.labelMalePlural>мужские реплики сороконожки</Drone_Centipede.labelMalePlural>
+  <Drone_Centipede.labelFemale>женская реплика-сороконожка</Drone_Centipede.labelFemale>
+  <Drone_Centipede.labelFemalePlural>женские реплики сороконожки</Drone_Centipede.labelFemalePlural>
+
+
+  <!-- Lancer - fast mid-range shooter -->
+
+  <Drone_Lancer.label>реплика-улан</Drone_Lancer.label>
+  <Drone_Lancer.labelPlural>реплики улана</Drone_Lancer.labelPlural>
+  <Drone_Lancer.labelMale>мужская реплика-улан</Drone_Lancer.labelMale>
+  <Drone_Lancer.labelMalePlural>мужские реплики улана</Drone_Lancer.labelMalePlural>
+  <Drone_Lancer.labelFemale>женская реплика-улан</Drone_Lancer.labelFemale>
+  <Drone_Lancer.labelFemalePlural>женские реплики улана</Drone_Lancer.labelFemalePlural>
+
+
+  <!-- Scyther - fast melee -->
+
+  <Drone_Scyther.label>реплика-жнец</Drone_Scyther.label>
+  <Drone_Scyther.labelPlural>реплики жнеца</Drone_Scyther.labelPlural>
+  <Drone_Scyther.labelMale>мужская реплика-жнец</Drone_Scyther.labelMale>
+  <Drone_Scyther.labelMalePlural>мужкие реплики жнеца</Drone_Scyther.labelMalePlural>
+  <Drone_Scyther.labelFemale>женская реплика-жнец</Drone_Scyther.labelFemale>
+  <Drone_Scyther.labelFemalePlural>женские реплики жнеца</Drone_Scyther.labelFemalePlural>
+
+
+  <!-- Pikeman - slow sniper weak at close range -->
+
+  <Drone_Pikeman.label>реплика копейщик</Drone_Pikeman.label>
+  <Drone_Pikeman.labelPlural>копейщики</Drone_Pikeman.labelPlural>
+  <Drone_Pikeman.labelMale>мужская реплика-копейщик</Drone_Pikeman.labelMale>
+  <Drone_Pikeman.labelMalePlural>мужские копейщики</Drone_Pikeman.labelMalePlural>
+  <Drone_Pikeman.labelFemale>женская реплика-копейщик</Drone_Pikeman.labelFemale>
+  <Drone_Pikeman.labelFemalePlural>женские копейщики</Drone_Pikeman.labelFemalePlural>
+
+
+</LanguageData>

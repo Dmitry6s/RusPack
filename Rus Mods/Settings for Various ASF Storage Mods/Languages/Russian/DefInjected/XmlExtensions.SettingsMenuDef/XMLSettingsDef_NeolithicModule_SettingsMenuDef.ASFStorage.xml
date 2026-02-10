@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- Mods\NeolithicStorageModule\Defs\XMLSettingsDef_NeolithicModule.xml -->
+	                             <!-- EN: ASF Neolithic Module -->
+	<klvlt_NeolithicStorageSettings.label>ASF Neolithic Module</klvlt_NeolithicStorageSettings.label>
+	                                       <!-- EN: - Changes require restart - -->
+	<klvlt_NeolithicStorageSettings.settings.2.text>- Для применения изменений требуется перезапуск -</klvlt_NeolithicStorageSettings.settings.2.text>
+	                                                  <!-- EN: Change Number of Stacks per Cell -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.1.text>Изменить количество стаков на ячейку</klvlt_NeolithicStorageSettings.settings.6.settings.1.text>
+	                                                  <!-- EN: (Except plinth, default values in brackets) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.2.text>(Кроме постамента; значения по умолчанию указаны в скобках)</klvlt_NeolithicStorageSettings.settings.6.settings.2.text>
+	                                                   <!-- EN: Basket, wood (2) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.5.label>Корзина, дерево (2)</klvlt_NeolithicStorageSettings.settings.6.settings.5.label>
+	                                                   <!-- EN: Basket, fabric (2) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.6.label>Корзина, ткань (2)</klvlt_NeolithicStorageSettings.settings.6.settings.6.label>
+	                                                   <!-- EN: Stacked chunks(3) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.7.label>Сложенные обломки (3)</klvlt_NeolithicStorageSettings.settings.6.settings.7.label>
+	                                                   <!-- EN: Hay pile (3) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.8.label>Стог сена (3)</klvlt_NeolithicStorageSettings.settings.6.settings.8.label>
+	                                                   <!-- EN: Large pot (3) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.9.label>Большой горшок (3)</klvlt_NeolithicStorageSettings.settings.6.settings.9.label>
+	                                                    <!-- EN: Meal shelf (3) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.10.label>Полка для блюд (3)</klvlt_NeolithicStorageSettings.settings.6.settings.10.label>
+	                                                    <!-- EN: Textile bundle (4) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.11.label>Связка текстиля (4)</klvlt_NeolithicStorageSettings.settings.6.settings.11.label>
+	                                                    <!-- EN: Wood pile (3) -->
+	<klvlt_NeolithicStorageSettings.settings.6.settings.12.label>Поленница (3)</klvlt_NeolithicStorageSettings.settings.6.settings.12.label>
+	                                        <!-- EN: Reset to default values -->
+	<klvlt_NeolithicStorageSettings.settings.12.text>Сбросить до значений по умолчанию</klvlt_NeolithicStorageSettings.settings.12.text>
+	                                                    <!-- EN: Reset Settings -->
+	<klvlt_NeolithicStorageSettings.settings.13.settings.0.label>Сбросить настройки</klvlt_NeolithicStorageSettings.settings.13.settings.0.label>
+	                                                      <!-- EN: Settings will be set to default. -->
+	<klvlt_NeolithicStorageSettings.settings.13.settings.0.message>Настройкам будут возвращены значения по умолчанию.</klvlt_NeolithicStorageSettings.settings.13.settings.0.message>
+</LanguageData>

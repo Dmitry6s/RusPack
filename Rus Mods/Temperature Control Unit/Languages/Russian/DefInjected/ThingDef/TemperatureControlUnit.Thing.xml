@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MUR_TCU.label>блок контроля температуры</MUR_TCU.label>
+  <MUR_TCU.description>Комбинированный настенный охладитель / нагреватель.</MUR_TCU.description>
+
+  <MUR_TCU_Wide.label>блок контроля температуры (широкий)</MUR_TCU_Wide.label>
+  <MUR_TCU_Wide.description>Широкий настенный комбинированный охладитель/обогреватель.</MUR_TCU_Wide.description>
+
+  <MUR_TCU_Long.label>блок контроля температуры (длинный)</MUR_TCU_Long.label>
+  <MUR_TCU_Long.description>Длинный настенный охладитель/нагреватель.</MUR_TCU_Long.description>
+
+  <MUR_TCU_TwoByTwo.label>блок контроля температуры (2x2)</MUR_TCU_TwoByTwo.label>
+  <MUR_TCU_TwoByTwo.description>Настенный охладитель/нагреватель 2x2.</MUR_TCU_TwoByTwo.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <LetterLabelForcedTame>{1_kind} был приручен силой</LetterLabelForcedTame>
+  <LetterArtifactTame>{0} стал ручным.</LetterArtifactTame>
+
+  <LetterLabelForcedTameFail>{1_kind} принудительное укрощение не удалось</LetterLabelForcedTameFail>
+  <LetterArtifactTameFailBerserk>{0} укрощение потерпело неудачу, сводя животное с ума.</LetterArtifactTameFailBerserk>
+  <LetterArtifactTameFail>{0} укрощение не удалось.</LetterArtifactTameFail>
+
+</LanguageData>

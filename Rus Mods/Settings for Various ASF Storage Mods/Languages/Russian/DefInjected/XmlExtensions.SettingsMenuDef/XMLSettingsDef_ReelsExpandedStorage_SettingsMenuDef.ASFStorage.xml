@@ -1,0 +1,123 @@
+<LanguageData>
+	<!-- Mods\ReelsExpandedStorage\Defs\XMLSettingsDef_ReelsExpandedStorage.xml -->
+	                                 <!-- EN: ASF Reel's Expanded Storage -->
+	<klvlt_ReelsExpandedStorageSettings.label>ASF Reel's Expanded Storage</klvlt_ReelsExpandedStorageSettings.label>
+	                                           <!-- EN: - Changes require restart - -->
+	<klvlt_ReelsExpandedStorageSettings.settings.2.text>- Для применения изменений требуется перезапуск -</klvlt_ReelsExpandedStorageSettings.settings.2.text>
+	                                                      <!-- EN: Change Number of Stacks per Cell (Default in Brackets) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.1.text>Изменить количество стаков на ячейку (значение по умолчанию указано в скобках)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.1.text>
+	                                                      <!-- EN: -Main Mod- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.4.text>--Основной мод--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.4.text>
+	                                                       <!-- EN: Animal feeder (9) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.6.label>Кормушка для животных (9)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.6.label>
+	                                                       <!-- EN: Industrial skip (9) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.7.label>Промышленный бункер (9)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.7.label>
+	                                                       <!-- EN: Large locker (12) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.8.label>Большой шкафчик (12)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.8.label>
+	                                                       <!-- EN: Large metal crate (13) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.9.label>Большой металлический ящик (13)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.9.label>
+	                                                        <!-- EN: Meat hook (8) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.10.label>Мясной крюк (8)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.10.label>
+	                                                        <!-- EN: Medicine cabinet (18) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.11.label>Шкаф для медикаментов (18)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.11.label>
+	                                                        <!-- EN: Metal crate (10) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.12.label>Металлический ящик (10)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.12.label>
+	                                                       <!-- EN: -Core- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.15.text>--Ядро (Core)--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.15.text>
+	                                                        <!-- EN: Tool cabinet (3) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.17.label>Шкаф для инструментов (3)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.17.label>
+	                                                        <!-- EN: Dresser (2) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.18.label>Комод (2)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.18.label>
+	                                                       <!-- EN: -Vanilla Furniture Expanded Props and Decor- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.21.text>--VFE Props and Decor--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.21.text>
+	                                                        <!-- EN: Barrel (8) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.23.label>Бочка (8)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.23.label>
+	                                                        <!-- EN: Barrel pallet (15) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.24.label>Поддон с бочками (15)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.24.label>
+	                                                        <!-- EN: Bookshelf (10) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.25.label>Книжный шкаф (10)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.25.label>
+	                                                        <!-- EN: Cargo container (16) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.26.label>Грузовой контейнер (16)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.26.label>
+	                                                        <!-- EN: Fridge (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.27.label>Холодильник (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.27.label>
+	                                                        <!-- EN: Hay bale (8) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.28.label>Тюк сена (8)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.28.label>
+	                                                        <!-- EN: Industrial shelf (10) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.29.label>Промышленная полка (10)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.29.label>
+	                                                        <!-- EN: Large spacer container (15) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.30.label>Большой ультра-контейнер (15)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.30.label>
+	                                                        <!-- EN: Large stone pile (8) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.31.label>Большая груда камней (8)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.31.label>
+	                                                        <!-- EN: Large wood chest (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.32.label>Большой деревянный сундук (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.32.label>
+	                                                        <!-- EN: Large wood crate (10) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.33.label>Большой деревянный ящик (10)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.33.label>
+	                                                        <!-- EN: Large wood pile (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.34.label>Большая поленница (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.34.label>
+	                                                        <!-- EN: Locker (12) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.35.label>Шкафчик (12)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.35.label>
+	                                                        <!-- EN: Spacer container (15) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.36.label>Ультра-контейнер (15)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.36.label>
+	                                                        <!-- EN: Spacer container stack (15) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.37.label>Стопка ультра-контейнеров (15)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.37.label>
+	                                                        <!-- EN: Spacer locker (20) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.38.label>Ультра-шкафчик (20)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.38.label>
+	                                                        <!-- EN: Stone pile (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.39.label>Груда камней (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.39.label>
+	                                                        <!-- EN: Tanning rack (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.40.label>Стойка для дубления (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.40.label>
+	                                                        <!-- EN: Weapon rack (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.41.label>Оружейная стойка (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.41.label>
+	                                                        <!-- EN: Wine rack (10) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.42.label>Винная стойка (10)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.42.label>
+	                                                        <!-- EN: Wood chest (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.43.label>Деревянный сундук (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.43.label>
+	                                                        <!-- EN: Wood crate (8) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.44.label>Деревянный ящик (8)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.44.label>
+	                                                        <!-- EN: Wood pile (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.45.label>Поленница (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.45.label>
+	                                                       <!-- EN: -Vanilla Furniture Expanded Core- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.48.text>--Vanilla Furniture Expanded Core--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.48.text>
+	                                                        <!-- EN: File cabinet (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.50.label>Картотечный шкаф (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.50.label>
+	                                                        <!-- EN: Wardrobe (3) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.51.label>Платяной шкаф (3)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.51.label>
+	                                                        <!-- EN: Royal dresser (3) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.52.label>Королевский комод (3)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.52.label>
+	                                                       <!-- EN: -Vanilla Furniture Expanded Art- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.55.text>--Vanilla Furniture Expanded Art--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.55.text>
+	                                                        <!-- EN: Plinth (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.57.label>Постамент (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.57.label>
+	                                                        <!-- EN: Pottery (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.58.label>Керамика (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.58.label>
+	                                                       <!-- EN: -Vanilla Furniture Expanded Production- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.61.text>--Vanilla Furniture Expanded Production--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.61.text>
+	                                                        <!-- EN: Drug cabinet (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.63.label>Шкаф для наркотиков (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.63.label>
+	                                                        <!-- EN: Machining cabinet (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.64.label>Шкаф механизации (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.64.label>
+	                                                        <!-- EN: Smithy cabinet (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.65.label>Кузнечный шкаф (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.65.label>
+	                                                        <!-- EN: Tailor cabinet (3) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.66.label>Шкаф портного (3)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.66.label>
+	                                                        <!-- EN: Fabrication cabinet (4) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.67.label>Шкаф высокотехнологичной сборки (4)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.67.label>
+	                                                       <!-- EN: -Vanilla Furniture Expanded Security- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.70.text>--Vanilla Furniture Expanded Security--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.70.text>
+	                                                        <!-- EN: Ammo crate (14) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.72.label>Ящик с боеприпасами (14)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.72.label>
+	                                                       <!-- EN: -Vanilla Furniture Expanded Spacer- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.75.text>--Vanilla Furniture Expanded Spacer--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.75.text>
+	                                                        <!-- EN: Illuminated dresser (3) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.77.label>Комод с подсветкой (3)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.77.label>
+	                                                       <!-- EN: -Vanilla Vehicles Expanded- -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.80.text>--Vanilla Vehicles Expanded--</klvlt_ReelsExpandedStorageSettings.settings.6.settings.80.text>
+	                                                        <!-- EN: Garage cabinet (6) -->
+	<klvlt_ReelsExpandedStorageSettings.settings.6.settings.82.label>Гаражный шкаф (6)</klvlt_ReelsExpandedStorageSettings.settings.6.settings.82.label>
+	                                            <!-- EN: Reset to default values -->
+	<klvlt_ReelsExpandedStorageSettings.settings.12.text>Сбросить до значений по умолчанию</klvlt_ReelsExpandedStorageSettings.settings.12.text>
+	                                                        <!-- EN: Reset Settings -->
+	<klvlt_ReelsExpandedStorageSettings.settings.13.settings.0.label>Сбросить настройки</klvlt_ReelsExpandedStorageSettings.settings.13.settings.0.label>
+	                                                          <!-- EN: Settings will be set to default. -->
+	<klvlt_ReelsExpandedStorageSettings.settings.13.settings.0.message>Настройкам будут возвращены значения по умолчанию.</klvlt_ReelsExpandedStorageSettings.settings.13.settings.0.message>
+</LanguageData>
