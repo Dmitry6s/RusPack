@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PPSH-41 -->
+
+  <AVW_PPSH41_SMG.label>ППШ-41</AVW_PPSH41_SMG.label>
+  <AVW_PPSH41_SMG.description>Полуавтоматический пулемет</AVW_PPSH41_SMG.description>
+  <AVW_PPSH41_SMG.tools.0.label>приклад</AVW_PPSH41_SMG.tools.0.label>
+  <AVW_PPSH41_SMG.tools.1.label>ствол</AVW_PPSH41_SMG.tools.1.label>
+
+
+</LanguageData>

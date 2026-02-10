@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- M16A2 -->
+
+  <AVW_M16A2_AssaultRifle.label>M16A2</AVW_M16A2_AssaultRifle.label>
+  <AVW_M16A2_AssaultRifle.description>Штурмовая винтовка</AVW_M16A2_AssaultRifle.description>
+  <AVW_M16A2_AssaultRifle.tools.0.label>приклад</AVW_M16A2_AssaultRifle.tools.0.label>
+  <AVW_M16A2_AssaultRifle.tools.1.label>ствол</AVW_M16A2_AssaultRifle.tools.1.label>
+
+
+</LanguageData>

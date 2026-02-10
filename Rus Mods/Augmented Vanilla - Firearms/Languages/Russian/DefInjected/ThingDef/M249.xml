@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- M249 -->
+
+  <AVW_M249_MG.label>M249</AVW_M249_MG.label>
+  <AVW_M249_MG.description>Пулемет</AVW_M249_MG.description>
+  <AVW_M249_MG.tools.0.label>приклад</AVW_M249_MG.tools.0.label>
+  <AVW_M249_MG.tools.1.label>ствол</AVW_M249_MG.tools.1.label>
+
+
+</LanguageData>

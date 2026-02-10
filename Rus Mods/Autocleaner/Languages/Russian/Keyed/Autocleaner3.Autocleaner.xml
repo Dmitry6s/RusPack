@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Autocleaner -->
+	<AutocleanerTitle>Автоуборщик</AutocleanerTitle>
+
+	<!-- EN: Activate -->
+	<AutocleanerActivate>Активировать</AutocleanerActivate>
+	<!-- EN: Start up the autocleaner and make it automatically clean areas that have power. -->
+	<AutocleanerActivateDesc>Запустить автоуборщик, чтобы он начал автоматически убирать зоны с доступом к электросети.</AutocleanerActivateDesc>
+	<!-- EN: Deactivate -->
+	<AutocleanerDeactivate>Деактивировать</AutocleanerDeactivate>
+	<!-- EN: Stop the autocleaner and turn it into a haulable item. -->
+	<AutocleanerDeactivateDesc>Остановить автоуборщик и превратить его в переносимый предмет.</AutocleanerDeactivateDesc>
+
+	<!-- EN: Pause -->
+	<AutocleanerPause>Пауза</AutocleanerPause>
+	<!-- EN: Halt cleaning and stop in place. -->
+	<AutocleanerPauseDesc>Приостановить уборку и остаться на месте.</AutocleanerPauseDesc>
+	<!-- EN: Resume -->
+	<AutocleanerResume>Возобновить</AutocleanerResume>
+	<!-- EN: Resume cleaning. -->
+	<AutocleanerResumeDesc>Возобновить уборку.</AutocleanerResumeDesc>
+
+	<!-- EN: Charge:  -->
+	<AutocleanerCharge>Заряд: </AutocleanerCharge>
+
+	<!-- EN: not stationary -->
+	<AutocleanerNotStationary>не стационарен</AutocleanerNotStationary>
+
+	<!-- EN: Low quality pathing -->
+	<AutocleanerLQPathingName>Упрощённый поиск пути</AutocleanerLQPathingName>
+	<!-- EN: Will require less processing power to find charging spot, but also produce worse results: autocleaner will choose to charge at location that is far away from where it is. -->
+	<AutocleanerLQPathingDesc>Требует меньше вычислительных ресурсов для поиска места зарядки, но может привести к выбору неоптимального маршрута: автоуборщик может поехать заряжаться в место, которое находится далеко от его текущей позиции.</AutocleanerLQPathingDesc>
+
+	<!-- EN: Disable area assignment -->
+	<AutocleanerDisableScheduleName>Отключить назначение зон</AutocleanerDisableScheduleName>
+	<!-- EN: Prevents autocleaners from appearing in "Schedule" tab, for mod compatibility. -->
+	<AutocleanerDisableScheduleDesc>Убирает автоуборщиков из вкладки «Расписание» для лучшей совместимости с другими модами.</AutocleanerDisableScheduleDesc>
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- При применении -->
+
+  <MorphineEffect.stages.0.label>Побочный эффект морфина</MorphineEffect.stages.0.label>
+  <MorphineEffect.stages.0.description>Побочный эффект морфина</MorphineEffect.stages.0.description>
+  <MorphineEffect.stages.1.label>Влияние морфина</MorphineEffect.stages.1.label>
+  <MorphineEffect.stages.1.description>Влияние морфина</MorphineEffect.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- 1.6\Defs\Autocleaner.xml -->
+	
+	<!--                   EN: autocleaner -->
+	<AutocleanerPawnKind.label>автоуборщик</AutocleanerPawnKind.label>
+	<!--                                      EN: Plural autocleaner -->
+	<AutocleanerPawnKind.lifeStages.0.labelPlural>автоуборщики</AutocleanerPawnKind.lifeStages.0.labelPlural>
+</LanguageData>

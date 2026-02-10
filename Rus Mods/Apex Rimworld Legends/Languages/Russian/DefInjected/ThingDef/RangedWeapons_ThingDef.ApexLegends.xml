@@ -1,0 +1,336 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef\RangedWeapons.xml -->
+	                       <!-- EN: combat handgun bullet -->
+	<ARL_Bullet_CombatHandgun.label>пуля боевого пистолета</ARL_Bullet_CombatHandgun.label>
+	
+	                <!-- EN: combat handgun -->
+	<ARL_CombatHandgun.label>боевой пистолет</ARL_CombatHandgun.label>
+	                      <!-- EN: The Hammond P2020 is a semi-automatic handgun with good accuracy and damage at range. Its integrated 'match trigger' allows it to be fired very rapidly, which is useful in close quarters. -->
+	<ARL_CombatHandgun.description>Hammond P2020 — это полуавтоматический пистолет с хорошей точностью и уроном на расстоянии. Встроенный "матчевый спусковой крючок" позволяет вести очень быстрый огонь, что полезно в ближнем бою.</ARL_CombatHandgun.description>
+	                        <!-- EN: ㅤ -->
+	<ARL_CombatHandgun.verbs.0.label>ㅤ</ARL_CombatHandgun.verbs.0.label>
+	                        <!-- EN: grip -->
+	<ARL_CombatHandgun.tools.0.label>рукоять</ARL_CombatHandgun.tools.0.label>
+	                        <!-- EN: barrel -->
+	<ARL_CombatHandgun.tools.1.label>ствол</ARL_CombatHandgun.tools.1.label>
+	
+	                        <!-- EN: shotgun handgun blast -->
+	<ARL_Bullet_ShotgunHandgun.label>заряд пистолета-дробовика</ARL_Bullet_ShotgunHandgun.label>
+	
+	                 <!-- EN: shotgun handgun -->
+	<ARL_ShotgunHandgun.label>пистолет-дробовик</ARL_ShotgunHandgun.label>
+	                       <!-- EN: Controlled spread triple barrel shotgun pistol. -->
+	<ARL_ShotgunHandgun.description>Трёхствольный пистолет-дробовик с контролируемым разбросом дроби.</ARL_ShotgunHandgun.description>
+	                         <!-- EN: ㅤ -->
+	<ARL_ShotgunHandgun.verbs.0.label>ㅤ</ARL_ShotgunHandgun.verbs.0.label>
+	                         <!-- EN: grip -->
+	<ARL_ShotgunHandgun.tools.0.label>рукоять</ARL_ShotgunHandgun.tools.0.label>
+	                         <!-- EN: barrel -->
+	<ARL_ShotgunHandgun.tools.1.label>ствол</ARL_ShotgunHandgun.tools.1.label>
+	
+	                      <!-- EN: charge shot -->
+	<ARL_Bullet_ChargePistol.label>энергетический выстрел</ARL_Bullet_ChargePistol.label>
+	
+	               <!-- EN: charge pistol -->
+	<ARL_ChargePistol.label>энергетический пистолет</ARL_ChargePistol.label>
+	                     <!-- EN: The RE-45 is a fully automatic charge pistol, sacrificing damage and accuracy at longer distances for improved effectiveness at close range. -->
+	<ARL_ChargePistol.description>RE-45 — это полностью автоматический энергетический пистолет, который жертвует уроном и точностью на дальних дистанциях ради повышенной эффективности в ближнем бою.</ARL_ChargePistol.description>
+	                       <!-- EN: ㅤ -->
+	<ARL_ChargePistol.verbs.0.label>ㅤ</ARL_ChargePistol.verbs.0.label>
+	                       <!-- EN: grip -->
+	<ARL_ChargePistol.tools.0.label>рукоять</ARL_ChargePistol.tools.0.label>
+	                       <!-- EN: barrel -->
+	<ARL_ChargePistol.tools.1.label>ствол</ARL_ChargePistol.tools.1.label>
+	
+	                    <!-- EN: hand cannon bullet -->
+	<ARL_Bullet_HandCannon.label>пуля ручной пушки</ARL_Bullet_HandCannon.label>
+	
+	             <!-- EN: hand cannon -->
+	<ARL_HandCannon.label>ручная пушка</ARL_HandCannon.label>
+	                   <!-- EN: The B3 Wingman is an extremely powerful revolver with very high accuracy out to long ranges. Precision aim is required to mitigate the disadvantages of its very low rate of fire. -->
+	<ARL_HandCannon.description>B3 Wingman — чрезвычайно мощный револьвер с очень высокой точностью на больших дистанциях. Требуется точное прицеливание, чтобы компенсировать недостатки его очень низкой скорострельности.</ARL_HandCannon.description>
+	                     <!-- EN: ㅤ -->
+	<ARL_HandCannon.verbs.0.label>ㅤ</ARL_HandCannon.verbs.0.label>
+	                     <!-- EN: grip -->
+	<ARL_HandCannon.tools.0.label>рукоять</ARL_HandCannon.tools.0.label>
+	                     <!-- EN: barrel -->
+	<ARL_HandCannon.tools.1.label>ствол</ARL_HandCannon.tools.1.label>
+	
+	                            <!-- EN: shotgun blast -->
+	<ARL_Bullet_LeverActionShotgun.label>заряд дробовика</ARL_Bullet_LeverActionShotgun.label>
+	
+	                     <!-- EN: lever-action shotgun -->
+	<ARL_LeverActionShotgun.label>рычажный дробовик</ARL_LeverActionShotgun.label>
+	                           <!-- EN: The Peacekeeper is an anti-personnel lever-action shotgun, with rail-operated barrel firing mechanism. Despite not possessing a stopping power of a pump action shotgun, Peacekeeper reload time is much faster. -->
+	<ARL_LeverActionShotgun.description>«Миротворец» — это противопехотный дробовик рычажного действия с рельсовым ударно-спусковым механизмом. Несмотря на то что он не обладает убойной силой помпового дробовика, время перезарядки «Миротворца» намного меньше.</ARL_LeverActionShotgun.description>
+	                             <!-- EN: ㅤ -->
+	<ARL_LeverActionShotgun.verbs.0.label>ㅤ</ARL_LeverActionShotgun.verbs.0.label>
+	                             <!-- EN: stock -->
+	<ARL_LeverActionShotgun.tools.0.label>приклад</ARL_LeverActionShotgun.tools.0.label>
+	                             <!-- EN: barrel -->
+	<ARL_LeverActionShotgun.tools.1.label>ствол</ARL_LeverActionShotgun.tools.1.label>
+	
+	                              <!-- EN: shotgun blast -->
+	<ARL_Bullet_SemiAutomaticShotgun.label>заряд дробовика</ARL_Bullet_SemiAutomaticShotgun.label>
+	
+	                       <!-- EN: semi-automatic shotgun -->
+	<ARL_SemiAutomaticShotgun.label>полуавтоматический дробовик</ARL_SemiAutomaticShotgun.label>
+	                             <!-- EN: The EVA-8 is a semi-automatic shotgun, originally designed for extra-vehicular activity, both in conventional and in exo-atmospheric conditions. -->
+	<ARL_SemiAutomaticShotgun.description>EVA-8 — это полуавтоматический дробовик, изначально разработанный для работ в открытом космосе, как в обычных, так и в безвоздушных условиях.</ARL_SemiAutomaticShotgun.description>
+	                               <!-- EN: ㅤ -->
+	<ARL_SemiAutomaticShotgun.verbs.0.label>ㅤ</ARL_SemiAutomaticShotgun.verbs.0.label>
+	                               <!-- EN: stock -->
+	<ARL_SemiAutomaticShotgun.tools.0.label>приклад</ARL_SemiAutomaticShotgun.tools.0.label>
+	                               <!-- EN: barrel -->
+	<ARL_SemiAutomaticShotgun.tools.1.label>ствол</ARL_SemiAutomaticShotgun.tools.1.label>
+	
+	                       <!-- EN: charge shot -->
+	<ARL_Bullet_ChargeShotgun.label>энергетический выстрел</ARL_Bullet_ChargeShotgun.label>
+	
+	                <!-- EN: charge shotgun -->
+	<ARL_ChargeShotgun.label>энергетический дробовик</ARL_ChargeShotgun.label>
+	                      <!-- EN: Intended for low-zero gravity ship boarding and clearing operations, the Mastiff gained notoriety throughout The Rimworlds as a reliable and devastating combat shotgun. -->
+	<ARL_ChargeShotgun.description>Предназначенный для абордажа и зачистки кораблей в условиях низкой гравитации, «Мастифф» приобрёл известность во всех мирах как надёжный и разрушительный боевой дробовик.</ARL_ChargeShotgun.description>
+	                        <!-- EN: ㅤ -->
+	<ARL_ChargeShotgun.verbs.0.label>ㅤ</ARL_ChargeShotgun.verbs.0.label>
+	                        <!-- EN: stock -->
+	<ARL_ChargeShotgun.tools.0.label>приклад</ARL_ChargeShotgun.tools.0.label>
+	                        <!-- EN: barrel -->
+	<ARL_ChargeShotgun.tools.1.label>ствол</ARL_ChargeShotgun.tools.1.label>
+	
+	                  <!-- EN: light SMG bullet -->
+	<ARL_Bullet_LightSMG.label>пуля лёгкого ПП</ARL_Bullet_LightSMG.label>
+	
+	           <!-- EN: light SMG -->
+	<ARL_LightSMG.label>лёгкий ПП</ARL_LightSMG.label>
+	                 <!-- EN: Twin Barrel SMG with the clip twice the size of a machine pistol. Lethal in close quarters. -->
+	<ARL_LightSMG.description>Двуствольный пистолет-пулемёт с магазином вдвое больше, чем у автоматического пистолета. Смертоносен в ближнем бою.</ARL_LightSMG.description>
+	                   <!-- EN: ㅤ -->
+	<ARL_LightSMG.verbs.0.label>ㅤ</ARL_LightSMG.verbs.0.label>
+	                   <!-- EN: grip -->
+	<ARL_LightSMG.tools.0.label>рукоять</ARL_LightSMG.tools.0.label>
+	                   <!-- EN: barrel -->
+	<ARL_LightSMG.tools.1.label>ствол</ARL_LightSMG.tools.1.label>
+	
+	                   <!-- EN: charge shot -->
+	<ARL_Bullet_ChargeSMG.label>энергетический выстрел</ARL_Bullet_ChargeSMG.label>
+	
+	            <!-- EN: charge SMG -->
+	<ARL_ChargeSMG.label>энергетический ПП</ARL_ChargeSMG.label>
+	                  <!-- EN: The Prowler Burst PDW is 3 round fast burst firing anti-personnel charge personal defense weapon (PDW). Lethal in close quarters, Prowler is known for terrible accuracy long range. -->
+	<ARL_ChargeSMG.description>«Хищник» — это противопехотное энергетическое оружие личной самообороны (PDW), стреляющее быстрыми очередями по 3 патрона. Смертоносный в ближнем бою, «Хищник» известен ужасной точностью на дальних дистанциях.</ARL_ChargeSMG.description>
+	                    <!-- EN: ㅤ -->
+	<ARL_ChargeSMG.verbs.0.label>ㅤ</ARL_ChargeSMG.verbs.0.label>
+	                    <!-- EN: stock -->
+	<ARL_ChargeSMG.tools.0.label>приклад</ARL_ChargeSMG.tools.0.label>
+	                    <!-- EN: barrel -->
+	<ARL_ChargeSMG.tools.1.label>ствол</ARL_ChargeSMG.tools.1.label>
+	
+	                    <!-- EN: compact SMG bullet -->
+	<ARL_Bullet_CompactSMG.label>пуля компактного ПП</ARL_Bullet_CompactSMG.label>
+	
+	             <!-- EN: compact SMG -->
+	<ARL_CompactSMG.label>компактный ПП</ARL_CompactSMG.label>
+	                   <!-- EN: The R-99 is a compact submachine gun that excels at close-quarters combat, due to its extremely high rate of fire and minimal recoil. -->
+	<ARL_CompactSMG.description>R-99 — это компактный пистолет-пулемёт, который превосходно показывает себя в ближнем бою благодаря чрезвычайно высокой скорострельности и минимальной отдаче.</ARL_CompactSMG.description>
+	                     <!-- EN: ㅤ -->
+	<ARL_CompactSMG.verbs.0.label>ㅤ</ARL_CompactSMG.verbs.0.label>
+	                     <!-- EN: grip -->
+	<ARL_CompactSMG.tools.0.label>рукоять</ARL_CompactSMG.tools.0.label>
+	                     <!-- EN: barrel -->
+	<ARL_CompactSMG.tools.1.label>ствол</ARL_CompactSMG.tools.1.label>
+	
+	                   <!-- EN: charge shot -->
+	<ARL_Bullet_ChargeLMG.label>энергетический выстрел</ARL_Bullet_ChargeLMG.label>
+	
+	            <!-- EN: charge LMG -->
+	<ARL_ChargeLMG.label>энергетический РП</ARL_ChargeLMG.label>
+	                  <!-- EN: The X-55 Devotion is a charge LMG capable of firing armour piercing projectiles at insane speed with almost no need to reload. The further away the target, the more accurate Devotion gets. -->
+	<ARL_ChargeLMG.description>X-55 «Преданность» — это энергетический ручной пулемёт, способный стрелять бронебойными снарядами на безумной скорости почти без необходимости в перезарядке. Чем дальше цель, тем точнее становится «Преданность».</ARL_ChargeLMG.description>
+	                    <!-- EN: ㅤ -->
+	<ARL_ChargeLMG.verbs.0.label>ㅤ</ARL_ChargeLMG.verbs.0.label>
+	                    <!-- EN: stock -->
+	<ARL_ChargeLMG.tools.0.label>приклад</ARL_ChargeLMG.tools.0.label>
+	                    <!-- EN: barrel -->
+	<ARL_ChargeLMG.tools.1.label>ствол</ARL_ChargeLMG.tools.1.label>
+	
+	             <!-- EN: HMG bullet -->
+	<ARL_Bullet_HMG.label>пуля тяжёлого пулемёта</ARL_Bullet_HMG.label>
+	
+	      <!-- EN: HMG -->
+	<ARL_HMG.label>тяжёлый пулемёт</ARL_HMG.label>
+	            <!-- EN: The Spitfire Heavy Machine Gun recoils heavily when first fired, but quickly settles into a tight firing pattern. The manufacturer strongly recommends sustained saturating fire, instead of short controlled bursts. -->
+	<ARL_HMG.description>Тяжёлый пулемёт «Спитфайр» имеет сильную отдачу при первых выстрелах, но быстро стабилизируется, обеспечивая плотную кучность стрельбы. Производитель настоятельно рекомендует вести непрерывный огонь на подавление вместо коротких контролируемых очередей.</ARL_HMG.description>
+	              <!-- EN: ㅤ -->
+	<ARL_HMG.verbs.0.label>ㅤ</ARL_HMG.verbs.0.label>
+	              <!-- EN: barrels -->
+	<ARL_HMG.tools.0.label>стволы</ARL_HMG.tools.0.label>
+	
+	                      <!-- EN: mechanoid LMG bullet -->
+	<ARL_Bullet_MechanoidLMG.label>пуля механоидского РП</ARL_Bullet_MechanoidLMG.label>
+	
+	               <!-- EN: mechanoid LMG -->
+	<ARL_MechanoidLMG.label>механоидский РП</ARL_MechanoidLMG.label>
+	                     <!-- EN: The L-STAR is a rapid fire particle accelerating charge light machine gun. It fires energy bolts at a moderate speed at the target. Perfect for area suppresion, this weapon uses salvaged mechanoid technology. -->
+	<ARL_MechanoidLMG.description>L-STAR — это скорострельный энергетический ручной пулемёт с ускорением частиц. Он стреляет энергетическими сгустками со средней скоростью. Идеально подходящее для подавления противника на площади, это оружие использует трофейные технологии механоидов.</ARL_MechanoidLMG.description>
+	                       <!-- EN: ㅤ -->
+	<ARL_MechanoidLMG.verbs.0.label>ㅤ</ARL_MechanoidLMG.verbs.0.label>
+	                       <!-- EN: stock -->
+	<ARL_MechanoidLMG.tools.0.label>приклад</ARL_MechanoidLMG.tools.0.label>
+	                       <!-- EN: barrel -->
+	<ARL_MechanoidLMG.tools.1.label>ствол</ARL_MechanoidLMG.tools.1.label>
+	
+	                        <!-- EN: charge shot -->
+	<ARL_Bullet_MechanoidRifle.label>энергетический выстрел</ARL_Bullet_MechanoidRifle.label>
+	
+	                 <!-- EN: mechanoid rifle -->
+	<ARL_MechanoidRifle.label>механоидская винтовка</ARL_MechanoidRifle.label>
+	                       <!-- EN: The Havoc Rifle fires two energy beam bursts that inflicts massive damage. Holding the trigger charges the weapon. Timing is critical to its use: this weapon will only fire when it reaches full charge and reloading takes a little while. -->
+	<ARL_MechanoidRifle.description>Винтовка «Хаос» стреляет очередями из двух энергетических лучей, наносящих огромный урон. Удержание спускового крючка заряжает оружие. Правильный расчёт времени имеет решающее значение: это оружие стреляет только при достижении полного заряда, а перезарядка занимает некоторое время.</ARL_MechanoidRifle.description>
+	                         <!-- EN: ㅤ -->
+	<ARL_MechanoidRifle.verbs.0.label>ㅤ</ARL_MechanoidRifle.verbs.0.label>
+	                         <!-- EN: stock -->
+	<ARL_MechanoidRifle.tools.0.label>приклад</ARL_MechanoidRifle.tools.0.label>
+	                         <!-- EN: barrel -->
+	<ARL_MechanoidRifle.tools.1.label>ствол</ARL_MechanoidRifle.tools.1.label>
+	
+	                      <!-- EN: bullpup rifle bullet -->
+	<ARL_Bullet_BullpupRifle.label>пуля винтовки булл-пап</ARL_Bullet_BullpupRifle.label>
+	
+	               <!-- EN: bullpup rifle -->
+	<ARL_BullpupRifle.label>винтовка булл-пап</ARL_BullpupRifle.label>
+	                     <!-- EN: The VK-47 Flatline is an anti-personnel fully automatic bullpup assault rifle. It has negligible vertical recoil, instead involving an extreme degree of horizontal recoil, similar to the Alternator light SMG. -->
+	<ARL_BullpupRifle.description>VK-47 «Флэтлайн» — это противопехотная автоматическая штурмовая винтовка схемы булл-пап. У неё незначительная вертикальная отдача, но при этом чрезвычайно сильная горизонтальная отдача, схожая с лёгким ПП «Альтернатор».</ARL_BullpupRifle.description>
+	                       <!-- EN: ㅤ -->
+	<ARL_BullpupRifle.verbs.0.label>ㅤ</ARL_BullpupRifle.verbs.0.label>
+	                       <!-- EN: stock -->
+	<ARL_BullpupRifle.tools.0.label>приклад</ARL_BullpupRifle.tools.0.label>
+	                       <!-- EN: barrel -->
+	<ARL_BullpupRifle.tools.1.label>ствол</ARL_BullpupRifle.tools.1.label>
+	
+	                        <!-- EN: assault carbine bullet -->
+	<ARL_Bullet_AssaultCarbine.label>пуля штурмового карабина</ARL_Bullet_AssaultCarbine.label>
+	
+	                 <!-- EN: assault carbine -->
+	<ARL_AssaultCarbine.label>штурмовой карабин</ARL_AssaultCarbine.label>
+	                       <!-- EN: Full auto and high accuracy make this weapon desirable in the Rimworlds, however low damage and armor penetration makes it often unreliable against armored enemies. -->
+	<ARL_AssaultCarbine.description>Полностью автоматический режим огня и высокая точность делают это оружие желанным во Внешних мирах, однако низкий урон и слабая бронепробиваемость часто делают его ненадёжным против бронированных врагов.</ARL_AssaultCarbine.description>
+	                         <!-- EN: ㅤ -->
+	<ARL_AssaultCarbine.verbs.0.label>ㅤ</ARL_AssaultCarbine.verbs.0.label>
+	                         <!-- EN: stock -->
+	<ARL_AssaultCarbine.tools.0.label>приклад</ARL_AssaultCarbine.tools.0.label>
+	                         <!-- EN: barrel -->
+	<ARL_AssaultCarbine.tools.1.label>ствол</ARL_AssaultCarbine.tools.1.label>
+	
+	                     <!-- EN: battle rifle bullet -->
+	<ARL_Bullet_BattleRifle.label>пуля боевой винтовки</ARL_Bullet_BattleRifle.label>
+	
+	              <!-- EN: battle rifle -->
+	<ARL_BattleRifle.label>боевая винтовка</ARL_BattleRifle.label>
+	                    <!-- EN: The factory issue Hemlok fires a two-round burst. While this can be a liability at short range, this tradeoff allowed the glitterworld engineers to deliver a weapon with a good balance of long-range accuracy, damage, and fire rate. -->
+	<ARL_BattleRifle.description>В заводской комплектации «Хемлок» стреляет очередями по два патрона. Хотя это может быть недостатком на короткой дистанции, такой компромисс позволил инженерам блестящих миров создать оружие с хорошим балансом точности на дальних дистанциях, урона и скорострельности.</ARL_BattleRifle.description>
+	                      <!-- EN: ㅤ -->
+	<ARL_BattleRifle.verbs.0.label>ㅤ</ARL_BattleRifle.verbs.0.label>
+	                      <!-- EN: stock -->
+	<ARL_BattleRifle.tools.0.label>приклад</ARL_BattleRifle.tools.0.label>
+	                      <!-- EN: barrel -->
+	<ARL_BattleRifle.tools.1.label>ствол</ARL_BattleRifle.tools.1.label>
+	
+	                           <!-- EN: charge shot -->
+	<ARL_Bullet_ChargeSniperRifle.label>энергетический выстрел</ARL_Bullet_ChargeSniperRifle.label>
+	
+	                    <!-- EN: charge sniper rifle -->
+	<ARL_ChargeSniperRifle.label>энергетическая снайперская винтовка</ARL_ChargeSniperRifle.label>
+	                          <!-- EN: The Triple Take is a triple-barrel marksman rifle that consumes 3 bullets per shot. The shots are fired side by side, and the default sights have two chevrons, indicating where the shots will land. -->
+	<ARL_ChargeSniperRifle.description>«Тройной эффект» — это трёхствольная марксманская винтовка, которая расходует 3 патрона за выстрел. Выстрелы производятся одновременно, и стандартный прицел имеет две метки, указывающие, куда попадут снаряды.</ARL_ChargeSniperRifle.description>
+	                            <!-- EN: ㅤ -->
+	<ARL_ChargeSniperRifle.verbs.0.label>ㅤ</ARL_ChargeSniperRifle.verbs.0.label>
+	                            <!-- EN: stock -->
+	<ARL_ChargeSniperRifle.tools.0.label>приклад</ARL_ChargeSniperRifle.tools.0.label>
+	                            <!-- EN: barrel -->
+	<ARL_ChargeSniperRifle.tools.1.label>ствол</ARL_ChargeSniperRifle.tools.1.label>
+	
+	                            <!-- EN: semi-automatic rifle bullet -->
+	<ARL_Bullet_SemiautomaticRifle.label>пуля полуавтоматической винтовки</ARL_Bullet_SemiautomaticRifle.label>
+	
+	                     <!-- EN: semi-automatic rifle -->
+	<ARL_SemiautomaticRifle.label>полуавтоматическая винтовка</ARL_SemiautomaticRifle.label>
+	                           <!-- EN: Despite recent advances in weapons technology, the older G7 Scout semi-automatic rifle remains a favorite of special forces units due to damage and extremely precise fire - a testament to its high level of craftsmanship. -->
+	<ARL_SemiautomaticRifle.description>Несмотря на последние достижения в оружейных технологиях, старая полуавтоматическая винтовка G7 Scout остаётся фаворитом подразделений спецназа благодаря своему урону и чрезвычайно точному огню — свидетельство высокого качества её изготовления.</ARL_SemiautomaticRifle.description>
+	                             <!-- EN: ㅤ -->
+	<ARL_SemiautomaticRifle.verbs.0.label>ㅤ</ARL_SemiautomaticRifle.verbs.0.label>
+	                             <!-- EN: stock -->
+	<ARL_SemiautomaticRifle.tools.0.label>приклад</ARL_SemiautomaticRifle.tools.0.label>
+	                             <!-- EN: barrel -->
+	<ARL_SemiautomaticRifle.tools.1.label>ствол</ARL_SemiautomaticRifle.tools.1.label>
+	
+	                       <!-- EN: marksman rifle bullet -->
+	<ARL_Bullet_MarksmanRifle.label>пуля марксманской винтовки</ARL_Bullet_MarksmanRifle.label>
+	
+	                <!-- EN: marksman rifle -->
+	<ARL_MarksmanRifle.label>марксманская винтовка</ARL_MarksmanRifle.label>
+	                      <!-- EN: The Longbow-DMR is a semi-automatic sniper rifle. Its hyper-velocity round completely eliminates the need to lead targets, and allows the shooter to fire multiple shots quickly in succession. -->
+	<ARL_MarksmanRifle.description>«Длинный лук» — это полуавтоматическая снайперская винтовка. Её гиперскоростной снаряд полностью избавляет от необходимости брать упреждение, а также позволяет стрелку быстро производить несколько выстрелов подряд.</ARL_MarksmanRifle.description>
+	                        <!-- EN: ㅤ -->
+	<ARL_MarksmanRifle.verbs.0.label>ㅤ</ARL_MarksmanRifle.verbs.0.label>
+	                        <!-- EN: stock -->
+	<ARL_MarksmanRifle.tools.0.label>приклад</ARL_MarksmanRifle.tools.0.label>
+	                        <!-- EN: barrel -->
+	<ARL_MarksmanRifle.tools.1.label>ствол</ARL_MarksmanRifle.tools.1.label>
+	
+	                              <!-- EN: charge shot -->
+	<ARL_Bullet_MechanoidSniperRifle.label>энергетический выстрел</ARL_Bullet_MechanoidSniperRifle.label>
+	
+	                       <!-- EN: mechanoid sniper rifle -->
+	<ARL_MechanoidSniperRifle.label>механоидская снайперская винтовка</ARL_MechanoidSniperRifle.label>
+	                             <!-- EN: The Kraber fires a unique round that ensures 'one-shot,one-kill' results against human-scale targets. However, considerable judgement in leading is required, making this a difficult weapon to use against moving targets. -->
+	<ARL_MechanoidSniperRifle.description>«Крабер» стреляет уникальным снарядом, который гарантирует результат "один выстрел — один труп" против целей человеческого размера. Однако для этого требуется значительное умение брать упреждение, что делает это оружие сложным в использовании против движущихся целей.</ARL_MechanoidSniperRifle.description>
+	                               <!-- EN: ㅤ -->
+	<ARL_MechanoidSniperRifle.verbs.0.label>ㅤ</ARL_MechanoidSniperRifle.verbs.0.label>
+	                               <!-- EN: stock -->
+	<ARL_MechanoidSniperRifle.tools.0.label>приклад</ARL_MechanoidSniperRifle.tools.0.label>
+	                               <!-- EN: barrel -->
+	<ARL_MechanoidSniperRifle.tools.1.label>ствол</ARL_MechanoidSniperRifle.tools.1.label>
+	
+	                                 <!-- EN: mini-inferno shell -->
+	<ARL_Bullet_MechanoidRocketLauncher.label>мини-инферно снаряд</ARL_Bullet_MechanoidRocketLauncher.label>
+	
+	                          <!-- EN: mechanoid inferno launcher -->
+	<ARL_MechanoidRocketLauncher.label>механоидский инферно-ракетомёт</ARL_MechanoidRocketLauncher.label>
+	                                <!-- EN: The Mechanoid Rocket launcher fires eight small rockets at once in its primary firing mode that are effective at temporarily denying territory to the enemy. -->
+	<ARL_MechanoidRocketLauncher.description>Ракетомёт механоидов в основном режиме огня выпускает сразу восемь небольших ракет, которые эффективно лишают противника возможности контролировать территорию.</ARL_MechanoidRocketLauncher.description>
+	                                  <!-- EN: ㅤ -->
+	<ARL_MechanoidRocketLauncher.verbs.0.label>ㅤ</ARL_MechanoidRocketLauncher.verbs.0.label>
+	                                  <!-- EN: stock -->
+	<ARL_MechanoidRocketLauncher.tools.0.label>приклад</ARL_MechanoidRocketLauncher.tools.0.label>
+	                                  <!-- EN: barrel -->
+	<ARL_MechanoidRocketLauncher.tools.1.label>ствол</ARL_MechanoidRocketLauncher.tools.1.label>
+	
+	                         <!-- EN: frag grenade -->
+	<ARL_Bullet_GrenadeLauncher.label>осколочная граната</ARL_Bullet_GrenadeLauncher.label>
+	
+	                  <!-- EN: grenade launcher -->
+	<ARL_GrenadeLauncher.label>гранатомёт</ARL_GrenadeLauncher.label>
+	                        <!-- EN: The R-6P Softball Anti-Armor Grenade Launcher (AAGL) is a rotary magazine grenade launcher. It is lightweight and stowable, which allows its operator to quickly fire and maneuver. -->
+	<ARL_GrenadeLauncher.description>Противотанковый гранатомёт R-6P Softball (AAGL) — это гранатомёт с револьверным магазином. Он лёгкий и компактный, что позволяет его оператору быстро вести огонь и маневрировать.</ARL_GrenadeLauncher.description>
+	                          <!-- EN: ㅤ -->
+	<ARL_GrenadeLauncher.verbs.0.label>ㅤ</ARL_GrenadeLauncher.verbs.0.label>
+	                          <!-- EN: stock -->
+	<ARL_GrenadeLauncher.tools.0.label>приклад</ARL_GrenadeLauncher.tools.0.label>
+	                          <!-- EN: barrel -->
+	<ARL_GrenadeLauncher.tools.1.label>ствол</ARL_GrenadeLauncher.tools.1.label>
+	
+	                       <!-- EN: charge shot -->
+	<ARL_Bullet_ChargeMinigun.label>энергетический выстрел</ARL_Bullet_ChargeMinigun.label>
+	
+	                <!-- EN: charge minigun -->
+	<ARL_ChargeMinigun.label>энергетический миниган</ARL_ChargeMinigun.label>
+	                      <!-- EN: The 40mm Charge Minigun (Or "40 mil") is a multi-purpose/ anti-vehicle automatic cannon. It is a popular and versatile armament often fielded by glitterworld soldiers operating in medium to long-distance engagements. The 40mm cartridge can be lethal to both enemy personnel and vehicles due to explosive shells. -->
+	<ARL_ChargeMinigun.description>40-мм энергетический миниган (или "40-миллиметровка") — это многоцелевая/противотранспортная автоматическая пушка. Это популярное и универсальное вооружение, часто используемое солдатами блестящих миров в боях на средних и дальних дистанциях. 40-мм патрон может быть смертельным как для личного состава, так и для техники противника благодаря разрывным снарядам.</ARL_ChargeMinigun.description>
+	                        <!-- EN: ㅤ -->
+	<ARL_ChargeMinigun.verbs.0.label>ㅤ</ARL_ChargeMinigun.verbs.0.label>
+	                        <!-- EN: stock -->
+	<ARL_ChargeMinigun.tools.0.label>приклад</ARL_ChargeMinigun.tools.0.label>
+	                        <!-- EN: barrel -->
+	<ARL_ChargeMinigun.tools.1.label>ствол</ARL_ChargeMinigun.tools.1.label>
+</LanguageData>

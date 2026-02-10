@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <SJ9TGLabsEffect.label>Эффект SJ9 TGLabs</SJ9TGLabsEffect.label>
+  <SJ9TGLabsEffect.description>Увеличивает диапазон комфортной температуры</SJ9TGLabsEffect.description>
+  <SJ9TGLabsEffect.stages.0.label>Побочные эффекты</SJ9TGLabsEffect.stages.0.label>
+  <SJ9TGLabsEffect.labelNoun>Эффект SJ9 TGLabs</SJ9TGLabsEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <SJ9TGLabsEffectDescription.label>Описание эффекта SJ9 TGLabs</SJ9TGLabsEffectDescription.label>
+  <SJ9TGLabsEffectDescription.description>Увеличивает диапазон комфортной температуры</SJ9TGLabsEffectDescription.description>
+  <SJ9TGLabsEffectDescription.labelNoun>Описание эффекта SJ9 TGLabs</SJ9TGLabsEffectDescription.labelNoun>
+
+
+</LanguageData>

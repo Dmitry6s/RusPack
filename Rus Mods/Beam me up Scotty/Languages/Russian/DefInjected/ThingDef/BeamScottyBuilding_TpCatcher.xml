@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BuildingBase"> -->
+
+  <LTF_TpCatcher.label>уловитель телепортов</LTF_TpCatcher.label>
+  <LTF_TpCatcher.description>Деревянное сооружение для приема прибывших из телепорта. Должно быть связано с местом телепортации.</LTF_TpCatcher.description>
+  <LTF_TpCatcher.comps.6.useLabel>связь</LTF_TpCatcher.comps.6.useLabel>
+
+
+</LanguageData>

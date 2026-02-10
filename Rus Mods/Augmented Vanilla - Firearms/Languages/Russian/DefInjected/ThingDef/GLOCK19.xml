@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Glock 19 -->
+
+  <AVW_Glock19_Handgun.label>Глок-19</AVW_Glock19_Handgun.label>
+  <AVW_Glock19_Handgun.description>Пистолет</AVW_Glock19_Handgun.description>
+  <AVW_Glock19_Handgun.tools.0.label>приклад</AVW_Glock19_Handgun.tools.0.label>
+  <AVW_Glock19_Handgun.tools.1.label>ствол</AVW_Glock19_Handgun.tools.1.label>
+
+
+</LanguageData>

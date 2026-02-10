@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Change area colour -->
+	<Fluffy.AreaUnlocker.ChangeColour>Изменить цвет области</Fluffy.AreaUnlocker.ChangeColour>
+	<!-- EN: Copy area -->
+	<Fluffy.AreaUnlocker.CopyArea>Копировать область</Fluffy.AreaUnlocker.CopyArea>
+	<!-- EN: {0} - Copy -->
+	<Fluffy.AreaUnlocker.CopiedAreaLabel>{0} - Копия</Fluffy.AreaUnlocker.CopiedAreaLabel>
+	<!-- EN: {0} - Copy ({1}) -->
+	<Fluffy.AreaUnlocker.CopiedAreaDuplicateLabel>{0} - Копия ({1})</Fluffy.AreaUnlocker.CopiedAreaDuplicateLabel>
+</LanguageData>

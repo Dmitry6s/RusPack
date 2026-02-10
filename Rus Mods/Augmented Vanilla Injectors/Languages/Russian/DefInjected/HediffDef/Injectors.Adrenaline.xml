@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <AdrenalineEffect.label>Эффект адреналина</AdrenalineEffect.label>
+  <AdrenalineEffect.description>Временно увеличивает силу, выносливость. Снимает чувство боли.</AdrenalineEffect.description>
+  <AdrenalineEffect.labelNoun>Эффект адреналина</AdrenalineEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <AdrenalineEffectDescription.label>Описание эффекта адреналина</AdrenalineEffectDescription.label>
+  <AdrenalineEffectDescription.description>Временно увеличивает силу, выносливость. Снимает чувство боли.</AdrenalineEffectDescription.description>
+  <AdrenalineEffectDescription.labelNoun>Описание эффекта адреналина</AdrenalineEffectDescription.labelNoun>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <PropitalEffect.label>Регенеративный препарат "Пропитал" эффект</PropitalEffect.label>
+  <PropitalEffect.description>Усиливает регенерацию, повышает физические и боевые характеристики, немного снимает боль. У него есть побочные эффекты.</PropitalEffect.description>
+  <PropitalEffect.stages.0.label>Побочный эффект</PropitalEffect.stages.0.label>
+  <PropitalEffect.labelNoun>Регенеративный препарат "Пропитал" эффект</PropitalEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <PropitalEffectDescription.label>Регенеративный препарат "Пропитал" описание эффекта</PropitalEffectDescription.label>
+  <PropitalEffectDescription.description>Усиливает регенерацию, повышает физические и боевые характеристики, немного снимает боль. У него есть побочные эффекты.</PropitalEffectDescription.description>
+  <PropitalEffectDescription.labelNoun>Регенеративный препарат "Пропитал" описание эффекта</PropitalEffectDescription.labelNoun>
+
+
+</LanguageData>

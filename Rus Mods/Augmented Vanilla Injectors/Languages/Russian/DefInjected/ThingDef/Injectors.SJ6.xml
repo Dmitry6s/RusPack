@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SJ6TGLabs.label>SJ6 TGLabs</SJ6TGLabs.label>
+  <SJ6TGLabs.description>Боевой стимулятор. Он используется для расширения возможностей организма перед боем. Имеет побочные эффекты.</SJ6TGLabs.description>
+  <SJ6TGLabs.ingestible.ingestCommandString>инъецировать {0}</SJ6TGLabs.ingestible.ingestCommandString>
+  <SJ6TGLabs.ingestible.ingestReportString>Инъецирование {0}.</SJ6TGLabs.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- При применении -->
+
+  <AdrenalineEffect.stages.0.label>Побочный эффект адреналина</AdrenalineEffect.stages.0.label>
+  <AdrenalineEffect.stages.0.description>Побочный эффект адреналина</AdrenalineEffect.stages.0.description>
+  <AdrenalineEffect.stages.1.label>Влияние адреналина</AdrenalineEffect.stages.1.label>
+  <AdrenalineEffect.stages.1.description>Влияние адреналина</AdrenalineEffect.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ETGchange.label>eTG-Change</ETGchange.label>
+  <ETGchange.description>Мощный стимулятор процессов регенерации. Он используется для быстрого восстановления бойца после травмы</ETGchange.description>
+  <ETGchange.ingestible.ingestCommandString>инъецировать {0}</ETGchange.ingestible.ingestCommandString>
+  <ETGchange.ingestible.ingestReportString>Инъецирование {0}.</ETGchange.ingestible.ingestReportString>
+
+
+</LanguageData>

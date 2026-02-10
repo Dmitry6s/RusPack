@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef\ARL_Gas_Various.xml -->
+	           <!-- EN: ARL_ToxicGas -->
+	<ARL_ToxicGas.label>Токсичный газ</ARL_ToxicGas.label>
+	                  <!-- EN: {0} has been killed. -->
+	<ARL_ToxicGas.deathMessage>{0} убит(а).</ARL_ToxicGas.deathMessage>
+</LanguageData>

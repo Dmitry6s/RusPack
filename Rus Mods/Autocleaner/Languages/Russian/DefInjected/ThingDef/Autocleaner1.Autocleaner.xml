@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- 1.6\Defs\Autocleaner.xml -->
+	<!--                  EN: autocleaner charger -->
+	<AutocleanerCharger.label>зарядная станция</AutocleanerCharger.label>
+	<!--                        EN: A device autocleaner uses to charge from power network. -->
+	<AutocleanerCharger.description>Станция для автоматической подзарядки автоуборщиков от электросети.</AutocleanerCharger.description>
+	
+	<!--           EN: autocleaner -->
+	<Autocleaner.label>автоуборщик</Autocleaner.label>
+	<!--                 EN: Autonomous robotic vacuum cleaner. -->
+	<Autocleaner.description>Автономный робот-пылесос.</Autocleaner.description>
+	<!--                   EN: shell -->
+	<Autocleaner.tools.0.label>корпус</Autocleaner.tools.0.label>
+	
+	<!--                     EN: unfinished autocleaner -->
+	<AutocleanerUnfinished.label>незавершённый автоуборщик</AutocleanerUnfinished.label>
+	<!--                           EN: An unfinished autocleaner. -->
+	<AutocleanerUnfinished.description>Незавершённый автоуборщик в процессе сборки.</AutocleanerUnfinished.description>
+	
+	<!--               EN: autocleaner -->
+	<AutocleanerItem.label>автоуборщик</AutocleanerItem.label>
+	<!--                     EN: Autonomous robotic vacuum cleaner. Will clean home area without human intervention, and can charge from anywhere near a power grid. If damaged, stops cleaning until repaired, which requires components. -->
+	<AutocleanerItem.description>Автономный робот-пылесос. Будет убирать домашнюю область без участия человека и сможет заряжаться из любого места рядом с электросетью. При повреждении прекращает уборку до тех пор, пока не будет отремонтирован, для чего требуются компоненты.</AutocleanerItem.description>
+</LanguageData>

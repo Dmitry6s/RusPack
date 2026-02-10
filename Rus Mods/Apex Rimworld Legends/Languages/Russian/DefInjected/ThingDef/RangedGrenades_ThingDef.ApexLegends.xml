@@ -1,0 +1,40 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef\RangedGrenades.xml -->
+	                <!-- EN: charge grenades -->
+	<ARL_ChargeGrenade.label>энергетические гранаты</ARL_ChargeGrenade.label>
+	                      <!-- EN: An Arc Star is a lightweight charge grenade dealing high damage over a very small area. It also serves as a great melee weapon. -->
+	<ARL_ChargeGrenade.description>Дуговая звезда — это лёгкая энергетическая граната, наносящая большой урон в очень небольшой области. Она также является отличным оружием ближнего боя.</ARL_ChargeGrenade.description>
+	                        <!-- EN: throw charge grenade -->
+	<ARL_ChargeGrenade.verbs.0.label>бросить энергетическую гранату</ARL_ChargeGrenade.verbs.0.label>
+	                                            <!-- EN: ㅤ -->
+	<ARL_ChargeGrenade.verbs.Verb_LaunchProjectile.label>ㅤ</ARL_ChargeGrenade.verbs.Verb_LaunchProjectile.label>
+	                        <!-- EN: handle -->
+	<ARL_ChargeGrenade.tools.0.label>рукоять</ARL_ChargeGrenade.tools.0.label>
+	
+	                           <!-- EN: charge grenade -->
+	<ARL_Projectile_ChargeGrenade.label>энергетическая граната</ARL_Projectile_ChargeGrenade.label>
+	
+	               <!-- EN: smoke grenades -->
+	<ARL_SmokeGrenade.label>дымовые гранаты</ARL_SmokeGrenade.label>
+	                     <!-- EN: Old school condensed smoke canister that explodes into a smoke wall on impact. -->
+	<ARL_SmokeGrenade.description>Канистра со сгущённым дымом старой школы, которая при ударе взрывается, создавая дымовую завесу.</ARL_SmokeGrenade.description>
+	                       <!-- EN: throw smoke grenade -->
+	<ARL_SmokeGrenade.verbs.0.label>бросить дымовую гранату</ARL_SmokeGrenade.verbs.0.label>
+	                                           <!-- EN: ㅤ -->
+	<ARL_SmokeGrenade.verbs.Verb_LaunchProjectile.label>ㅤ</ARL_SmokeGrenade.verbs.Verb_LaunchProjectile.label>
+	
+	                          <!-- EN: smoke grenade -->
+	<ARL_Projectile_SmokeGrenade.label>дымовая граната</ARL_Projectile_SmokeGrenade.label>
+	
+	               <!-- EN: toxic grenades -->
+	<ARL_ToxicGrenade.label>токсичные гранаты</ARL_ToxicGrenade.label>
+	                     <!-- EN: Charge powered lethal gas canister causing severe toxic buildup over a very short period of time. -->
+	<ARL_ToxicGrenade.description>Канистра со смертельным газом на основе энергозарядов, вызывающая тяжёлое токсичное отравление за короткий промежуток времени.</ARL_ToxicGrenade.description>
+	                       <!-- EN: throw toxic grenade -->
+	<ARL_ToxicGrenade.verbs.0.label>бросить токсичную гранату</ARL_ToxicGrenade.verbs.0.label>
+	                                           <!-- EN: ㅤ -->
+	<ARL_ToxicGrenade.verbs.Verb_LaunchProjectile.label>ㅤ</ARL_ToxicGrenade.verbs.Verb_LaunchProjectile.label>
+	
+	                          <!-- EN: toxic grenade -->
+	<ARL_Projectile_ToxicGrenade.label>токсичная граната</ARL_Projectile_ToxicGrenade.label>
+</LanguageData>

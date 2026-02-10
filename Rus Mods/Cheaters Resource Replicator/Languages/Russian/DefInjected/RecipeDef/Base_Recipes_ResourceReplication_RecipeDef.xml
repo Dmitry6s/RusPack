@@ -1,0 +1,772 @@
+<LanguageData>
+	<!-- 1.6\Defs\RecipeDefs\Base_Recipes_ResourceReplication.xml -->
+	             <!-- EN: Producing steel. -->
+	<RF_RRSteel.jobString>Производство стали.</RF_RRSteel.jobString>
+	         <!-- EN: Replicate Steel -->
+	<RF_RRSteel.label>реплицировать сталь</RF_RRSteel.label>
+	               <!-- EN: Creates 75 Steel. -->
+	<RF_RRSteel.description>Создаёт 75 ед. стали.</RF_RRSteel.description>
+	
+	              <!-- EN: Producing Obsidian. -->
+	<MN_Obsidian.jobString>Производство обсидиана.</MN_Obsidian.jobString>
+	          <!-- EN: Replicate Obsidian -->
+	<MN_Obsidian.label>реплицировать обсидиан</MN_Obsidian.label>
+	                <!-- EN: Creates 75 Obsidian. -->
+	<MN_Obsidian.description>Создаёт 75 ед. обсидиана.</MN_Obsidian.description>
+	
+	            <!-- EN: Producing wood. -->
+	<RF_RRWood.jobString>Производство древесины.</RF_RRWood.jobString>
+	        <!-- EN: Replicate Wood -->
+	<RF_RRWood.label>реплицировать древесину</RF_RRWood.label>
+	              <!-- EN: Creates 75 Wood. -->
+	<RF_RRWood.description>Создаёт 75 ед. древесины.</RF_RRWood.description>
+	
+	                 <!-- EN: Producing components. -->
+	<RF_RRComponent.jobString>Производство компонентов.</RF_RRComponent.jobString>
+	             <!-- EN: Replicate Component -->
+	<RF_RRComponent.label>реплицировать компоненты</RF_RRComponent.label>
+	                   <!-- EN: Creates 50 Components. -->
+	<RF_RRComponent.description>Создаёт 50 компонентов.</RF_RRComponent.description>
+	
+	                         <!-- EN: Producing Advanced Components. -->
+	<RF_RRAdvancedComponent.jobString>Производство продвинутых компонентов.</RF_RRAdvancedComponent.jobString>
+	                     <!-- EN: Replicate Advanced Component -->
+	<RF_RRAdvancedComponent.label>реплицировать продвинутые компоненты</RF_RRAdvancedComponent.label>
+	                           <!-- EN: Creates 50 advanced components. -->
+	<RF_RRAdvancedComponent.description>Создаёт 50 продвинутых компонентов.</RF_RRAdvancedComponent.description>
+	
+	                <!-- EN: Producing plasteel. -->
+	<RF_RRPlasteel.jobString>Производство пластали.</RF_RRPlasteel.jobString>
+	            <!-- EN: Replicate Plasteel -->
+	<RF_RRPlasteel.label>реплицировать пласталь</RF_RRPlasteel.label>
+	                  <!-- EN: Creates 75 Plasteel. -->
+	<RF_RRPlasteel.description>Создаёт 75 ед. пластали.</RF_RRPlasteel.description>
+	
+	               <!-- EN: Producing uranium. -->
+	<RF_RRUranium.jobString>Производство урана.</RF_RRUranium.jobString>
+	           <!-- EN: Replicate Uranium -->
+	<RF_RRUranium.label>реплицировать уран</RF_RRUranium.label>
+	                 <!-- EN: Creates 75 Uranium. -->
+	<RF_RRUranium.description>Создаёт 75 ед. урана.</RF_RRUranium.description>
+	
+	                <!-- EN: Producing Obsidian. -->
+	<MN_Bioferrite.jobString>Производство обсидиана.</MN_Bioferrite.jobString>
+	            <!-- EN: Replicate Bioferrite -->
+	<MN_Bioferrite.label>реплицировать биоферрит</MN_Bioferrite.label>
+	                  <!-- EN: Creates 75 Obsidian. -->
+	<MN_Bioferrite.description>Создаёт 75 ед. обсидиана.</MN_Bioferrite.description>
+	
+	            <!-- EN: Producing gold. -->
+	<RF_RRGold.jobString>Производство золота.</RF_RRGold.jobString>
+	        <!-- EN: Replicate Gold -->
+	<RF_RRGold.label>реплицировать золото</RF_RRGold.label>
+	              <!-- EN: Creates 500 Gold. -->
+	<RF_RRGold.description>Создаёт 500 ед. золота.</RF_RRGold.description>
+	
+	              <!-- EN: Producing silver. -->
+	<RF_RRSilver.jobString>Производство серебра.</RF_RRSilver.jobString>
+	          <!-- EN: Replicate Silver -->
+	<RF_RRSilver.label>реплицировать серебро</RF_RRSilver.label>
+	                <!-- EN: Creates 500 Silver. -->
+	<RF_RRSilver.description>Создаёт 500 ед. серебра.</RF_RRSilver.description>
+	
+	            <!-- EN: Producing Jade. -->
+	<RF_RRJade.jobString>Производство нефрита.</RF_RRJade.jobString>
+	        <!-- EN: Replicate Jade -->
+	<RF_RRJade.label>реплицировать нефрит</RF_RRJade.label>
+	              <!-- EN: Creates 75 Jade. -->
+	<RF_RRJade.description>Создаёт 75 ед. нефрита.</RF_RRJade.description>
+	
+	                <!-- EN: Producing chemfuel. -->
+	<RF_RRChemfuel.jobString>Производство химтоплива.</RF_RRChemfuel.jobString>
+	            <!-- EN: Replicate Chemfuel -->
+	<RF_RRChemfuel.label>реплицировать химтопливо</RF_RRChemfuel.label>
+	                  <!-- EN: Creates 150 Chemfuel. -->
+	<RF_RRChemfuel.description>Создаёт 150 ед. химтоплива.</RF_RRChemfuel.description>
+	
+	             <!-- EN: Producing cloth. -->
+	<RF_RRCloth.jobString>Производство ткани.</RF_RRCloth.jobString>
+	         <!-- EN: Replicate Cloth -->
+	<RF_RRCloth.label>реплицировать ткань</RF_RRCloth.label>
+	               <!-- EN: Creates 75 Cloth. -->
+	<RF_RRCloth.description>Создаёт 75 ед. ткани.</RF_RRCloth.description>
+	
+	                 <!-- EN: Producing synththread. -->
+	<RF_RRSynthread.jobString>Производство синтткани.</RF_RRSynthread.jobString>
+	             <!-- EN: Replicate Synthread -->
+	<RF_RRSynthread.label>реплицировать синтткань</RF_RRSynthread.label>
+	                   <!-- EN: Creates 75 Synthread. -->
+	<RF_RRSynthread.description>Создаёт 75 ед. синтткани.</RF_RRSynthread.description>
+	
+	                  <!-- EN: Producing hyperweave. -->
+	<RF_RRHyperweave.jobString>Производство гиперткани.</RF_RRHyperweave.jobString>
+	              <!-- EN: Replicate Hyperweave -->
+	<RF_RRHyperweave.label>реплицировать гиперткань</RF_RRHyperweave.label>
+	                    <!-- EN: Creates 75 Hyperweave. -->
+	<RF_RRHyperweave.description>Создаёт 75 ед. гиперткани.</RF_RRHyperweave.description>
+	
+	                 <!-- EN: Producing Devilstrand. -->
+	<MN_Devilstrand.jobString>Производство чёртовой нити.</MN_Devilstrand.jobString>
+	             <!-- EN: Replicate Devilstrand -->
+	<MN_Devilstrand.label>реплицировать чёртову нить</MN_Devilstrand.label>
+	                   <!-- EN: Creates 75 Devilstrand. -->
+	<MN_Devilstrand.description>Создаёт 75 ед. чёртовой нити.</MN_Devilstrand.description>
+	
+	                   <!-- EN: Producing Camel Leather. -->
+	<MN_Leather_Camel.jobString>Производство верблюжьей кожи.</MN_Leather_Camel.jobString>
+	               <!-- EN: Replicate Camel Leather -->
+	<MN_Leather_Camel.label>реплицировать верблюжью кожу</MN_Leather_Camel.label>
+	                     <!-- EN: Creates 75 Camel Leather. -->
+	<MN_Leather_Camel.description>Создаёт 75 ед. верблюжьей кожи.</MN_Leather_Camel.description>
+	
+	                <!-- EN: Producing Thrumbo Fur. -->
+	<MN_Thrumbofur.jobString>Производство меха трумбо.</MN_Thrumbofur.jobString>
+	            <!-- EN: Replicate Thrumbo Fur -->
+	<MN_Thrumbofur.label>реплицировать мех трумбо</MN_Thrumbofur.label>
+	                  <!-- EN: Creates 75 Thrumbo Fur. -->
+	<MN_Thrumbofur.description>Создаёт 75 ед. меха трумбо.</MN_Thrumbofur.description>
+	
+	                  <!-- EN: Producing Alpha Thrumbo Fur. -->
+	<MN_AlphaThrumbo.jobString>Производство меха альфа-трумбо.</MN_AlphaThrumbo.jobString>
+	              <!-- EN: Replicate Alpha Thrumbo Fur -->
+	<MN_AlphaThrumbo.label>реплицировать мех альфа-трумбо</MN_AlphaThrumbo.label>
+	                    <!-- EN: Creates 75 Alpha Thrumbo Fur. -->
+	<MN_AlphaThrumbo.description>Создаёт 75 ед. меха альфа-трумбо.</MN_AlphaThrumbo.description>
+	
+	                  <!-- EN: Producing Chitin. -->
+	<MN_VFEI2_Chitin.jobString>Производство хитина.</MN_VFEI2_Chitin.jobString>
+	              <!-- EN: Replicate Chitin -->
+	<MN_VFEI2_Chitin.label>реплицировать хитин</MN_VFEI2_Chitin.label>
+	                    <!-- EN: Creates 75 Chitin. -->
+	<MN_VFEI2_Chitin.description>Создаёт 75 ед. хитина.</MN_VFEI2_Chitin.description>
+	
+	               <!-- EN: Producing granite. -->
+	<RF_RRGranite.jobString>Производство гранитных блоков.</RF_RRGranite.jobString>
+	           <!-- EN: Replicate Granite Blocks -->
+	<RF_RRGranite.label>реплицировать гранитные блоки</RF_RRGranite.label>
+	                 <!-- EN: Creates 75 Granite. -->
+	<RF_RRGranite.description>Создаёт 75 гранитных блоков.</RF_RRGranite.description>
+	
+	                 <!-- EN: Producing limestone. -->
+	<RF_RRLimestone.jobString>Производство известняковых блоков.</RF_RRLimestone.jobString>
+	             <!-- EN: Replicate Limestone Blocks -->
+	<RF_RRLimestone.label>реплицировать известняковые блоки</RF_RRLimestone.label>
+	                   <!-- EN: Creates 75 Limestone. -->
+	<RF_RRLimestone.description>Создаёт 75 известняковых блоков.</RF_RRLimestone.description>
+	
+	                 <!-- EN: Producing sandstone. -->
+	<RF_RRSandstone.jobString>Производство блоков песчаника.</RF_RRSandstone.jobString>
+	             <!-- EN: Replicate Sandstone Blocks -->
+	<RF_RRSandstone.label>реплицировать блоки песчаника</RF_RRSandstone.label>
+	                   <!-- EN: Creates 75 Sandstone. -->
+	<RF_RRSandstone.description>Создаёт 75 блоков песчаника.</RF_RRSandstone.description>
+	
+	             <!-- EN: Producing slate. -->
+	<RF_RRSlate.jobString>Производство сланцевых блоков.</RF_RRSlate.jobString>
+	         <!-- EN: Replicate Slate Blocks -->
+	<RF_RRSlate.label>реплицировать сланцевые блоки</RF_RRSlate.label>
+	               <!-- EN: Creates 75 Slate. -->
+	<RF_RRSlate.description>Создаёт 75 сланцевых блоков.</RF_RRSlate.description>
+	
+	              <!-- EN: Producing marble. -->
+	<RF_RRMarble.jobString>Производство мраморных блоков.</RF_RRMarble.jobString>
+	          <!-- EN: Replicate Marble Blocks -->
+	<RF_RRMarble.label>реплицировать мраморные блоки</RF_RRMarble.label>
+	                <!-- EN: Creates 75 Marble. -->
+	<RF_RRMarble.description>Создаёт 75 мраморных блоков.</RF_RRMarble.description>
+	
+	                    <!-- EN: Producing Vacstone Blocks. -->
+	<MN_BlocksVacstone.jobString>Производство вакуумных блоков.</MN_BlocksVacstone.jobString>
+	                <!-- EN: Replicate Vacstone Blocks -->
+	<MN_BlocksVacstone.label>реплицировать вакуумные блоки</MN_BlocksVacstone.label>
+	                      <!-- EN: Creates 75 Vacstone Blocks. -->
+	<MN_BlocksVacstone.description>Создаёт 75 вакуумных блоков.</MN_BlocksVacstone.description>
+	
+	               <!-- EN: Producing Dark Steel. -->
+	<MN_DarkSteel.jobString>Производство тёмной стали.</MN_DarkSteel.jobString>
+	           <!-- EN: Replicate Dark Steel -->
+	<MN_DarkSteel.label>реплицировать тёмную сталь</MN_DarkSteel.label>
+	                 <!-- EN: Creates 100 Dark Steel. -->
+	<MN_DarkSteel.description>Создаёт 100 ед. тёмной стали.</MN_DarkSteel.description>
+	
+	                        <!-- EN: Producing Darkened Dark Steel. -->
+	<MN_DarkSteel_Darkened.jobString>Производство затемнённой тёмной стали.</MN_DarkSteel_Darkened.jobString>
+	                    <!-- EN: Replicate Darkened Dark Steel -->
+	<MN_DarkSteel_Darkened.label>реплицировать затемнённую тёмную сталь</MN_DarkSteel_Darkened.label>
+	                          <!-- EN: Creates 100 Darkened Dark Steel. -->
+	<MN_DarkSteel_Darkened.description>Создаёт 100 ед. затемнённой тёмной стали.</MN_DarkSteel_Darkened.description>
+	
+	                     <!-- EN: Producing White Dark Steel. -->
+	<MN_DarkSteel_White.jobString>Производство белой тёмной стали.</MN_DarkSteel_White.jobString>
+	                 <!-- EN: Replicate White Dark Steel -->
+	<MN_DarkSteel_White.label>реплицировать белую тёмную сталь</MN_DarkSteel_White.label>
+	                       <!-- EN: Creates 100 White Dark Steel. -->
+	<MN_DarkSteel_White.description>Создаёт 100 ед. белой тёмной стали.</MN_DarkSteel_White.description>
+	
+	                     <!-- EN: Producing Black Dark Steel. -->
+	<MN_DarkSteel_Black.jobString>Производство чёрной тёмной стали.</MN_DarkSteel_Black.jobString>
+	                 <!-- EN: Replicate Black Dark Steel -->
+	<MN_DarkSteel_Black.label>реплицировать чёрную тёмную сталь</MN_DarkSteel_Black.label>
+	                       <!-- EN: Creates 100 Black Dark Steel. -->
+	<MN_DarkSteel_Black.description>Создаёт 100 ед. чёрной тёмной стали.</MN_DarkSteel_Black.description>
+	
+	                    <!-- EN: Producing Golden Dark Steel. -->
+	<MN_DarkSteel_Gold.jobString>Производство золочёной тёмной стали.</MN_DarkSteel_Gold.jobString>
+	                <!-- EN: Replicate Golden Dark Steel -->
+	<MN_DarkSteel_Gold.label>реплицировать золочёную тёмную сталь</MN_DarkSteel_Gold.label>
+	                      <!-- EN: Creates 100 Golden Dark Steel. -->
+	<MN_DarkSteel_Gold.description>Создаёт 100 ед. золочёной тёмной стали.</MN_DarkSteel_Gold.description>
+	
+	                      <!-- EN: Producing Marbled Dark Steel. -->
+	<MN_DarkSteel_Marble.jobString>Производство мраморной тёмной стали.</MN_DarkSteel_Marble.jobString>
+	                  <!-- EN: Replicate Marbled Dark Steel -->
+	<MN_DarkSteel_Marble.label>реплицировать мраморную тёмную сталь</MN_DarkSteel_Marble.label>
+	                        <!-- EN: Creates 100 Marbled Dark Steel. -->
+	<MN_DarkSteel_Marble.description>Создаёт 100 ед. мраморной тёмной стали.</MN_DarkSteel_Marble.description>
+	
+	                <!-- EN: Producing Dark Matter. -->
+	<MN_darkmatter.jobString>Производство тёмной материи.</MN_darkmatter.jobString>
+	            <!-- EN: Replicate Dark Matter -->
+	<MN_darkmatter.label>реплицировать тёмную материю</MN_darkmatter.label>
+	                  <!-- EN: Creates a piece of Dark Matter. -->
+	<MN_darkmatter.description>Создаёт единицу тёмной материи.</MN_darkmatter.description>
+	
+	                <!-- EN: Producing EMP shell. -->
+	<RF_RREMPShell.jobString>Производство ЭМИ-снарядов.</RF_RREMPShell.jobString>
+	            <!-- EN: Replicate EMP Shell -->
+	<RF_RREMPShell.label>реплицировать ЭМИ-снаряды</RF_RREMPShell.label>
+	                  <!-- EN: Creates 25 EMP shells. -->
+	<RF_RREMPShell.description>Создаёт 25 ЭМИ-снарядов.</RF_RREMPShell.description>
+	
+	               <!-- EN: Producing HE shell. -->
+	<RF_RRHEShell.jobString>Производство ОФ-снарядов.</RF_RRHEShell.jobString>
+	           <!-- EN: Replicate HE Shell -->
+	<RF_RRHEShell.label>реплицировать ОФ-снаряды</RF_RRHEShell.label>
+	                 <!-- EN: Creates 25 HE shells. -->
+	<RF_RRHEShell.description>Создаёт 25 осколочно-фугасных снарядов.</RF_RRHEShell.description>
+	
+	                       <!-- EN: Producing Incendiary shell. -->
+	<RF_RRIncendiaryShell.jobString>Производство зажигательных снарядов.</RF_RRIncendiaryShell.jobString>
+	                   <!-- EN: Replicate Incendiary Shell -->
+	<RF_RRIncendiaryShell.label>реплицировать зажигательные снаряды</RF_RRIncendiaryShell.label>
+	                         <!-- EN: Creates 25 incendiary shells. -->
+	<RF_RRIncendiaryShell.description>Создаёт 25 зажигательных снарядов.</RF_RRIncendiaryShell.description>
+	
+	                     <!-- EN: Producing Firefoam shell. -->
+	<RF_RRFirefoamShell.jobString>Производство снарядов с пенотушителем.</RF_RRFirefoamShell.jobString>
+	                 <!-- EN: Replicate Firefoam Shell -->
+	<RF_RRFirefoamShell.label>реплицировать снаряды с пенотушителем</RF_RRFirefoamShell.label>
+	                       <!-- EN: Creates 25 firefoam shells. -->
+	<RF_RRFirefoamShell.description>Создаёт 25 снарядов с пенотушителем.</RF_RRFirefoamShell.description>
+	
+	                      <!-- EN: Producing Antigrain shell. -->
+	<RF_RRAntigrainShell.jobString>Производство антигрануляционных снарядов.</RF_RRAntigrainShell.jobString>
+	                  <!-- EN: Replicate Antigrain Shell -->
+	<RF_RRAntigrainShell.label>реплицировать антигрануляционные снаряды</RF_RRAntigrainShell.label>
+	                        <!-- EN: Creates 25 antigrain shells. -->
+	<RF_RRAntigrainShell.description>Создаёт 25 антигрануляционных снарядов.</RF_RRAntigrainShell.description>
+	
+	                 <!-- EN: Producing Toxic Shells. -->
+	<MN_Shell_Toxic.jobString>Производство токсичных снарядов.</MN_Shell_Toxic.jobString>
+	             <!-- EN: Replicate Toxic Shells -->
+	<MN_Shell_Toxic.label>реплицировать токсичные снаряды</MN_Shell_Toxic.label>
+	                   <!-- EN: Creates 25 Toxic Shells. -->
+	<MN_Shell_Toxic.description>Создаёт 25 токсичных снарядов.</MN_Shell_Toxic.description>
+	
+	                    <!-- EN: Producing Deadlife Shells. -->
+	<MN_Shell_Deadlife.jobString>Производство снарядов-реаниматоров.</MN_Shell_Deadlife.jobString>
+	                <!-- EN: Replicate Deadlife Shells -->
+	<MN_Shell_Deadlife.label>реплицировать снаряды-реаниматоры</MN_Shell_Deadlife.label>
+	                      <!-- EN: Creates 25 Deadlife Shells. -->
+	<MN_Shell_Deadlife.description>Создаёт 25 снарядов с «Мертвением».</MN_Shell_Deadlife.description>
+	
+	                  <!-- EN: Producing Basic Subcores. -->
+	<MN_SubcoreBasic.jobString>Производство простых субъядер.</MN_SubcoreBasic.jobString>
+	              <!-- EN: Replicate Basic Subcores -->
+	<MN_SubcoreBasic.label>реплицировать простые субъядра</MN_SubcoreBasic.label>
+	                    <!-- EN: Creates 10 Basic Subcores. -->
+	<MN_SubcoreBasic.description>Создаёт 10 простых субъядер.</MN_SubcoreBasic.description>
+	
+	                    <!-- EN: Producing Standard Subcores. -->
+	<MN_SubcoreRegular.jobString>Производство стандартных субъядер.</MN_SubcoreRegular.jobString>
+	                <!-- EN: Replicate Standard Subcores -->
+	<MN_SubcoreRegular.label>реплицировать стандартные субъядра</MN_SubcoreRegular.label>
+	                      <!-- EN: Creates 10 Standard Subcores. -->
+	<MN_SubcoreRegular.description>Создаёт 10 стандартных субъядер.</MN_SubcoreRegular.description>
+	
+	                 <!-- EN: Producing High Subcores. -->
+	<MN_SubcoreHigh.jobString>Производство высоких субъядер.</MN_SubcoreHigh.jobString>
+	             <!-- EN: Replicate High Subcores -->
+	<MN_SubcoreHigh.label>реплицировать высокие субъядра</MN_SubcoreHigh.label>
+	                   <!-- EN: Creates 10 High Subcores. -->
+	<MN_SubcoreHigh.description>Создаёт 10 высоких субъядер.</MN_SubcoreHigh.description>
+	
+	                   <!-- EN: Producing Persona Core. -->
+	<MN_AIPersonaCore.jobString>Производство ядра ИИ.</MN_AIPersonaCore.jobString>
+	               <!-- EN: Replicate Persona Core -->
+	<MN_AIPersonaCore.label>реплицировать ядро ИИ</MN_AIPersonaCore.label>
+	                     <!-- EN: Creates Persona Core. -->
+	<MN_AIPersonaCore.description>Создаёт ядро ИИ.</MN_AIPersonaCore.description>
+	
+	                            <!-- EN: Producing Techprof Subpersona Core. -->
+	<MN_TechprofSubpersonaCore.jobString>Производство техноядра.</MN_TechprofSubpersonaCore.jobString>
+	                        <!-- EN: Replicate Techprof Subpersona Core -->
+	<MN_TechprofSubpersonaCore.label>реплицировать техноядро</MN_TechprofSubpersonaCore.label>
+	                              <!-- EN: Creates Techprof Subpersona Core. -->
+	<MN_TechprofSubpersonaCore.description>Создаёт техноядро.</MN_TechprofSubpersonaCore.description>
+	
+	                <!-- EN: Producing Signal Chips. -->
+	<MN_SignalChip.jobString>Производство сигнальных чипов.</MN_SignalChip.jobString>
+	            <!-- EN: Replicate Signal Chips -->
+	<MN_SignalChip.label>реплицировать сигнальные чипы</MN_SignalChip.label>
+	                  <!-- EN: Creates 10 Signal Chips. -->
+	<MN_SignalChip.description>Создаёт 10 сигнальных чипов.</MN_SignalChip.description>
+	
+	                    <!-- EN: Producing Powerfocus Chips. -->
+	<MN_PowerfocusChip.jobString>Производство энергофокусных чипов.</MN_PowerfocusChip.jobString>
+	                <!-- EN: Replicate Powerfocus Chips -->
+	<MN_PowerfocusChip.label>реплицировать энергофокусные чипы</MN_PowerfocusChip.label>
+	                      <!-- EN: Creates 10 Powerfocus Chips. -->
+	<MN_PowerfocusChip.description>Создаёт 10 энергофокусных чипов.</MN_PowerfocusChip.description>
+	
+	                         <!-- EN: Producing Nano Structuring Chips. -->
+	<MN_NanostructuringChip.jobString>Производство наноструктурных чипов.</MN_NanostructuringChip.jobString>
+	                     <!-- EN: Replicate Nano Structuring Chips -->
+	<MN_NanostructuringChip.label>реплицировать наноструктурные чипы</MN_NanostructuringChip.label>
+	                           <!-- EN: Creates 10 Nano Structuring Chips. -->
+	<MN_NanostructuringChip.description>Создаёт 10 наноструктурных чипов.</MN_NanostructuringChip.description>
+	
+	                   <!-- EN: Producing Gravlite Panels. -->
+	<MN_GravlitePanel.jobString>Производство панелей гравлита.</MN_GravlitePanel.jobString>
+	               <!-- EN: Replicate Gravlite Panels -->
+	<MN_GravlitePanel.label>реплицировать панели гравлита</MN_GravlitePanel.label>
+	                     <!-- EN: Creates 75 Gravlite Panels. -->
+	<MN_GravlitePanel.description>Создаёт 75 панелей гравлита.</MN_GravlitePanel.description>
+	
+	              <!-- EN: Producing a Gravcore. -->
+	<MN_Gravcore.jobString>Производство грав-ядра.</MN_Gravcore.jobString>
+	          <!-- EN: Replicate Gravcore -->
+	<MN_Gravcore.label>реплицировать грав-ядро</MN_Gravcore.label>
+	                <!-- EN: Creates a Gravcore. -->
+	<MN_Gravcore.description>Создаёт грав-ядро.</MN_Gravcore.description>
+	
+	                   <!-- EN: Producing Shuttle Engines. -->
+	<MN_ShuttleEngine.jobString>Производство двигателей шаттла.</MN_ShuttleEngine.jobString>
+	               <!-- EN: Replicate Shuttle Engine -->
+	<MN_ShuttleEngine.label>реплицировать двигатели шаттла</MN_ShuttleEngine.label>
+	                     <!-- EN: Creates 5 Shuttle Engines. -->
+	<MN_ShuttleEngine.description>Создаёт 5 двигателей шаттла.</MN_ShuttleEngine.description>
+	
+	                        <!-- EN: Producing Psylink Neuroformer. -->
+	<MN_PsylinkNeuroformer.jobString>Производство пси-усилителей.</MN_PsylinkNeuroformer.jobString>
+	                    <!-- EN: Replicate Psylink Neuroformer -->
+	<MN_PsylinkNeuroformer.label>реплицировать пси-усилитель</MN_PsylinkNeuroformer.label>
+	                          <!-- EN: Creates a Psylink Neuroformer. -->
+	<MN_PsylinkNeuroformer.description>Создаёт пси-усилитель.</MN_PsylinkNeuroformer.description>
+	
+	                         <!-- EN: Producing Psychic Animal Pulser. -->
+	<MN_PsychicAnimalPulser.jobString>Производство психоизлучателей ярости животных.</MN_PsychicAnimalPulser.jobString>
+	                     <!-- EN: Replicate Psychic Animal Pulser -->
+	<MN_PsychicAnimalPulser.label>реплицировать излучатель ярости животных</MN_PsychicAnimalPulser.label>
+	                           <!-- EN: Creates a Psychic Animal Pulser. -->
+	<MN_PsychicAnimalPulser.description>Создаёт психоизлучатель ярости животных.</MN_PsychicAnimalPulser.description>
+	
+	                         <!-- EN: Producing Psychic Soothe Pulser. -->
+	<MN_PsychicSoothePulser.jobString>Производство психоизлучателей умиротворения.</MN_PsychicSoothePulser.jobString>
+	                     <!-- EN: Replicate Psychic Soothe Pulser -->
+	<MN_PsychicSoothePulser.label>реплицировать излучатель умиротворения</MN_PsychicSoothePulser.label>
+	                           <!-- EN: Creates a Psychic Soothe Pulser. -->
+	<MN_PsychicSoothePulser.description>Создаёт психоизлучатель умиротворения.</MN_PsychicSoothePulser.description>
+	
+	                       <!-- EN: Producing Shard Animal Pulser. -->
+	<MN_ShardAnimalPulser.jobString>Производство осколочных пульсаров животных.</MN_ShardAnimalPulser.jobString>
+	                   <!-- EN: Replicate Shard Animal Pulser -->
+	<MN_ShardAnimalPulser.label>реплицировать осколочный пульсар животных</MN_ShardAnimalPulser.label>
+	                         <!-- EN: Creates a Shard Animal Pulser. -->
+	<MN_ShardAnimalPulser.description>Создаёт осколочный пульсар животных.</MN_ShardAnimalPulser.description>
+	
+	                       <!-- EN: Producing Biomutation Pulser. -->
+	<MN_BiomutationPulser.jobString>Производство пульсаров биомутации.</MN_BiomutationPulser.jobString>
+	                   <!-- EN: Replicate Biomutation Pulser -->
+	<MN_BiomutationPulser.label>реплицировать пульсар биомутации</MN_BiomutationPulser.label>
+	                         <!-- EN: Creates a Biomutation Pulser. -->
+	<MN_BiomutationPulser.description>Создаёт пульсар биомутации.</MN_BiomutationPulser.description>
+	
+	                        <!-- EN: Producing Survival Packs. -->
+	<RF_ORMealSurvivalPack.jobString>Производство сухпайков.</RF_ORMealSurvivalPack.jobString>
+	                    <!-- EN: Replicate Survival pack -->
+	<RF_ORMealSurvivalPack.label>реплицировать ИРП</RF_ORMealSurvivalPack.label>
+	                          <!-- EN: Creates 10 Survival Packs. -->
+	<RF_ORMealSurvivalPack.description>Создаёт 10 сухих пайков.</RF_ORMealSurvivalPack.description>
+	
+	                  <!-- EN: Producing Simple Meals. -->
+	<RF_ORMealSimple.jobString>Производство простых блюд.</RF_ORMealSimple.jobString>
+	              <!-- EN: Replicate Simple meal -->
+	<RF_ORMealSimple.label>реплицировать простое блюдо</RF_ORMealSimple.label>
+	                    <!-- EN: Creates 10 Simple Meals. -->
+	<RF_ORMealSimple.description>Создаёт 10 простых блюд.</RF_ORMealSimple.description>
+	
+	                <!-- EN: Producing fine meals. -->
+	<RF_ORMealFine.jobString>Производство вкусных блюд.</RF_ORMealFine.jobString>
+	            <!-- EN: Replicate Fine meal -->
+	<RF_ORMealFine.label>реплицировать вкусное блюдо</RF_ORMealFine.label>
+	                  <!-- EN: Creates 10 Fine Meals. -->
+	<RF_ORMealFine.description>Создаёт 10 вкусных блюд.</RF_ORMealFine.description>
+	
+	                  <!-- EN: Producing Lavish Meals. -->
+	<RF_ORMealLavish.jobString>Производство шикарных блюд.</RF_ORMealLavish.jobString>
+	              <!-- EN: Replicate Lavish meal -->
+	<RF_ORMealLavish.label>реплицировать шикарное блюдо</RF_ORMealLavish.label>
+	                    <!-- EN: Creates 10 Lavish Meals. -->
+	<RF_ORMealLavish.description>Создаёт 10 шикарных блюд.</RF_ORMealLavish.description>
+	
+	                 <!-- EN: Producing Hemogen Packs. -->
+	<MN_HemogenPack.jobString>Производство гемогена.</MN_HemogenPack.jobString>
+	             <!-- EN: Replicate Hemogen Packs -->
+	<MN_HemogenPack.label>реплицировать гемоген</MN_HemogenPack.label>
+	                   <!-- EN: Creates 10 Hemogen Packs. -->
+	<MN_HemogenPack.description>Создаёт 10 упаковок гемогена.</MN_HemogenPack.description>
+	
+	              <!-- EN: Producing Baby Food. -->
+	<MN_BabyFood.jobString>Производство детского питания.</MN_BabyFood.jobString>
+	          <!-- EN: Replicate Baby Food -->
+	<MN_BabyFood.label>реплицировать детское питание</MN_BabyFood.label>
+	                <!-- EN: Creates 75 Baby Food. -->
+	<MN_BabyFood.description>Создаёт 75 ед. детского питания.</MN_BabyFood.description>
+	
+	              <!-- EN: Producing Kibble. -->
+	<RF_ORKibble.jobString>Производство комбикорма.</RF_ORKibble.jobString>
+	          <!-- EN: Replicate Kibble -->
+	<RF_ORKibble.label>реплицировать комбикорм</RF_ORKibble.label>
+	                <!-- EN: Creates 75 Kibble. -->
+	<RF_ORKibble.description>Создаёт 75 ед. комбикорма.</RF_ORKibble.description>
+	
+	            <!-- EN: Producing Hops. -->
+	<RF_ORHops.jobString>Производство хмеля.</RF_ORHops.jobString>
+	        <!-- EN: Replicate Hops -->
+	<RF_ORHops.label>реплицировать хмель</RF_ORHops.label>
+	              <!-- EN: Creates 75 Hops. -->
+	<RF_ORHops.description>Создаёт 75 ед. хмеля.</RF_ORHops.description>
+	
+	           <!-- EN: Producing Hay. -->
+	<RF_ORHay.jobString>Производство сена.</RF_ORHay.jobString>
+	       <!-- EN: Replicate Hay -->
+	<RF_ORHay.label>реплицировать сено</RF_ORHay.label>
+	             <!-- EN: Replicate 200 Hay. -->
+	<RF_ORHay.description>Создаёт 200 ед. сена.</RF_ORHay.description>
+	
+	                <!-- EN: Producing Pemmican. -->
+	<RF_ORPemmican.jobString>Производство пеммикана.</RF_ORPemmican.jobString>
+	            <!-- EN: Replicate Pemmican -->
+	<RF_ORPemmican.label>реплицировать пеммикан</RF_ORPemmican.label>
+	                  <!-- EN: Creates 75 Pemmican. -->
+	<RF_ORPemmican.description>Создаёт 75 ед. пеммикана.</RF_ORPemmican.description>
+	
+	                 <!-- EN: Producing Smokeleaves. -->
+	<RF_ORSmokeleaf.jobString>Производство дымолиста.</RF_ORSmokeleaf.jobString>
+	             <!-- EN: Replicate Smokeleaf -->
+	<RF_ORSmokeleaf.label>реплицировать дымолист</RF_ORSmokeleaf.label>
+	                   <!-- EN: Creates 75 Smokeleaf. -->
+	<RF_ORSmokeleaf.description>Создаёт 75 ед. дымолиста.</RF_ORSmokeleaf.description>
+	
+	               <!-- EN: Producing Rice. -->
+	<RF_ORRawRice.jobString>Производство риса.</RF_ORRawRice.jobString>
+	           <!-- EN: Replicate Rice -->
+	<RF_ORRawRice.label>реплицировать рис</RF_ORRawRice.label>
+	                 <!-- EN: Creates 75 Rice. -->
+	<RF_ORRawRice.description>Создаёт 75 ед. риса.</RF_ORRawRice.description>
+	
+	               <!-- EN: Producing Fungi. -->
+	<MN_RawFungus.jobString>Производство грибов.</MN_RawFungus.jobString>
+	           <!-- EN: Replicate Raw Fungus -->
+	<MN_RawFungus.label>реплицировать грибы</MN_RawFungus.label>
+	                 <!-- EN: Creates 75 Raw Fungus. -->
+	<MN_RawFungus.description>Создаёт 75 ед. сырых грибов.</MN_RawFungus.description>
+	
+	                   <!-- EN: Producing Potatoes. -->
+	<RF_ORRawPotatoes.jobString>Производство картофеля.</RF_ORRawPotatoes.jobString>
+	               <!-- EN: Replicate Potatoes -->
+	<RF_ORRawPotatoes.label>реплицировать картофель</RF_ORRawPotatoes.label>
+	                     <!-- EN: Creates 75 Potatoes. -->
+	<RF_ORRawPotatoes.description>Создаёт 75 ед. картофеля.</RF_ORRawPotatoes.description>
+	
+	               <!-- EN: Producing Corn. -->
+	<RF_ORRawCorn.jobString>Производство кукурузы.</RF_ORRawCorn.jobString>
+	           <!-- EN: Replicate Corn -->
+	<RF_ORRawCorn.label>реплицировать кукурузу</RF_ORRawCorn.label>
+	                 <!-- EN: Creates 75 Corn. -->
+	<RF_ORRawCorn.description>Создаёт 75 ед. кукурузы.</RF_ORRawCorn.description>
+	
+	                  <!-- EN: Producing Berries. -->
+	<RF_ORRawBerries.jobString>Производство ягод.</RF_ORRawBerries.jobString>
+	              <!-- EN: Replicate Berries -->
+	<RF_ORRawBerries.label>реплицировать ягоды</RF_ORRawBerries.label>
+	                    <!-- EN: Creates 75 Berries. -->
+	<RF_ORRawBerries.description>Создаёт 75 ед. ягод.</RF_ORRawBerries.description>
+	
+	                 <!-- EN: Producing Tendrilmoss. -->
+	<MN_Tendrilmoss.jobString>Производство усикообразного мха.</MN_Tendrilmoss.jobString>
+	             <!-- EN: Replicate Tendrilmoss -->
+	<MN_Tendrilmoss.label>реплицировать усикообразный мох</MN_Tendrilmoss.label>
+	                   <!-- EN: Creates 75 Tendrilmoss. -->
+	<MN_Tendrilmoss.description>Создаёт 75 ед. усикообразного мха.</MN_Tendrilmoss.description>
+	
+	                   <!-- EN: Producing Insect Jelly. -->
+	<RF_ORInsectJelly.jobString>Производство желе насекомых.</RF_ORInsectJelly.jobString>
+	               <!-- EN: Replicate Insect jelly -->
+	<RF_ORInsectJelly.label>реплицировать желе насекомых</RF_ORInsectJelly.label>
+	                     <!-- EN: Creates 75 Insect jelly. -->
+	<RF_ORInsectJelly.description>Создаёт 75 ед. желе насекомых.</RF_ORInsectJelly.description>
+	
+	                      <!-- EN: Producing Royal Insect Jelly. -->
+	<MN_RoyalInsectJelly.jobString>Производство королевского желе.</MN_RoyalInsectJelly.jobString>
+	                  <!-- EN: Replicate Royal Insect Jelly -->
+	<MN_RoyalInsectJelly.label>реплицировать королевское желе</MN_RoyalInsectJelly.label>
+	                        <!-- EN: Creates 150 Royal Insect Jelly. -->
+	<MN_RoyalInsectJelly.description>Создаёт 150 ед. королевского желе насекомых.</MN_RoyalInsectJelly.description>
+	
+	                 <!-- EN: Producing Chocolate. -->
+	<RF_ORChocolate.jobString>Производство шоколада.</RF_ORChocolate.jobString>
+	             <!-- EN: Replicate Chocolate -->
+	<RF_ORChocolate.label>реплицировать шоколад</RF_ORChocolate.label>
+	                   <!-- EN: Creates 75 Chocolate. -->
+	<RF_ORChocolate.description>Создаёт 75 ед. шоколада.</RF_ORChocolate.description>
+	
+	            <!-- EN: Producing Meat. -->
+	<RF_ORMeat.jobString>Производство мяса.</RF_ORMeat.jobString>
+	        <!-- EN: Replicate Meat -->
+	<RF_ORMeat.label>реплицировать мясо</RF_ORMeat.label>
+	              <!-- EN: Creates 75 Meat. -->
+	<RF_ORMeat.description>Создаёт 75 ед. мяса.</RF_ORMeat.description>
+	
+	                 <!-- EN: Processing Meat. -->
+	<MN_SoylentMeat.jobString>Переработка мяса.</MN_SoylentMeat.jobString>
+	             <!-- EN: Process Soylent Meat -->
+	<MN_SoylentMeat.label>произвести мясо «Сойлент»</MN_SoylentMeat.label>
+	                   <!-- EN: Converts Human Meat to Beef. -->
+	<MN_SoylentMeat.description>Превращает человечину в говядину.</MN_SoylentMeat.description>
+	
+	                   <!-- EN: Processing Meat. -->
+	<MN_SoylentMeat10.jobString>Переработка мяса.</MN_SoylentMeat10.jobString>
+	               <!-- EN: Process 10 Soylent Meat -->
+	<MN_SoylentMeat10.label>произвести 10 мяса «Сойлент»</MN_SoylentMeat10.label>
+	                     <!-- EN: Converts 10 Human Meat to Beef. -->
+	<MN_SoylentMeat10.description>Превращает 10 ед. человечины в говядину.</MN_SoylentMeat10.description>
+	
+	                   <!-- EN: Processing Meat. -->
+	<MN_SoylentMeat75.jobString>Переработка мяса.</MN_SoylentMeat75.jobString>
+	               <!-- EN: Process 75 Soylent Meat -->
+	<MN_SoylentMeat75.label>произвести 75 мяса «Сойлент»</MN_SoylentMeat75.label>
+	                     <!-- EN: Converts 75 Human Meat to Beef. -->
+	<MN_SoylentMeat75.description>Превращает 75 ед. человечины в говядину.</MN_SoylentMeat75.description>
+	
+	                      <!-- EN: Producing Herbal Medicine. -->
+	<RF_MRHerbalMedicine.jobString>Производство травяных медикаментов.</RF_MRHerbalMedicine.jobString>
+	                  <!-- EN: Replicate Herbal medicine -->
+	<RF_MRHerbalMedicine.label>реплицировать травяные медикаменты</RF_MRHerbalMedicine.label>
+	                        <!-- EN: Creates 25 Herbal medicine. -->
+	<RF_MRHerbalMedicine.description>Создаёт 25 ед. травяных медикаментов.</RF_MRHerbalMedicine.description>
+	
+	                <!-- EN: Producing Medicine. -->
+	<RF_MRMedicine.jobString>Производство медикаментов.</RF_MRMedicine.jobString>
+	            <!-- EN: Replicate Medicine -->
+	<RF_MRMedicine.label>реплицировать медикаменты</RF_MRMedicine.label>
+	                  <!-- EN: Creates 25 Medicine. -->
+	<RF_MRMedicine.description>Создаёт 25 медикаментов.</RF_MRMedicine.description>
+	
+	                         <!-- EN: Producing Glitterworld medicine. -->
+	<RF_MRUltraTechMedicine.jobString>Производство передовых медикаментов.</RF_MRUltraTechMedicine.jobString>
+	                     <!-- EN: Replicate Glitterworld medicine -->
+	<RF_MRUltraTechMedicine.label>реплицировать медикаменты сверхтехнологичных миров</RF_MRUltraTechMedicine.label>
+	                           <!-- EN: Creates 25 Glitterworld medicine. -->
+	<RF_MRUltraTechMedicine.description>Создаёт 25 медикаментов сверхтехнологичных миров.</RF_MRUltraTechMedicine.description>
+	
+	               <!-- EN: Producing Toxic Wastepacks. -->
+	<MN_Wastepack.jobString>Производство токсичных отходов.</MN_Wastepack.jobString>
+	           <!-- EN: Replicate Toxic Wastepacks -->
+	<MN_Wastepack.label>реплицировать токсичные отходы</MN_Wastepack.label>
+	                 <!-- EN: Creates 5 Toxic Wastepacks. -->
+	<MN_Wastepack.description>Создаёт 5 упаковок токсичных отходов.</MN_Wastepack.description>
+	
+	                   <!-- EN: Producing neutroamine. -->
+	<RF_MRNeutroamine.jobString>Производство нейтроамина.</RF_MRNeutroamine.jobString>
+	               <!-- EN: Replicate Neutroamine -->
+	<RF_MRNeutroamine.label>реплицировать нейтроамин</RF_MRNeutroamine.label>
+	                     <!-- EN: Creates 150 neutroamine. -->
+	<RF_MRNeutroamine.description>Создаёт 150 ед. нейтроамина.</RF_MRNeutroamine.description>
+	
+	                <!-- EN: Producing ambrosia. -->
+	<RF_MRAmbrosia.jobString>Производство амброзии.</RF_MRAmbrosia.jobString>
+	            <!-- EN: Replicate Ambrosia -->
+	<RF_MRAmbrosia.label>реплицировать амброзию</RF_MRAmbrosia.label>
+	                  <!-- EN: Creates 150 ambrosia. -->
+	<RF_MRAmbrosia.description>Создаёт 150 ед. амброзии.</RF_MRAmbrosia.description>
+	
+	               <!-- EN: Producing GoJuice. -->
+	<RF_MRGoJuice.jobString>Производство го-сока.</RF_MRGoJuice.jobString>
+	           <!-- EN: Replicate Go-Juice -->
+	<RF_MRGoJuice.label>реплицировать го-сок</RF_MRGoJuice.label>
+	                 <!-- EN: Creates 150 GoJuice. -->
+	<RF_MRGoJuice.description>Создаёт 150 порций го-сока.</RF_MRGoJuice.description>
+	
+	                  <!-- EN: Producing Luciferium. -->
+	<RF_MRLuciferium.jobString>Производство люциферия.</RF_MRLuciferium.jobString>
+	              <!-- EN: Replicate Luciferium -->
+	<RF_MRLuciferium.label>реплицировать люциферий</RF_MRLuciferium.label>
+	                    <!-- EN: Creates 150 Luciferium. -->
+	<RF_MRLuciferium.description>Создаёт 150 ед. люциферия.</RF_MRLuciferium.description>
+	
+	                    <!-- EN: Producing Penoxycyline. -->
+	<RF_MRPenoxycyline.jobString>Производство пеноксицилина.</RF_MRPenoxycyline.jobString>
+	                <!-- EN: Replicate Penoxycyline -->
+	<RF_MRPenoxycyline.label>реплицировать пеноксицилин</RF_MRPenoxycyline.label>
+	                      <!-- EN: Creates 150 Penoxycyline. -->
+	<RF_MRPenoxycyline.description>Создаёт 150 таб. пеноксицилина.</RF_MRPenoxycyline.description>
+	
+	             <!-- EN: Producing Flake. -->
+	<RF_MRFlake.jobString>Производство хлопушки.</RF_MRFlake.jobString>
+	         <!-- EN: Replicate Flake -->
+	<RF_MRFlake.label>реплицировать хлопушку</RF_MRFlake.label>
+	               <!-- EN: Creates 150 Flake. -->
+	<RF_MRFlake.description>Создаёт 150 порций хлопушки.</RF_MRFlake.description>
+	
+	                   <!-- EN: Producing PsychiteTea. -->
+	<RF_MRPsychiteTea.jobString>Производство психинового чая.</RF_MRPsychiteTea.jobString>
+	               <!-- EN: Replicate PsychiteTea -->
+	<RF_MRPsychiteTea.label>реплицировать психиновый чай</RF_MRPsychiteTea.label>
+	                     <!-- EN: Creates 150 PsychiteTea. -->
+	<RF_MRPsychiteTea.description>Создаёт 150 порций психинового чая.</RF_MRPsychiteTea.description>
+	
+	            <!-- EN: Producing Yayo. -->
+	<RF_MRYayo.jobString>Производство яйо.</RF_MRYayo.jobString>
+	        <!-- EN: Replicate Yayo -->
+	<RF_MRYayo.label>реплицировать яйо</RF_MRYayo.label>
+	              <!-- EN: Creates 150 Yayo. -->
+	<RF_MRYayo.description>Создаёт 150 порций яйо.</RF_MRYayo.description>
+	
+	              <!-- EN: Producing WakeUp. -->
+	<RF_MRWakeUp.jobString>Производство бодрина.</RF_MRWakeUp.jobString>
+	          <!-- EN: Replicate Wake-Up -->
+	<RF_MRWakeUp.label>реплицировать бодрин</RF_MRWakeUp.label>
+	                <!-- EN: Creates 150 Wake-Up. -->
+	<RF_MRWakeUp.description>Создаёт 150 таб. бодрина.</RF_MRWakeUp.description>
+	
+	            <!-- EN: Producing Beer. -->
+	<RF_MRBeer.jobString>Производство пива.</RF_MRBeer.jobString>
+	        <!-- EN: Replicate Beer -->
+	<RF_MRBeer.label>реплицировать пиво</RF_MRBeer.label>
+	              <!-- EN: Creates 25 Beer. -->
+	<RF_MRBeer.description>Создаёт 25 бут. пива.</RF_MRBeer.description>
+	
+	                       <!-- EN: Producing Healer Mech Serum. -->
+	<RF_MRMechSerumHealer.jobString>Производство исцеляющей сыворотки.</RF_MRMechSerumHealer.jobString>
+	                   <!-- EN: Replicate Healer Mech Serum -->
+	<RF_MRMechSerumHealer.label>реплицировать исцеляющую сыворотку</RF_MRMechSerumHealer.label>
+	                         <!-- EN: Creates 10 Healer Mech Serums. -->
+	<RF_MRMechSerumHealer.description>Создаёт 10 исцеляющих сывороток.</RF_MRMechSerumHealer.description>
+	
+	                            <!-- EN: Producing mech serum resurrector. -->
+	<RF_MRMechSerumResurrector.jobString>Производство воскрешающей сыворотки.</RF_MRMechSerumResurrector.jobString>
+	                        <!-- EN: Replicate Resurrector Mech Serum -->
+	<RF_MRMechSerumResurrector.label>реплицировать воскрешающую сыворотку</RF_MRMechSerumResurrector.label>
+	                              <!-- EN: Creates 10 Resurrector Mech Serums. -->
+	<RF_MRMechSerumResurrector.description>Создаёт 10 воскрешающих сывороток.</RF_MRMechSerumResurrector.description>
+	
+	                            <!-- EN: Producing Deathrest Capacity Serums. -->
+	<MN_DeathrestCapacitySerum.jobString>Производство сывороток ёмкости сна.</MN_DeathrestCapacitySerum.jobString>
+	                        <!-- EN: Replicate Deathrest Capacity Serums -->
+	<MN_DeathrestCapacitySerum.label>реплицировать сыворотки ёмкости сна</MN_DeathrestCapacitySerum.label>
+	                              <!-- EN: Creates 10 Deathrest Capacity Serums. -->
+	<MN_DeathrestCapacitySerum.description>Создаёт 10 сывороток ёмкости сна.</MN_DeathrestCapacitySerum.description>
+	
+	                    <!-- EN: Producing Voidsight Serums. -->
+	<MN_VoidsightSerum.jobString>Производство сывороток видения бездны.</MN_VoidsightSerum.jobString>
+	                <!-- EN: Replicate Voidsight Serums -->
+	<MN_VoidsightSerum.label>реплицировать сыворотки видения бездны</MN_VoidsightSerum.label>
+	                      <!-- EN: Creates 10 Voidsight Serums. -->
+	<MN_VoidsightSerum.description>Создаёт 10 сывороток видения бездны.</MN_VoidsightSerum.description>
+	
+	                     <!-- EN: Producing Metalblood Serums. -->
+	<MN_MetalbloodSerum.jobString>Производство сывороток металлокровности.</MN_MetalbloodSerum.jobString>
+	                 <!-- EN: Replicate Metalblood Serums -->
+	<MN_MetalbloodSerum.label>реплицировать сыворотки металлокровности</MN_MetalbloodSerum.label>
+	                       <!-- EN: Creates 10 Metalblood Serums. -->
+	<MN_MetalbloodSerum.description>Создаёт 10 сывороток металлокровности.</MN_MetalbloodSerum.description>
+	
+	                     <!-- EN: Producing Juggernaut Serums. -->
+	<MN_JuggernautSerum.jobString>Производство сывороток джаггернаута.</MN_JuggernautSerum.jobString>
+	                 <!-- EN: Replicate Juggernaut Serums -->
+	<MN_JuggernautSerum.label>реплицировать сыворотки джаггернаута</MN_JuggernautSerum.label>
+	                       <!-- EN: Creates 10 Juggernaut Serums. -->
+	<MN_JuggernautSerum.description>Создаёт 10 сывороток джаггернаута.</MN_JuggernautSerum.description>
+	
+	                   <!-- EN: Producing Mind-Numb Serums. -->
+	<MN_MindNumbSerum.jobString>Производство успокаивающих сывороток.</MN_MindNumbSerum.jobString>
+	               <!-- EN: Replicate Mind-Numb Serums -->
+	<MN_MindNumbSerum.label>реплицировать успокаивающие сыворотки</MN_MindNumbSerum.label>
+	                     <!-- EN: Creates 10 Mind-Numb Serums. -->
+	<MN_MindNumbSerum.description>Создаёт 10 успокаивающих сывороток.</MN_MindNumbSerum.description>
+	
+	                            <!-- EN: Producing Ghoul Resurrection Serums. -->
+	<MN_GhoulResurrectionSerum.jobString>Производство сывороток воскрешения гулей.</MN_GhoulResurrectionSerum.jobString>
+	                        <!-- EN: Replicate Ghoul Resurrection Serums -->
+	<MN_GhoulResurrectionSerum.label>реплицировать сыворотки воскрешения гулей</MN_GhoulResurrectionSerum.label>
+	                              <!-- EN: Creates 10 Ghoul Resurrection Serums. -->
+	<MN_GhoulResurrectionSerum.description>Создаёт 10 сывороток воскрешения гулей.</MN_GhoulResurrectionSerum.description>
+	
+	                    <!-- EN: Producing Archite Capsules. -->
+	<MN_ArchiteCapsule.jobString>Производство капсул архитов.</MN_ArchiteCapsule.jobString>
+	                <!-- EN: Replicate Archite Capsules -->
+	<MN_ArchiteCapsule.label>реплицировать капсулы архитов</MN_ArchiteCapsule.label>
+	                      <!-- EN: Creates 25 Archite Capsules. -->
+	<MN_ArchiteCapsule.description>Создаёт 25 капсул архитов.</MN_ArchiteCapsule.description>
+	
+	              <!-- EN: Producing a Mechlink. -->
+	<MN_Mechlink.jobString>Производство мех-линка.</MN_Mechlink.jobString>
+	          <!-- EN: Replicate Mechlink -->
+	<MN_Mechlink.label>реплицировать мех-линк</MN_Mechlink.label>
+	                <!-- EN: Creates a Mechlink. -->
+	<MN_Mechlink.description>Создаёт мех-линк.</MN_Mechlink.description>
+	
+	                       <!-- EN: Producing Sentience Catalysts. -->
+	<MN_SentienceCatalyst.jobString>Производство катализаторов разума.</MN_SentienceCatalyst.jobString>
+	                   <!-- EN: Replicate Sentience Catalysts -->
+	<MN_SentienceCatalyst.label>реплицировать катализаторы разума</MN_SentienceCatalyst.label>
+	                         <!-- EN: Creates 10 Sentience Catalysts. -->
+	<MN_SentienceCatalyst.description>Создаёт 10 катализаторов разума.</MN_SentienceCatalyst.description>
+	
+	                    <!-- EN: Producing Sorne Pherocores. -->
+	<MN_PherocoreSorne.jobString>Производство фероядер Сорна.</MN_PherocoreSorne.jobString>
+	                <!-- EN: Replicate Sorne Pherocore -->
+	<MN_PherocoreSorne.label>реплицировать фероядро Сорна</MN_PherocoreSorne.label>
+	                      <!-- EN: Creates 10 Sorne Pherocores. -->
+	<MN_PherocoreSorne.description>Создаёт 10 фероядер Сорна.</MN_PherocoreSorne.description>
+	
+	                       <!-- EN: Producing Nuchadus Pherocores. -->
+	<MN_PherocoreNuchadus.jobString>Производство фероядер Нучадуса.</MN_PherocoreNuchadus.jobString>
+	                   <!-- EN: Replicate Nuchadus Pherocore -->
+	<MN_PherocoreNuchadus.label>реплицировать фероядро Нучадуса</MN_PherocoreNuchadus.label>
+	                         <!-- EN: Creates 10 Nuchadus Pherocores. -->
+	<MN_PherocoreNuchadus.description>Создаёт 10 фероядер Нучадуса.</MN_PherocoreNuchadus.description>
+	
+	                     <!-- EN: Producing Chelis Pherocores. -->
+	<MN_PherocoreChelis.jobString>Производство фероядер Хелиса.</MN_PherocoreChelis.jobString>
+	                 <!-- EN: Replicate Chelis Pherocore -->
+	<MN_PherocoreChelis.label>реплицировать фероядро Хелиса</MN_PherocoreChelis.label>
+	                       <!-- EN: Creates 10 Chelis Pherocores. -->
+	<MN_PherocoreChelis.description>Создаёт 10 фероядер Хелиса.</MN_PherocoreChelis.description>
+	
+	                     <!-- EN: Producing Kemian Pherocores. -->
+	<MN_PherocoreKemian.jobString>Производство фероядер Кемиана.</MN_PherocoreKemian.jobString>
+	                 <!-- EN: Replicate Kemian Pherocore -->
+	<MN_PherocoreKemian.label>реплицировать фероядро Кемиана</MN_PherocoreKemian.label>
+	                       <!-- EN: Creates 10 Kemian Pherocores. -->
+	<MN_PherocoreKemian.description>Создаёт 10 фероядер Кемиана.</MN_PherocoreKemian.description>
+	
+	                     <!-- EN: Producing Xanides Pherocores. -->
+	<MN_PherocoreXanide.jobString>Производство фероядер Ксанида.</MN_PherocoreXanide.jobString>
+	                 <!-- EN: Replicate Xanides Pherocore -->
+	<MN_PherocoreXanide.label>реплицировать фероядро Ксанида</MN_PherocoreXanide.label>
+	                       <!-- EN: Creates 10 Xanides Pherocores. -->
+	<MN_PherocoreXanide.description>Создаёт 10 фероядер Ксанида.</MN_PherocoreXanide.description>
+</LanguageData>

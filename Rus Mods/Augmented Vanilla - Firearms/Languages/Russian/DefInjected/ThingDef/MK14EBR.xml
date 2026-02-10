@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MK14 EBR -->
+
+  <AVW_MK14EBR_SniperRifle.label> МК-14 ЕБР</AVW_MK14EBR_SniperRifle.label>
+  <AVW_MK14EBR_SniperRifle.description>Винтовка</AVW_MK14EBR_SniperRifle.description>
+  <AVW_MK14EBR_SniperRifle.tools.0.label>приклад</AVW_MK14EBR_SniperRifle.tools.0.label>
+  <AVW_MK14EBR_SniperRifle.tools.1.label>ствол</AVW_MK14EBR_SniperRifle.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <NorepinephrineEffect.label>Эффект норадреналина</NorepinephrineEffect.label>
+  <NorepinephrineEffect.description>Кратковременное увеличение силы и выносливости, а также уменьшения ощущения боли.</NorepinephrineEffect.description>
+  <NorepinephrineEffect.stages.0.label>Побочный эффект</NorepinephrineEffect.stages.0.label>
+  <NorepinephrineEffect.labelNoun>Эффект норадреналина</NorepinephrineEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <NorepinephrineEffectDescription.label>Описание эффекта норадреналина</NorepinephrineEffectDescription.label>
+  <NorepinephrineEffectDescription.description>Кратковременное увеличение силы и выносливости, а также уменьшения ощущения боли.</NorepinephrineEffectDescription.description>
+  <NorepinephrineEffectDescription.labelNoun>Описание эффекта норадреналина</NorepinephrineEffectDescription.labelNoun>
+
+
+</LanguageData>

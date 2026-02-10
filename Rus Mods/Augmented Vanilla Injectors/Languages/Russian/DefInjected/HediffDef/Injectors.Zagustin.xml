@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <ZagustinEffect.label>Эффект Загустина</ZagustinEffect.label>
+  <ZagustinEffect.description>Значительно уменьшает кровопотерю. У него есть побочные эффекты.</ZagustinEffect.description>
+  <ZagustinEffect.labelNoun>Эффект Загустина</ZagustinEffect.labelNoun>
+
+
+</LanguageData>

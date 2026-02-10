@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- KS-23 -->
+
+  <KS23_Bullet.label>Выстрел из дробовика</KS23_Bullet.label>
+
+  <AVW_KS23_Shotgun.label>КС-23</AVW_KS23_Shotgun.label>
+  <AVW_KS23_Shotgun.description>Дробовик</AVW_KS23_Shotgun.description>
+  <AVW_KS23_Shotgun.tools.0.label>приклад</AVW_KS23_Shotgun.tools.0.label>
+  <AVW_KS23_Shotgun.tools.1.label>ствол</AVW_KS23_Shotgun.tools.1.label>
+
+
+</LanguageData>

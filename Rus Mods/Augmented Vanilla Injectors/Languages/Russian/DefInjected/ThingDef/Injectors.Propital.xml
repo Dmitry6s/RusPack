@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Propital.label>Пропитал</Propital.label>
+  <Propital.description>Военный наркотик. Стимулирует процессы регенерации. Имеет побочные эффекты.</Propital.description>
+  <Propital.ingestible.ingestCommandString>инъецировать {0}</Propital.ingestible.ingestCommandString>
+  <Propital.ingestible.ingestReportString>Инъецирование {0}.</Propital.ingestible.ingestReportString>
+
+
+</LanguageData>

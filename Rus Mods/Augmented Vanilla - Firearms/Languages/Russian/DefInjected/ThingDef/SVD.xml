@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Dragunov SVD -->
+
+  <AVW_SVD_SniperRifle.label>Драгунов СВД</AVW_SVD_SniperRifle.label>
+  <AVW_SVD_SniperRifle.description>Винтовка</AVW_SVD_SniperRifle.description>
+  <AVW_SVD_SniperRifle.tools.0.label>приклад</AVW_SVD_SniperRifle.tools.0.label>
+  <AVW_SVD_SniperRifle.tools.1.label>ствол</AVW_SVD_SniperRifle.tools.1.label>
+
+
+</LanguageData>

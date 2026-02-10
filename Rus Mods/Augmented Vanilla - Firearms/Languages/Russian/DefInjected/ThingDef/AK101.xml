@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AK-101 Mod -->
+
+  <AVW_AK101MOD_AssaultRifle.label>АК-101 Мод.</AVW_AK101MOD_AssaultRifle.label>
+  <AVW_AK101MOD_AssaultRifle.description>Штурмовая винтовка</AVW_AK101MOD_AssaultRifle.description>
+  <AVW_AK101MOD_AssaultRifle.tools.0.label>приклад</AVW_AK101MOD_AssaultRifle.tools.0.label>
+  <AVW_AK101MOD_AssaultRifle.tools.1.label>ствол</AVW_AK101MOD_AssaultRifle.tools.1.label>
+
+
+</LanguageData>

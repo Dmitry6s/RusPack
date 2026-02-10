@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\WorkGiverDefs\Base_WorkGiverDefs.xml -->
+	               <!-- EN: duplicate a resource -->
+	<DoBillsReplicate.label>реплицировать ресурсы</DoBillsReplicate.label>
+	              <!-- EN: duplicate -->
+	<DoBillsReplicate.verb>реплицировать</DoBillsReplicate.verb>
+	                <!-- EN: duplicating at -->
+	<DoBillsReplicate.gerund>реплицирует на</DoBillsReplicate.gerund>
+</LanguageData>

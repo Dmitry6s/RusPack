@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\WorkGiverDefs\WorkGivers.xml -->
+	         <!-- EN: clean filth -->
+	<CleanFilth.label>убирать грязь</CleanFilth.label>
+	        <!-- EN: clean -->
+	<CleanFilth.verb>убрать</CleanFilth.verb>
+	          <!-- EN: cleaning -->
+	<CleanFilth.gerund>убирает</CleanFilth.gerund>
+</LanguageData>

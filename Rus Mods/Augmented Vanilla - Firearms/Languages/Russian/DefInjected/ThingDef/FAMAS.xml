@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- FAMAS -->
+
+  <AVW_FAMAS_AssaultRifle.label>ФАМАС</AVW_FAMAS_AssaultRifle.label>
+  <AVW_FAMAS_AssaultRifle.description>Штурмовая винтовка</AVW_FAMAS_AssaultRifle.description>
+  <AVW_FAMAS_AssaultRifle.tools.0.label>приклад</AVW_FAMAS_AssaultRifle.tools.0.label>
+  <AVW_FAMAS_AssaultRifle.tools.1.label>ствол</AVW_FAMAS_AssaultRifle.tools.1.label>
+
+
+</LanguageData>

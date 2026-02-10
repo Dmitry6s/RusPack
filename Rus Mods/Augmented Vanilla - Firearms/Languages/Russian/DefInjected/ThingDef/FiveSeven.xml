@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Five SeveN -->
+
+  <AVW_FiveSeven_Handgun.label>ФН ПятьСемь</AVW_FiveSeven_Handgun.label>
+  <AVW_FiveSeven_Handgun.description>Пистолет</AVW_FiveSeven_Handgun.description>
+  <AVW_FiveSeven_Handgun.tools.0.label>приклад</AVW_FiveSeven_Handgun.tools.0.label>
+  <AVW_FiveSeven_Handgun.tools.1.label>ствол</AVW_FiveSeven_Handgun.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MG3 -->
+
+  <AVW_MG3_MG.label>МГ-3</AVW_MG3_MG.label>
+  <AVW_MG3_MG.description>Пулемет</AVW_MG3_MG.description>
+  <AVW_MG3_MG.tools.0.label>приклад</AVW_MG3_MG.tools.0.label>
+  <AVW_MG3_MG.tools.1.label>ствол</AVW_MG3_MG.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Auto Strip on Haul -->
+	<AutoStripOnHaul_Title>Auto Strip on Haul (Автораздевание при переноске)</AutoStripOnHaul_Title>
+	<!-- EN: Strips everything by default. If you want less mess on the floor, you can set a maximum drop limit. -->
+	<AutoStripOnHaul_SettingsDescription>По умолчанию снимает всё. Если вы хотите уменьшить беспорядок на полу, вы можете установить лимит сбрасываемых вещей.</AutoStripOnHaul_SettingsDescription>
+	<!-- EN: Apparel over the limit will remain on the corpse, or auto-magically destroyed if the setting is toggled. -->
+	<AutoStripOnHaul_SettingsDescriptionTwo>Одежда сверх лимита останется на трупе или будет «автомагически» уничтожена, если включена соответствующая настройка.</AutoStripOnHaul_SettingsDescriptionTwo>
+	<!-- EN: Maximum Smeltable Apparel to Strip -->
+	<AutoStripOnHaul_SmeltableApparelToDrop>Макс. кол-во переплавляемой одежды для снятия</AutoStripOnHaul_SmeltableApparelToDrop>
+	<!-- EN: Maximum Non-Smeltable Apparel to Strip -->
+	<AutoStripOnHaul_NonsmeltableApparelToDrop>Макс. кол-во непереплавляемой одежды для снятия</AutoStripOnHaul_NonsmeltableApparelToDrop>
+	<!-- EN: Auto-Forbid Smeltables -->
+	<AutoStripOnHaul_ForbidTaintedSmeltables>Автозапрет переплавляемого</AutoStripOnHaul_ForbidTaintedSmeltables>
+	<!-- EN: Auto-Forbid Non-Smeltables -->
+	<AutoStripOnHaul_ForbidTaintedNonSmeltables>Автозапрет непереплавляемого</AutoStripOnHaul_ForbidTaintedNonSmeltables>
+	<!-- EN: Auto-Forbid Equipment -->
+	<AutoStripOnHaul_ForbidEquipment>Автозапрет снаряжения</AutoStripOnHaul_ForbidEquipment>
+	<!-- EN: Auto-Forbid Inventory (If outside home area) -->
+	<AutoStripOnHaul_ForbidInventory>Автозапрет инвентаря (Если вне домашней области)</AutoStripOnHaul_ForbidInventory>
+	<!-- EN: Strip After Haul (Instead of before haul) -->
+	<AutoStripOnHaul_StripAfterHaul>Раздеть после переноски (Вместо «до»)</AutoStripOnHaul_StripAfterHaul>
+	<!-- EN: All -->
+	<AutoStripOnHaul_DropAll>Всё</AutoStripOnHaul_DropAll>
+	<!-- EN: Auto-Magically Destroy Unstripped Apparel (If unticked, unstripped apparel remains on the corpse like vanilla) -->
+	<AutoStripOnHaul_AutoDestroy>«Автомагически» уничтожать неснятую одежду (Если выключено, останется на трупе, как в оригинале)</AutoStripOnHaul_AutoDestroy>
+	<!-- EN: Note: At settings lower than "All", tainted apparel over the specified amount will be auto-magically destroyed upon haul! -->
+	<AutoStripOnHaul_SettingsDescriptionThree>Примечание: При настройках ниже «Всё» одежда с трупа сверх лимита будет «автомагически» уничтожена при переноске!</AutoStripOnHaul_SettingsDescriptionThree>
+	<!-- EN: Reset All -->
+	<AutoStripOnHaul_ResetAll>Сбросить всё</AutoStripOnHaul_ResetAll>
+</LanguageData>

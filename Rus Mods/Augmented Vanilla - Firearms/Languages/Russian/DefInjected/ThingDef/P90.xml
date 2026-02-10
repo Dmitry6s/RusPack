@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- P90 -->
+
+  <AVW_P90_SMG.label>П90</AVW_P90_SMG.label>
+  <AVW_P90_SMG.description>Полуавтоматический пулемет</AVW_P90_SMG.description>
+  <AVW_P90_SMG.tools.0.label>приклад</AVW_P90_SMG.tools.0.label>
+  <AVW_P90_SMG.tools.1.label>ствол</AVW_P90_SMG.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Barrett M82 -->
+
+  <AVW_BarrettM82_SniperRifle.label>Барретта М82</AVW_BarrettM82_SniperRifle.label>
+  <AVW_BarrettM82_SniperRifle.description>Крупнокалиберная снайперская винтовка</AVW_BarrettM82_SniperRifle.description>
+  <AVW_BarrettM82_SniperRifle.tools.0.label>приклад</AVW_BarrettM82_SniperRifle.tools.0.label>
+  <AVW_BarrettM82_SniperRifle.tools.1.label>ствол</AVW_BarrettM82_SniperRifle.tools.1.label>
+
+
+</LanguageData>

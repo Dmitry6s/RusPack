@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ACR -->
+
+  <AVW_ACR_AssaultRifle.label>АСР</AVW_ACR_AssaultRifle.label>
+  <AVW_ACR_AssaultRifle.description>Штурмовая винтовка</AVW_ACR_AssaultRifle.description>
+  <AVW_ACR_AssaultRifle.tools.0.label>приклад</AVW_ACR_AssaultRifle.tools.0.label>
+  <AVW_ACR_AssaultRifle.tools.1.label>ствол</AVW_ACR_AssaultRifle.tools.1.label>
+
+
+</LanguageData>

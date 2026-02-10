@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Morphine.label>Морфий</Morphine.label>
+  <Morphine.description>Шприц с очень сильным обезболивающим. Имеет побочные эффекты.</Morphine.description>
+  <Morphine.ingestible.ingestCommandString>инъецировать {0}</Morphine.ingestible.ingestCommandString>
+  <Morphine.ingestible.ingestReportString>Инъецирование {0}.</Morphine.ingestible.ingestReportString>
+
+
+</LanguageData>

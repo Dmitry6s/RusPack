@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- AK-12 -->
+
+  <AVW_AK12_AssaultRifle.label>АК-12</AVW_AK12_AssaultRifle.label>
+  <AVW_AK12_AssaultRifle.description>Штурмовая винтовка</AVW_AK12_AssaultRifle.description>
+  <AVW_AK12_AssaultRifle.tools.0.label>приклад</AVW_AK12_AssaultRifle.tools.0.label>
+  <AVW_AK12_AssaultRifle.tools.1.label>ствол</AVW_AK12_AssaultRifle.tools.1.label>
+
+
+</LanguageData>

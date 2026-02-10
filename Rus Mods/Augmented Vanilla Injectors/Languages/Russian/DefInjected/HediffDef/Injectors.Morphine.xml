@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <MorphineEffect.label>Эффект морфина</MorphineEffect.label>
+  <MorphineEffect.description>Очень сильное обезболивающее</MorphineEffect.description>
+  <MorphineEffect.stages.0.label>Побочные эффекты</MorphineEffect.stages.0.label>
+  <MorphineEffect.labelNoun>Эффект морфина</MorphineEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <MorphineEffectDescription.label>Описание эффекта морфина</MorphineEffectDescription.label>
+  <MorphineEffectDescription.description>Очень сильное обезболивающее</MorphineEffectDescription.description>
+  <MorphineEffectDescription.labelNoun>Описание эффекта морфина</MorphineEffectDescription.labelNoun>
+
+
+</LanguageData>

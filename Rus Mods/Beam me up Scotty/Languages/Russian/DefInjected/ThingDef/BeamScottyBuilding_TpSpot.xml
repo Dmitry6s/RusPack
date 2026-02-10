@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BuildingBase"> -->
+
+  <LTF_TpSpot.label>точка телепортации</LTF_TpSpot.label>
+  <LTF_TpSpot.description>Вылеты здесь: в бесконечность и дальше! Место телепорта отправляет пешек в другие места.
+Требуется скамья телепорта.</LTF_TpSpot.description>
+  <LTF_TpSpot.comps.8.useLabel>Link</LTF_TpSpot.comps.8.useLabel>
+
+
+</LanguageData>

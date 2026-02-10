@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SVT40 -->
+
+  <AVW_SVT40_Rifle.label>СВТ40</AVW_SVT40_Rifle.label>
+  <AVW_SVT40_Rifle.description>Винтовка</AVW_SVT40_Rifle.description>
+  <AVW_SVT40_Rifle.tools.0.label>приклад</AVW_SVT40_Rifle.tools.0.label>
+  <AVW_SVT40_Rifle.tools.1.label>ствол</AVW_SVT40_Rifle.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--/1.3/Defs/Buildings_Security_Automortar.xml-->
+                     <!-- auto-mortar -->
+<Turret_Auto_Mortar.label>Авто-Миномёт</Turret_Auto_Mortar.label>
+                           <!-- An automatic mortar that launches all kinds of shells. While it can inflict devastating damage, the mortar's ai needs time to calculate co-ordinates and angles, making it slower, if more accurate, than a human-operated turret. -->
+<Turret_Auto_Mortar.description>Автоматический миномёт, который выпускает все виды снарядов. Хотя он может наносить разрушительный урон. ИИ миномета требуется время для вычисления координат и углов, что делает его медленнее, хотя и точнее, чем управляемую человеком башню.</Turret_Auto_Mortar.description>
+                                               <!-- Shells Remaining -->
+<Turret_Auto_Mortar.comps.Comp_Refuelable.fuelLabel>Оставшиеся Снаряды</Turret_Auto_Mortar.comps.Comp_Refuelable.fuelLabel>
+                                                    <!-- Belt -->
+<Turret_Auto_Mortar.comps.Comp_Refuelable.fuelGizmoLabel>Пояс</Turret_Auto_Mortar.comps.Comp_Refuelable.fuelGizmoLabel>
+                                                      <!-- Cannot shoot: Needs shells -->
+<Turret_Auto_Mortar.comps.Comp_Refuelable.outOfFuelMessage>Не может стрелять: Нужны снаряды</Turret_Auto_Mortar.comps.Comp_Refuelable.outOfFuelMessage>
+                          <!-- High-explosive shell -->
+<Bullet_AutoMortarTurret.label>Осколочный снаряд</Bullet_AutoMortarTurret.label>
+                       <!-- automortar -->
+<Gun_AutoMortarTurret.label>авто-миномёт</Gun_AutoMortarTurret.label>
+                             <!-- good god this is a pain. -->
+<Gun_AutoMortarTurret.description>боже милостивый, это такая боль.</Gun_AutoMortarTurret.description>
+
+</LanguageData>

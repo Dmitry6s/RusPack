@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <SJ6TGLabsEffect.label>Эффект SJ6 TGLabs</SJ6TGLabsEffect.label>
+  <SJ6TGLabsEffect.description>Расширяет возможности организма перед боем.</SJ6TGLabsEffect.description>
+  <SJ6TGLabsEffect.stages.0.label>Побочные эффекты</SJ6TGLabsEffect.stages.0.label>
+  <SJ6TGLabsEffect.labelNoun>Эффект SJ6 TGLabs</SJ6TGLabsEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <SJ6TGLabsEffectDescription.label>Описание эффекта SJ6 TGLabs</SJ6TGLabsEffectDescription.label>
+  <SJ6TGLabsEffectDescription.description>Расширяет возможности организма перед боем.</SJ6TGLabsEffectDescription.description>
+  <SJ6TGLabsEffectDescription.labelNoun>Описание эффекта SJ6 TGLabs</SJ6TGLabsEffectDescription.labelNoun>
+
+
+</LanguageData>

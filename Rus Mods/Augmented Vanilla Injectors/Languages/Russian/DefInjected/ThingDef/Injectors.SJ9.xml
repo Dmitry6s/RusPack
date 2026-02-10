@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SJ9TGLabs.label>SJ9 TGLabs</SJ9TGLabs.label>
+  <SJ9TGLabs.description>Он используется для увеличения диапазона комфортной температуры. Имеет побочные эффекты.</SJ9TGLabs.description>
+  <SJ9TGLabs.ingestible.ingestCommandString>инъецировать {0}</SJ9TGLabs.ingestible.ingestCommandString>
+  <SJ9TGLabs.ingestible.ingestReportString>Инъецирование {0}.</SJ9TGLabs.ingestible.ingestReportString>
+
+
+</LanguageData>

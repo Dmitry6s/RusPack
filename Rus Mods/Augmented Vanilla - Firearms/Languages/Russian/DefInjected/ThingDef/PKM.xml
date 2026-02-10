@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PKM -->
+
+  <AVW_PKM_MG.label>ПКМ</AVW_PKM_MG.label>
+  <AVW_PKM_MG.description>Пулемет</AVW_PKM_MG.description>
+  <AVW_PKM_MG.tools.0.label>приклад</AVW_PKM_MG.tools.0.label>
+  <AVW_PKM_MG.tools.1.label>ствол</AVW_PKM_MG.tools.1.label>
+
+
+</LanguageData>

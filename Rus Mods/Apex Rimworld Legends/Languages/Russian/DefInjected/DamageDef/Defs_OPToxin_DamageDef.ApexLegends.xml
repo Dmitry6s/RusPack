@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef\Defs_OPToxin.xml -->
+	          <!-- EN: OPToxic Gas -->
+	<Dam_OPToxin.label>Сверхтоксичный газ</Dam_OPToxin.label>
+	                 <!-- EN: {0} has been killed. -->
+	<Dam_OPToxin.deathMessage>{0} убит(а).</Dam_OPToxin.deathMessage>
+</LanguageData>

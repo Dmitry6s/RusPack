@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- 1.6\Defs\Jobs.xml -->
+	<!--                     EN: clean filth -->
+	<AutocleanerCleanFilth.label>убрать грязь</AutocleanerCleanFilth.label>
+	<!--                    EN: clean -->
+	<AutocleanerCleanFilth.verb>убрать</AutocleanerCleanFilth.verb>
+	<!--                      EN: cleaning -->
+	<AutocleanerCleanFilth.gerund>уборка</AutocleanerCleanFilth.gerund>
+	<!--                          EN: repair autocleaner -->
+	<AutocleanerRepairWorkGiver.label>починить автоуборщик</AutocleanerRepairWorkGiver.label>
+	<!--                         EN: repair -->
+	<AutocleanerRepairWorkGiver.verb>чинить</AutocleanerRepairWorkGiver.verb>
+	<!--                           EN: repairing -->
+	<AutocleanerRepairWorkGiver.gerund>починка</AutocleanerRepairWorkGiver.gerund>
+</LanguageData>

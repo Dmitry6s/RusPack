@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- M1 Garand -->
+
+  <AVW_M1Garand_Rifle.label>М1 Гаранд</AVW_M1Garand_Rifle.label>
+  <AVW_M1Garand_Rifle.description>Винтовка</AVW_M1Garand_Rifle.description>
+  <AVW_M1Garand_Rifle.tools.0.label>приклад</AVW_M1Garand_Rifle.tools.0.label>
+  <AVW_M1Garand_Rifle.tools.1.label>ствол</AVW_M1Garand_Rifle.tools.1.label>
+
+
+</LanguageData>

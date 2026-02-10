@@ -1,0 +1,18 @@
+<LanguageData>
+	<!-- 1.6\Defs\Bodies.xml -->
+	
+	<!--           EN: autocleaner -->
+	<Autocleaner.label>автоуборщик</Autocleaner.label>
+	<!--                          EN: shell -->
+	<Autocleaner.corePart.customLabel>корпус</Autocleaner.corePart.customLabel>
+	<!--                                                 EN: front left wheel -->
+	<Autocleaner.corePart.parts.front_left_wheel.customLabel>переднее левое колесо</Autocleaner.corePart.parts.front_left_wheel.customLabel>
+	<!--                                                  EN: front right wheel -->
+	<Autocleaner.corePart.parts.front_right_wheel.customLabel>переднее правое колесо</Autocleaner.corePart.parts.front_right_wheel.customLabel>
+	<!--                                                 EN: rear left wheel (assuming, based on pattern) -->
+	<Autocleaner.corePart.parts.rear_left_wheel.customLabel>заднее левое колесо</Autocleaner.corePart.parts.rear_left_wheel.customLabel>
+	<!--                                                 EN: rear right wheel -->
+	<Autocleaner.corePart.parts.rear_right_wheel.customLabel>заднее правое колесо</Autocleaner.corePart.parts.rear_right_wheel.customLabel>
+	<!--                                     EN: core -->
+	<Autocleaner.corePart.parts.core.customLabel>ядро</Autocleaner.corePart.parts.core.customLabel>
+</LanguageData>

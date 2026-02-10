@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs\Base_Buildings_ResourceReplication.xml -->
+	                 <!-- EN: resource replicator -->
+	<ResourceReplicator.label>репликатор ресурсов</ResourceReplicator.label>
+	                       <!-- EN: A work station for duplicating resources -->
+	<ResourceReplicator.description>рабочий стол для дублирования ресурсов</ResourceReplicator.description>
+	
+	                <!-- EN: organic replicator -->
+	<OrganicReplicator.label>органический репликатор</OrganicReplicator.label>
+	                      <!-- EN: A work station for duplicating organic material -->
+	<OrganicReplicator.description>рабочий стол для дублирования органических материалов</OrganicReplicator.description>
+	
+	                  <!-- EN: medicinal replicator -->
+	<MedicinalReplicator.label>медицинский репликатор</MedicinalReplicator.label>
+	                        <!-- EN: A work station for duplicating drugs and medicine. -->
+	<MedicinalReplicator.description>рабочий стол для дублирования наркотиков и медикаментов.</MedicinalReplicator.description>
+</LanguageData>

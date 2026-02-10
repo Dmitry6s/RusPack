@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Zagustin.label>Загустин</Zagustin.label>
+  <Zagustin.description>Значительно уменьшает кровопотерю. У него есть побочные эффекты.</Zagustin.description>
+  <Zagustin.ingestible.ingestCommandString>Инъецировать {0}</Zagustin.ingestible.ingestCommandString>
+  <Zagustin.ingestible.ingestReportString>Инъецирование {0}.</Zagustin.ingestible.ingestReportString>
+
+
+</LanguageData>

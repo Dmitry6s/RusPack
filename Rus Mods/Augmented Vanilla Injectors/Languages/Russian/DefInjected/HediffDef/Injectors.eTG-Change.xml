@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Эффект препарата -->
+
+  <ETGEffect.label>Регенеративный стимулятор eTG-change эффект</ETGEffect.label>
+  <ETGEffect.description>Способствует мощной регенерации. Он имеет сильные побочные эффекты.</ETGEffect.description>
+  <ETGEffect.stages.0.label>Side effect</ETGEffect.stages.0.label>
+  <ETGEffect.labelNoun>Регенеративный стимулятор eTG-change эффект</ETGEffect.labelNoun>
+
+
+  <!-- При применении -->
+
+  <ETGEffectDescription.label>Регенеративный стимулятор eTG-change описание</ETGEffectDescription.label>
+  <ETGEffectDescription.description>Способствует мощной регенерации. Он имеет сильные побочные эффекты.</ETGEffectDescription.description>
+  <ETGEffectDescription.labelNoun>Регенеративный стимулятор eTG-change описание</ETGEffectDescription.labelNoun>
+
+
+</LanguageData>

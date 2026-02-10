@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: "Event" effect -->
+	<SY_CMB.CaravanEventActive_MoodEffect>Эффект «Событие»</SY_CMB.CaravanEventActive_MoodEffect>
+	<!-- EN: Adjust the effect strength for the mood buff received during any caravan event. -->
+	<SY_CMB.TooltipCaravanEventActive_MoodEffect>Настройка силы бонуса к настроению, получаемого во время любого события в караване.</SY_CMB.TooltipCaravanEventActive_MoodEffect>
+
+	<!-- EN: "Traveling" effect -->
+	<SY_CMB.CaravanTraveling_MoodEffect>Эффект «Путешествие»</SY_CMB.CaravanTraveling_MoodEffect>
+	<!-- EN: Adjust the effect strength for the mood buff received while traveling with a caravan on the world map. -->
+	<SY_CMB.TooltipCaravanTraveling_MoodEffect>Настройка силы бонуса к настроению, получаемого во время путешествия каравана по карте мира.</SY_CMB.TooltipCaravanTraveling_MoodEffect>
+
+	<!-- EN: "Forming" effect -->
+	<SY_CMB.CaravanForming_MoodEffect>Эффект «Сбор»</SY_CMB.CaravanForming_MoodEffect>
+	<!-- EN: Adjust the effect strength for the mood buff received while forming a caravan. -->
+	<SY_CMB.TooltipCaravanForming_MoodEffect>Настройка силы бонуса к настроению, получаемого во время сбора каравана.</SY_CMB.TooltipCaravanForming_MoodEffect>
+
+	<!-- EN: "Successful event" effect -->
+	<SY_CMB.CaravanEventSuccess_MoodEffect>Эффект «Успешное событие»</SY_CMB.CaravanEventSuccess_MoodEffect>
+	<!-- EN: Adjust the effect strength for the mood buff received from successfully completing caravan events. -->
+	<SY_CMB.TooltipCaravanEventSuccess_MoodEffect>Настройка силы бонуса к настроению, получаемого при успешном завершении событий в караване.</SY_CMB.TooltipCaravanEventSuccess_MoodEffect>
+	<!-- EN: "Successful event" duration -->
+	<SY_CMB.CaravanEventSuccess_DurationDays>Длительность «Успешного события»</SY_CMB.CaravanEventSuccess_DurationDays>
+	<!-- EN: Adjust the effect duration for the mood buff received from successfully completing caravan events. -->
+	<SY_CMB.TooltipCaravanEventSuccess_DurationDays>Настройка длительности бонуса к настроению, получаемого при успешном завершении событий в караване.</SY_CMB.TooltipCaravanEventSuccess_DurationDays>
+
+	<!-- EN: "Battle won" effect -->
+	<SY_CMB.CaravanBattleWon_MoodEffect>Эффект «Победа в битве»</SY_CMB.CaravanBattleWon_MoodEffect>
+	<!-- EN: Adjust the effect strength for the mood buff received by winning a caravan battle. -->
+	<SY_CMB.TooltipCaravanBattleWon_MoodEffect>Настройка силы бонуса к настроению, получаемого при победе в битве каравана.</SY_CMB.TooltipCaravanBattleWon_MoodEffect>
+	<!-- EN: "Battle won" duration -->
+	<SY_CMB.CaravanBattleWon_DurationDays>Длительность «Победы в битве»</SY_CMB.CaravanBattleWon_DurationDays>
+	<!-- EN: Adjust the effect duration for the mood buff received by winning a caravan battle. -->
+	<SY_CMB.TooltipCaravanBattleWon_DurationDays>Настройка длительности бонуса к настроению, получаемого при победе в битве каравана.</SY_CMB.TooltipCaravanBattleWon_DurationDays>
+</LanguageData>

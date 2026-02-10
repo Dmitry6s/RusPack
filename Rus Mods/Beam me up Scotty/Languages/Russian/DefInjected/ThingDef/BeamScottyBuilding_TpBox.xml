@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ThingDef ParentName="BuildingBase"> -->
+
+  <LTF_TpBox.label>телепортационный ящик</LTF_TpBox.label>
+  <LTF_TpBox.description>Структура, созданная для телепортации недееспособных животных. Должно быть связано с местом телепортации.</LTF_TpBox.description>
+  <LTF_TpBox.comps.7.useLabel>связь</LTF_TpBox.comps.7.useLabel>
+
+
+</LanguageData>

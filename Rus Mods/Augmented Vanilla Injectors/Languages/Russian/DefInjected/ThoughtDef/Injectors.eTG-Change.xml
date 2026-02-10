@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- При применении -->
+
+  <ETGEffect.stages.0.label>Побочный эффект eTG-Change </ETGEffect.stages.0.label>
+  <ETGEffect.stages.0.description>Побочный эффект eTG-Change </ETGEffect.stages.0.description>
+  <ETGEffect.stages.1.label>eTG-Change эффект</ETGEffect.stages.1.label>
+  <ETGEffect.stages.1.description>eTG-Change эффект</ETGEffect.stages.1.description>
+
+
+</LanguageData>

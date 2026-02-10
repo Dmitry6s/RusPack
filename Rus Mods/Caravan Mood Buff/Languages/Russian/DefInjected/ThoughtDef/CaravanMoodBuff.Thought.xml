@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\Thoughts.xml -->
+
+	<!-- EN: caravan event -->
+	<CaravanEventActive.stages.0.label>событие в караване</CaravanEventActive.stages.0.label>
+	<!-- EN: Danger may loom behind every rock and tree, threats surely are near. Fortitude and vigilance are demanded, little pleasantries can be expected in such a place! -->
+	<CaravanEventActive.stages.0.description>Опасность может поджидать за каждым камнем и деревом, угрозы определённо где-то рядом. От нас требуются стойкость и бдительность. В таком месте не до приятных мелочей!</CaravanEventActive.stages.0.description>
+	
+	<!-- EN: traveling in a caravan -->
+	<CaravanTraveling.stages.0.label>путешествие в караване</CaravanTraveling.stages.0.label>
+	<!-- EN: A traveler must be adamant! Few conveniences can be expected while out on the road as many dangers lurk in the wilderness. -->
+	<CaravanTraveling.stages.0.description>Путешественник должен быть непоколебим! В дороге не стоит ждать удобств, ведь в дикой местности таится множество опасностей.</CaravanTraveling.stages.0.description>
+	
+	<!-- EN: forming caravan -->
+	<CaravanForming.stages.0.label>сбор каравана</CaravanForming.stages.0.label>
+	<!-- EN: Preparing for travel takes time, I exercise patience and steel myself for any hardship to come! -->
+	<CaravanForming.stages.0.description>Подготовка к пути требует времени. Нужно набраться терпения и закалить свой дух перед грядущими трудностями!</CaravanForming.stages.0.description>
+	
+	<!-- EN: successful caravan event -->
+	<CaravanEventSuccess.stages.0.label>успешное событие в караване</CaravanEventSuccess.stages.0.label>
+	<!-- EN: A successful adventure lifts the spirits of any weary traveler! -->
+	<CaravanEventSuccess.stages.0.description>Успешное приключение поднимает дух любому измотанному путнику!</CaravanEventSuccess.stages.0.description>
+	
+	<!-- EN: caravan battle won -->
+	<CaravanBattleWon.stages.0.label>победа в битве (караван)</CaravanBattleWon.stages.0.label>
+	<!-- EN: Victory may come at a cost, nonetheless any hardship overcome raises hopes and gives will to continue! -->
+	<CaravanBattleWon.stages.0.description>Победа может даться дорогой ценой, но любое преодоленное препятствие дарит надежду и волю продолжать путь!</CaravanBattleWon.stages.0.description>
+</LanguageData>

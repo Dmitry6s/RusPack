@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Adrenaline.label>Адреналин</Adrenaline.label>
+  <Adrenaline.description>Стерильный одноразовый шприц с дозой адреналина. Имеет побочные эффекты.</Adrenaline.description>
+  <Adrenaline.ingestible.ingestCommandString>инъецировать {0}</Adrenaline.ingestible.ingestCommandString>
+  <Adrenaline.ingestible.ingestReportString>Инъецирование {0}.</Adrenaline.ingestible.ingestReportString>
+
+
+</LanguageData>

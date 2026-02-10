@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Defs\Jobs.xml -->
+	<!--                       EN: cleaning TargetA. -->
+	<AutocleanerClean.reportString>убирает (TargetA).</AutocleanerClean.reportString>
+	<!--                      EN: going to rest. -->
+	<AutocleanerGoto.reportString>идёт отдыхать.</AutocleanerGoto.reportString>
+	<!--                        EN: charging. -->
+	<AutocleanerCharge.reportString>заряжается.</AutocleanerCharge.reportString>
+	<!--                               EN: waiting for repair. -->
+	<AutocleanerWaitForRepair.reportString>ожидает ремонта.</AutocleanerWaitForRepair.reportString>
+	<!--                        EN: repairing autocleaner. -->
+	<AutocleanerRepair.reportString>ремонтирует автоуборщика.</AutocleanerRepair.reportString>
+</LanguageData>

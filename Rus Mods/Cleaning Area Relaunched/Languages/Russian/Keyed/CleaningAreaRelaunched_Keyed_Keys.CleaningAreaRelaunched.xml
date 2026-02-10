@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+		<!-- General -->
+	<!-- EN: Cleaning Area Relaunched -->
+	<CAR_SettingsCategory>Зона уборки</CAR_SettingsCategory>
+	<!-- EN: Clean -->
+	<CAR_CleanAreaName>Уборка</CAR_CleanAreaName>
+
+		<!-- Designators -->
+	<!-- EN: Expand clean area -->
+	<CAR_DesignatorAreaCleanExpand>Расширить зону уборки</CAR_DesignatorAreaCleanExpand>
+	<!-- EN: Expand the area where pawns should clean. -->
+	<CAR_DesignatorAreaCleanExpandDesc>Расширить область, в которой поселенцы будут убирать.</CAR_DesignatorAreaCleanExpandDesc>
+	<!-- EN: Clear clean area -->
+	<CAR_DesignatorAreaCleanClear>Очистить зону уборки</CAR_DesignatorAreaCleanClear>
+	<!-- EN: Remove designated cleaning area. -->
+	<CAR_DesignatorAreaCleanClearDesc>Удалить назначенную зону уборки.</CAR_DesignatorAreaCleanClearDesc>
+
+		<!-- UI Buttons -->
+	<!-- EN: Select cleaning area -->
+	<CAR_SelectCleaningArea>Выбрать зону уборки</CAR_SelectCleaningArea>
+
+		<!-- Mod Settings -->
+	<!-- EN: Show broom icon (bottom right) to select custom areas -->
+	<CAR_ShowCleaningAreaButton>Показать иконку метлы для выбора зон</CAR_ShowCleaningAreaButton>
+	<!-- EN: Toggle the visibility of the button used to select the active cleaning area. Same as the original mod. -->
+	<CAR_ShowCleaningAreaButtonTooltip>Показать/скрыть кнопку для выбора активной зоны уборки.</CAR_ShowCleaningAreaButtonTooltip>
+	<!-- EN: Create vanilla-style Clean area -->
+	<CAR_UseModCleanArea>Создавать стандартную зону уборки</CAR_UseModCleanArea>
+	<!-- EN: The mod will create and manage a default Clean area -->
+	<CAR_UseModCleanAreaTooltip>Мод будет создавать и управлять зоной уборки по умолчанию.</CAR_UseModCleanAreaTooltip>
+	<!-- EN: Please wait a moment before toggling again. -->
+	<CAR_UseModCleanAreaTooltipCooldown>Подождите перед повторным переключением.</CAR_UseModCleanAreaTooltipCooldown>
+	<!-- EN: Show designator tools -->
+	<CAR_ShowCleanAreaDesignators>Показать инструменты планирования</CAR_ShowCleanAreaDesignators>
+	<!-- EN: Enables the custom designator tools for the cleaning area. -->
+	<CAR_ShowCleanAreaDesignatorsTooltip>Включить особые инструменты для назначения зоны уборки.</CAR_ShowCleanAreaDesignatorsTooltip>
+	<!-- EN: Enable debug logging -->
+	<CAR_DebugLoggingEnabled>Включить журнал отладки</CAR_DebugLoggingEnabled>
+	<!-- EN: Lots of messages yay -->
+	<CAR_DebugLoggingEnabledTooltip>Куча сообщений в логе, ура.</CAR_DebugLoggingEnabledTooltip>
+</LanguageData>

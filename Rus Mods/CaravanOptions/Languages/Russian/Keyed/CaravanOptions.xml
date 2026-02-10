@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Caravan Speed Multiplier
+(higher is faster) -->
+	<CaravanSpeedMultiplier>Множитель скорости каравана
+(выше - быстрее)</CaravanSpeedMultiplier>
+	<!-- EN: Dirt Path -->
+	<DirtPathCost>Тропа</DirtPathCost>
+	<!-- EN: Dirt Road -->
+	<DirtRoadCost>Грунтовая дорога</DirtRoadCost>
+	<!-- EN: Stone Road -->
+	<StoneRoadCost>Каменная дорога</StoneRoadCost>
+	<!-- EN: Asphalt Road -->
+	<AsphaltRoadCost>Асфальтированная дорога</AsphaltRoadCost>
+	<!-- EN: Asphalt Highway -->
+	<AsphaltHighwayCost>Асфальтовое шоссе</AsphaltHighwayCost>
+	<!-- EN: Pawn movement rates apply to terrain? -->
+	<TerrainAffectsMovement>Скорость пешек влияет на проходимость?</TerrainAffectsMovement>
+
+	<!-- EN: Glitter Road -->
+	<GlitterRoadCost>Сверкающая дорога</GlitterRoadCost>
+
+	<!-- EN: Mass capacity travel speed bonus -->
+	<CO_MassUsageBonus>Бонус к скорости от грузоподъёмности</CO_MassUsageBonus>
+	<!-- EN: Immobilized at carrying capacity? -->
+	<CO_HardCapImmobilize>Обездвижить при перегрузке?</CO_HardCapImmobilize>
+	<!-- EN: Immobilize caravan at {0}x max mass capacity -->
+	<CO_ImmobilizeCap>Обездвижить караван при {0}x от макс. грузоподъёмности</CO_ImmobilizeCap>
+	<!-- EN: *Adjusting this will allow a caravan to move even when above
+max capacity, but at a reduced speed relative to the weight carried. -->
+	<CO_ImmobilizeCapNote>*Изменение позволит каравану двигаться с перегрузкой, но с меньшей скоростью.</CO_ImmobilizeCapNote>
+
+	<!-- EN: Foraging multiplier -->
+	<CO_ForagingMultiplier>Множитель сбора пищи</CO_ForagingMultiplier>
+
+	<!-- EN: Adjusted to...{0} -->
+	<CO_AdjustedTo>Изменено на...{0}</CO_AdjustedTo>
+
+	<!-- EN: Caravan Options multiplier -->
+	<CO_GlobalMultiplierDesc>Общий множитель скорости караванов</CO_GlobalMultiplierDesc>
+	<!-- EN: Caravan Options multiplier (higher is faster) -->
+	<CO_GlobalMultiplier>Общий множитель (выше - быстрее)</CO_GlobalMultiplier>
+	<!-- EN: road movement cost reduction (smaller is faster) -->
+	<CO_RoadMultiplierDesc>Множитель скорости по дорогам (меньше - быстрее)</CO_RoadMultiplierDesc>
+
+	<!-- EN: Pawn speed matters -->
+	<CO_CaravanSpeedFromPawnSpeed>Учитывать скорость пешек</CO_CaravanSpeedFromPawnSpeed>
+	<!-- EN: When enabled, the caravan speed is determined by the average speed of all pawns in the caravan. Average move speed for a pawn is 4.6. -->
+	<CO_CaravanSpeedFromPawnSpeedDesc>Если вкл., скорость каравана зависит от средней скорости всех участников (стандартная - 4.6).</CO_CaravanSpeedFromPawnSpeedDesc>
+	<!-- EN: Average pawn speed multiplier: {0} -->
+	<CO_PawnSpeedMultiplier>Множитель средней скорости пешек: {0}</CO_PawnSpeedMultiplier>
+
+	<!-- EN: **All settings use default game values unless adjusted.
+Using the "Reset" button at the bottom will restore the default settings. -->
+	<CO_SettingsNote>**Все настройки используют значения по умолчанию. Кнопка "Сброс" вернёт стандартные настройки.</CO_SettingsNote>
+
+	<!-- EN: Force Travel -->
+	<CO_ForceNightMove>Принудительное движение</CO_ForceNightMove>
+	<!-- EN: Forces the caravan to travel at night instead of resting. Caravan members will not recover rest or joy and may become more susceptable to mental breaks. -->
+	<CO_ForceNightMoveDesc>Заставляет караван двигаться ночью без отдыха. Участники не будут восполнять отдых и могут получить нервный срыв.</CO_ForceNightMoveDesc>
+
+	<!-- EN: Reduce Caravan Processing -->
+	<CO_CaravanPerformance>Снизить нагрузку от караванов</CO_CaravanPerformance>
+	<!-- EN: Caravan cycle frequency -->
+	<CO_OverrideTickHash>Частота обновления каравана</CO_OverrideTickHash>
+
+	<!-- EN: Caravan Mass Multiplier: {0} -->
+	<CO_MassCapacityMultiplierExplination>Множитель грузоподъёмности каравана: {0}</CO_MassCapacityMultiplierExplination>
+</LanguageData>

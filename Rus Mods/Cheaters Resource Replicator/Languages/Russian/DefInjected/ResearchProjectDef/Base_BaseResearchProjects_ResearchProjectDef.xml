@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\Base_BaseResearchProjects.xml -->
+	                 <!-- EN: resource replicator -->
+	<ResourceReplicator.label>репликатор ресурсов</ResourceReplicator.label>
+	                       <!-- EN: Allows you to replicate resources. -->
+	<ResourceReplicator.description>Позволяет вам реплицировать ресурсы.</ResourceReplicator.description>
+</LanguageData>

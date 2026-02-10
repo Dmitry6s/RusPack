@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- G3 -->
+
+  <AVW_G3_AssaultRifle.label>G3</AVW_G3_AssaultRifle.label>
+  <AVW_G3_AssaultRifle.description>Штурмовая винтовка</AVW_G3_AssaultRifle.description>
+  <AVW_G3_AssaultRifle.tools.0.label>приклад</AVW_G3_AssaultRifle.tools.0.label>
+  <AVW_G3_AssaultRifle.tools.1.label>ствол</AVW_G3_AssaultRifle.tools.1.label>
+
+
+</LanguageData>

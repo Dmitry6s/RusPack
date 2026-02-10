@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LTF_TpBed.label>кровать-телепортатор</LTF_TpBed.label>
+  <LTF_TpBed.description>Структура, созданная для телепортации недееспособных людей. Должно быть связано с местом телепортации.</LTF_TpBed.description>
+  <LTF_TpBed.comps.7.useLabel>связь</LTF_TpBed.comps.7.useLabel>
+
+
+</LanguageData>

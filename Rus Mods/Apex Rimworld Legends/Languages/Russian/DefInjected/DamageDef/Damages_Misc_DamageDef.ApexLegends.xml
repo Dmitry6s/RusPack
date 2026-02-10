@@ -1,0 +1,12 @@
+<LanguageData>
+	<!-- 1.6\Defs\DamageDefs\Damages_Misc.xml -->
+	                     <!-- EN: charge explosion -->
+	<ARL_Bomb_ChargeMinigun.label>энергетический взрыв</ARL_Bomb_ChargeMinigun.label>
+	                            <!-- EN: {0} has died in an explosion. -->
+	<ARL_Bomb_ChargeMinigun.deathMessage>{0} погиб(ла) от взрыва.</ARL_Bomb_ChargeMinigun.deathMessage>
+	
+	                     <!-- EN: charge explosion -->
+	<ARL_Bomb_ChargeGrenade.label>энергетический взрыв</ARL_Bomb_ChargeGrenade.label>
+	                            <!-- EN: {0} has died in an explosion. -->
+	<ARL_Bomb_ChargeGrenade.deathMessage>{0} погиб(ла) от взрыва.</ARL_Bomb_ChargeGrenade.deathMessage>
+</LanguageData>

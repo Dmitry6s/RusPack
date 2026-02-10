@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Norepinephrine.label>Норадреналин</Norepinephrine.label>
+  <Norepinephrine.description>Стерильный одноразовый шприц с дозой препарата L1 на основе норадреналина. Имеет побочные эффекты.</Norepinephrine.description>
+  <Norepinephrine.ingestible.ingestCommandString>инъецировать {0}</Norepinephrine.ingestible.ingestCommandString>
+  <Norepinephrine.ingestible.ingestReportString>Инъецирование {0}.</Norepinephrine.ingestible.ingestReportString>
+
+
+</LanguageData>
