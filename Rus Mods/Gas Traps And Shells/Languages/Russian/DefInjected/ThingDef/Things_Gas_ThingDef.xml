@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef_Gas\Things_Gas.xml -->
+	       <!-- EN: toxic gas -->
+	<ToxicGas.label>токсичный газ</ToxicGas.label>
+	      <!-- EN: rage gas -->
+	<RageGas.label>газ ярости</RageGas.label>
+	      <!-- EN: tear gas -->
+	<TearGas.label>слезоточивый газ</TearGas.label>
+	       <!-- EN: sleep gas -->
+	<SleepGas.label>усыпляющий газ</SleepGas.label>
+	      <!-- EN: fear gas -->
+	<FearGas.label>газ страха</FearGas.label>
+	                <!-- EN: Mechanoid Virus Gas -->
+	<MechanoidVirusGas.label>Вирусный газ для механоидов</MechanoidVirusGas.label>
+	         <!-- EN: anti bug gas -->
+	<AntiBugGas.label>газ против насекомых</AntiBugGas.label>
+</LanguageData>

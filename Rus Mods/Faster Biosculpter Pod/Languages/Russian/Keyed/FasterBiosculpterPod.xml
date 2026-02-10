@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Installed Version -->
+	<Inglix.Installed_Version>Установленная версия</Inglix.Installed_Version>
+	<!-- EN: Faster Biosculpter Pod -->
+	<Inglix.Faster_Biosculpter_Pod>Faster Biosculpter Pod</Inglix.Faster_Biosculpter_Pod>
+
+	<!-- EN: Medic Cycle -->
+	<Inglix.Medic_Cycle>Лечебный цикл</Inglix.Medic_Cycle>
+	<!-- EN: Bioregeneration Cycle -->
+	<Inglix.Bioregeneration_Cycle>Цикл биорегенерации</Inglix.Bioregeneration_Cycle>
+	<!-- EN: Age Reversal Cycle -->
+	<Inglix.Age_Reversal_Cycle>Цикл омоложения</Inglix.Age_Reversal_Cycle>
+	<!-- EN: Pleasure Cycle -->
+	<Inglix.Pleasure_Cycle>Цикл удовольствия</Inglix.Pleasure_Cycle>
+	<!-- EN: Miscellaneous Options -->
+	<Inglix.Miscellaneous_Options>Разные настройки</Inglix.Miscellaneous_Options>
+	<!-- EN: Biotuning Duration -->
+	<Inglix.Biotuning_Duration>Продолжительность бионастройки</Inglix.Biotuning_Duration>
+	<!-- EN: Biotuned Cycle Speed Factor -->
+	<Inglix.Biotuned_Speed>Коэф. скорости бионастроенного цикла</Inglix.Biotuned_Speed>
+	<!-- EN: Active Power Consumption -->
+	<Inglix.Power_Consumption>Энергопотребление (активное)</Inglix.Power_Consumption>
+	<!-- EN: Standby Power Consumption -->
+	<Inglix.Standby_Consumption>Энергопотребление (ожидание)</Inglix.Standby_Consumption>
+	<!-- EN: Building Cost -->
+	<Inglix.Building_Cost>Стоимость постройки</Inglix.Building_Cost>
+	<!-- EN: Research Cost -->
+	<Inglix.Research_Cost>Стоимость исследования</Inglix.Research_Cost>
+
+	<!-- EN: Biosculpting Research -->
+	<Inglix.Biosculpting_Research>Исследование биоскульптинга</Inglix.Biosculpting_Research>
+	<!-- EN: Bioregeneration Research -->
+	<Inglix.Bioregeneration_Research>Исследование биорегенерации</Inglix.Bioregeneration_Research>
+	<!-- EN: Requires Hi-tech Research Bench -->
+	<Inglix.Require_HiTechBench>Требуется высокотехнологичный исследовательский стол</Inglix.Require_HiTechBench>
+	<!-- EN: Requires Multi-analyzer -->
+	<Inglix.Require_MultiAnalyzer>Требуется мультианализатор</Inglix.Require_MultiAnalyzer>
+
+	<!-- EN: Cycle Duration -->
+	<Inglix.Cycle_Duration>Продолжительность цикла</Inglix.Cycle_Duration>
+	<!-- EN: Nutrition Required -->
+	<Inglix.Nutrition_Required>Требуется питание</Inglix.Nutrition_Required>
+	<!-- EN: Glitterworld Medicine Required -->
+	<Inglix.MedicineUltratech_Required>Требуются передовые медикаменты</Inglix.MedicineUltratech_Required>
+	<!-- EN: Age Reversed -->
+	<Inglix.Age_Reversed>Омоложение (лет)</Inglix.Age_Reversed>
+	<!-- EN: Mood Duration -->
+	<Inglix.Mood_Duration>Длительность эффекта настроения</Inglix.Mood_Duration>
+	<!-- EN: Mood Effect -->
+	<Inglix.Mood_Effect>Бонус к настроению</Inglix.Mood_Effect>
+
+	<!-- EN: Use quadrums in durations -->
+	<Inglix.Use_Quadrums>Указывать время в кварталах</Inglix.Use_Quadrums>
+	<!-- EN: Use hours in durations -->
+	<Inglix.Use_Hours>Указывать время в часах</Inglix.Use_Hours>
+
+	<!-- EN: Apply Custom Values -->
+	<Inglix.Apply_Custom_Values>Применить свои значения</Inglix.Apply_Custom_Values>
+	<!-- EN: Apply Recommended Values -->
+	<Inglix.Apply_Recommended_Values>Применить рекомендуемые значения</Inglix.Apply_Recommended_Values>
+	<!-- EN: Apply Vanilla Values -->
+	<Inglix.Apply_Vanilla_Values>Применить стандартные значения</Inglix.Apply_Vanilla_Values>
+
+	<!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system... -->
+	<Inglix.Biosculpter_Description>Иммерсивная капсула, оснащённая инжектором для биоскульптинга и системой управления. Позволяет проводить различные биологические модификации, включая омоложение и стимуляцию удовольствия. Каждая капсула проходит бионастройку под конкретного пользователя и не может быть использована кем-то другим. Бионастройка сбрасывается через {0} дн. Трансгуманисты считают, что подобные устройства имеют решающее значение в их стремлении выйти за пределы обычных человеческих ограничений.</Inglix.Biosculpter_Description>
+	
+	<!-- EN: An immersive pod equipped with a biosculpting fluid injector and attached control system... -->
+	<Inglix.Biosculpter_Description_No_Biotuning>Иммерсивная капсула, оснащённая инжектором для биоскульптинга и системой управления. Позволяет проводить различные биологические модификации, включая омоложение и стимуляцию удовольствия. Трансгуманисты считают, что подобные устройства имеют решающее значение в их стремлении выйти за пределы обычных человеческих ограничений.</Inglix.Biosculpter_Description_No_Biotuning>
+
+	<!-- EN: Automatically satisfy {PAWN_labelShort}'s desire to run an age reversal treatment in this pod, in accordance with {PAWN_possessive} beliefs. {NEXTTREATMENT} -->
+	<BiosculpterAutoAgeReversalDescription>Автоматически удовлетворять желание {PAWN_labelShort} пройти процедуру омоложения в этой капсуле в соответствии с {PAWN_possessive} убеждениями. {NEXTTREATMENT}</BiosculpterAutoAgeReversalDescription>
+</LanguageData>

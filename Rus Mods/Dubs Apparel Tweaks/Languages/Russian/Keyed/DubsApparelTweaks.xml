@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!--NEW-->
+	<!-- EN: Select layers to hide -->
+	<VisibilityTogglesDesc>Выберите слои для скрытия</VisibilityTogglesDesc>
+	<!-- EN: Ctrl+J on a selected pawn will toggle the visibility of that hat type -->
+	<HatFiltersTip>Ctrl+J на выбранном поселенце переключит видимость этого типа головных уборов</HatFiltersTip>
+	<!-- EN: Ctrl+H on a selected pawn will toggle the visibility of that hair type under hats -->
+	<HairFiltersTip>Ctrl+H на выбранном поселенце переключит видимость этого типа причёски под головными уборами</HairFiltersTip>
+	<!-- EN: Ctrl+K on a selected pawn will toggle the visibility of that hair and hat combination -->
+	<HatHairFiltersTip>Ctrl+K на выбранном поселенце переключит видимость этой комбинации причёски и головного убора</HatHairFiltersTip>
+
+	<!-- EN: Apparel equip speed -->
+	<Apparel_equip_speed>Скорость экипировки одежды</Apparel_equip_speed>
+	<!-- EN: Change equip speeds -->
+	<Change_equip_speeds>Изменить скорость экипировки</Change_equip_speeds>
+	<!-- EN: Same speed for all apparel -->
+	<Same_speed_for_all_apparel>Одинаковая скорость для всей одежды</Same_speed_for_all_apparel>
+	<!-- EN: Equip speed Ticks -->
+	<Equip_speed_Ticks>Скорость экипировки (в тиках)</Equip_speed_Ticks>
+	<!-- EN: Equip duration % -->
+	<Equip_duration>Длительность экипировки (%)</Equip_duration>
+	<!-- EN: Apparel visibility -->
+	<Apparel_visibility>Видимость одежды</Apparel_visibility>
+
+	<!-- EN: Only hide apparel indoors -->
+	<IndoorHidingMode>Скрывать одежду только в помещении</IndoorHidingMode>
+
+	<!-- EN: Hide hats -->
+	<Hide_hats_when_indoors>Скрыть головные уборы</Hide_hats_when_indoors>
+	<!-- EN: Hide shell layers -->
+	<Hide_jackets_when_indoors>Скрыть верхнюю одежду</Hide_jackets_when_indoors>
+	<!-- EN: Hats only while drafted -->
+	<Hats_only_while_drafted>Головные уборы только в режиме призыва</Hats_only_while_drafted>
+
+	<!-- EN: Show hair under hats -->
+	<Show_hair_under_hats>Показывать волосы под головными уборами</Show_hair_under_hats>
+	<!-- EN: Hat Scaling -->
+	<HatScaling>Масштабирование головных уборов</HatScaling>
+	<!-- EN: Normal + Narrow Height -->
+	<Normal__Narrow_Height>Нормальная + узкая голова (высота)</Normal__Narrow_Height>
+	<!-- EN: Narrow Width -->
+	<Narrow_Width>Узкая голова (ширина)</Narrow_Width>
+	<!-- EN: Hair visibility -->
+	<Hair_visibility>Видимость причёсок</Hair_visibility>
+	<!-- EN: Reset -->
+	<HairScaleReset>Сброс</HairScaleReset>
+
+	<!-- EN: {0} can now be shown under hats -->
+	<Hair_Filter_Remove>{0}: теперь отображается под головными уборами</Hair_Filter_Remove>
+	<!-- EN: {0} always hidden under hats -->
+	<Hair_Filter_Add>{0}: всегда скрыто под головными уборами</Hair_Filter_Add>
+	<!-- EN: {0} can now be hidden while indoors or undrafted -->
+	<Hat_Filter_Remove>{0}: теперь может скрываться в помещении или вне боя</Hat_Filter_Remove>
+	<!-- EN: {0} always visible -->
+	<Hat_Filter_Add>{0}: всегда отображается</Hat_Filter_Add>
+	<!-- EN: {0} always hidden under {1} -->
+	<HairHat_Filter_Add>{0}: всегда скрыто под {1}</HairHat_Filter_Add>
+	<!-- EN: {0} now visible under {1} -->
+	<HairHat_Filter_Remove>{0}: теперь отображается под {1}</HairHat_Filter_Remove>
+
+	<!-- Дополнительные ключи из вашего черновика -->
+	<Hide_hats_when_sleeping>Скрывать головные уборы во время сна</Hide_hats_when_sleeping>
+	<DraftedHidingMode>Скрывать, если не в режиме призыва</DraftedHidingMode>
+	<Hide_equipment_when_indoors>Скрывать снаряжение в помещении</Hide_equipment_when_indoors>
+	<Equipment_only_while_drafted>Снаряжение только в режиме призыва</Equipment_only_while_drafted>
+	<Jackets_only_while_drafted>Верхняя одежда только в режиме призыва</Jackets_only_while_drafted>
+</LanguageData>

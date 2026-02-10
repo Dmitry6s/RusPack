@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Only when healthy -->
+	<CPI.releasewhenhealthy>Только когда здоров</CPI.releasewhenhealthy>
+	<!-- EN: Only when able to walk -->
+	<CPI.releasewhenabletowalk>Только когда может ходить</CPI.releasewhenabletowalk>
+	<!-- EN: Only when no longer guilty -->
+	<CPI.releasewhennotguilty>Только когда вина искуплена</CPI.releasewhennotguilty>
+	<!-- EN: Recruit after -->
+	<CPI.thenrecruit>Затем завербовать</CPI.thenrecruit>
+	<!-- EN: Reduce resistance before -->
+	<CPI.reduceresistancefirst>Сначала сломить сопротивление</CPI.reduceresistancefirst>
+	<!-- EN: Reduce resistance before, recruit after -->
+	<CPI.reduceresistancefirstthenrecruit>Сломить сопротивление, затем завербовать</CPI.reduceresistancefirstthenrecruit>
+	<!-- EN: Reduce resistance before, execute after -->
+	<CPI.reduceresistancefirstthenkill>Сломить сопротивление, затем казнить</CPI.reduceresistancefirstthenkill>
+	<!-- EN: Reduce resistance before, bloodfeed after -->
+	<CPI.reduceresistancefirstthenbloodfeed>Сломить сопротивление, затем пить кровь</CPI.reduceresistancefirstthenbloodfeed>
+	<!-- EN: Reduce resistance before, hemogen farm after -->
+	<CPI.reduceresistancefirstthenhemogenfarm>Сломить сопротивление, затем создать гемогеновую ферму</CPI.reduceresistancefirstthenhemogenfarm>
+	<!-- EN: Enslave after -->
+	<CPI.thenenslave>Затем поработить</CPI.thenenslave>
+	<!-- EN: Execute after -->
+	<CPI.thenkill>Затем казнить</CPI.thenkill>
+	<!-- EN: Reduce will before -->
+	<CPI.reducewillfirst>Сначала подавить волю</CPI.reducewillfirst>
+	<!-- EN: Reduce will before, enslave after -->
+	<CPI.reducewillfirstthenenslave>Подавить волю, затем поработить</CPI.reducewillfirstthenenslave>
+	<!-- EN: Release after -->
+	<CPI.thenrelease>Затем освободить</CPI.thenrelease>
+	<!-- EN: Reduce resistance before, release after -->
+	<CPI.reduceresistancefirstthenrelease>Сломить сопротивление, затем освободить</CPI.reduceresistancefirstthenrelease>
+	<!-- EN: None -->
+	<CPI.none>Ничего</CPI.none>
+	<!-- EN: Change -->
+	<CPI.change>Изменить</CPI.change>
+	<!-- EN: Options -->
+	<CPI.options>Настройки</CPI.options>
+	<!-- EN: {0} has been converted and will now be scheduled for release -->
+	<CPI.pawnconvertedrelease>{0} был(а) обращён(а) и теперь будет освобождён(а)</CPI.pawnconvertedrelease>
+	<!-- EN: {0} has been converted and will now be recruited -->
+	<CPI.pawnconvertedrecruit>{0} был(а) обращён(а) и теперь будет завербован(а)</CPI.pawnconvertedrecruit>
+	<!-- EN: {0} has been converted and will now be enslaved -->
+	<CPI.pawnconvertedenslave>{0} был(а) обращён(а) и теперь будет порабощён(а)</CPI.pawnconvertedenslave>
+	<!-- EN: {0} has been converted and will now be executed -->
+	<CPI.pawnconvertedkill>{0} был(а) обращён(а) и теперь будет казнён(а)</CPI.pawnconvertedkill>
+	<!-- EN: {0} is being released -->
+	<CPI.released>{0} освобождается</CPI.released>
+	<!-- EN: Default release action: {0} -->
+	<CPI.defaultrelease>Действие при освобождении по умолчанию: {0}</CPI.defaultrelease>
+	<!-- EN: Default convert action: {0} -->
+	<CPI.defaultconvert>Действие при обращении по умолчанию: {0}</CPI.defaultconvert>
+	<!-- EN: Automatically activate hemogen farm on new prisoners -->
+	<CPI.autohemogen>Автоматически делать ферму гемогена из новых заключённых</CPI.autohemogen>
+	<!-- EN: Default action for new prisoners: {0} -->
+	<CPI.defaultfornew>Действие для новых заключённых по умолчанию: {0}</CPI.defaultfornew>
+	<!-- EN: Installed mod-version: {0} -->
+	<CPI.version>Установленная версия мода: {0}</CPI.version>
+</LanguageData>

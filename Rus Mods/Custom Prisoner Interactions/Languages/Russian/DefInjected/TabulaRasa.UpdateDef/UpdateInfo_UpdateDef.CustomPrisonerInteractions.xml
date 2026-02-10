@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\UpdateInfo.xml -->
+	                                 <!-- EN: Added two new options for releasing prisoners:
+Release when no longer guilty, to make them serve time for their crimes
+Release when able to walk, if you dont want to wait for them to be healthy -->
+	<CustomPrisonerInteractions_1_4_4.content>Добавлены две новые опции освобождения:
+- Освободить, когда вина будет искуплена (отсидит свой срок).
+- Освободить, когда сможет ходить (не дожидаясь полного выздоровления).</CustomPrisonerInteractions_1_4_4.content>
+</LanguageData>

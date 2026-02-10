@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.ManhunterOnTameFail>Шанс мести при неудачном приручении</SY_CA.ManhunterOnTameFail>
+  <SY_CA.TooltipManhunterOnTameFail>Устанавливает шанс, с которым животное будет мстить за неудачную попытку приручения.
+Фактический шанс также зависит от навыка укротителя.</SY_CA.TooltipManhunterOnTameFail>
+
+  <SY_CA.ManhunterOnTameFailRange>Шанс мести при приручении в зоне поражения</SY_CA.ManhunterOnTameFailRange>
+  <SY_CA.TooltipMinManhunterOnTameFail>Установите самый низкий допустимый шанс отомстить за неудачу приручения</SY_CA.TooltipMinManhunterOnTameFail>
+  <SY_CA.TooltipMaxManhunterOnTameFail>Установите максимально допустимый уровень мести за неудачное приручение.</SY_CA.TooltipMaxManhunterOnTameFail>
+
+
+  <SY_CA.ManhunterOnDamage>Шанс отомстить за причиненный вред</SY_CA.ManhunterOnDamage>
+  <SY_CA.TooltipManhunterOnDamage>Установите шанс, с которым животное будет мстить при причинении ему вреда
+Фактический шанс также зависит от навыков охотника, оружия и дальности до цели.</SY_CA.TooltipManhunterOnDamage>
+
+  <SY_CA.ManhunterOnDamageRange>Шанс мести при нанесении вреда</SY_CA.ManhunterOnDamageRange>
+  <SY_CA.TooltipMinManhunterOnDamage>Установите самый низкий допустимый шанс отомстить за причиненный вред</SY_CA.TooltipMinManhunterOnDamage>
+  <SY_CA.TooltipMaxManhunterOnDamage>Установите максимально допустимый шанс отомстить за причиненный вред</SY_CA.TooltipMaxManhunterOnDamage>
+
+</LanguageData>

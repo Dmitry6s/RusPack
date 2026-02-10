@@ -1,0 +1,15 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_Resource_GasDamageDealingShell.xml -->
+	            <!-- EN: corrosive gas shell -->
+	<Shell_GasAcid.label>снаряд с коррозийным газом</Shell_GasAcid.label>
+	                  <!-- EN: A shell filled with corrosive gas. Can be fired from mortars. Damages everythign with burn damage (doesn't work on mechanoids), will also damage clothing, structures, and equipment. -->
+	<Shell_GasAcid.description>Снаряд, наполненный коррозийным газом. Может быть выпущен из миномета. Наносит всему урон от ожогов (не действует на механоидов), также повредит одежду, строения и снаряжение.</Shell_GasAcid.description>
+	                   <!-- EN: corrosive gas shell -->
+	<Bullet_Shell_GasAcid.label>снаряд с коррозийным газом</Bullet_Shell_GasAcid.label>
+	                 <!-- EN: defense nanites gas shell -->
+	<Shell_GasDefNanite.label>снаряд с газом из защитных нанитов</Shell_GasDefNanite.label>
+	                       <!-- EN: A shell filled with nanites that can detect friend or foe. -->
+	<Shell_GasDefNanite.description>Снаряд, наполненный нанитами, которые могут распознавать своих и чужих.</Shell_GasDefNanite.description>
+	                                <!-- EN: defense nanites gas shell -->
+	<GasTrap_Bullet_Shell_GasDefNanite.label>снаряд с газом из защитных нанитов</GasTrap_Bullet_Shell_GasDefNanite.label>
+</LanguageData>

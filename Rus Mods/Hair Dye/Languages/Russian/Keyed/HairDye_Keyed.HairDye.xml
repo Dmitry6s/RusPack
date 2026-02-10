@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Dye hair... -->
+	<HairDyeDye>Покрасить волосы...</HairDyeDye>
+	<!-- EN: Dye! -->
+	<HairDyeApply>Покрасить!</HairDyeApply>
+
+	<!-- EN: Hair color -->
+	<HairDyeHairColor>Цвет волос</HairDyeHairColor>
+	<!-- EN: Gradient color -->
+	<HairDyeGradientColor>Цвет градиента</HairDyeGradientColor>
+</LanguageData>

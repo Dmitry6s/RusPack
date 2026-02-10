@@ -1,0 +1,42 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef_Buildings\Buildings_GasTrap.xml -->
+	      <!-- EN: gas trap (toxic) -->
+	<GasTrap.label>газовая ловушка (токсичная)</GasTrap.label>
+	            <!-- EN: This trap releases toxic gas when a cute, little pawn walks too close. Aw, look at that cute thing dying! -->
+	<GasTrap.description>Эта ловушка выпускает токсичный газ, когда милая, маленькая пешка подходит слишком близко. О, посмотрите, как это милое создание умирает!</GasTrap.description>
+	
+	          <!-- EN: gas trap (rage) -->
+	<GasTrapRage.label>газовая ловушка (ярость)</GasTrapRage.label>
+	                <!-- EN: This special trap releases gas that makes anyone walking in it rather angry. Furious anger and so on. -->
+	<GasTrapRage.description>Эта особая ловушка выпускает газ, который делает любого, кто в него войдет, довольно злым. Неистовая ярость и все такое.</GasTrapRage.description>
+	
+	             <!-- EN: gas trap (tear gas) -->
+	<GasTrapTearGas.label>газовая ловушка (слезоточивый газ)</GasTrapTearGas.label>
+	                   <!-- EN: This trap releases tear gas when triggered. Causing blindness and vomiting. -->
+	<GasTrapTearGas.description>При срабатывании эта ловушка выпускает слезоточивый газ. Вызывает слепоту и рвоту.</GasTrapTearGas.description>
+	
+	              <!-- EN: gas trap (sleep) -->
+	<GasTrapSleepGas.label>газовая ловушка (усыпляющая)</GasTrapSleepGas.label>
+	                    <!-- EN: This trap releases a gas that eventually knocks out any beings walking in it. Sleeping is fun! -->
+	<GasTrapSleepGas.description>Эта ловушка выпускает газ, который в конечном итоге нокаутирует любое существо, попавшее в него. Спать - это весело!</GasTrapSleepGas.description>
+	
+	             <!-- EN: gas trap (fear) -->
+	<GasTrapFearGas.label>газовая ловушка (страх)</GasTrapFearGas.label>
+	                   <!-- EN: This trap releases a gas that instill fear and panic, and will eventually lead to pawns fleeing. Don't panic! -->
+	<GasTrapFearGas.description>Эта ловушка выпускает газ, который внушает страх и панику, и в конечном итоге заставляет пешек бежать. Без паники!</GasTrapFearGas.description>
+	
+	          <!-- EN: gas trap (acid) -->
+	<GasTrapAcid.label>газовая ловушка (кислотная)</GasTrapAcid.label>
+	                <!-- EN: This trap releases corrosive gas when triggered. Nice tan bro! Also, your clothes seems to be melting... -->
+	<GasTrapAcid.description>При срабатывании эта ловушка выпускает едкий газ. Отличный загар, братан! Кстати, твоя одежда, кажется, плавится...</GasTrapAcid.description>
+	
+	                    <!-- EN: gas trap (MechVirus) -->
+	<GasTrapMechanoidVirus.label>газовая ловушка (вирус для мехов)</GasTrapMechanoidVirus.label>
+	                          <!-- EN: This trap releases a cloud of nanomachines that love to mess with mechanoids -->
+	<GasTrapMechanoidVirus.description>Эта ловушка выпускает облако наномашин, которые любят портить механоидов.</GasTrapMechanoidVirus.description>
+	
+	                <!-- EN: gas trap (Anti Insect) -->
+	<GasTrapAntiBugGas.label>газовая ловушка (против насекомых)</GasTrapAntiBugGas.label>
+	                      <!-- EN: This trap releases a gas that works very well to combat insects -->
+	<GasTrapAntiBugGas.description>Эта ловушка выпускает газ, который очень хорошо помогает бороться с насекомыми.</GasTrapAntiBugGas.description>
+</LanguageData>

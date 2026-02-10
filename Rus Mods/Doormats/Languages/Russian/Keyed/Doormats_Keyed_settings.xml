@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Doormats -->
+	<SyrDoorMatsSettingsCategory>Половики</SyrDoorMatsSettingsCategory>
+
+		<!-- Slowdown -->
+	<!-- EN: Slowdown strength (default: 40) -->
+	<SyrDoorMatsSlowdown>Сила замедления (по умолч.: 40)</SyrDoorMatsSlowdown>
+	<!-- EN: Simulates pawn cleaning their feet by slowing them on doormats, does not affect pathfinding -->
+	<SyrDoorMatsSlowdownTooltip>Имитирует вытирание ног пешками, замедляя их на половиках. Не влияет на поиск пути.</SyrDoorMatsSlowdownTooltip>
+
+		<!-- Animals -->
+	<!-- EN: Allow animals to use doormats -->
+	<SyrDoorMatsAnimalsAllow>Разрешить животным использовать половики</SyrDoorMatsAnimalsAllow>
+	<!-- EN: Note: this may have significant performance impacts -->
+	<SyrDoorMatsAnimalsAllowTip>Примечание: это может значительно повлиять на производительность.</SyrDoorMatsAnimalsAllowTip>
+	<!-- EN: Minimum trainability -->
+	<SyrDoorMatsAnimalsMinIntelligence>Минимальный уровень обучаемости</SyrDoorMatsAnimalsMinIntelligence>
+	<!-- EN: Allows animals with this trainability level or greater to use doormats. -->
+	<SyrDoorMatsAnimalsIntelligenceToolTip>Позволяет животным с таким или более высоким уровнем обучаемости использовать половики.</SyrDoorMatsAnimalsIntelligenceToolTip>
+	<!-- EN:  (All Animals) -->
+	<SyrDoorMatsAnimalsAll> (Все животные)</SyrDoorMatsAnimalsAll>
+</LanguageData>

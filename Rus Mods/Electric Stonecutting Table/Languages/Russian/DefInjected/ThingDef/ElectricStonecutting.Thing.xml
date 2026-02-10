@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Electric Stonecutter's Table -->
+  <TableStonecutterElectric.label>Электростол для резки камня</TableStonecutterElectric.label>
+  <!-- EN: A work table equipped with powered tools to cut rough stone into usable blocks. Can work without electricity at 35% of normal speed. -->
+  <TableStonecutterElectric.description>Рабочий стол, оснащённый механическими инструментами для резки необработанного камня на пригодные для использования блоки. Может работать без электричества на 35% от нормальной скорости.</TableStonecutterElectric.description>
+
+</LanguageData>

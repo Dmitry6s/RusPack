@@ -1,0 +1,57 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef_Buildings\Buildings_AreaThingSpawners.xml -->
+	                  <!-- EN: toxic gas vent -->
+	<AreaSpawnerToxicGas.label>вентиль с токсичным газом</AreaSpawnerToxicGas.label>
+	                        <!-- EN: this vent releases toxic gas in an area around it. -->
+	<AreaSpawnerToxicGas.description>Этот вентиль выпускает токсичный газ в области вокруг себя.</AreaSpawnerToxicGas.description>
+	                              <!-- EN: Gas remaining -->
+	<AreaSpawnerToxicGas.comps.2.fuelLabel>Осталось газа</AreaSpawnerToxicGas.comps.2.fuelLabel>
+	                                   <!-- EN: Gas remaining -->
+	<AreaSpawnerToxicGas.comps.2.fuelGizmoLabel>Осталось газа</AreaSpawnerToxicGas.comps.2.fuelGizmoLabel>
+	                                     <!-- EN: Out of gas -->
+	<AreaSpawnerToxicGas.comps.2.outOfFuelMessage>Газ закончился</AreaSpawnerToxicGas.comps.2.outOfFuelMessage>
+	
+	                    <!-- EN: anti-insect gas vent -->
+	<AreaSpawnerAntibugGas.label>вентиль с газом против насекомых</AreaSpawnerAntibugGas.label>
+	                          <!-- EN: this vent releases anti insect gas in an area around it. -->
+	<AreaSpawnerAntibugGas.description>Этот вентиль выпускает газ против насекомых в области вокруг себя.</AreaSpawnerAntibugGas.description>
+	                                <!-- EN: Gas remaining -->
+	<AreaSpawnerAntibugGas.comps.2.fuelLabel>Осталось газа</AreaSpawnerAntibugGas.comps.2.fuelLabel>
+	                                     <!-- EN: Gas remaining -->
+	<AreaSpawnerAntibugGas.comps.2.fuelGizmoLabel>Осталось газа</AreaSpawnerAntibugGas.comps.2.fuelGizmoLabel>
+	                                       <!-- EN: Out of gas -->
+	<AreaSpawnerAntibugGas.comps.2.outOfFuelMessage>Газ закончился</AreaSpawnerAntibugGas.comps.2.outOfFuelMessage>
+	
+	                      <!-- EN: mech virus gas vent -->
+	<AreaSpawnerMechVirusGas.label>вентиль с вирусным газом для мехов</AreaSpawnerMechVirusGas.label>
+	                            <!-- EN: this vent releases anti mechanoid virus gas in an area around it. -->
+	<AreaSpawnerMechVirusGas.description>Этот вентиль выпускает вирусный газ против механоидов в области вокруг себя.</AreaSpawnerMechVirusGas.description>
+	                                  <!-- EN: Gas remaining -->
+	<AreaSpawnerMechVirusGas.comps.2.fuelLabel>Осталось газа</AreaSpawnerMechVirusGas.comps.2.fuelLabel>
+	                                       <!-- EN: Gas remaining -->
+	<AreaSpawnerMechVirusGas.comps.2.fuelGizmoLabel>Осталось газа</AreaSpawnerMechVirusGas.comps.2.fuelGizmoLabel>
+	                                         <!-- EN: Out of gas -->
+	<AreaSpawnerMechVirusGas.comps.2.outOfFuelMessage>Газ закончился</AreaSpawnerMechVirusGas.comps.2.outOfFuelMessage>
+	
+	                  <!-- EN: sleep gas vent -->
+	<AreaSpawnerSleepGas.label>вентиль с усыпляющим газом</AreaSpawnerSleepGas.label>
+	                        <!-- EN: this vent releases sleep gas in an area around it. -->
+	<AreaSpawnerSleepGas.description>Этот вентиль выпускает усыпляющий газ в области вокруг себя.</AreaSpawnerSleepGas.description>
+	                              <!-- EN: Gas remaining -->
+	<AreaSpawnerSleepGas.comps.2.fuelLabel>Осталось газа</AreaSpawnerSleepGas.comps.2.fuelLabel>
+	                                   <!-- EN: Gas remaining -->
+	<AreaSpawnerSleepGas.comps.2.fuelGizmoLabel>Осталось газа</AreaSpawnerSleepGas.comps.2.fuelGizmoLabel>
+	                                     <!-- EN: Out of gas -->
+	<AreaSpawnerSleepGas.comps.2.outOfFuelMessage>Газ закончился</AreaSpawnerSleepGas.comps.2.outOfFuelMessage>
+	
+	                 <!-- EN: rage gas vent -->
+	<AreaSpawnerRageGas.label>вентиль с газом ярости</AreaSpawnerRageGas.label>
+	                       <!-- EN: this vent releases rage gas in an area around it. -->
+	<AreaSpawnerRageGas.description>Этот вентиль выпускает газ ярости в области вокруг себя.</AreaSpawnerRageGas.description>
+	                             <!-- EN: Gas remaining -->
+	<AreaSpawnerRageGas.comps.2.fuelLabel>Осталось газа</AreaSpawnerRageGas.comps.2.fuelLabel>
+	                                  <!-- EN: Gas remaining -->
+	<AreaSpawnerRageGas.comps.2.fuelGizmoLabel>Осталось газа</AreaSpawnerRageGas.comps.2.fuelGizmoLabel>
+	                                    <!-- EN: Out of gas -->
+	<AreaSpawnerRageGas.comps.2.outOfFuelMessage>Газ закончился</AreaSpawnerRageGas.comps.2.outOfFuelMessage>
+</LanguageData>

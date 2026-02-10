@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpgradeThing.reportString>обновить TargetA.</UpgradeThing.reportString>
+  <DowngradeThing.reportString>понизить TargetA.</DowngradeThing.reportString>
+  <IncreaseQuality_Building.reportString>повысить качество TargetA</IncreaseQuality_Building.reportString>
+  <IncreaseQuality_Crafting.reportString>повысить качество предмета</IncreaseQuality_Crafting.reportString>
+
+
+</LanguageData>

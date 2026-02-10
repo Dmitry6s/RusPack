@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.SelectAnimalToCustomize>Объект для настройки:</SY_CA.SelectAnimalToCustomize>
+
+  <SY_CA.GlobalSettings>Глобальные настройки</SY_CA.GlobalSettings>
+  <SY_CA.GlobalSettingsSubtitle>Изменяет всех животных</SY_CA.GlobalSettingsSubtitle>
+  <SY_CA.GlobalSettingsResetAll>Сбросить все</SY_CA.GlobalSettingsResetAll>
+  <SY_CA.TooltipGlobalSettings>Позволяет модифицировать всех животных одновременно</SY_CA.TooltipGlobalSettings>
+  <SY_CA.TooltipUseGlobal>Применить</SY_CA.TooltipUseGlobal>
+  <SY_CA.TooltipGlobalSettingsResetAll>Сбросить все изменения</SY_CA.TooltipGlobalSettingsResetAll>
+  <SY_CA.DialogGlobalSettingsResetAll>Все настройки для «Customize Animals» будут сброшены.</SY_CA.DialogGlobalSettingsResetAll>
+
+  <SY_CA.TooltipSettingsReset>Сбросить все изменения для '{0}'</SY_CA.TooltipSettingsReset>
+  <SY_CA.DialogSettingsReset>Настройки для "{0}" будут сброшены</SY_CA.DialogSettingsReset>
+  <SY_CA.DialogConfirm>Вы уверены?</SY_CA.DialogConfirm>
+
+  <SY_CA.Filter>фильтр</SY_CA.Filter>
+  <SY_CA.TooltipFilter>Применить фильтр к списку
+Используйте * для фильтрации измененных записей</SY_CA.TooltipFilter>
+
+  <SY_CA.Clear>Очистить</SY_CA.Clear>
+  <SY_CA.TooltipClearFilter>Очистить фильтр</SY_CA.TooltipClearFilter>
+
+  <SY_CA.Reset>Сбросить</SY_CA.Reset>
+  <SY_CA.TooltipDefaultValue>По умолчанию:</SY_CA.TooltipDefaultValue>
+
+  <SY_CA.NotApplicable>не применимо</SY_CA.NotApplicable>
+
+  <SY_CA.SubMenuGeneral>Общее</SY_CA.SubMenuGeneral>
+  <SY_CA.SubMenuReproduction>Репродукция</SY_CA.SubMenuReproduction>
+  <SY_CA.SubMenuProductivity>Продуктивность</SY_CA.SubMenuProductivity>
+
+  <SY_CA.SeparatorGeneralSettings>Общие настройки</SY_CA.SeparatorGeneralSettings>
+  <SY_CA.SeparatorAnimalSettings>Настройки животных</SY_CA.SeparatorAnimalSettings>
+  <SY_CA.SeparatorReproduction>Репродукция</SY_CA.SeparatorReproduction>
+  <SY_CA.SeparatorProductivity>Продуктивность</SY_CA.SeparatorProductivity>
+
+</LanguageData>

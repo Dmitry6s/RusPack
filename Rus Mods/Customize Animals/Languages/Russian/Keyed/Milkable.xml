@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.SeparatorMilkable>Дойность</SY_CA.SeparatorMilkable>
+
+  <SY_CA.MilkableIsMilkable>Можно ли доить?</SY_CA.MilkableIsMilkable>
+  <SY_CA.TooltipMilkableIsMilkable>Установите дойность для этого животного
+Изменение этого параметра требует перезагрузки для применения настроек!</SY_CA.TooltipMilkableIsMilkable>
+  <SY_CA.MilkableIsMilkableText>перезагрузите для изменения!</SY_CA.MilkableIsMilkableText>
+
+  <SY_CA.MilkableDef>Тип молока</SY_CA.MilkableDef>
+  <SY_CA.TooltipMilkableDef>Установите предмет, полученный путем доения этого животного
+(Не ограничивается жидкостями!)</SY_CA.TooltipMilkableDef>
+  <SY_CA.MilkableNoDef>определение молока не установлено</SY_CA.MilkableNoDef>
+
+  <SY_CA.MilkableIntervalDays>Доильный интервал</SY_CA.MilkableIntervalDays>
+  <SY_CA.TooltipMilkableIntervalDays>Установить интервал между дойками в днях</SY_CA.TooltipMilkableIntervalDays>
+
+  <SY_CA.MilkableAmount>Количество молока</SY_CA.MilkableAmount>
+  <SY_CA.TooltipMilkableAmount>Установите количество молока, производимого за одно доение</SY_CA.TooltipMilkableAmount>
+
+  <SY_CA.MilkableFemaleOnly>Только самки</SY_CA.MilkableFemaleOnly>
+  <SY_CA.TooltipMilkableFemaleOnly>Разрешить доить самцов</SY_CA.TooltipMilkableFemaleOnly>
+  <SY_CA.MilkableFemaleOnlyText>установить, чтобы самцы были пригодны для доения</SY_CA.MilkableFemaleOnlyText>
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.SeparatorAttackModifiers>Модификаторы атаки</SY_CA.SeparatorAttackModifiers>
+
+  <SY_CA.AttackPowerModifier>Модификатор силы атаки</SY_CA.AttackPowerModifier>
+  <SY_CA.TooltipAttackPowerModifier>Изменение урона, наносимого атаками этого животного.
+Значения больше 1 увеличивают урон и повреждение в секунду
+Значения меньше 1 уменьшают урон и повреждения в секунду</SY_CA.TooltipAttackPowerModifier>
+
+  <SY_CA.AttackPowerModifierGlobal>Глобальный модификатор силы атаки</SY_CA.AttackPowerModifierGlobal>
+  <SY_CA.TooltipAttackPowerModifierGlobal>Изменяет урон, наносимый всеми животными
+Значения больше 1 увеличивают урон и повреждение в секунду
+Значения меньше 1 уменьшают урон и повреждения в секунду</SY_CA.TooltipAttackPowerModifierGlobal>
+
+
+  <SY_CA.AttackCooldownModifier>Модификатор замедления атаки</SY_CA.AttackCooldownModifier>
+  <SY_CA.TooltipAttackCooldownModifier>Изменяет время задержки атак этого животного.
+Значения больше 1 увеличивают время задержки, уменьшая урон в секунду
+Значения меньше 1 уменьшают время выдержки, увеличивая урон в секунду</SY_CA.TooltipAttackCooldownModifier>
+
+  <SY_CA.AttackCooldownModifierGlobal>Глобальный модификатор перезарядки атаки</SY_CA.AttackCooldownModifierGlobal>
+  <SY_CA.TooltipAttackCooldownModifierGlobal>Изменить время восстановления всех атак животных
+Значения больше 1 уменьшают скорость атаки и урон в секунду.
+Значения меньше 1 увеличивают скорость атаки и урон в секунду.</SY_CA.TooltipAttackCooldownModifierGlobal>
+
+
+  <SY_CA.AttackModifierDPS>Расчетный урон в секунду</SY_CA.AttackModifierDPS>
+  <SY_CA.TooltipAttackModifierDPSNoManipulation>Животному не хватает "Манипулятивных" частей тела</SY_CA.TooltipAttackModifierDPSNoManipulation>
+
+</LanguageData>

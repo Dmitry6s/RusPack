@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- 1.6\Defs\Implants\Implants_GasTrap.xml -->
+	                  <!-- EN: toxic gas trap implant -->
+	<GasTrapImplantToxic.label>имплант-ловушка с токсичным газом</GasTrapImplantToxic.label>
+	                      <!-- EN: a toxic gas trap implant -->
+	<GasTrapImplantToxic.labelNoun>имплант-ловушка с токсичным газом</GasTrapImplantToxic.labelNoun>
+	                        <!-- EN: An installed toxic gas trap implant. -->
+	<GasTrapImplantToxic.description>Установленный имплант-ловушка с токсичным газом.</GasTrapImplantToxic.description>
+	
+	                 <!-- EN: acid gas trap implant -->
+	<GasTrapImplantAcid.label>имплант-ловушка с кислотным газом</GasTrapImplantAcid.label>
+	                     <!-- EN: a acid gas trap implant -->
+	<GasTrapImplantAcid.labelNoun>имплант-ловушка с кислотным газом</GasTrapImplantAcid.labelNoun>
+	                       <!-- EN: An installed acid gas trap implant. -->
+	<GasTrapImplantAcid.description>Установленный имплант-ловушка с кислотным газом.</GasTrapImplantAcid.description>
+	
+	                 <!-- EN: rage gas trap implant -->
+	<GasTrapImplantRage.label>имплант-ловушка с газом ярости</GasTrapImplantRage.label>
+	                     <!-- EN: a rage gas trap implant -->
+	<GasTrapImplantRage.labelNoun>имплант-ловушка с газом ярости</GasTrapImplantRage.labelNoun>
+	                       <!-- EN: An installed rage gas trap implant. -->
+	<GasTrapImplantRage.description>Установленный имплант-ловушка с газом ярости.</GasTrapImplantRage.description>
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.LeatherAmount>Количество кожи</SY_CA.LeatherAmount>
+  <SY_CA.LeatherAmountNoDef>у животного нет кожи</SY_CA.LeatherAmountNoDef>
+  <SY_CA.TooltipLeatherAmount>Установите количество кожи на этом животном
+Не следует изменять это значение, если по умолчанию оно равно 0.</SY_CA.TooltipLeatherAmount>
+
+</LanguageData>

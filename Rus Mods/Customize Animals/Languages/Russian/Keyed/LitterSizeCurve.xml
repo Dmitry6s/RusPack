@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.LitterSizeCurve>Кривая размера помета</SY_CA.LitterSizeCurve>
+  <SY_CA.TooltipLitterSizeCurve>Размер помета определяется с помощью кривой с точками, каждая из которых имеет значение «размер помета» и его «вероятность».
+Действительная кривая требует не менее 3 точек и должна начинаться и заканчиваться точкой с вероятностью 0, в противном случае размер помета устанавливается равным 1.</SY_CA.TooltipLitterSizeCurve>
+  <SY_CA.LitterSizeCurveCount>Размер помета</SY_CA.LitterSizeCurveCount>
+  <SY_CA.LitterSizeCurveProbability>Вероятность</SY_CA.LitterSizeCurveProbability>
+
+  <SY_CA.TooltipLitterSizeCurveInvalidCount>Недопустимое количество точек:
+Требуется 3 или более точек, а начальная/конечная точки должны иметь вероятность 0</SY_CA.TooltipLitterSizeCurveInvalidCount>
+  <SY_CA.TooltipLitterSizeCurveInvalidStartOrEnd>Неверное начало/конец:
+кривая должна начинаться и заканчиваться с вероятностью 0</SY_CA.TooltipLitterSizeCurveInvalidStartOrEnd>
+
+  <SY_CA.TooltipLitterSizeCurveAdd>Добавить новый пункт</SY_CA.TooltipLitterSizeCurveAdd>
+  <SY_CA.TooltipLitterSizeCurveRemove>Удалить этот пункт</SY_CA.TooltipLitterSizeCurveRemove>
+
+  <SY_CA.TooltipLitterSizeCurveRange>Диапазон размеров помета</SY_CA.TooltipLitterSizeCurveRange>
+  <SY_CA.TooltipLitterSizeCurveAverage>Средний размер помета</SY_CA.TooltipLitterSizeCurveAverage>
+
+  <SY_CA.TooltipLitterSizeCurveCount>x</SY_CA.TooltipLitterSizeCurveCount>
+  <SY_CA.TooltipLitterSizeCurveProbability>y</SY_CA.TooltipLitterSizeCurveProbability>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Fake down -->
+	<aRandomKiwi_DFM_ForceDownLabel>Притвориться поверженным</aRandomKiwi_DFM_ForceDownLabel>
+	<!-- EN: Force the pawn to pretend being downed -->
+	<aRandomKiwi_DFM_ForceDownDesc>Заставить поселенца притвориться поверженным.</aRandomKiwi_DFM_ForceDownDesc>
+
+	<!-- EN: Stop fake down -->
+	<aRandomKiwi_DFM_ForceUndownLabel>Перестать притворяться</aRandomKiwi_DFM_ForceUndownLabel>
+	<!-- EN: Stop force the pawn to pretend being downed -->
+	<aRandomKiwi_DFM_ForceUndownDesc>Приказать поселенцу прекратить притворяться поверженным и подняться.</aRandomKiwi_DFM_ForceUndownDesc>
+</LanguageData>

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UpgradeThing.label>модернизировать обозначенный элемент до его автоматизированного аналога</UpgradeThing.label>
+  <UpgradeThing.verb>обновить</UpgradeThing.verb>
+  <UpgradeThing.gerund>модернизация</UpgradeThing.gerund>
+
+  <DowngradeThing.label>понизить класс обозначенного элемента до его неавтоматизированного аналога</DowngradeThing.label>
+  <DowngradeThing.verb>понизить</DowngradeThing.verb>
+  <DowngradeThing.gerund>понижение</DowngradeThing.gerund>
+
+  <IncreaseQuality_Building.label>попытка повысить качество этого предмета</IncreaseQuality_Building.label>
+  <IncreaseQuality_Building.verb>повысить качество</IncreaseQuality_Building.verb>
+  <IncreaseQuality_Building.gerund>повышение качества</IncreaseQuality_Building.gerund>
+
+  <IncreaseQuality_Apparel.label>попытка повысить качество этого предмета</IncreaseQuality_Apparel.label>
+  <IncreaseQuality_Apparel.verb>повысить качество</IncreaseQuality_Apparel.verb>
+  <IncreaseQuality_Apparel.gerund>повышение качества</IncreaseQuality_Apparel.gerund>
+
+  <IncreaseQuality_Item.label>попытка повысить качество этого предмета</IncreaseQuality_Item.label>
+  <IncreaseQuality_Item.verb>повысить качество</IncreaseQuality_Item.verb>
+  <IncreaseQuality_Item.gerund>повышение качества</IncreaseQuality_Item.gerund>
+
+  <IncreaseQuality_Art.label>попытка повысить качество этого предмета</IncreaseQuality_Art.label>
+  <IncreaseQuality_Art.verb>повысить качество</IncreaseQuality_Art.verb>
+  <IncreaseQuality_Art.gerund>повышение качества</IncreaseQuality_Art.gerund>
+
+
+</LanguageData>

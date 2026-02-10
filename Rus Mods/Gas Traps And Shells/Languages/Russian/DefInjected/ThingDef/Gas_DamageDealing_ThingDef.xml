@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDef_Gas\Gas_DamageDealing.xml -->
+	      <!-- EN: corrosive gas -->
+	<AcidGas.label>коррозийный газ</AcidGas.label>
+	           <!-- EN: cloud of defense nanites -->
+	<DefNaniteGas.label>облако защитных нанитов</DefNaniteGas.label>
+</LanguageData>

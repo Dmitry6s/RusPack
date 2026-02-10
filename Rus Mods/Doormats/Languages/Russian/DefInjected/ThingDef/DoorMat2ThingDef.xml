@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- Common\Defs\ThingDefs.xml -->
+	                       <!-- EN: A doormat to clean your feet. -->
+	<Alias_DoorMatSmall.description>Половик для вытирания ног.</Alias_DoorMatSmall.description>
+	                 <!-- EN: small doormat -->
+	<Alias_DoorMatSmall.label>малый половик</Alias_DoorMatSmall.label>
+	
+	                        <!-- EN: A doormat to clean your feet. -->
+	<Alias_DoorMatMedium.description>Половик для вытирания ног.</Alias_DoorMatMedium.description>
+	                  <!-- EN: medium doormat -->
+	<Alias_DoorMatMedium.label>средний половик</Alias_DoorMatMedium.label>
+	
+	                       <!-- EN: A doormat to clean your feet. -->
+	<Alias_DoorMatLarge.description>Половик для вытирания ног.</Alias_DoorMatLarge.description>
+	                 <!-- EN: large doormat -->
+	<Alias_DoorMatLarge.label>большой половик</Alias_DoorMatLarge.label>
+	
+	                        <!-- EN: A doormat to clean your feet. -->
+	<Alias_DoorMatLinked.description>Половик для вытирания ног.</Alias_DoorMatLinked.description>
+	                  <!-- EN: linked doormat -->
+	<Alias_DoorMatLinked.label>составной половик</Alias_DoorMatLinked.label>
+</LanguageData>

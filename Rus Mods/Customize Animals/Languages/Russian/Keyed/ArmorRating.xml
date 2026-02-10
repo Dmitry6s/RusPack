@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.SeparatorArmorRating>Оценка брони</SY_CA.SeparatorArmorRating>
+
+  <SY_CA.ArmorRating_Sharp>Рейтинг брони - острый</SY_CA.ArmorRating_Sharp>
+  <SY_CA.TooltipArmorRating_Sharp>Установите рейтинг брони против резкого урона. Несмотря на то, что можно ввести больше, 200% - это верхний предел</SY_CA.TooltipArmorRating_Sharp>
+
+  <SY_CA.ArmorRating_Blunt>Рейтинг брони - тупой</SY_CA.ArmorRating_Blunt>
+  <SY_CA.TooltipArmorRating_Blunt>Установите рейтинг брони против тупого урона
+Хотя можно ввести и больше, 200% - это верхний предел.</SY_CA.TooltipArmorRating_Blunt>
+
+  <SY_CA.ArmorRating_Heat>Рейтинг брони - тепло</SY_CA.ArmorRating_Heat>
+  <SY_CA.TooltipArmorRating_Heat>Установите рейтинг брони против теплового урона
+Несмотря на то, что можно ввести больше, 200% - это верхний предел</SY_CA.TooltipArmorRating_Heat>
+
+</LanguageData>

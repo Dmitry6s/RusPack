@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\Implants\Implants_GasTrap.xml -->
+	                  <!-- EN: toxic gas trap implant -->
+	<GasTrapImplantToxic.label>имплант-ловушка с токсичным газом</GasTrapImplantToxic.label>
+	                        <!-- EN: A chest implant that causes pawns who die to release a toxic gas into the air. -->
+	<GasTrapImplantToxic.description>Грудной имплант, который заставляет умирающих пешек выпускать в воздух токсичный газ.</GasTrapImplantToxic.description>
+	
+	                 <!-- EN: acid gas trap implant -->
+	<GasTrapImplantAcid.label>имплант-ловушка с кислотным газом</GasTrapImplantAcid.label>
+	                       <!-- EN: A chest implant that causes pawns who die to release acid gas into the air. -->
+	<GasTrapImplantAcid.description>Грудной имплант, который заставляет умирающих пешек выпускать в воздух кислотный газ.</GasTrapImplantAcid.description>
+	
+	                 <!-- EN: rage gas trap implant -->
+	<GasTrapImplantRage.label>имплант-ловушка с газом ярости</GasTrapImplantRage.label>
+	                       <!-- EN: A chest implant that causes pawns who die to release rage gas into the air. -->
+	<GasTrapImplantRage.description>Грудной имплант, который заставляет умирающих пешек выпускать в воздух газ ярости.</GasTrapImplantRage.description>
+</LanguageData>

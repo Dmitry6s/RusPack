@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.GestationPeriodDays>Период беременности</SY_CA.GestationPeriodDays>
+  <SY_CA.TooltipGestationPeriodDays>Отрегулируйте период беременности для этого животного
+Отрицательные значения отключают беременность</SY_CA.TooltipGestationPeriodDays>
+
+</LanguageData>

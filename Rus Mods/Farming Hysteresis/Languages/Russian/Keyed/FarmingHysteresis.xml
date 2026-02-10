@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Enable hysteresis -->
+	<FarmingHysteresis.EnableFarmingHysteresis>Включить гистерезис</FarmingHysteresis.EnableFarmingHysteresis>
+	<!-- EN: Allow {0} when the amount gets lower than the configured lower amount and disallow {0} when it gets above the configured upper amount. -->
+	<FarmingHysteresis.EnableFarmingHysteresisisDesc>Разрешить {0}, когда количество ниже нижнего порога, и запретить, когда оно выше верхнего порога {0}.</FarmingHysteresis.EnableFarmingHysteresisisDesc>
+
+	<!-- EN: Use global hysteresis values -->
+	<FarmingHysteresis.UseGlobalValues>Использовать глобальные значения</FarmingHysteresis.UseGlobalValues>
+	<!-- EN: For all zones and hydroponics basins of the same crop with this setting enabled, they will share the same bound values. -->
+	<FarmingHysteresis.UseGlobalValuesDesc>Все зоны и гидропонные бассейны с одинаковой культурой и этой настройкой будут использовать общие значения.</FarmingHysteresis.UseGlobalValuesDesc>
+
+	<!-- EN: Default lower bound -->
+	<FarmingHysteresis.DefaultLowerBound>Нижний порог по умолчанию</FarmingHysteresis.DefaultLowerBound>
+	<!-- EN: Default upper bound -->
+	<FarmingHysteresis.DefaultUpperBound>Верхний порог по умолчанию</FarmingHysteresis.DefaultUpperBound>
+	<!-- EN: Growing zones and hydroponic basins enable hysteresis upon placement -->
+	<FarmingHysteresis.EnabledByDefault>Включать гистерезис для новых зон/бассейнов</FarmingHysteresis.EnabledByDefault>
+	<!-- EN: Use global hysteresis values by default -->
+	<FarmingHysteresis.UseGlobalValuesByDefault>Использовать глобальные значения по умолчанию</FarmingHysteresis.UseGlobalValuesByDefault>
+	<!-- EN: Count all harvest products on map -->
+	<FarmingHysteresis.CountAllOnMap>Учитывать весь урожай на карте</FarmingHysteresis.CountAllOnMap>
+	<!-- EN: If enabled, plant growers count all unforbidden, unhidden items on the map when deciding on the hysteresis state. If disabled, they only count those in stockpiles and storage buildings. -->
+	<FarmingHysteresis.CountAllOnMapTooltip>Если вкл., учитывается весь доступный урожай на карте. Если выкл. - только на складах.</FarmingHysteresis.CountAllOnMapTooltip>
+	<!-- EN: Enabling this setting may have an adverse effect on performance, especially on large maps or maps with many items. -->
+	<FarmingHysteresis.Expensive.Tooltip>Включение может снизить производительность на больших картах или при большом количестве предметов.</FarmingHysteresis.Expensive.Tooltip>
+	<!-- EN: Hysteresis mode -->
+	<FarmingHysteresis.HysteresisMode>Режим гистерезиса</FarmingHysteresis.HysteresisMode>
+	<!-- EN: Show old command buttons -->
+	<FarmingHysteresis.ShowOldCommands>Показать старые кнопки</FarmingHysteresis.ShowOldCommands>
+	<!-- EN: In version 0.6, the mod switched from using command buttons to a dialog for configuring hysteresis parameters. Enable this setting to also show the old command buttons. -->
+	<FarmingHysteresis.ShowOldCommandsTooltip>В версии 0.6 мод переключился на диалоговое окно вместо кнопок. Эта опция вернёт старые кнопки.</FarmingHysteresis.ShowOldCommandsTooltip>
+	<!-- EN: Show hysteresis tab -->
+	<FarmingHysteresis.ShowHysteresisMainTab>Показать вкладку "Гистерезис"</FarmingHysteresis.ShowHysteresisMainTab>
+	<!-- EN: Disabling this setting hides the Hysteresis tab from the game.\n\nWhile it is currently only used as a convenient location to configure global hysteresis values in one place, there are plans to add more features to this tab later. Hiding it will thus prevent access to these features and is generally not recommended. -->
+	<FarmingHysteresis.ShowHysteresisMainTabTooltip>Скрывает вкладку "Гистерезис".\n\nНе рекомендуется, так как в будущем на этой вкладке появятся новые функции.</FarmingHysteresis.ShowHysteresisMainTabTooltip>
+
+	<!-- EN: Configure hysteresis parameters -->
+	<FarmingHysteresis.ConfigureHysteresis>Настроить параметры гистерезиса</FarmingHysteresis.ConfigureHysteresis>
+	<!-- EN: Configure hysteresis parameters such as the upper and lower bounds. -->
+	<FarmingHysteresis.ConfigureHysteresisDesc>Настроить такие параметры, как верхний и нижний пороги.</FarmingHysteresis.ConfigureHysteresisDesc>
+
+	<!-- EN: L: -{0} -->
+	<FarmingHysteresis.DecrementLowerHysteresis>Н: -{0}</FarmingHysteresis.DecrementLowerHysteresis>
+	<!-- EN: Decrement the lower bound by {0} (Hold {1} for x10, {2} for x100) -->
+	<FarmingHysteresis.DecrementLowerHysteresisDesc>Уменьшить нижний порог на {0} (Зажать {1} для x10, {2} для x100)</FarmingHysteresis.DecrementLowerHysteresisDesc>
+	<!-- EN: L: +{0} -->
+	<FarmingHysteresis.IncrementLowerHysteresis>Н: +{0}</FarmingHysteresis.IncrementLowerHysteresis>
+	<!-- EN: Increment the lower bound by {0} (Hold {1} for x10, {2} for x100) -->
+	<FarmingHysteresis.IncrementLowerHysteresisDesc>Увеличить нижний порог на {0} (Зажать {1} для x10, {2} для x100)</FarmingHysteresis.IncrementLowerHysteresisDesc>
+
+	<!-- EN: U: -{0} -->
+	<FarmingHysteresis.DecrementUpperHysteresis>В: -{0}</FarmingHysteresis.DecrementUpperHysteresis>
+	<!-- EN: Decrement the upper bound by {0} (Hold {1} for x10, {2} for x100) -->
+	<FarmingHysteresis.DecrementUpperHysteresisDesc>Уменьшить верхний порог на {0} (Зажать {1} для x10, {2} для x100)</FarmingHysteresis.DecrementUpperHysteresisDesc>
+	<!-- EN: U: +{0} -->
+	<FarmingHysteresis.IncrementUpperHysteresis>В: +{0}</FarmingHysteresis.IncrementUpperHysteresis>
+	<!-- EN: Increment the upper bound by {0} (Hold {1} for x10, {2} for x100) -->
+	<FarmingHysteresis.IncrementUpperHysteresisDesc>Увеличить верхний порог на {0} (Зажать {1} для x10, {2} для x100)</FarmingHysteresis.IncrementUpperHysteresisDesc>
+
+	<!-- EN: Use global bounds for {0}: {1} -->
+	<FarmingHysteresis.UseGlobalBounds>Глобальные пороги для {0}: {1}</FarmingHysteresis.UseGlobalBounds>
+	<!-- EN: Start {3} {0} when there are fewer than {1} {2} in storage -->
+	<FarmingHysteresis.LowerBound>Начать {3} ({0}), когда на складе меньше {1} {2}</FarmingHysteresis.LowerBound>
+	<!-- EN: Stop {3} {0} when there are more than {1} {2} in storage -->
+	<FarmingHysteresis.UpperBound>Прекратить {3} ({0}), когда на складе больше {1} {2}</FarmingHysteresis.UpperBound>
+	<!-- EN: Current amount of {0} in storage: {1} -->
+	<FarmingHysteresis.InStorage>На складе {0}: {1}</FarmingHysteresis.InStorage>
+
+	<!-- EN: Current state: {0} -->
+	<FarmingHysteresis.LatchModeDesc>Текущее состояние: {0}</FarmingHysteresis.LatchModeDesc>
+	<!-- EN: Unknown. This is a bug unless the zone was just created or hysteresis was just enabled. -->
+	<FarmingHysteresis.LatchModeDesc.Unknown>Неизвестно. Это ошибка, если зона не была только что создана.</FarmingHysteresis.LatchModeDesc.Unknown>
+	<!-- EN: Lower than the lower bound. Allowing {0}. -->
+	<FarmingHysteresis.LatchModeDesc.BelowLowerBound>Ниже нижнего порога. {0} разрешено.</FarmingHysteresis.LatchModeDesc.BelowLowerBound>
+	<!-- EN: Higher than the lower bound, but has not reached the upper bound. Still allowing {0}. -->
+	<FarmingHysteresis.LatchModeDesc.BetweenBoundsEnabled>Выше нижнего порога, но верхний не достигнут. {0} все еще разрешено.</FarmingHysteresis.LatchModeDesc.BetweenBoundsEnabled>
+	<!-- EN: Lower than the upper bound, but has not reached the lower bound. Still disallowing {0}. -->
+	<FarmingHysteresis.LatchModeDesc.BetweenBoundsDisabled>Ниже верхнего порога, но нижний не достигнут. {0} все еще запрещено.</FarmingHysteresis.LatchModeDesc.BetweenBoundsDisabled>
+	<!-- EN: Higher than the upper bound. Disallowing {0}. -->
+	<FarmingHysteresis.LatchModeDesc.AboveUpperBound>Выше верхнего порога. {0} запрещено.</FarmingHysteresis.LatchModeDesc.AboveUpperBound>
+	<!-- EN: Farming hysteresis is disabled for this growing zone due to the selected plant not having a harvestable product. -->
+	<FarmingHysteresis.DisabledDueToMissingHarvestedThingDef>Гистерезис отключен, т.к. у выбранного растения нет урожая.</FarmingHysteresis.DisabledDueToMissingHarvestedThingDef>
+
+	<!-- EN: Use global bounds -->
+	<FarmingHysteresis.UseGlobalBoundsLabel>Глобальные пороги</FarmingHysteresis.UseGlobalBoundsLabel>
+	<!-- EN: Lower bound -->
+	<FarmingHysteresis.LowerBoundLabel>Нижний порог</FarmingHysteresis.LowerBoundLabel>
+	<!-- EN: Upper bound -->
+	<FarmingHysteresis.UpperBoundLabel>Верхний порог</FarmingHysteresis.UpperBoundLabel>
+
+	<!-- EN: Global Hysteresis Bounds -->
+	<FarmingHysteresis.GlobalHysteresisBounds>Глобальные пороги гистерезиса</FarmingHysteresis.GlobalHysteresisBounds>
+
+	<!-- EN: sowing -->
+	<FarmingHysteresis.Sowing>посев</FarmingHysteresis.Sowing>
+	<!-- EN: harvesting -->
+	<FarmingHysteresis.Harvesting>сбор урожая</FarmingHysteresis.Harvesting>
+	<!-- EN: sowing and harvesting -->
+	<FarmingHysteresis.SowingAndHarvesting>посев и сбор</FarmingHysteresis.SowingAndHarvesting>
+	<!-- EN: Control {0} -->
+	<FarmingHysteresis.Control>Контроль: {0}</FarmingHysteresis.Control>
+
+	<!-- EN: Hysteresis -->
+	<FarmingHysteresis.TabHysteresis>Гистерезис</FarmingHysteresis.TabHysteresis>
+	<!-- EN: Hysteresis product: -->
+	<FarmingHysteresis.ProductLabel>Продукт для гистерезиса:</FarmingHysteresis.ProductLabel>
+</LanguageData>

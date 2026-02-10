@@ -1,0 +1,43 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\GenericItems.xml -->
+	
+	                <!-- EN: toxic gas canister -->
+	<Canister_ToxicGas.label>баллон с токсичным газом</Canister_ToxicGas.label>
+	                      <!-- EN: A canister of a sweet smelling substance ready to ruin your day -->
+	<Canister_ToxicGas.description>Баллон со сладковатым веществом, готовым испортить вам день.</Canister_ToxicGas.description>
+	
+	               <!-- EN: rage gas canister -->
+	<Canister_RageGas.label>баллон с газом ярости</Canister_RageGas.label>
+	                     <!-- EN: A canister of a foul smelling substance ready to ruin your day -->
+	<Canister_RageGas.description>Баллон с дурно пахнущим веществом, готовым испортить вам день.</Canister_RageGas.description>
+	
+	               <!-- EN: tear gas canister -->
+	<Canister_TearGas.label>баллон со слезоточивым газом</Canister_TearGas.label>
+	                     <!-- EN: A canister of a foul smelling substance ready to ruin your day -->
+	<Canister_TearGas.description>Баллон с дурно пахнущим веществом, готовым испортить вам день.</Canister_TearGas.description>
+	
+	                <!-- EN: sleep gas canister -->
+	<Canister_SleepGas.label>баллон с усыпляющим газом</Canister_SleepGas.label>
+	                      <!-- EN: A canister of a non-smelling substance ready to ruin your day -->
+	<Canister_SleepGas.description>Баллон с веществом без запаха, готовым испортить вам день.</Canister_SleepGas.description>
+	
+	               <!-- EN: fear gas canister -->
+	<Canister_FearGas.label>баллон с газом страха</Canister_FearGas.label>
+	                     <!-- EN: A canister of a non-smelling substance ready to ruin your day -->
+	<Canister_FearGas.description>Баллон с веществом без запаха, готовым испортить вам день.</Canister_FearGas.description>
+	
+	               <!-- EN: acid gas canister -->
+	<Canister_AcidGas.label>баллон с кислотным газом</Canister_AcidGas.label>
+	                     <!-- EN: A canister of a green liquid substance ready to ruin your day -->
+	<Canister_AcidGas.description>Баллон с зеленой жидкостью, готовой испортить вам день.</Canister_AcidGas.description>
+	
+	                    <!-- EN: mechvirus gas canister -->
+	<Canister_MechVirusGas.label>баллон с вирусным газом для мехов</Canister_MechVirusGas.label>
+	                          <!-- EN: A canister of a nanites ready to wreck a mech -->
+	<Canister_MechVirusGas.description>Баллон с нанитами, готовыми уничтожить механоида.</Canister_MechVirusGas.description>
+	
+	                  <!-- EN: antibug gas canister -->
+	<Canister_AntibugGas.label>баллон с газом против насекомых</Canister_AntibugGas.label>
+	                        <!-- EN: A canister of a bug spray -->
+	<Canister_AntibugGas.description>Баллон со спреем от насекомых.</Canister_AntibugGas.description>
+</LanguageData>

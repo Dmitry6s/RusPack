@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- Common\Defs\RecipeDefs_FreeMeal.xml -->
+	                           <!-- EN: Cook free packaged survival meal -->
+	<CookPackagedSurvivalMealFree.label>Приготовить бесплатный сухой паёк</CookPackagedSurvivalMealFree.label>
+	                                 <!-- EN: Create a packaged survival meal out of nothing. Who says there is no such thing as a free lunch? -->
+	<CookPackagedSurvivalMealFree.description>Создать сухой паёк из ничего. Кто сказал, что бесплатных обедов не бывает?</CookPackagedSurvivalMealFree.description>
+	                               <!-- EN: Cooking a free packaged survival meal. -->
+	<CookPackagedSurvivalMealFree.jobString>Готовит бесплатный сухой паёк.</CookPackagedSurvivalMealFree.jobString>
+</LanguageData>

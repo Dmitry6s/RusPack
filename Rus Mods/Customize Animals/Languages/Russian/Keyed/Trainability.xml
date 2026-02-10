@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.Trainability>Обучаемость</SY_CA.Trainability>
+  <SY_CA.TooltipTrainabilityRoamingWarning>Возможность дрессировки выше "Нет" без удаления роуминга (установленного на 0) бесполезна, так как животные, которым требуется загон, не могут его покинуть</SY_CA.TooltipTrainabilityRoamingWarning>
+  <SY_CA.TrainabilityNone>Нет</SY_CA.TrainabilityNone>
+  <SY_CA.TooltipTrainabilityNone>Отсутствие обучаемости</SY_CA.TooltipTrainabilityNone>
+  <SY_CA.TrainabilityIntermediate>Основное</SY_CA.TrainabilityIntermediate>
+  <SY_CA.TooltipTrainabilityIntermediate>Только защита и атака</SY_CA.TooltipTrainabilityIntermediate>
+  <SY_CA.TrainabilityAdvanced>Доп.</SY_CA.TrainabilityAdvanced>
+  <SY_CA.TooltipTrainabilityAdvanced>Охрана, Атака, Спасение и Перетаскивание</SY_CA.TooltipTrainabilityAdvanced>
+
+  <SY_CA.MinimumTrainability>Минимальная обучаемость</SY_CA.MinimumTrainability>
+
+
+  <SY_CA.TrainingDecay>Скорость затухания тренировки</SY_CA.TrainingDecay>
+  <SY_CA.TooltipTrainingDecay>Отрегулируйте скорость, с которой обучение ухудшается
+Значение 1 — это базовая скорость, меньше уменьшает скорость, больше увеличивает скорость.</SY_CA.TooltipTrainingDecay>
+
+  <SY_CA.TrainableLimits>Обучаемость: отключить ограничение размера тела</SY_CA.TrainableLimits>
+  <SY_CA.RescueLimit>спасение</SY_CA.RescueLimit>
+  <SY_CA.TooltipRescueLimit>Разрешить всем «продвинутым» дрессируемым животным «спасать» независимо от размера их тела.</SY_CA.TooltipRescueLimit>
+  <SY_CA.HaulLimit>переноска</SY_CA.HaulLimit>
+  <SY_CA.TooltipHaulLimit>Разрешить всем «продвинутым» дрессируемым животным «перетаскивать» независимо от размера их тела.</SY_CA.TooltipHaulLimit>
+
+</LanguageData>

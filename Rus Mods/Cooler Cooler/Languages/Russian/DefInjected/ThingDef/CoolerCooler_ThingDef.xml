@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Defs\ThingsDef_Buildings\CoolerCooler.xml -->
+	           <!-- EN: cooler cooler -->
+	<CoolerCooler.label>улучшенный охладитель</CoolerCooler.label>
+	                 <!-- EN: A modified unpowered cooler that works by water evaporation. Must be regularly replenished with wood. Cold enough to freeze foods! -->
+	<CoolerCooler.description>Модифицированный не требующий энергии охладитель, работающий за счёт испарения воды. Его необходимо регулярно заправлять дровами. Достаточно холодный, чтобы замораживать продукты!</CoolerCooler.description>
+</LanguageData>

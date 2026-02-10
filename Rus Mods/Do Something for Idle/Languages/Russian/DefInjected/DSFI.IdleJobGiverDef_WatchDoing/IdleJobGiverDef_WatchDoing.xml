@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- v1.6\Defs\IdleJobGiverDef.xml -->
+	                         <!-- EN: Watching research -->
+	<IdleJobGiver_WatchResearch.label>Наблюдение за исследованием</IdleJobGiver_WatchResearch.label>
+	                        <!-- EN: Watching working -->
+	<IdleJobGiver_WatchWorking.label>Наблюдение за работой</IdleJobGiver_WatchWorking.label>
+</LanguageData>

@@ -1,0 +1,16 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_Resource_SpecialGasShell.xml -->
+	              <!-- EN: Mechanoid Virus Shell -->
+	<Shell_MechVirus.label>Снаряд с вирусом для механоидов</Shell_MechVirus.label>
+	                    <!-- EN: A shell filled nano-machines designed to latch on to and wreck havoc on the systems of Mechanoids.This happens in a couple of phases, first the mechanoid is infected, next every few seconds the virus has a chance
+		to manifest an effect or fail completely. This effect can be a number of different things it depends how the mechanoid reacts to the nano-machines -->
+	<Shell_MechVirus.description>Снаряд, наполненный нано-машинами, предназначенными для прикрепления и разрушения систем механоидов. Это происходит в несколько этапов: сначала механоид заражается, затем каждые несколько секунд вирус может проявить эффект или полностью потерпеть неудачу. Эффект может быть разным, в зависимости от реакции механоида на нано-машины.</Shell_MechVirus.description>
+	                     <!-- EN: Mechanoid Virus Shell -->
+	<Bullet_Shell_MechVirus.label>Снаряд с вирусом для механоидов</Bullet_Shell_MechVirus.label>
+	               <!-- EN: anti insect gas shell -->
+	<Shell_GasAntiBug.label>снаряд с газом против насекомых</Shell_GasAntiBug.label>
+	                     <!-- EN: A shell filled with a gas to get rid of insectoids. Can be fired from mortars. It suffocates insects causing them to get drowsy. Can iduce a coma and is potentially fatal. -->
+	<Shell_GasAntiBug.description>Снаряд, наполненный газом для избавления от инсектоидов. Может быть выпущен из миномета. Он душит насекомых, вызывая у них сонливость. Может вызвать кому и потенциально смертелен.</Shell_GasAntiBug.description>
+	                      <!-- EN: anti inectoid gas shell -->
+	<Bullet_Shell_GasAntiBug.label>снаряд с газом против инсектоидов</Bullet_Shell_GasAntiBug.label>
+</LanguageData>

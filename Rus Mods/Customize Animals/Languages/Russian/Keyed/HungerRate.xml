@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.HungerRate>Уровень голода</SY_CA.HungerRate>
+  <SY_CA.TooltipHungerRate>Отрегулируйте уровень голода этого животного</SY_CA.TooltipHungerRate>
+
+  <SY_CA.HungerRateRange>Диапазон голода</SY_CA.HungerRateRange>
+  <SY_CA.TooltipMinHungerRate>Отрегулируйте минимальный уровень голода всех животных</SY_CA.TooltipMinHungerRate>
+  <SY_CA.TooltipMaxHungerRate>Отрегулируйте максимальный уровень голода всех животных</SY_CA.TooltipMaxHungerRate>
+
+</LanguageData>

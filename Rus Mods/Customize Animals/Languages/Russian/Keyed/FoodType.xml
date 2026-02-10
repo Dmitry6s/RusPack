@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.FoodType>Тип питания</SY_CA.FoodType>
+  <SY_CA.TooltipFoodTypeAdd>Нажмите и выберите элементы в раскрывающемся меню, чтобы разрешить тип пищи для этого животного.</SY_CA.TooltipFoodTypeAdd>
+  <SY_CA.TooltipFoodTypeRemove>Нажмите и выберите элементы в раскрывающемся меню, чтобы запретить тип пищи для этого животного.</SY_CA.TooltipFoodTypeRemove>
+
+</LanguageData>

@@ -1,0 +1,33 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Items_Resource_GasShell.xml -->
+	             <!-- EN: toxic gas shell -->
+	<Shell_GasToxic.label>снаряд с токсичным газом</Shell_GasToxic.label>
+	                   <!-- EN: A shell filled with toxic gas. Can be fired from mortars. Toxic gas causes pawns to get sick increasing toxic build up rapidly until they die. -->
+	<Shell_GasToxic.description>Снаряд, наполненный токсичным газом. Может быть выпущен из миномета. Токсичный газ вызывает у пешек болезнь, быстрое накопление токсинов и, в конечном счете, смерть.</Shell_GasToxic.description>
+	                    <!-- EN: toxic gas shell -->
+	<Bullet_Shell_GasToxic.label>снаряд с токсичным газом</Bullet_Shell_GasToxic.label>
+	            <!-- EN: rage gas shell -->
+	<Shell_GasRage.label>снаряд с газом ярости</Shell_GasRage.label>
+	                  <!-- EN: A shell filled with rage gas. Can be fired from mortars. Rage gas can cause a couple of effects most noticibally the pawn will become berserk and attack the closest thing friend or foe. -->
+	<Shell_GasRage.description>Снаряд, наполненный газом ярости. Может быть выпущен из миномета. Газ ярости может вызывать несколько эффектов, наиболее заметным из которых является впадение пешки в состояние берсерка и атака на ближайшее существо, будь то друг или враг.</Shell_GasRage.description>
+	                   <!-- EN: rage gas shell -->
+	<Bullet_Shell_GasRage.label>снаряд с газом ярости</Bullet_Shell_GasRage.label>
+	            <!-- EN: tear gas shell -->
+	<Shell_GasTear.label>снаряд со слезоточивым газом</Shell_GasTear.label>
+	                  <!-- EN: A shell filled with tear gas. Can be fired from mortars. Tear gas causes blindness and vomitting this can make it hard for them to shoot. -->
+	<Shell_GasTear.description>Снаряд, наполненный слезоточивым газом. Может быть выпущен из миномета. Слезоточивый газ вызывает слепоту и рвоту, что может затруднить стрельбу.</Shell_GasTear.description>
+	                   <!-- EN: tear gas shell -->
+	<Bullet_Shell_GasTear.label>снаряд со слезоточивым газом</Bullet_Shell_GasTear.label>
+	             <!-- EN: sleep gas shell -->
+	<Shell_GasSleep.label>снаряд с усыпляющим газом</Shell_GasSleep.label>
+	                   <!-- EN: A shell filled with sleep gas. Can be fired from mortars. Sleep gas causes pawns to get sleepy and can even put them to sleep -->
+	<Shell_GasSleep.description>Снаряд, наполненный усыпляющим газом. Может быть выпущен из миномета. Усыпляющий газ вызывает сонливость у пешек и может даже усыпить их.</Shell_GasSleep.description>
+	                    <!-- EN: sleep gas shell -->
+	<Bullet_Shell_GasSleep.label>снаряд с усыпляющим газом</Bullet_Shell_GasSleep.label>
+	            <!-- EN: fear gas shell -->
+	<Shell_GasFear.label>снаряд с газом страха</Shell_GasFear.label>
+	                  <!-- EN: A shell filled with fear gas. Can be fired from mortars. This gas will cause pawns to flee the map (DO NOT LET YOUR IDIOTS GET IN THE GAS LOL ) -->
+	<Shell_GasFear.description>Снаряд, наполненный газом страха. Может быть выпущен из миномета. Этот газ заставит пешек бежать с карты (НЕ ПОЗВОЛЯЙТЕ ВАШИМ ИДИОТАМ ПОПАСТЬ В ГАЗ ЛОЛ ).</Shell_GasFear.description>
+	                   <!-- EN: fear gas shell -->
+	<Bullet_Shell_GasFear.label>снаряд с газом страха</Bullet_Shell_GasFear.label>
+</LanguageData>

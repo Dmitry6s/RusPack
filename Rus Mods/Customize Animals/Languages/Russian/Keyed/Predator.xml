@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.Predator>Хищник / Макс. размер тела жертвы</SY_CA.Predator>
+  <SY_CA.TooltipMaxPreyBodySize>Самая крупная добыча (размер тела), на которую естественно охотится это животное
+Не влияет на охотников за людьми, только естественное хищническое поведение</SY_CA.TooltipMaxPreyBodySize>
+  <SY_CA.TooltipPredator>Включение или отключение естественного хищнического поведения для данного животного</SY_CA.TooltipPredator>
+
+  <SY_CA.MaxPreyBodySizeNotPredator>животное не явл. хищником</SY_CA.MaxPreyBodySizeNotPredator>
+
+</LanguageData>

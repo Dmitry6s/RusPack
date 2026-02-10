@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: Electric stonecutting -->
+  <Electricstonecutting.label>Электрическая обработка камня</Electricstonecutting.label>
+  <!-- EN: Electrically powered stone cutting table to cut chunks at 175% the speed of the regular table. -->
+  <Electricstonecutting.description>Стол для резки камня с электроприводом работает на 175% быстрее, чем обычный стол.</Electricstonecutting.description>
+
+</LanguageData>

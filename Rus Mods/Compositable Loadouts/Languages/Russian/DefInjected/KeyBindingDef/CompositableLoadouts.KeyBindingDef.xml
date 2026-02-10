@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- Defs\KeyBindingDef.xml -->
+
+	<!-- EN: Open Loadout Editor -->
+	<CL_OpenLoadoutEditor.label>Открыть редактор правил снаряжения</CL_OpenLoadoutEditor.label>
+
+	<!-- EN: Open Tag Editor -->
+	<CL_OpenTagEditor.label>Открыть редактор групп снаряжения</CL_OpenTagEditor.label>
+
+	<!-- EN: Panic Button -->
+	<CL_PanicButton.label>Тревожная кнопка</CL_PanicButton.label>
+</LanguageData>

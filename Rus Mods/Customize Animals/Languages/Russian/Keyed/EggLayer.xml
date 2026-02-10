@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.EggLayer>Кладка яиц</SY_CA.EggLayer>
+  <SY_CA.EggLayerFertilizedDef>Оплодотворенное яйцо</SY_CA.EggLayerFertilizedDef>
+  <SY_CA.EggLayerUnfertilizedDef>Неоплодотворенное яйцо</SY_CA.EggLayerUnfertilizedDef>
+  <SY_CA.EggLayerIntervalDays>Интервал откладывания яиц</SY_CA.EggLayerIntervalDays>
+  <SY_CA.TooltipEggLayerIntervalDays>Интервал между каждой кладкой яиц в днях</SY_CA.TooltipEggLayerIntervalDays>
+  <SY_CA.EggLayerDaysToHatch>Дни до вылупления</SY_CA.EggLayerDaysToHatch>
+  <SY_CA.TooltipEggLayerDaysToHatch>Время до вылупления яиц в днях</SY_CA.TooltipEggLayerDaysToHatch>
+  <SY_CA.EggLayerCountRangeMin>Минимальное количество яиц</SY_CA.EggLayerCountRangeMin>
+  <SY_CA.TooltipEggLayerCountRangeMin>Минимальное количество яиц в партии</SY_CA.TooltipEggLayerCountRangeMin>
+  <SY_CA.EggLayerCountRangeMax>Максимальное количество яиц</SY_CA.EggLayerCountRangeMax>
+  <SY_CA.TooltipEggLayerCountRangeMax>Максимальное количество яиц в одной партии</SY_CA.TooltipEggLayerCountRangeMax>
+  <SY_CA.EggLayerFertilizationCountMax>Максимальное оплодотворение</SY_CA.EggLayerFertilizationCountMax>
+  <SY_CA.TooltipEggLayerFertilizationCountMax>Количество оплодотворений для откладки яиц
+Несколько оплодотворений приведут к откладке нескольких яиц, возможно...</SY_CA.TooltipEggLayerFertilizationCountMax>
+  <SY_CA.EggLayerFemaleOnly>Только самки</SY_CA.EggLayerFemaleOnly>
+  <SY_CA.EggLayerFemaleOnlyText>самцы откладывают только бесплодные яйца.</SY_CA.EggLayerFemaleOnlyText>
+  <SY_CA.TooltipEggLayerFemaleOnly>Разрешить самцам откладывать яйца
+Эта настройка имеет смысл, только если животное может откладывать неоплодотворенные яйца, так как самцы никогда не могут быть оплодотворены</SY_CA.TooltipEggLayerFemaleOnly>
+
+  <SY_CA.EggLayerNoDef>---</SY_CA.EggLayerNoDef>
+
+  <SY_CA.EggBodySizeMass>Масса яйца задается размером тела</SY_CA.EggBodySizeMass>
+  <SY_CA.TooltipEggBodySizeMass>Включение этого параметра установит массу всех яиц в зависимости от размера тела родительского животного:
+egg_mass = baseBodySize * mass_factor
+	
+Использование цыплят по умолчанию дает коэффициент 0.5: 
+mass_factor = egg_mass (0.15) / baseBodySize (0.3)</SY_CA.TooltipEggBodySizeMass>
+  <SY_CA.EggBodySizeNutrition>Питательная ценность яиц определяется размером тела</SY_CA.EggBodySizeNutrition>
+  <SY_CA.TooltipEggBodySizeNutrition>При включении этого параметра питание всех яиц будет зависеть от размера тела родительского животного:
+egg_nutrition = baseBodySize * nutrition_factor
+	
+Использование цыплят по умолчанию дает коэффициент 0.8333333: 
+nutrition_factor = egg_nutrition (0.25) / baseBodySize (0.3)</SY_CA.TooltipEggBodySizeNutrition>
+
+</LanguageData>

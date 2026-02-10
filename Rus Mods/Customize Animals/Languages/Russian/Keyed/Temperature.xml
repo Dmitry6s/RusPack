@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.MaxTemperature>Максимально-комфортная температура</SY_CA.MaxTemperature>
+  <SY_CA.TooltipMaxTemperature>Установите максимально комфортную температуру для этого животного.
+Будьте осторожны! Слишком низкая температура может привести к мгновенному тепловому удару!</SY_CA.TooltipMaxTemperature>
+
+  <SY_CA.MaxTemperatureRange>Максимальный диапазон комф. темп.</SY_CA.MaxTemperatureRange>
+  <SY_CA.TooltipMinMaxTemperature>Установите минимально допустимую максимальную комфортную температуру для всех животных</SY_CA.TooltipMinMaxTemperature>
+  <SY_CA.TooltipMaxMaxTemperature>Установите максимально допустимую комфортную температуру для всех животных
+Будьте осторожны! Установка слишком низкой температуры может привести к мгновенному переохлаждению!</SY_CA.TooltipMaxMaxTemperature>
+
+
+  <SY_CA.MinTemperature>Минимально-комфортная температура</SY_CA.MinTemperature>
+  <SY_CA.TooltipMinTemperature>Установите минимальную комфортную температуру для этого животного.
+Будьте осторожны! Слишком высокая температура может привести к мгновенной гипотермии!</SY_CA.TooltipMinTemperature>
+
+  <SY_CA.MinTemperatureRange>Минимальный диапазон комф. темп.</SY_CA.MinTemperatureRange>
+  <SY_CA.TooltipMinMinTemperature>Установите минимально допустимую минимально комфортную температуру для всех животных
+Будьте осторожны! Слишком высокая температура может привести к мгновенному тепловому удару!</SY_CA.TooltipMinMinTemperature>
+  <SY_CA.TooltipMaxMinTemperature>Установить максимально допустимую минимальную комфортную температуру для всех животных</SY_CA.TooltipMaxMinTemperature>
+
+</LanguageData>

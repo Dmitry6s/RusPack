@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.CaravanRidingSpeed>Фактор скорости движения каравана</SY_CA.CaravanRidingSpeed>
+  <SY_CA.CaravanRidingSpeedDisabled>животное непригодно для езды</SY_CA.CaravanRidingSpeedDisabled>
+  <SY_CA.TooltipCaravanRidingSpeed>Установите коэффициент скорости движения каравана для этого животного.</SY_CA.TooltipCaravanRidingSpeed>
+  <SY_CA.TooltipCaravanRidingSpeedChk>Сделать животное пригодным для использования в караванах</SY_CA.TooltipCaravanRidingSpeedChk>
+
+</LanguageData>

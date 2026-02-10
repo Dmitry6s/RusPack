@@ -1,0 +1,7 @@
+﻿<LanguageData>
+	<!-- Defs\PawnColumnWorkers.xml -->
+	<!-- EN: current loadout -->
+	<CL_EditLoadoutState.label>текущие правила снаряжения</CL_EditLoadoutState.label>
+	<!-- EN: loadout overview -->
+	<CL_ViewLoadoutState.label>обзор правил снаряжения</CL_ViewLoadoutState.label>
+</LanguageData>

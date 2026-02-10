@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- EN: Gradient Hair -->
+  <GradientHairTitle>Gradient Hair</GradientHairTitle>
+  <!-- EN: Enable gradient hair -->
+  <GradientHairEnable>Включить градиентные волосы</GradientHairEnable>
+  <!-- EN: Male chance -->
+  <SettingChanceMaleName>Шанс для мужчин</SettingChanceMaleName>
+  <!-- EN: Chance for a male pawn to get gradient hair, in percents. -->
+  <SettingChanceMaleDesc>Шанс (проценты) того, что пешка мужского пола получит градиентные волосы.</SettingChanceMaleDesc>
+  <!-- EN: Female chance -->
+  <SettingChanceFemaleName>Шанс для женщин</SettingChanceFemaleName>
+  <!-- EN: Chance for a female pawn to get gradient hair, in percents. -->
+  <SettingChanceFemaleDesc>Шанс (проценты) того, что пешка женского пола получит градиентные волосы.</SettingChanceFemaleDesc>
+  <!-- EN: Enable -->
+  <SettingEnableRandomName>Включить</SettingEnableRandomName>
+  <!-- EN: Enable gradient hair for newly generated pawns. -->
+  <SettingEnableRandomDesc>Включить градиентные волосы для генерируемых пешек.</SettingEnableRandomDesc>
+  <!-- EN: Gradient -->
+  <GradientHairTab>Градиент</GradientHairTab>
+  <!-- EN: Added by mod: {0} -->
+  <GradientHairAddedByMod>Из мода: {0}</GradientHairAddedByMod>
+</LanguageData>

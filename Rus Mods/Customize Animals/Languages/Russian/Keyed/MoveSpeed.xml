@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.MoveSpeed>Скорость передвижения</SY_CA.MoveSpeed>
+  <SY_CA.TooltipMoveSpeed>Установить скорость передвижения этого животного</SY_CA.TooltipMoveSpeed>
+
+  <SY_CA.MoveSpeedModifierGlobal>Скорость передвижения</SY_CA.MoveSpeedModifierGlobal>
+  <SY_CA.TooltipMoveSpeedModifierGlobal>Установить модификатор скорости передвижения для всех животных
+(Имейте в виду, что скорость движения по-прежнему будет ограничена минимумом/максимумом, так что никакого сумасшедшего движения со скоростью света)</SY_CA.TooltipMoveSpeedModifierGlobal>
+
+</LanguageData>

@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- 1.6\Defs\Hediffs\Hediffs_Gas.xml -->
+	
+	                    <!-- EN: uneasy -->
+	<FearThoughts.stages.0.label>беспокойство</FearThoughts.stages.0.label>
+	                          <!-- EN: Something's not right... -->
+	<FearThoughts.stages.0.description>Что-то не так...</FearThoughts.stages.0.description>
+	                    <!-- EN: extensive fear -->
+	<FearThoughts.stages.1.label>сильный страх</FearThoughts.stages.1.label>
+	                          <!-- EN: I sure am jittery... For some reason. -->
+	<FearThoughts.stages.1.description>Я весь дрожу... Почему-то.</FearThoughts.stages.1.description>
+	                    <!-- EN: unspeakable horror -->
+	<FearThoughts.stages.2.label>неописуемый ужас</FearThoughts.stages.2.label>
+	                          <!-- EN: I feel complete and utter horror! -->
+	<FearThoughts.stages.2.description>Я чувствую полный и абсолютный ужас!</FearThoughts.stages.2.description>
+	                    <!-- EN: extreme panic -->
+	<FearThoughts.stages.3.label>крайняя паника</FearThoughts.stages.3.label>
+	                          <!-- EN: By the gods! The fear is eating me up. -->
+	<FearThoughts.stages.3.description>Боги! Страх пожирает меня.</FearThoughts.stages.3.description>
+</LanguageData>

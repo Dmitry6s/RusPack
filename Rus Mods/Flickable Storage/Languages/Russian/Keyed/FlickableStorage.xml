@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Storage on -->
+  <FlickableStorage.Label.On>Склад работает</FlickableStorage.Label.On>
+  <!-- EN: Storage is not restricted -->
+  <FlickableStorage.Description.On>Хранение ничем не ограничено</FlickableStorage.Description.On>
+  <!-- EN: Storage off -->
+  <FlickableStorage.Label.Off>Склад запрещён</FlickableStorage.Label.Off>
+  <!-- EN: Will not accept or release any item -->
+  <FlickableStorage.Description.Off>Хранение запрещено. Нельзя приносить и переносить предметы.</FlickableStorage.Description.Off>
+  <!-- EN: Accept only -->
+  <FlickableStorage.Label.In>Только накопление</FlickableStorage.Label.In>
+  <!-- EN: Only storing items possible -->
+  <FlickableStorage.Description.In>Можно только складывать сюда предметы.</FlickableStorage.Description.In>
+  <!-- EN: Retrieve only -->
+  <FlickableStorage.Label.Out>Только снабжение</FlickableStorage.Label.Out>
+  <!-- EN: Only retrieving items possible -->
+  <FlickableStorage.Description.Out>Разрешено только брать предметы, но не складывать их сюда.</FlickableStorage.Description.Out>
+</LanguageData>

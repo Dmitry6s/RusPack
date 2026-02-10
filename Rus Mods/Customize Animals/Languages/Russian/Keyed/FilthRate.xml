@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.FilthRate>Уровень загрязнения</SY_CA.FilthRate>
+  <SY_CA.FilthRateDisabled>грязь отключена</SY_CA.FilthRateDisabled>
+  <SY_CA.TooltipFilthRate>Установить количество грязи, производимой этим животным</SY_CA.TooltipFilthRate>
+  <SY_CA.TooltipFilthRateChk>Отключить грязь для этого животного</SY_CA.TooltipFilthRateChk>
+
+  <SY_CA.MaximumFilthRate>Максимальная степень загрязнения</SY_CA.MaximumFilthRate>
+  <SY_CA.TooltipMaximumFilthRate>Ограничьте количество грязи у всех животных до этого максимума</SY_CA.TooltipMaximumFilthRate>
+  <SY_CA.TooltipMaximumFilthRateChk>Отключить грязь для всех животных</SY_CA.TooltipMaximumFilthRateChk>
+
+</LanguageData>

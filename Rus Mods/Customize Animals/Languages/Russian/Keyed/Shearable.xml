@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.SeparatorShearable>Стрижка</SY_CA.SeparatorShearable>
+
+  <SY_CA.ShearableIsShearable>поддается ли стрижке?</SY_CA.ShearableIsShearable>
+  <SY_CA.TooltipShearableIsShearable>Установите стрижку для этого животного
+Изменение этого параметра требует перезагрузки для применения настроек!</SY_CA.TooltipShearableIsShearable>
+  <SY_CA.ShearableIsShearableText>требует перезагрузки при изменении!</SY_CA.ShearableIsShearableText>
+
+  <SY_CA.ShearableDef>Тип шерсти</SY_CA.ShearableDef>
+  <SY_CA.TooltipShearableDef>Установите предмет, полученный в результате стрижки этого животного
+(Не ограничивается шерстью!)</SY_CA.TooltipShearableDef>
+  <SY_CA.ShearableNoDef>определение шерсти не установлено</SY_CA.ShearableNoDef>
+
+  <SY_CA.ShearableIntervalDays>Интервал стрижки</SY_CA.ShearableIntervalDays>
+  <SY_CA.TooltipShearableIntervalDays>Установить интервал между стрижками в днях</SY_CA.TooltipShearableIntervalDays>
+
+  <SY_CA.ShearableAmount>Количество шерсти</SY_CA.ShearableAmount>
+  <SY_CA.TooltipShearableAmount>Установить количество шерсти, производимой за одну стрижку</SY_CA.TooltipShearableAmount>
+
+</LanguageData>

@@ -1,0 +1,103 @@
+<LanguageData>
+	<!-- 1.6\Defs\Hediffs\Hediffs_Gas.xml -->
+	            <!-- EN: Acid in gas form, it burns! -->
+	<AcidGas.description>Кислота в газообразной форме, она жжется!</AcidGas.description>
+	      <!-- EN: acid gas -->
+	<AcidGas.label>кислотный газ</AcidGas.label>
+	               <!-- EN: initial -->
+	<AcidGas.stages.0.label>начальная</AcidGas.stages.0.label>
+	               <!-- EN: minor -->
+	<AcidGas.stages.1.label>слабая</AcidGas.stages.1.label>
+	               <!-- EN: moderate -->
+	<AcidGas.stages.2.label>средняя</AcidGas.stages.2.label>
+	               <!-- EN: serious -->
+	<AcidGas.stages.3.label>серьезная</AcidGas.stages.3.label>
+	
+	             <!-- EN: Don't forget your gas mask. -->
+	<ToxicGas.description>Не забудьте свой противогаз.</ToxicGas.description>
+	       <!-- EN: toxic gas -->
+	<ToxicGas.label>токсичный газ</ToxicGas.label>
+	                <!-- EN: initial -->
+	<ToxicGas.stages.0.label>начальная</ToxicGas.stages.0.label>
+	                <!-- EN: minor -->
+	<ToxicGas.stages.1.label>слабая</ToxicGas.stages.1.label>
+	                <!-- EN: moderate -->
+	<ToxicGas.stages.2.label>средняя</ToxicGas.stages.2.label>
+	                <!-- EN: serious -->
+	<ToxicGas.stages.3.label>серьезная</ToxicGas.stages.3.label>
+	                <!-- EN: extreme -->
+	<ToxicGas.stages.4.label>крайняя</ToxicGas.stages.4.label>
+	
+	            <!-- EN: This strange gas makes me angry, you woudln't like it if I got angry. -->
+	<RageGas.description>Этот странный газ приводит меня в ярость, и вам это не понравится.</RageGas.description>
+	      <!-- EN: rage gas -->
+	<RageGas.label>газ ярости</RageGas.label>
+	               <!-- EN: initial -->
+	<RageGas.stages.0.label>начальная</RageGas.stages.0.label>
+	               <!-- EN: minor -->
+	<RageGas.stages.1.label>слабая</RageGas.stages.1.label>
+	               <!-- EN: moderate -->
+	<RageGas.stages.2.label>средняя</RageGas.stages.2.label>
+	               <!-- EN: serious -->
+	<RageGas.stages.3.label>серьезная</RageGas.stages.3.label>
+	               <!-- EN: extreme -->
+	<RageGas.stages.4.label>крайняя</RageGas.stages.4.label>
+	
+	            <!-- EN: Why are you so sad? -->
+	<TearGas.description>Почему ты такой грустный?</TearGas.description>
+	      <!-- EN: tear gas -->
+	<TearGas.label>слезоточивый газ</TearGas.label>
+	               <!-- EN: initial -->
+	<TearGas.stages.0.label>начальная</TearGas.stages.0.label>
+	               <!-- EN: minor -->
+	<TearGas.stages.1.label>слабая</TearGas.stages.1.label>
+	               <!-- EN: major -->
+	<TearGas.stages.2.label>сильная</TearGas.stages.2.label>
+	               <!-- EN: extreme -->
+	<TearGas.stages.3.label>крайняя</TearGas.stages.3.label>
+	               <!-- EN: blind -->
+	<TearGas.stages.4.label>ослепление</TearGas.stages.4.label>
+	
+	             <!-- EN: Its gas it makes pawns sleepy -->
+	<SleepGas.description>Это газ, который усыпляет пешек.</SleepGas.description>
+	       <!-- EN: sleep gas -->
+	<SleepGas.label>усыпляющий газ</SleepGas.label>
+	                <!-- EN: drowsy -->
+	<SleepGas.stages.0.label>сонливость</SleepGas.stages.0.label>
+	                <!-- EN: weary -->
+	<SleepGas.stages.1.label>усталость</SleepGas.stages.1.label>
+	                <!-- EN: tired -->
+	<SleepGas.stages.2.label>изнеможение</SleepGas.stages.2.label>
+	                <!-- EN: passed out -->
+	<SleepGas.stages.3.label>без сознания</SleepGas.stages.3.label>
+	                <!-- EN: comatose -->
+	<SleepGas.stages.4.label>кома</SleepGas.stages.4.label>
+	
+	                        <!-- EN: This poison causes insects to get sleeeeeeeepy..... -->
+	<AntiInsectoidPoison.description>Этот яд заставляет инсектоидов засыыыыыпать.....</AntiInsectoidPoison.description>
+	                  <!-- EN: Anti-insectoid poison -->
+	<AntiInsectoidPoison.label>Яд против инсектоидов</AntiInsectoidPoison.label>
+	                           <!-- EN: drowsy -->
+	<AntiInsectoidPoison.stages.0.label>сонливость</AntiInsectoidPoison.stages.0.label>
+	                           <!-- EN: weary -->
+	<AntiInsectoidPoison.stages.1.label>усталость</AntiInsectoidPoison.stages.1.label>
+	                           <!-- EN: tired -->
+	<AntiInsectoidPoison.stages.2.label>изнеможение</AntiInsectoidPoison.stages.2.label>
+	                           <!-- EN: passed out -->
+	<AntiInsectoidPoison.stages.3.label>без сознания</AntiInsectoidPoison.stages.3.label>
+	                           <!-- EN: comatose -->
+	<AntiInsectoidPoison.stages.4.label>кома</AntiInsectoidPoison.stages.4.label>
+	
+	            <!-- EN: Gas that makes pawns afraid, wait didn't I see something like this in "Batpawn Begins" -->
+	<FearGas.description>Газ, который заставляет пешек бояться... постойте, я видел что-то подобное в "Бэт-пешке: Начало".</FearGas.description>
+	      <!-- EN: fear -->
+	<FearGas.label>страх</FearGas.label>
+	               <!-- EN: minor -->
+	<FearGas.stages.0.label>начальный</FearGas.stages.0.label>
+	               <!-- EN: minor -->
+	<FearGas.stages.1.label>слабый</FearGas.stages.1.label>
+	               <!-- EN: major -->
+	<FearGas.stages.2.label>сильный</FearGas.stages.2.label>
+	               <!-- EN: extreme -->
+	<FearGas.stages.3.label>крайний</FearGas.stages.3.label>
+</LanguageData>

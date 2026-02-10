@@ -1,0 +1,23 @@
+<LanguageData>
+	<!-- v1.6\Defs\IdleJobGiverDef.xml -->
+	                  <!-- EN: Wandering -->
+	<IdleJobGiver_Wander.label>Блуждание</IdleJobGiver_Wander.label>
+	                         <!-- EN: Taking break time -->
+	<IdleJobGiver_TakeBreakTime.label>Перерыв</IdleJobGiver_TakeBreakTime.label>
+	                    <!-- EN: Mending item -->
+	<IdleJobGiver_MendItem.label>Починка предмета</IdleJobGiver_MendItem.label>
+	                           <!-- EN: Observing animals -->
+	<IdleJobGiver_ObservingAnimal.label>Наблюдение за животными</IdleJobGiver_ObservingAnimal.label>
+	                         <!-- EN: Messing around -->
+	<IdleJobGiver_MessingAround.label>Безделье</IdleJobGiver_MessingAround.label>
+	                         <!-- EN: Taking practice for melee weapon -->
+	<IdleJobGiver_PracticeMelee.label>Тренировка с оружием ближнего боя</IdleJobGiver_PracticeMelee.label>
+	                         <!-- EN: Throwing stones -->
+	<IdleJobGiver_ThrowingStone.label>Бросание камней</IdleJobGiver_ThrowingStone.label>
+	                    <!-- EN: Drawing graffiti on ground -->
+	<IdleJobGiver_Graffiti.label>Рисование на земле</IdleJobGiver_Graffiti.label>
+	                       <!-- EN: Cleaning owned gun -->
+	<IdleJobGiver_CleaningGun.label>Чистка оружия</IdleJobGiver_CleaningGun.label>
+	                     <!-- EN: Gardening crops -->
+	<IdleJobGiver_Gardening.label>Уход за посевами</IdleJobGiver_Gardening.label>
+</LanguageData>

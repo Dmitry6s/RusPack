@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\UpdateInfo.xml -->
+	<!-- EN: By request there is now another vertical option that keeps the letters horizontal. This option is mainly for fixed width characters, like chinese. Idea by 摄魂狼 -->
+	<CompactWorkTab_1_5_2.content>По просьбам был добавлен ещё один вертикальный вариант отображения, при котором буквы остаются в горизонтальном положении. Эта опция предназначена в основном для символов с фиксированной шириной, например, для китайских иероглифов. Идея: 摄魂狼</CompactWorkTab_1_5_2.content>
+</LanguageData>

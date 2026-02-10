@@ -1,0 +1,27 @@
+<LanguageData>
+	<!-- v1.6\Defs\JobDef.xml -->
+	                           <!-- EN: taking a break time. -->
+	<IdleJob_TakeBreakTime.reportString>устраивает перерыв.</IdleJob_TakeBreakTime.reportString>
+	                      <!-- EN: mending TargetA. -->
+	<IdleJob_MendItem.reportString>чинит TargetA.</IdleJob_MendItem.reportString>
+	                           <!-- EN: watching TargetA do research. -->
+	<IdleJob_WatchResearch.reportString>наблюдает, как TargetA проводит исследование.</IdleJob_WatchResearch.reportString>
+	                          <!-- EN: watching TargetA working. -->
+	<IdleJob_WatchWorking.reportString>наблюдает за работой TargetA.</IdleJob_WatchWorking.reportString>
+	                             <!-- EN: observing TargetA. -->
+	<IdleJob_ObservingAnimal.reportString>наблюдает за TargetA.</IdleJob_ObservingAnimal.reportString>
+	                           <!-- EN: just sitting idle. -->
+	<IdleJob_MessingAround.reportString>просто сидит без дела.</IdleJob_MessingAround.reportString>
+	                            <!-- EN: poking around in TargetA's room. -->
+	<IdleJob_LookAroundRoom.reportString>осматривается в комнате TargetA.</IdleJob_LookAroundRoom.reportString>
+	                           <!-- EN: practicing with their TargetA. -->
+	<IdleJob_PracticeMelee.reportString>тренируется со своим TargetA.</IdleJob_PracticeMelee.reportString>
+	                           <!-- EN: throwing small stones. -->
+	<IdleJob_ThrowingStone.reportString>бросает камешки.</IdleJob_ThrowingStone.reportString>
+	                      <!-- EN: has scribbling on the ground. -->
+	<IdleJob_Graffiti.reportString>рисует на земле.</IdleJob_Graffiti.reportString>
+	                         <!-- EN: cleaning their TargetA. -->
+	<IdleJob_CleaningGun.reportString>чистит свой TargetA.</IdleJob_CleaningGun.reportString>
+	                      <!-- EN: thinking about happened with TargetA. -->
+	<IdleJob_Thinking.reportString>думает о случившемся с TargetA.</IdleJob_Thinking.reportString>
+</LanguageData>

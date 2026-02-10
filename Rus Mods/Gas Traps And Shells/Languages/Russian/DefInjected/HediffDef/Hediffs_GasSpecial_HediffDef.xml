@@ -1,0 +1,20 @@
+<LanguageData>
+	<!-- 1.6\Defs\Hediffs\Hediffs_GasSpecial.xml -->
+	                   <!-- EN: A special blend of mechanites nanomachines that introduce viruses and otherwise cause chaos inside mechanoids -->
+	<MechanoidVirus.description>Особая смесь наномашин-механитов, которые внедряют вирусы и вызывают хаос внутри механоидов.</MechanoidVirus.description>
+	             <!-- EN: Mechanoid Virus -->
+	<MechanoidVirus.label>Вирус для механоидов</MechanoidVirus.label>
+	                      <!-- EN: initial -->
+	<MechanoidVirus.stages.0.label>начальная</MechanoidVirus.stages.0.label>
+	                      <!-- EN: marginal -->
+	<MechanoidVirus.stages.1.label>незначительная</MechanoidVirus.stages.1.label>
+	                      <!-- EN: critical -->
+	<MechanoidVirus.stages.2.label>критическая</MechanoidVirus.stages.2.label>
+	                      <!-- EN: overwhelming -->
+	<MechanoidVirus.stages.3.label>подавляющая</MechanoidVirus.stages.3.label>
+	
+	                 <!-- EN: For some reason this mechanoid is malfunctioning, most likely due to Windoze Blue screen of death, and has to reboot constantly -->
+	<MechStunLoop.description>По какой-то причине этот механоид неисправен, скорее всего, из-за Синего экрана смерти Windoze, и ему приходится постоянно перезагружаться.</MechStunLoop.description>
+	           <!-- EN: Mechanoid Virus -->
+	<MechStunLoop.label>Вирус для механоидов</MechStunLoop.label>
+</LanguageData>

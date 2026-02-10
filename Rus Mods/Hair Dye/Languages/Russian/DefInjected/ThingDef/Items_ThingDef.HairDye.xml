@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- Defs\Items.xml -->
+	         <!-- EN: hair dye -->
+	<HairDyeBox.label>краска для волос</HairDyeBox.label>
+	               <!-- EN: A box of hair dye, enough to change colonist's hair once. -->
+	<HairDyeBox.description>Упаковка с краской для волос. Её хватит, чтобы перекрасить волосы колониста один раз.</HairDyeBox.description>
+</LanguageData>

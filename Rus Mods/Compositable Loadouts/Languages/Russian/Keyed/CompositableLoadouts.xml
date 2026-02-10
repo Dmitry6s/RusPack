@@ -1,0 +1,317 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Modify -->
+	<CompositableLoadouts.Modify>Переименовать</CompositableLoadouts.Modify>
+	<!-- EN: Generic -->
+	<CompositableLoadouts.Generic>Любой материал</CompositableLoadouts.Generic>
+	<!-- EN: Create -->
+	<CompositableLoadouts.Create>Создать</CompositableLoadouts.Create>
+
+	<!-- EN: Tags and Loadout Composition -->
+	<CompositableLoadouts.TagLoadoutComposition>Правила и группы снаряжения</CompositableLoadouts.TagLoadoutComposition>
+	<!-- EN: Edit {0}'s Loadout -->
+	<CompositableLoadouts.EditXLoadout>Редактор правил для {0}</CompositableLoadouts.EditXLoadout>
+	<!-- EN: Create / Edit Tags -->
+	<CompositableLoadouts.EditOrCreateTags>Редактор групп снаряжения</CompositableLoadouts.EditOrCreateTags>
+	<!-- EN: Pick tag to Target -->
+	<CompositableLoadouts.PickTargetTag>Выбрать целевую группу</CompositableLoadouts.PickTargetTag>
+	<!-- EN: Change tag from: {0} -->
+	<CompositableLoadouts.SwitchTargetTag>Группа: {0} (изменить)</CompositableLoadouts.SwitchTargetTag>
+	<!-- EN: Copy thing settings from tag -->
+	<CompositableLoadouts.CopyFromTag>Копировать настройки из группы</CompositableLoadouts.CopyFromTag>
+	<!-- EN: The number of colonists who have the tag in their loadout -->
+	<CompositableLoadouts.NumTagsDesc>Количество поселенцев, в правилах снаряжения которых есть эта группа</CompositableLoadouts.NumTagsDesc>
+	<!-- EN: The number of extra copies to make -->
+	<CompositableLoadouts.ExtraCopiesDesc>Количество дополнительных изделий</CompositableLoadouts.ExtraCopiesDesc>
+	<!-- EN: The number of items to make per tag -->
+	<CompositableLoadouts.ItemRepetitionDesc>Количество изделий на каждую группу</CompositableLoadouts.ItemRepetitionDesc>
+
+	<!-- Pickup Steel x32 -->
+	<!-- EN: Pickup {0} x{1} -->
+	<CompositableLoadouts.PickUpItems>Подобрать {0} x{1}</CompositableLoadouts.PickUpItems>
+	<!-- EN: Select Tag -->
+	<CompositableLoadouts.SelectTag>Выбрать группу</CompositableLoadouts.SelectTag>
+	<!-- EN: Select Tag(s) -->
+	<CompositableLoadouts.SelectTags>Выбрать группу(ы)</CompositableLoadouts.SelectTags>
+
+	<!-- keep whitespace after -->
+	<!-- EN: Select tags from  -->
+	<CompositableLoadouts.SelectTagsFrom>Выбрать группы из </CompositableLoadouts.SelectTagsFrom>
+	<!-- EN: Copy all tags from  -->
+	<CompositableLoadouts.CopyAllTagsFrom>Копировать все группы из </CompositableLoadouts.CopyAllTagsFrom>
+	
+	<!-- keep whitespace before  -->
+	<!-- EN:  and replace on paste -->
+	<CompositableLoadouts.ReplaceOnPaste> и заменить при вставке</CompositableLoadouts.ReplaceOnPaste>
+	<!-- EN:  and add on paste -->
+	<CompositableLoadouts.AddOnPaste> и добавить при вставке</CompositableLoadouts.AddOnPaste>
+
+	<!-- EN: Create New Tag -->
+	<CompositableLoadouts.CreateNewTag>Новая группа</CompositableLoadouts.CreateNewTag>
+	<!-- EN: Delete Tag -->
+	<CompositableLoadouts.DeleteTag>Удалить группу</CompositableLoadouts.DeleteTag>
+	<!-- EN: Change Tag Name -->
+	<CompositableLoadouts.ChangeTagName>Сменить имя группы</CompositableLoadouts.ChangeTagName>
+
+	<!-- EN: Remove item from Tag -->
+	<CompositableLoadouts.RemoveItemFromTag>Удалить предмет из группы</CompositableLoadouts.RemoveItemFromTag>
+
+	<!-- EN: Copy and paste shared attributes in filters between items in Tags -->
+	<CompositableLoadouts.CopyPasteExplain>Копирование и вставка свойств предмета между группами</CompositableLoadouts.CopyPasteExplain>
+
+	<!-- EN: Specify aspects (stuff, quality, hp) for the thing(s) that this tag-item accepts -->
+	<CompositableLoadouts.SpecifyElementsToolTip>Настроить свойства (материал, целостность и качество) для предметов в этой группе</CompositableLoadouts.SpecifyElementsToolTip>
+	<!-- EN: Edit the quantity of items which should be held -->
+	<CompositableLoadouts.EditQuantity>Указать количество предметов в группе</CompositableLoadouts.EditQuantity>
+	<!-- EN: Select Previous Pawn ( or press LArrow ) -->
+	<CompositableLoadouts.SelectPrevious>Предыдущий поселенец (клик или ←)</CompositableLoadouts.SelectPrevious>
+	<!-- EN: Select Next Pawn ( or press RArrow ) -->
+	<CompositableLoadouts.SelectNext>Следующий поселенец (клик или →)</CompositableLoadouts.SelectNext>
+	<!-- EN: Top 4 Skills -->
+	<CompositableLoadouts.TopFourSkills>Четыре лучших навыка:</CompositableLoadouts.TopFourSkills>
+	<!-- EN: Traits -->
+	<CompositableLoadouts.PawnTraits>Черты характера</CompositableLoadouts.PawnTraits>
+	<!-- EN: Apparel which can be worn -->
+	<CompositableLoadouts.ApparelWhichCanBeWorn>Может носить эту одежду:</CompositableLoadouts.ApparelWhichCanBeWorn>
+	<!-- EN: Applied Tags (priority high to low) -->
+	<CompositableLoadouts.AppliedTags>Применённые группы (приоритет от высокого к низкому)</CompositableLoadouts.AppliedTags>
+	<!-- EN: Pawn Stats -->
+	<CompositableLoadouts.PawnStats>Параметры персонажа</CompositableLoadouts.PawnStats>
+	<!-- EN: Show Coverage -->
+	<CompositableLoadouts.ShowCoverage>Показать покрытие тела</CompositableLoadouts.ShowCoverage>
+	<!-- EN: Hide Coverage -->
+	<CompositableLoadouts.HideCoverage>Скрыть покрытие тела</CompositableLoadouts.HideCoverage>
+	<!-- EN: Loadout Statistics (when fully satisfied) -->
+	<CompositableLoadouts.LoadoutStatistics>Параметры снаряжения (при полном соответствии)</CompositableLoadouts.LoadoutStatistics>
+	<!-- EN: Weight -->
+	<CompositableLoadouts.Weight>Вес</CompositableLoadouts.Weight>
+	<!-- EN: The weight of gear carried by the pawn, vs the carry capacity of the pawn -->
+	<CompositableLoadouts.WeightOverCapacity>Вес снаряжения относительно грузоподъёмности персонажа</CompositableLoadouts.WeightOverCapacity>
+	<!-- EN: Hit points {0} -->
+	<CompositableLoadouts.HitPointsAmount>Целостность: {0}</CompositableLoadouts.HitPointsAmount>
+
+	<!-- EN: Customize -->
+	<CompositableLoadouts.Customize>Настроить</CompositableLoadouts.Customize>
+	<!-- EN: (Mouse Over Numbers for Details) -->
+	<CompositableLoadouts.MouseOverDetails>(Наведите курсор на цифры для подробностей)</CompositableLoadouts.MouseOverDetails>
+	<!-- EN: Statistics -->
+	<CompositableLoadouts.Statistics>Характеристики</CompositableLoadouts.Statistics>
+	<!-- EN: Stuff Filter -->
+	<CompositableLoadouts.StuffFilter>Фильтр материалов</CompositableLoadouts.StuffFilter>
+	<!-- EN: No Material -->
+	<CompositableLoadouts.NoMaterial>Материал не выбран</CompositableLoadouts.NoMaterial>
+	<!-- EN: Add Tag -->
+	<CompositableLoadouts.AddTag>Добавить группу</CompositableLoadouts.AddTag>
+	<!-- EN: Preview Quality:  -->
+	<CompositableLoadouts.PreviewQuality>Предпросмотр качества: </CompositableLoadouts.PreviewQuality>
+
+	<!-- EN: The coverage panel... -->
+	<CompositableLoadouts.CoverageExplanation>Эта панель визуализирует все части тела поселенца, которые могут быть защищены одеждой.
+
+Каждый прямоугольник соответствует слою одежды на определённой части тела. Предметы могут закрывать несколько частей тела и занимать несколько слоёв сразу.
+Из-за этого система многослойности может быть сложной, а конфликты между одеждой — трудноразрешимыми.
+
+Цвета слотов:
+- Серый: нет одежды, закрывающей этот слот.
+- Красный: конфликт (несколько предметов претендуют на один слот). 
+Отображается приоритетный предмет (полупрозрачно), а при наведении показано, что именно блокирует слот.
+- Другие цвета: обозначают группы (теги), из которых поступает одежда, помогая отследить источник конкретного слоя.</CompositableLoadouts.CoverageExplanation>
+
+	<!-- EN: Edit Loadout States -->
+	<CompositableLoadouts.ModifyStates>Редактировать состояния снаряжения</CompositableLoadouts.ModifyStates>
+	<!-- EN: Select State -->
+	<CompositableLoadouts.SelectState>Выбрать состояние</CompositableLoadouts.SelectState>
+	<!-- EN: map -->
+	<CompositableLoadouts.Map>карте</CompositableLoadouts.Map>
+	<!-- EN: caravan -->
+	<CompositableLoadouts.Caravan>караване</CompositableLoadouts.Caravan>
+	
+	<!-- EN: Change all pawns loadout-states in {0}'s {1} to {2} -->
+	<CompositableLoadouts.MassChangeStates>Всем поселенцам в {1} с {0} установить состояние {2}</CompositableLoadouts.MassChangeStates>
+	<!-- EN: Default -->
+	<CompositableLoadouts.DefaultStateName>По умолчанию</CompositableLoadouts.DefaultStateName>
+	<!-- EN: any -->
+	<CompositableLoadouts.DefaultStateNameInUse>любое</CompositableLoadouts.DefaultStateNameInUse>
+
+	<!-- EN: Loadout states... -->
+	<CompositableLoadouts.StatesExplanation>Состояния снаряжения используются для быстрого переключения наборов групп без ручного изменения правил для каждого поселенца. Вы можете включать или отключать определённые группы в зависимости от активного состояния поселенца. 
+
+Щелчок правой кнопкой мыши по кнопке в столбце ниже позволяет массово назначить состояние всем поселенцам на той же карте или в том же караване (полезно для мгновенного перехода в режим «Война» при нападении).</CompositableLoadouts.StatesExplanation>
+	<!-- EN: Edit {0}'s current loadout -->
+	<CompositableLoadouts.EditLoadoutDesc>Редактировать текущие правила снаряжения для {0}</CompositableLoadouts.EditLoadoutDesc>
+
+	<!-- EN: Satisfy Loadout Now -->
+	<CompositableLoadouts.SatisfyLoadoutNow>Выполнить правила снаряжения</CompositableLoadouts.SatisfyLoadoutNow>
+	<!-- EN: {0} is already attempting to satisfy loadout -->
+	<CompositableLoadouts.SatisfyLoadoutNowFail>{0} уже переэкипируется согласно правилам</CompositableLoadouts.SatisfyLoadoutNowFail>
+
+	<!-- EN: Clear Excess Inventory Items -->
+	<CompositableLoadouts.ClearInventoryNow>Очистить лишнее в инвентаре</CompositableLoadouts.ClearInventoryNow>
+
+	<!-- EN: Active -->
+	<CompositableLoadouts.Active>Активно</CompositableLoadouts.Active>
+	<!-- EN: Inactive -->
+	<CompositableLoadouts.Inactive>Неактивно</CompositableLoadouts.Inactive>
+	<!-- EN: is -->
+	<CompositableLoadouts.Is>—</CompositableLoadouts.Is>
+	<!-- EN: not  -->
+	<CompositableLoadouts.Not>не </CompositableLoadouts.Not>
+	<!-- EN: state is active -->
+	<CompositableLoadouts.StateActive>(состояние активно)</CompositableLoadouts.StateActive>
+	<!-- EN: Active when -->
+	<CompositableLoadouts.ActiveWhen>Активно, когда</CompositableLoadouts.ActiveWhen>
+	<!-- EN: Mass Assign to Pawns -->
+	<CompositableLoadouts.MassAssign>Назначить другим поселенцам</CompositableLoadouts.MassAssign>
+
+	<!-- EN: View stats as if -->
+	<CompositableLoadouts.ViewAsIf>Просмотр параметров, если состояние</CompositableLoadouts.ViewAsIf>
+	<!-- EN: were active -->
+	<CompositableLoadouts.WereActive>активно</CompositableLoadouts.WereActive>
+
+	<!-- EN: to copy -->
+	<CompositableLoadouts.ToCopy>копировать</CompositableLoadouts.ToCopy>
+
+	<!-- EN: Set as default -->
+	<CompositableLoadouts.SetDefault>Сделать значением по умолчанию</CompositableLoadouts.SetDefault>
+	<!-- EN: could not find a pawn to select -->
+	<CompositableLoadouts.CouldNotFindPawn>не удалось найти поселенца</CompositableLoadouts.CouldNotFindPawn>
+	<!-- EN: Can not create a loadout state with an empty identifier -->
+	<CompositableLoadouts.InvalidStateName>Нельзя создать состояние без названия</CompositableLoadouts.InvalidStateName>
+	<!-- EN: Search by item name, mod name, stat bonus names, or the apparel layer the item covers -->
+	<CompositableLoadouts.SearchBarDesc>Поиск по названию предмета, мода, характеристикам или слою одежды</CompositableLoadouts.SearchBarDesc>
+
+	<!-- EN: {0}'s outfit {1} will prevent them from equipping {2} added by the tag {3} -->
+	<CompositableLoadouts.OutfitDisallowsKit>Настройки одежды {1} у {0} запрещают экипировать {2} из группы {3}</CompositableLoadouts.OutfitDisallowsKit>
+
+	<!-- EN: Panic State  -->
+	<CompositableLoadouts.PanicState>Состояние тревоги </CompositableLoadouts.PanicState>
+	<!-- EN: Adds the ability to immediately swap all pawns on the current map to a particular state determined ahead of time (here). -->
+	<CompositableLoadouts.PanicStateDesc>Добавляет возможность мгновенно переключить всех поселенцев на текущей карте в заранее выбранное состояние (указывается здесь). Его можно включать и выключать; после отключения поселенцы вернутся к состояниям, которые были активны до тревоги.</CompositableLoadouts.PanicStateDesc>
+	<!-- EN: There are no other states which could be used as the panic state -->
+	<CompositableLoadouts.NoValidPanicStates>Нет других состояний, которые можно использовать как тревожные</CompositableLoadouts.NoValidPanicStates>
+	<!-- EN: Can not set state of pawn currently in panic mode -->
+	<CompositableLoadouts.CantOverridePanicMode>Нельзя изменить состояние поселенца, пока активен режим тревоги</CompositableLoadouts.CantOverridePanicMode>
+
+	<!-- EN: Colonists in active Panic State -->
+	<CompositableLoadouts.PanicStateAlert>Поселенцы в состоянии тревоги</CompositableLoadouts.PanicStateAlert>
+	<!-- EN: There are colonists which are in an active panic state, meaning they have the {0} state active. -->
+	<CompositableLoadouts.PanicStateAlertDesc>Некоторые поселенцы находятся в состоянии тревоги, для них активно состояние: {0}.</CompositableLoadouts.PanicStateAlertDesc>
+
+	<!-- EN: Enable panic state... -->
+	<CompositableLoadouts.ActivatePanicState>Включить режим тревоги. Это временно переключит всех поселенцев в состояние «{0}», пока режим не будет выключен.</CompositableLoadouts.ActivatePanicState>
+	<!-- EN: Disable panic state... -->
+	<CompositableLoadouts.DeactivatePanicState>Выключить режим тревоги. Состояния всех поселенцев вернутся к тем, что были до его активации.</CompositableLoadouts.DeactivatePanicState>
+
+	<!-- EN: Loaded Tags -->
+	<CompositableLoadouts.LoadedTags>Загруженные группы</CompositableLoadouts.LoadedTags>
+	<!-- EN: Saved Tags -->
+	<CompositableLoadouts.SavedTags>Сохранённые группы</CompositableLoadouts.SavedTags>
+	<!-- EN: Saved tag name:  -->
+	<CompositableLoadouts.SavedTagName>Имя сохранения: </CompositableLoadouts.SavedTagName>
+	<!-- EN: Load -->
+	<CompositableLoadouts.Load>Загрузить</CompositableLoadouts.Load>
+	<!-- EN: Save -->
+	<CompositableLoadouts.Save>Сохранить</CompositableLoadouts.Save>
+	<!-- EN: Load tag "{0}" into your game as "{1}" -->
+	<CompositableLoadouts.LoadTagDialogue>Загрузить группу «{0}» в текущую игру под именем «{1}»</CompositableLoadouts.LoadTagDialogue>
+	<!-- EN: Save tag "{0}" under the name "{1}" -->
+	<CompositableLoadouts.SaveTagDialogue>Сохранить группу «{0}» под именем «{1}» (будет доступно в других играх)</CompositableLoadouts.SaveTagDialogue>
+	
+	<!-- EN: a tag has already been {0} with that name -->
+	<CompositableLoadouts.TagAlreadyRegistered>Группа с таким именем уже {0}</CompositableLoadouts.TagAlreadyRegistered>
+	<!-- EN: loaded -->
+	<CompositableLoadouts.Loaded>загружена</CompositableLoadouts.Loaded>
+	<!-- EN: saved -->
+	<CompositableLoadouts.Saved>сохранена</CompositableLoadouts.Saved>
+
+	<!-- EN: Delete tag from saved tags -->
+	<CompositableLoadouts.DeleteSavedTag>Удалить группу из сохранённых</CompositableLoadouts.DeleteSavedTag>
+	<!-- EN: Remove tag "{0}" from saved tags -->
+	<CompositableLoadouts.ConfirmRemoveTag>Удалить группу «{0}» из списка сохранённых?</CompositableLoadouts.ConfirmRemoveTag>
+
+	<!-- EN: No loadout state has been set as the state to default to when pawns are in their panic state. -->
+	<CompositableLoadouts.WarnNoPanicStateLoadoutSet>Не выбрано состояние, которое должно активироваться при режиме тревоги.</CompositableLoadouts.WarnNoPanicStateLoadoutSet>
+
+	<!-- EN: {0} depends on {1} -->
+	<CompositableLoadouts.WarningItemDependsOnModLoad>{0} зависит от {1}</CompositableLoadouts.WarningItemDependsOnModLoad>
+	<!-- EN: If this item is loaded into a save without these mods it will drop these items automatically... -->
+	<CompositableLoadouts.WarningItemDependsOnModLoadDesc>Если эта группа будет загружена без соответствующих модов, эти предметы будут автоматически исключены из неё в текущей игре, но останутся в файле сохранения группы.</CompositableLoadouts.WarningItemDependsOnModLoadDesc>
+	<!-- EN: {0}'s filter item {1} depends on {2} -->
+	<CompositableLoadouts.WarningItemFilterDependsOnModLoad>Предмет {1} в группе {0} зависит от мода {2}</CompositableLoadouts.WarningItemFilterDependsOnModLoad>
+	
+	<!-- EN: Can not load {0} -->
+	<CompositableLoadouts.WarningItemDependsOnModSave>Не удалось загрузить {0}</CompositableLoadouts.WarningItemDependsOnModSave>
+	<!-- EN: This item will be dropped from the tag, its mod is most likely not loaded. -->
+	<CompositableLoadouts.WarningItemDependsOnModSaveDesc>Этот предмет будет исключён из группы, так как соответствующий мод не загружен.</CompositableLoadouts.WarningItemDependsOnModSaveDesc>
+	
+	<!-- EN: Filter only to show things which have already been researched (hide non-researched things) -->
+	<CompositableLoadouts.ResearchedItemsDesc>Показывать только те предметы, которые уже изучены (скрыть неизученные).</CompositableLoadouts.ResearchedItemsDesc>
+	<!-- EN: Choose an attribute to sort... -->
+	<CompositableLoadouts.SortThingsByDesc>Выберите атрибут для сортировки списка. Правый клик — выбор атрибута, левый клик — переключение по возрастанию/убыванию.</CompositableLoadouts.SortThingsByDesc>
+
+	<!-- EN: Equipped stat offsets -->
+	<CompositableLoadouts.EquippedStatOffsets>Бонусы характеристик от снаряжения</CompositableLoadouts.EquippedStatOffsets>
+	<!-- EN: Stat bonuses which will be applied when the items in this loadout are equipped -->
+	<CompositableLoadouts.EquippedStatOffsetsDesc>Общие бонусы к характеристикам, которые поселенец получит, экипировав все предметы из этой группы.</CompositableLoadouts.EquippedStatOffsetsDesc>
+
+	<!-- EN: Enable by default:  -->
+	<CompositableLoadouts.EnableTagByDefault>Включать по умолчанию: </CompositableLoadouts.EnableTagByDefault>
+	<!-- EN: New pawns which join your colony will have this tag added automatically -->
+	<CompositableLoadouts.EnableTagByDefaultDesc>Эта группа будет автоматически добавляться всем новым поселенцам, присоединившимся к вашей колонии.</CompositableLoadouts.EnableTagByDefaultDesc>
+
+	<!-- EN: Automatically create bills for all tags on pawns on the current map -->
+	<CompositableLoadouts.AutomaticBillTooltip>Автоматически создавать задания на производство для всех групп снаряжения поселенцев на этой карте.</CompositableLoadouts.AutomaticBillTooltip>
+	<!-- EN: Bill added for {0} from {1} -->
+	<CompositableLoadouts.BillAddedFlavour>Добавлено задание на: {0} (источник: {1})</CompositableLoadouts.BillAddedFlavour>
+
+	<!-- EN: If equipped, {0} would prevent the highlighted apparel being worn -->
+	<CompositableLoadouts.ApparelOverlapFlavour>Если надеть {0}, это не позволит носить выделенную одежду.</CompositableLoadouts.ApparelOverlapFlavour>
+	<!-- EN: Removing {0} from {1} -->
+	<CompositableLoadouts.RemovingDeletedTagPawn>Удаление {0} у {1}</CompositableLoadouts.RemovingDeletedTagPawn>
+	<!-- EN: Suspending bill {0} in {1} as it referenced {2} -->
+	<CompositableLoadouts.RemovingDeletedTagBill>Задание «{0}» в «{1}» приостановлено, так как оно ссылалось на удалённую группу «{2}».</CompositableLoadouts.RemovingDeletedTagBill>
+	<!-- EN: Unknown building -->
+	<CompositableLoadouts.UnknownLocation>Неизвестное здание</CompositableLoadouts.UnknownLocation>
+
+	<!-- EN: Right click for advanced copy options -->
+	<CompositableLoadouts.HasRightClick>Правка: расширенные настройки копирования</CompositableLoadouts.HasRightClick>
+
+	<!-- EN: Keybinds -->
+	<CompositableLoadouts.Settings.Keybinds>Горячие клавиши</CompositableLoadouts.Settings.Keybinds>
+	<!-- EN: Tag-item filter defaults -->
+	<CompositableLoadouts.Settings.ItemFilterDefaults>Фильтры предметов по умолчанию</CompositableLoadouts.Settings.ItemFilterDefaults>
+	<!-- EN: Inter-Game Tag Use -->
+	<CompositableLoadouts.Settings.InterGameTagSaving>Глобальное сохранение групп</CompositableLoadouts.Settings.InterGameTagSaving>
+	<!-- EN: must be in game if you intend to load tags to and from a save -->
+	<CompositableLoadouts.Settings.InterGameTagSavingSubheading>Вы должны находиться в загруженной игре, чтобы сохранять или загружать группы.</CompositableLoadouts.Settings.InterGameTagSavingSubheading>
+
+	<!-- EN: Immediately resolve loadout when changed -->
+	<CompositableLoadouts.Settings.ImmediatelyResolveLoadout>Немедленное переодевание</CompositableLoadouts.Settings.ImmediatelyResolveLoadout>
+	<!-- EN: Pawns will immediately attempt to update their loadout any time it has changed... -->
+	<CompositableLoadouts.Settings.ImmediatelyResolveLoadoutDesc>Поселенцы будут мгновенно пытаться обновить экипировку при любом изменении правил (удаление группы, смена состояния и т.д.).</CompositableLoadouts.Settings.ImmediatelyResolveLoadoutDesc>
+
+	<!-- EN: Prioritise wearing load bearing items -->
+	<CompositableLoadouts.Settings.BiasLoadBearingItems>Приоритет снаряжения с весом</CompositableLoadouts.Settings.BiasLoadBearingItems>
+	<!-- EN: Pawns will prioritise wearing items which add mass. warning: this may override tag preference -->
+	<CompositableLoadouts.Settings.BiasLoadBearingItemsDesc>Поселенцы будут в первую очередь надевать предметы, увеличивающие переносимый вес. Внимание: это может переопределить приоритеты, заданные в группах.</CompositableLoadouts.Settings.BiasLoadBearingItemsDesc>
+
+	<!-- EN: Only wear items found in loadout -->
+	<CompositableLoadouts.Settings.OnlyLoadoutItems>Только одежда из групп</CompositableLoadouts.Settings.OnlyLoadoutItems>
+	<!-- EN: Pawns will only wear apparel which is found in the active tags of their loadout. -->
+	<CompositableLoadouts.Settings.OnlyLoadoutItemsDesc>Поселенцы будут носить исключительно ту одежду, которая прописана в активных группах их снаряжения.</CompositableLoadouts.Settings.OnlyLoadoutItemsDesc>
+
+	<!-- EN: Hide "Satisfy Loadout Now" gizmo -->
+	<CompositableLoadouts.Settings.HideGizmo>Скрыть кнопку «Выполнить правила»</CompositableLoadouts.Settings.HideGizmo>
+	<!-- EN: Prevents the gizmo from being rendered -->
+	<CompositableLoadouts.Settings.HideGizmoDesc>Убирает кнопку принудительного переодевания из меню команд персонажа.</CompositableLoadouts.Settings.HideGizmoDesc>
+
+	<!-- EN: Disable custom cursor when dragging, may fix linux issues -->
+	<CompositableLoadouts.Settings.DisableCustomScroll>Отключить кастомный курсор</CompositableLoadouts.Settings.DisableCustomScroll>
+	<!-- EN: It may fix issues relating to perpetually inivisble mouses on linux platforms. -->
+	<CompositableLoadouts.Settings.DisableCustomScrollDesc>Может помочь, если курсор мыши становится невидимым при перетаскивании элементов (актуально для Linux).</CompositableLoadouts.Settings.DisableCustomScrollDesc>
+
+	<!-- EN: Disable panic alert -->
+	<CompositableLoadouts.Settings.NoPanicAlert>Отключить оповещение о тревоге</CompositableLoadouts.Settings.NoPanicAlert>
+	<!-- EN: Disable the check to raise an alert when there are pawns with their panic state active. -->
+	<CompositableLoadouts.Settings.NoPanicAlertDesc>Отключает проверку и показ предупреждения, когда у поселенцев активирован режим тревоги.</CompositableLoadouts.Settings.NoPanicAlertDesc>
+</LanguageData>

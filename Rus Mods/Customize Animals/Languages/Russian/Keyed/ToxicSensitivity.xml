@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.ToxicSensitivity>Чувствительность к токсинам</SY_CA.ToxicSensitivity>
+  <SY_CA.TooltipToxicSensitivity>Установить токсическую чувствительность для этого животного
+Токсическая чувствительность регулирует, насколько сильно на существо влияет накопление токсинов, значение 0 приводит к иммунитету</SY_CA.TooltipToxicSensitivity>
+
+  <SY_CA.ToxicSensitivityRange>Диапазон чувствительности к токсинам</SY_CA.ToxicSensitivityRange>
+  <SY_CA.TooltipMinToxicSensitivity>Установить минимальную токсическую чувствительность для всех животных</SY_CA.TooltipMinToxicSensitivity>
+  <SY_CA.TooltipMaxToxicSensitivity>Установить максимальную токсическую чувствительность для всех животных</SY_CA.TooltipMaxToxicSensitivity>
+
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.PackAnimal>Вьючное животное</SY_CA.PackAnimal>
+  <SY_CA.TooltipPackAnimal>Сделать это животное вьючным
+Все вьючные животные должны иметь стайную текстуру, если у животного ее нет, будет использоваться фиктивная текстура.
+Перезагрузка необходима, чтобы текстура рюкзака отображалась на животных, несущих вещи.</SY_CA.TooltipPackAnimal>
+  <SY_CA.PackAnimalMassCapacity>масса переноски</SY_CA.PackAnimalMassCapacity>
+
+</LanguageData>

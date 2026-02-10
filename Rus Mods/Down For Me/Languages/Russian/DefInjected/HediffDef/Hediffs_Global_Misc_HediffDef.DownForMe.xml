@@ -1,0 +1,9 @@
+<LanguageData>
+	<!-- 1.6\Defs\HediffDefs\Hediffs_Global_Misc.xml -->
+	<!-- EN: pretend to be downed -->
+	<aRandomKiwi_DFM_WTBD.label>притворяется поверженным</aRandomKiwi_DFM_WTBD.label>
+	<!-- EN: pretending to be downed -->
+	<aRandomKiwi_DFM_WTBD.labelNoun>притворная беспомощность</aRandomKiwi_DFM_WTBD.labelNoun>
+	<!-- EN: pretend to be downed -->
+	<aRandomKiwi_DFM_WTBD.description>состояние, при котором поселенец притворяется поверженным.</aRandomKiwi_DFM_WTBD.description>
+</LanguageData>

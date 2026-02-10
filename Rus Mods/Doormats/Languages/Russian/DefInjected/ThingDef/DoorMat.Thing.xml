@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: small doormat -->
+  <DoorMatLeather.label>Половик</DoorMatLeather.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLeather.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLeather.description>
+
+  <!-- EN: medium doormat -->
+  <DoorMatMediumLeather.label>Средний половик</DoorMatMediumLeather.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatMediumLeather.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatMediumLeather.description>
+
+  <!-- EN: large doormat -->
+  <DoorMatBigLeather.label>Большой половик</DoorMatBigLeather.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBigLeather.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBigLeather.description>
+
+  <!-- EN: linked doormat -->
+  <DoorMatLinkedLeather.label>Широкий половик</DoorMatLinkedLeather.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLinkedLeather.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLinkedLeather.description>
+
+  <!-- EN: small doormat (red) -->
+  <DoorMatRed.label>Половик (красный)</DoorMatRed.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatRed.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatRed.description>
+
+  <!-- EN: small doormat (orange) -->
+  <DoorMatOrange.label>Половик (оранжевый)</DoorMatOrange.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatOrange.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatOrange.description>
+
+  <!-- EN: small doormat (green) -->
+  <DoorMatGreen.label>Половик (зелёный)</DoorMatGreen.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatGreen.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatGreen.description>
+
+  <!-- EN: small doormat (teal) -->
+  <DoorMatTeal.label>Половик (бирюзовый)</DoorMatTeal.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatTeal.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatTeal.description>
+
+  <!-- EN: small doormat (blue) -->
+  <DoorMatBlue.label>Половик (синий)</DoorMatBlue.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBlue.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBlue.description>
+
+  <!-- EN: medium doormat (red) -->
+  <DoorMatMediumRed.label>Средний половик (красный)</DoorMatMediumRed.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatMediumRed.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatMediumRed.description>
+
+  <!-- EN: medium doormat (orange) -->
+  <DoorMatMediumOrange.label>Средний половик (оранжевый)</DoorMatMediumOrange.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatMediumOrange.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatMediumOrange.description>
+
+  <!-- EN: medium doormat (green) -->
+  <DoorMatMediumGreen.label>Средний половик (зелёный)</DoorMatMediumGreen.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatMediumGreen.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatMediumGreen.description>
+
+  <!-- EN: medium doormat (teal) -->
+  <DoorMatMediumTeal.label>Средний половик (бирюзовый)</DoorMatMediumTeal.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatMediumTeal.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatMediumTeal.description>
+
+  <!-- EN: medium doormat (blue) -->
+  <DoorMatMediumBlue.label>Средний половик (синий)</DoorMatMediumBlue.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatMediumBlue.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatMediumBlue.description>
+
+  <!-- EN: large doormat (red) -->
+  <DoorMatBigRed.label>Большой половик (красный)</DoorMatBigRed.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBigRed.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBigRed.description>
+
+  <!-- EN: large doormat (orange) -->
+  <DoorMatBigOrange.label>Большой половик (оранжевый)</DoorMatBigOrange.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBigOrange.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBigOrange.description>
+
+  <!-- EN: large doormat (green) -->
+  <DoorMatBigGreen.label>Большой половик (зелёный)</DoorMatBigGreen.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBigGreen.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBigGreen.description>
+
+  <!-- EN: large doormat (teal) -->
+  <DoorMatBigTeal.label>Большой половик (бирюзовый)</DoorMatBigTeal.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBigTeal.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBigTeal.description>
+
+  <!-- EN: large doormat (blue) -->
+  <DoorMatBigBlue.label>Большой половик (синий)</DoorMatBigBlue.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatBigBlue.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatBigBlue.description>
+
+  <!-- EN: linked doormat (red) -->
+  <DoorMatLinkedRed.label>Широкий половик (красный)</DoorMatLinkedRed.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLinkedRed.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLinkedRed.description>
+
+  <!-- EN: linked doormat (orange) -->
+  <DoorMatLinkedOrange.label>Широкий половик (оранжевый)</DoorMatLinkedOrange.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLinkedOrange.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLinkedOrange.description>
+
+  <!-- EN: linked doormat (green) -->
+  <DoorMatLinkedGreen.label>Широкий половик (зелёный)</DoorMatLinkedGreen.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLinkedGreen.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLinkedGreen.description>
+
+  <!-- EN: linked doormat (teal) -->
+  <DoorMatLinkedTeal.label>Широкий половик (бирюзовый)</DoorMatLinkedTeal.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLinkedTeal.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLinkedTeal.description>
+
+  <!-- EN: linked doormat (blue) -->
+  <DoorMatLinkedBlue.label>Широкий половик (синий)</DoorMatLinkedBlue.label>
+  <!-- EN: A doormat to clean your feet. -->
+  <DoorMatLinkedBlue.description>Очищает ноги от грязи. Замедляет поселенцев, но не врагов или животных.</DoorMatLinkedBlue.description>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<LanguageData>
+	<!-- 1.6\Defs\Implants\Implants_GasTrap.xml -->
+	
+	                         <!-- EN: install toxic gas trap implant -->
+	<InstallGasTrapImplantToxic.label>установить имплант-ловушку с токсичным газом</InstallGasTrapImplantToxic.label>
+	                               <!-- EN: Install a toxic gas trap implant. -->
+	<InstallGasTrapImplantToxic.description>Установить имплант-ловушку с токсичным газом.</InstallGasTrapImplantToxic.description>
+	                             <!-- EN: Installing toxic gas trap implant. -->
+	<InstallGasTrapImplantToxic.jobString>Установка импланта-ловушки с токсичным газом.</InstallGasTrapImplantToxic.jobString>
+	
+	                        <!-- EN: install acid gas trap implant -->
+	<InstallGasTrapImplantAcid.label>установить имплант-ловушку с кислотным газом</InstallGasTrapImplantAcid.label>
+	                              <!-- EN: Install an acid gas trap implant. -->
+	<InstallGasTrapImplantAcid.description>Установить имплант-ловушку с кислотным газом.</InstallGasTrapImplantAcid.description>
+	                            <!-- EN: Installing acid gas trap implant. -->
+	<InstallGasTrapImplantAcid.jobString>Установка импланта-ловушки с кислотным газом.</InstallGasTrapImplantAcid.jobString>
+	
+	                        <!-- EN: install rage gas trap implant -->
+	<InstallGasTrapImplantRage.label>установить имплант-ловушку с газом ярости</InstallGasTrapImplantRage.label>
+	                              <!-- EN: Install a rage gas trap implant. -->
+	<InstallGasTrapImplantRage.description>Установить имплант-ловушку с газом ярости.</InstallGasTrapImplantRage.description>
+	                            <!-- EN: Installing rage gas trap implant. -->
+	<InstallGasTrapImplantRage.jobString>Установка импланта-ловушки с газом ярости.</InstallGasTrapImplantRage.jobString>
+</LanguageData>

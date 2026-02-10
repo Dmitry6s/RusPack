@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\underfloorstoragetanks.xml -->
+	<!-- EN: Chemfuel -->
+	<UFST_ChemfuelTank.comps.2.fuelLabel>Химтопливо</UFST_ChemfuelTank.comps.2.fuelLabel>
+	<!-- EN: Chemfuel -->
+	<UFST_ChemfuelTank.comps.2.fuelGizmoLabel>Химтопливо</UFST_ChemfuelTank.comps.2.fuelGizmoLabel>
+	<!-- EN: floor-mounted chemfuel tank -->
+	<UFST_ChemfuelTank.label>внутрипольный резервуар для химтоплива</UFST_ChemfuelTank.label>
+	<!-- EN: A standard storage tank for chemfuel that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_ChemfuelTank.description>Стандартный резервуар для хранения химтоплива, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_ChemfuelTank.description>
+	
+	<!-- EN: Chemfuel -->
+	<UFST_ChemfuelTankLarge.comps.2.fuelLabel>Химтопливо</UFST_ChemfuelTankLarge.comps.2.fuelLabel>
+	<!-- EN: Chemfuel -->
+	<UFST_ChemfuelTankLarge.comps.2.fuelGizmoLabel>Химтопливо</UFST_ChemfuelTankLarge.comps.2.fuelGizmoLabel>
+	<!-- EN: large floor-mounted chemfuel tank -->
+	<UFST_ChemfuelTankLarge.label>большой внутрипольный резервуар для химтоплива</UFST_ChemfuelTankLarge.label>
+	<!-- EN: A large storage tank for chemfuel that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_ChemfuelTankLarge.description>Большой резервуар для хранения химтоплива, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_ChemfuelTankLarge.description>
+	
+	<!-- EN: floor-mounted astrofuel tank -->
+	<UFST_AstrofuelTank.label>внутрипольный резервуар для астротоплива</UFST_AstrofuelTank.label>
+	<!-- EN: A standard storage tank for astrofuel that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_AstrofuelTank.description>Стандартный резервуар для хранения астротоплива, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_AstrofuelTank.description>
+	
+	<!-- EN: large floor-mounted astrofuel tank -->
+	<UFST_AstrofuelTankLarge.label>большой внутрипольный резервуар для астротоплива</UFST_AstrofuelTankLarge.label>
+	<!-- EN: A large storage tank for astrofuel that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_AstrofuelTankLarge.description>Большой резервуар для хранения астротоплива, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_AstrofuelTankLarge.description>
+	
+	<!-- EN: small floor-mounted oxygen tank -->
+	<UFST_OxygenTank.label>малый внутрипольный резервуар для кислорода</UFST_OxygenTank.label>
+	<!-- EN: A small storage tank for oxygen that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_OxygenTank.description>Малый резервуар для хранения кислорода, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_OxygenTank.description>
+	
+	<!-- EN: large floor-mounted oxygen tank -->
+	<UFST_OxygenTankLarge.label>большой внутрипольный резервуар для кислорода</UFST_OxygenTankLarge.label>
+	<!-- EN: A large storage tank for oxygen that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_OxygenTankLarge.description>Большой резервуар для хранения кислорода, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_OxygenTankLarge.description>
+	
+	<!-- EN: floor-mounted water tank -->
+	<UFST_WaterTank.label>внутрипольный резервуар для воды</UFST_WaterTank.label>
+	<!-- EN: A standard storage tank for water that fits neatly below the floor. Allows free movement and furniture above. Capacity: 4000. -->
+	<UFST_WaterTank.description>Стандартный резервуар для хранения воды, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель. Вместимость: 4000.</UFST_WaterTank.description>
+	
+	<!-- EN: large floor-mounted water tank -->
+	<UFST_WaterTankLarge.label>большой внутрипольный резервуар для воды</UFST_WaterTankLarge.label>
+	<!-- EN: A large storage tank for water that fits neatly below the floor. Allows free movement and furniture above. Capacity: 8000. -->
+	<UFST_WaterTankLarge.description>Большой резервуар для хранения воды, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель. Вместимость: 8000.</UFST_WaterTankLarge.description>
+	
+	<!-- EN: floor-mounted nutrient paste tank -->
+	<UFST_NutrientPasteTank.label>внутрипольный бак для питательной пасты</UFST_NutrientPasteTank.label>
+	<!-- EN: A standard storage tank for nutrient paste that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_NutrientPasteTank.description>Стандартный бак для хранения питательной пасты, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_NutrientPasteTank.description>
+	
+	<!-- EN: large floor-mounted nutrient paste tank -->
+	<UFST_NutrientPasteTankLarge.label>большой внутрипольный бак для питательной пасты</UFST_NutrientPasteTankLarge.label>
+	<!-- EN: A large storage tank for nutrient paste that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_NutrientPasteTankLarge.description>Большой бак для хранения питательной пасты, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_NutrientPasteTankLarge.description>
+	
+	<!-- EN: floor-mounted neutroamine tank -->
+	<UFST_NeutroTank.label>внутрипольный резервуар для нейтроамина</UFST_NeutroTank.label>
+	<!-- EN: A standard storage tank for neutroamine that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_NeutroTank.description>Стандартный резервуар для хранения нейтроамина, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_NeutroTank.description>
+	
+	<!-- EN: large floor-mounted neutroamine tank -->
+	<UFST_NeutroLarge.label>большой внутрипольный резервуар для нейтроамина</UFST_NeutroLarge.label>
+	<!-- EN: A large storage tank for neutroamine that fits neatly below the floor. Allows free movement and furniture above. -->
+	<UFST_NeutroLarge.description>Большой резервуар для хранения нейтроамина, который аккуратно размещается под полом. Поверх него можно свободно передвигаться или ставить мебель.</UFST_NeutroLarge.description>
+</LanguageData>

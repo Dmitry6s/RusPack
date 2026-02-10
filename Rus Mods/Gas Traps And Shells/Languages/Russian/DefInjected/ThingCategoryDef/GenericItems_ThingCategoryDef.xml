@@ -1,0 +1,8 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\GenericItems.xml -->
+	            <!-- EN: weaponized gases -->
+	<WeaponizedGas.label>боевые газы</WeaponizedGas.label>
+	
+	        <!-- EN: gas shells -->
+	<GasShells.label>газовые снаряды</GasShells.label>
+</LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.WillNeverEat>Никогда не будет есть</SY_CA.WillNeverEat>
+  <SY_CA.TooltipWillNeverEatAdd>Добавление растений предотвратит поедание животным.
+Обычно используется для предотвращения поедания животными особых растений, таких как деревья Anima или Gauranlen.
+Это относится только к животным, которые могут есть такие растения, поскольку животное всегда ограничено настройкой типа еды.</SY_CA.TooltipWillNeverEatAdd>
+  <SY_CA.TooltipWillNeverEatRemove>Удаление растений позволит животному съесть их</SY_CA.TooltipWillNeverEatRemove>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.MeatAmount>Количество мяса</SY_CA.MeatAmount>
+  <SY_CA.MeatAmountNoDef>у животного нет мяса</SY_CA.MeatAmountNoDef>
+  <SY_CA.TooltipMeatAmount>Установите количество мяса на этом животном
+Вы не должны изменять это значение, если оно равно 0 по умолчанию.</SY_CA.TooltipMeatAmount>
+
+</LanguageData>

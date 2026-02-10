@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- EN: Installed mod-version: {0} -->
+	<CWT.modVersion>Установленная версия мода: {0}</CWT.modVersion>
+	<!-- EN: Use scroll wheel to change work priorities: -->
+	<CWT.useScrollWheel>Использовать колёсико мыши для изменения приоритетов работ:</CWT.useScrollWheel>
+	<!-- EN: Inclined Headers -->
+	<CWT.Inclined>Наклонные заголовки</CWT.Inclined>
+	<!-- EN: Rotates the headers slightly to make take up less space while keeping readability -->
+	<CWT.InclinedTT>Немного поворачивает заголовки, чтобы они занимали меньше места, сохраняя при этом читаемость</CWT.InclinedTT>
+	<!-- EN: Vertical Headers -->
+	<CWT.Vertical>Вертикальные заголовки</CWT.Vertical>
+	<!-- EN: Rotates the headers 90 degrees do take up as little space as possible -->
+	<CWT.VerticalTT>Поворачивает заголовки на 90 градусов, чтобы они занимали как можно меньше места</CWT.VerticalTT>
+	<!-- EN: Vertical Rotated -->
+	<CWT.VerticalRotated>Вертикальные (с поворотом)</CWT.VerticalRotated>
+	<!-- EN: Rotates the headers 90 degrees do take up as little space as possible while each letter keeps their original rotation. This works best with letters from fixed-size alphabets like Chinese. -->
+	<CWT.VerticalRotatedTT>Поворачивает заголовки на 90 градусов, чтобы они занимали как можно меньше места, в то время как каждая буква сохраняет свой исходный угол поворота. Это лучше всего подходит для алфавитов с символами фиксированной ширины, например, для китайских иероглифов.</CWT.VerticalRotatedTT>
+	<!-- EN: Horizontal Headers -->
+	<CWT.Horizontal>Горизонтальные заголовки</CWT.Horizontal>
+	<!-- EN: Headers will not be modified. -->
+	<CWT.HorizontalTT>Заголовки не будут изменены.</CWT.HorizontalTT>
+</LanguageData>

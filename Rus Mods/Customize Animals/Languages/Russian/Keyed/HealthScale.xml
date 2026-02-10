@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <SY_CA.HealthScale>Очки попадания</SY_CA.HealthScale>
+  <SY_CA.TooltipHealthScale>Установите очки жизни этого животного, это также влияет на очки жизни их частей тела.
+Будьте осторожны при уменьшении этого значения, так как животные со множеством ран или шрамов могут потерять части тела или мгновенно погибнуть!</SY_CA.TooltipHealthScale>
+
+</LanguageData>

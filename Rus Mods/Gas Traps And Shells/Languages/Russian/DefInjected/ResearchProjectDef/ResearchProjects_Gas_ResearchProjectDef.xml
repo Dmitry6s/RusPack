@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\Technology\ResearchProjects_Gas.xml -->
+	            <!-- EN: weaponized gas -->
+	<WeaponizedGas.label>боевые газы</WeaponizedGas.label>
+	                  <!-- EN: Use knowledge of drugs, physiology, and chemistry to make gasses into weapons. -->
+	<WeaponizedGas.description>Применение знаний в области медицины, физиологии и химии для создания боевых газов.</WeaponizedGas.description>
+</LanguageData>
