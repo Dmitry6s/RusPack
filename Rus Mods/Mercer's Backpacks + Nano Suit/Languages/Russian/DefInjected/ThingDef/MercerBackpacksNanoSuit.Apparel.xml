@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SmallBackpackMC.label>маленький рюкзак</SmallBackpackMC.label>
+  <SmallBackpackMC.description>Маленький рюкзак, он удобный и позволяет носить больше вещей.</SmallBackpackMC.description>
+
+  <SmallBackpackNaturalMC.label>маленький цветной рюкзак</SmallBackpackNaturalMC.label>
+  <SmallBackpackNaturalMC.description>Маленький рюкзак, он удобный и позволяет носить больше вещей.</SmallBackpackNaturalMC.description>
+
+  <LargeBackpackMC.label>большой рюкзак</LargeBackpackMC.label>
+  <LargeBackpackMC.description>Большой рюкзак, он удобный и позволяет носить ещё больше вещей.</LargeBackpackMC.description>
+
+  <LargeBackpackNaturalMC.label>большой цветной рюкзак</LargeBackpackNaturalMC.label>
+  <LargeBackpackNaturalMC.description>Большой рюкзак, он удобный и позволяет носить ещё больше вещей.</LargeBackpackNaturalMC.description>
+
+  <NanoSuitMC.label>нанокостюм</NanoSuitMC.label>
+  <NanoSuitMC.description>Полность покрывающий тело комбинезон из нановолокон был разработан ведущими инжинерами Империи на основе технологий "полного покрытия" Архотек. Пластсталевые нановолокна сочитают в себе невероятную эластичность и прочность, за счет чего в характеристиках комбенензон не уступает передовым экзоскелетам, а модуль нанитов вживленный в воротниковой части помогает владельцу направлять свои движения. Можно сказать, что носящий этот костюм может выходить за рамки человеческих возможностей.</NanoSuitMC.description>
+
+
+</LanguageData>

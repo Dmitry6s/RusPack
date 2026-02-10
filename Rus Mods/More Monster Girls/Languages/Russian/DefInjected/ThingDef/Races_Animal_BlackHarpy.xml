@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BlackHarpy.label>Чёрная гарпия</BlackHarpy.label>
+	<BlackHarpy.description>Всеядное существо, которое выглядит как человеческая женщина с крыльями, когтями и клювом. Чёрные гарпии откладывают яйца и живут в умеренных лесах и тундрах. Они крупнее, сильнее и злее своих южных сородичей. Они также предпочитают мясо. Их перья могут использоваться для изготовления одежды, подобно шерсти.</BlackHarpy.description>
+
+	<BlackHarpy.tools.0.label>когти</BlackHarpy.tools.0.label>
+	<BlackHarpy.tools.1.label>клюв</BlackHarpy.tools.1.label>
+	<BlackHarpy.tools.2.label>голова</BlackHarpy.tools.2.label>
+
+</LanguageData>

@@ -1,0 +1,17 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Items\Metacores.xml -->
+	<!-- EN: Primitive Metacore -->
+	<MF_T0_Metacore.label>Примитивное метаядро</MF_T0_Metacore.label>
+	<!-- EN: A tiny fabricator meant to replicate small plants. It can successfully tap into the Metaflora network, and is the only core that can be made without more advanced crafting methods.\n\nThis core can only support specific metaplants, and must be integrated into a specialized pot. -->
+	<MF_T0_Metacore.description>Крошечный сборщик, предназначенный для воспроизведения небольших растений. Он способен успешно подключаться к сети «Метафлора» и является единственным ядром, которое можно изготовить без использования более продвинутых методов производства.\n\nЭто ядро поддерживает только определённые метарастения и должно быть встроено в специализированную кадку.</MF_T0_Metacore.description>
+	
+	<!-- EN: Metacore: Palm Tree -->
+	<MF_Metacore_PalmTree.label>Метаядро: Пальма</MF_Metacore_PalmTree.label>
+	<!-- EN: A metacore that houses the designs for a palm tree. Able to be placed anywhere. -->
+	<MF_Metacore_PalmTree.description>Метаядро, содержащее чертежи пальмы. Его можно разместить где угодно.</MF_Metacore_PalmTree.description>
+	
+	<!-- EN: Metacore: Mongolia Tree -->
+	<MF_Metacore_MongoliaTree.label>Метаядро: Монгольское дерево</MF_Metacore_MongoliaTree.label>
+	<!-- EN: A metacore that houses the designs for a mongolia tree. Able to be placed anywhere. -->
+	<MF_Metacore_MongoliaTree.description>Метаядро, содержащее чертежи монгольского дерева. Его можно разместить где угодно.</MF_Metacore_MongoliaTree.description>
+</LanguageData>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Centaur.label>Кентавр</Centaur.label>
+	<Centaur.corepart.parts.7.customlabel>left lung</Centaur.corepart.parts.7.customlabel>
+	<Centaur.corepart.parts.8.customlabel>right lung</Centaur.corepart.parts.8.customlabel>
+	<Centaur.corepart.parts.9.customlabel>left kidney</Centaur.corepart.parts.9.customlabel>
+	<Centaur.corepart.parts.10.customlabel>right kidney</Centaur.corepart.parts.10.customlabel>
+    
+	<Centaur.corepart.parts.12.parts.0.parts.1.customlabel>left eye</Centaur.corepart.parts.12.parts.0.parts.1.customlabel>
+	<Centaur.corepart.parts.12.parts.0.parts.2.customlabel>right eye</Centaur.corepart.parts.12.parts.0.parts.2.customlabel>
+	<Centaur.corepart.parts.12.parts.0.parts.3.customlabel>left ear</Centaur.corepart.parts.12.parts.0.parts.3.customlabel>
+	<Centaur.corepart.parts.12.parts.0.parts.4.customlabel>right ear</Centaur.corepart.parts.12.parts.0.parts.4.customlabel>
+    
+	<Centaur.corepart.parts.13.customlabel>left shoulder</Centaur.corepart.parts.13.customlabel>
+	<Centaur.corepart.parts.13.parts.0.customlabel>left clavicle</Centaur.corepart.parts.13.parts.0.customlabel>
+	<Centaur.corepart.parts.13.parts.1.customlabel>left arm</Centaur.corepart.parts.13.parts.1.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.0.customlabel>left humerus</Centaur.corepart.parts.13.parts.1.parts.0.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.1.customlabel>left radius</Centaur.corepart.parts.13.parts.1.parts.1.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.2.customlabel>left hand</Centaur.corepart.parts.13.parts.1.parts.2.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>left pinky</Centaur.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>left ring finger</Centaur.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>left middle finger</Centaur.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>left index finger</Centaur.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+	<Centaur.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>left thumb</Centaur.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+    
+	<Centaur.corepart.parts.14.customlabel>right shoulder</Centaur.corepart.parts.14.customlabel>
+	<Centaur.corepart.parts.14.parts.0.customlabel>right clavicle</Centaur.corepart.parts.14.parts.0.customlabel>
+	<Centaur.corepart.parts.14.parts.1.customlabel>right arm</Centaur.corepart.parts.14.parts.1.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.0.customlabel>right humerus</Centaur.corepart.parts.14.parts.1.parts.0.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.1.customlabel>right radius</Centaur.corepart.parts.14.parts.1.parts.1.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.2.customlabel>right hand</Centaur.corepart.parts.14.parts.1.parts.2.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>right pinky</Centaur.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>right ring finger</Centaur.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>right middle finger</Centaur.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>right index finger</Centaur.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>
+	<Centaur.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>right thumb</Centaur.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>
+    
+	<Centaur.corepart.parts.15.customlabel>front left leg</Centaur.corepart.parts.15.customlabel>
+	<Centaur.corepart.parts.15.parts.0.customlabel>front left hoof</Centaur.corepart.parts.15.parts.0.customlabel>
+	<Centaur.corepart.parts.16.customlabel>front right leg</Centaur.corepart.parts.16.customlabel>
+	<Centaur.corepart.parts.16.parts.0.customlabel>front right hoof</Centaur.corepart.parts.16.parts.0.customlabel>
+	<Centaur.corepart.parts.17.customlabel>rear left leg</Centaur.corepart.parts.17.customlabel>
+	<Centaur.corepart.parts.17.parts.0.customlabel>rear left hoof</Centaur.corepart.parts.17.parts.0.customlabel>
+	<Centaur.corepart.parts.18.customlabel>rear right leg</Centaur.corepart.parts.18.customlabel>
+	<Centaur.corepart.parts.18.parts.0.customlabel>rear right hoof</Centaur.corepart.parts.18.parts.0.customlabel>
+
+</LanguageData>

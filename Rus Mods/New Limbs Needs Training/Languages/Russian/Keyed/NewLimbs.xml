@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- EN: Days until full use of limbs, based on tech-level of limb -->
+  <NLNT.DaysUntilRecoveryLabel>Количество дней до полной работоспособности протеза конечности, в зависимости от технического уровня протеза</NLNT.DaysUntilRecoveryLabel>
+  <!-- EN: Efficency of a limb will start at 0 and increase to the default value during this amount of days. -->
+  <NLNT.DaysUntilRecoveryToolTip>Эффективность конечности будет начинаться с 0 и увеличиваться до значения по умолчанию в течение этого количества дней.</NLNT.DaysUntilRecoveryToolTip>
+  <!-- EN: Neolithic -->
+  <Neolithic>Неолит</Neolithic>
+  <!-- EN: Medieval -->
+  <Medieval>Средневековый</Medieval>
+  <!-- EN: Industrial -->
+  <Industrial>Индустриальный</Industrial>
+  <!-- EN: Spacer -->
+  <Spacer>Космический</Spacer>
+  <!-- EN: Ultra -->
+  <Ultra>Утопический</Ultra>
+  <!-- EN: Archotech -->
+  <Archotech>Архотек</Archotech>
+  <!-- EN: Reset -->
+  <!--Reset></Reset-->
+  <!-- EN: {0} days -->
+  <NLNT.Days>{0} дней</NLNT.Days>
+  <!-- EN: New limbs starting efficiency -->
+  <NLNT.StartValue.Label>Начальная эффективность для новых протезов</NLNT.StartValue.Label>
+  <!-- EN: Efficiency: {0} % -->
+  <NLNT.StartValue>Эффективность: {0} %</NLNT.StartValue>
+  <!-- EN: Installed mod-version: {0} -->
+  <NLNT.version.label>Версия мода: {0}</NLNT.version.label>
+</LanguageData>

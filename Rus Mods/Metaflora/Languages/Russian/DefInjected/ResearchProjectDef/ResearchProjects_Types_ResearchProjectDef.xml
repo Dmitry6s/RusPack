@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\ResearchProjects_Types.xml -->
+	
+	<!-- EN: holoplants -->
+	<MF_Holoplants.label>голорастения</MF_Holoplants.label>
+	<!-- EN: Create high-tech house plants that utilize holographic projection. Illuminates the area around it, but not as pretty as most other natural plants. -->
+	<MF_Holoplants.description>Позволяет создавать высокотехнологичные комнатные растения, использующие голографическую проекцию. Они освещают пространство вокруг себя, но не так красивы, как большинство настоящих растений.</MF_Holoplants.description>
+	
+	<!-- EN: holotrees -->
+	<MF_Holotrees.label>голодеревья</MF_Holotrees.label>
+	<!-- EN: Create hight-tech mechanical trees that utilize holographic projection. Illuminates a large area and is prettier than most natural trees, but doesn't produce any food or resources. -->
+	<MF_Holotrees.description>Позволяет создавать высокотехнологичные механические деревья, использующие голографическую проекцию. Они освещают большую область и выглядят красивее большинства настоящих деревьев, но не дают никакой пищи или ресурсов.</MF_Holotrees.description>
+</LanguageData>

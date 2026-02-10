@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<BlackHarpy.label>Чёрная гарпия</BlackHarpy.label>
+	<BlackHarpy.labelmale>Чёрный гарпий</BlackHarpy.labelmale>
+	<BlackHarpy.labelfemale>Чёрная гарпия</BlackHarpy.labelfemale>
+
+	<BlackHarpy.lifestages.0.labelmale>Птенец чёрного гарпия</BlackHarpy.lifestages.0.labelmale>
+	<BlackHarpy.lifestages.0.labelfemale>Птенец чёрной гарпии</BlackHarpy.lifestages.0.labelfemale>
+
+	<BlackHarpy.lifestages.1.labelmale>Юный чёрный гарпий</BlackHarpy.lifestages.1.labelmale>
+	<BlackHarpy.lifestages.1.labelfemale>Юная чёрная гарпия</BlackHarpy.lifestages.1.labelfemale>
+
+	<BlackHarpy.lifestages.2.labelmale>Чёрный гарпий</BlackHarpy.lifestages.2.labelmale>
+	<BlackHarpy.lifestages.2.labelfemale>Чёрная гарпия</BlackHarpy.lifestages.2.labelfemale>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Cowgirl.label>Бурёнка</Cowgirl.label>
+	<Cowgirl.description>Животное, похожее на гибрид коровы и человека. Оно очень спокойное и может производить большое количество молока.</Cowgirl.description>
+
+	<Cowgirl.tools.0.label>зубы</Cowgirl.tools.0.label>
+	<Cowgirl.tools.1.label>голова</Cowgirl.tools.1.label>
+	<Cowgirl.tools.2.label>левый кулак</Cowgirl.tools.2.label>
+	<Cowgirl.tools.3.label>правый кулак</Cowgirl.tools.3.label>
+
+</LanguageData>

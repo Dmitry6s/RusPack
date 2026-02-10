@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<MoreMonsterGirls>More Monster Girls</MoreMonsterGirls>
+
+	<MMG.Centaur>Кентавриды</MMG.Centaur>
+	<MMG.Cowgirl>Бурёнки</MMG.Cowgirl>
+	<MMG.Dragongirl>Драконодевы</MMG.Dragongirl>
+	<MMG.Dryad>Дриады</MMG.Dryad>
+	<MMG.FairyForest>Лесные феи</MMG.FairyForest>
+	<MMG.FairyIce>Снежные феи</MMG.FairyIce>
+	<MMG.FairyDust>Пыльца фей</MMG.FairyDust>
+	<MMG.Foxgirl>Лисодевы</MMG.Foxgirl>
+	<MMG.Harpy>Гарпии</MMG.Harpy>
+	<MMG.BlackHarpy>Чёрные гарпии</MMG.BlackHarpy>
+	<MMG.Impmother>Бесы</MMG.Impmother>
+	<MMG.Slime>Слизнедевы</MMG.Slime>
+	<MMG.RedGoo>Красная слизь</MMG.RedGoo>
+	<MMG.Thrumbomorph>Трумбодевы</MMG.Thrumbomorph>
+	
+	<MMG.Milk>Молоко</MMG.Milk>
+	<MMG.Eggs>Яйца</MMG.Eggs>
+	<MMG.Hair>Волосы</MMG.Hair>
+	<MMG.Wool>Шерсть</MMG.Wool>
+	<MMG.Scales>Чешуя</MMG.Scales>
+	<MMG.Feathers>Перья</MMG.Feathers>
+	
+	<MMG.IntervalInDays>Интервал в днях</MMG.IntervalInDays>
+	<MMG.Amount>Количество</MMG.Amount>
+	<MMG.CountRangeMinMax>Счёт мин-макс</MMG.CountRangeMinMax>
+	<MMG.FertalizedCountMax>Максимумальное число оплодотворений</MMG.FertalizedCountMax>
+	
+	<MMG.DisableMGMilk>Отключить молоко монстродев</MMG.DisableMGMilk>
+	<MMG.UseMGMilk>Использовать молоко монстродев</MMG.UseMGMilk>
+</LanguageData>

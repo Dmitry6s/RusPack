@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Slime.label>Слизь</Slime.label>
+	<Slime.labelmale>Слизень</Slime.labelmale>
+	<Slime.labelfemale>Слизнедева</Slime.labelfemale>
+
+	<Slime.lifestages.0.labelmale>Слизень-младенец</Slime.lifestages.0.labelmale>
+	<Slime.lifestages.0.labelfemale>Слизнедева-младенец</Slime.lifestages.0.labelfemale>
+
+	<Slime.lifestages.1.labelmale>Юный слизень</Slime.lifestages.1.labelmale>
+	<Slime.lifestages.1.labelfemale>Юная слизнедева</Slime.lifestages.1.labelfemale>
+
+</LanguageData>

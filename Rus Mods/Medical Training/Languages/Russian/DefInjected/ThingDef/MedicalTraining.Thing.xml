@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: meditrain(tm) table -->
+  <IF_MeditrainTable.label>медицинский стол</IF_MeditrainTable.label>
+
+  <!-- EN: Doctors hone their skills by testing their techniques on corpses. -->
+  <IF_MeditrainTable.description>Врачи оттачивают свои навыки, экспериментируя на трупах.</IF_MeditrainTable.description>
+
+</LanguageData>

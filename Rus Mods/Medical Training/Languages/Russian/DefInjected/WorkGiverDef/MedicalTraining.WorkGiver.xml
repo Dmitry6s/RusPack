@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: medicine training -->
+  <IF_TrainingMedicine.label>обучение медицине</IF_TrainingMedicine.label>
+
+  <!-- EN: train -->
+  <IF_TrainingMedicine.verb>тренироваться</IF_TrainingMedicine.verb>
+
+  <!-- EN: training -->
+  <IF_TrainingMedicine.gerund>тренироваться</IF_TrainingMedicine.gerund>
+
+</LanguageData>

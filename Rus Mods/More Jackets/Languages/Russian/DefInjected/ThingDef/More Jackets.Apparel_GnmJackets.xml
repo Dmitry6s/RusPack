@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jacket -->
+
+  <Gunmar_Apparel_Jacket.label>Куртка</Gunmar_Apparel_Jacket.label>
+  <Gunmar_Apparel_Jacket.description>Эта куртка достаточно прочная и может защитить вас от холода.</Gunmar_Apparel_Jacket.description>
+
+
+  <!-- Short Jacket -->
+
+  <Gunmar_Apparel_Short_Jacket.label>Короткая куртка</Gunmar_Apparel_Short_Jacket.label>
+  <Gunmar_Apparel_Short_Jacket.description>Короткая куртка, которая будет вам по-грудь. В дополнение к тому, что он достаточно прочный, он также может защитить вас от холода.</Gunmar_Apparel_Short_Jacket.description>
+
+
+  <!-- Flight Jacket -->
+
+  <Gunmar_Apparel_Flight_Jacket.label>Летная куртка</Gunmar_Apparel_Flight_Jacket.label>
+  <Gunmar_Apparel_Flight_Jacket.description>Эта куртка использовалась древними пилотами самолетов. Она согреет вас даже в холодные дни.</Gunmar_Apparel_Flight_Jacket.description>
+
+
+  <!-- Jersey Jacket -->
+
+  <Gunmar_Apparel_Jersey_Jacket.label>Вязаная куртка</Gunmar_Apparel_Jersey_Jacket.label>
+  <Gunmar_Apparel_Jersey_Jacket.description>В этой куртке легко передвигаться и она неплохо защищает от холода</Gunmar_Apparel_Jersey_Jacket.description>
+
+
+  <!-- Trench Coat -->
+
+  <Gunmar_Apparel_Trench_Coat.label>Траншейное пальто</Gunmar_Apparel_Trench_Coat.label>
+  <Gunmar_Apparel_Trench_Coat.description>Это траншейное пальто можно носить с чувством стиля. В дополнение к тому, что он крутой, он может защитить ваше тело от жаркого солнца.</Gunmar_Apparel_Trench_Coat.description>
+
+
+  <!-- Puffer Coat -->
+
+  <Gunmar_Apparel_Puffer_Coat.label>Пуховик</Gunmar_Apparel_Puffer_Coat.label>
+  <Gunmar_Apparel_Puffer_Coat.description>Этот пуховичок обеспечивает надежную защиту от сурового холода.</Gunmar_Apparel_Puffer_Coat.description>
+
+
+  <!-- Pelt Poncho -->
+
+  <Gunmar_Apparel_Pelt_Poncho.label>Пончо из шкуры</Gunmar_Apparel_Pelt_Poncho.label>
+  <Gunmar_Apparel_Pelt_Poncho.description>Это пончо сшито из шкур животных. Одна из мудростей соплеменников - защищать себя от холода.</Gunmar_Apparel_Pelt_Poncho.description>
+
+
+  <!-- Biker Vest -->
+
+  <Gunmar_Apparel_Biker_Vest.label>Байкерский Жилет</Gunmar_Apparel_Biker_Vest.label>
+  <Gunmar_Apparel_Biker_Vest.description>Это жилет, который носят грубые и бородатые байкеры. Ношение его немного увеличит ваш предел боли.</Gunmar_Apparel_Biker_Vest.description>
+
+
+  <!-- Cloak Coat -->
+
+  <Gunmar_Apparel_Cloak_Coat.label>Плащ-пальто</Gunmar_Apparel_Cloak_Coat.label>
+  <Gunmar_Apparel_Cloak_Coat.description>Это пальто имеет таинственный вид. Он устойчив как к холоду, так и к жаре.</Gunmar_Apparel_Cloak_Coat.description>
+
+
+  <!-- Assault Suit -->
+
+  <Gunmar_Apparel_AssaultSuit.label>Штурмовой костюм</Gunmar_Apparel_AssaultSuit.label>
+  <Gunmar_Apparel_AssaultSuit.description>Этот штурмовой костюм создан специально для ближнего боя. Значительно улучшает ваши физические возможности и позволяет вам проводить быстрые атаки.</Gunmar_Apparel_AssaultSuit.description>
+
+
+  <!-- Flak Jacket -->
+
+  <Gunmar_Apparel_FlakJacket.label>Бронежилет</Gunmar_Apparel_FlakJacket.label>
+  <Gunmar_Apparel_FlakJacket.description>Это улучшенная версия обычного бронежилета. Сопротивление урона было улучшено, и в нем стало легче передвигаться.</Gunmar_Apparel_FlakJacket.description>
+
+
+</LanguageData>

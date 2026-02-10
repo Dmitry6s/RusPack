@@ -1,0 +1,374 @@
+<LanguageData>
+	<!-- 1.6\Defs\Thoughts.xml -->
+	                     <!-- EN: was assigned to art -->
+	<AssignedToArt.stages.0.label>поручена работа: искусство</AssignedToArt.stages.0.label>
+	                           <!-- EN: I hate art. -->
+	<AssignedToArt.stages.0.description>Я ненавижу искусство.</AssignedToArt.stages.0.description>
+	                     <!-- EN: was assigned to art (Annoyed) -->
+	<AssignedToArt.stages.1.label>поручена работа: искусство (раздражение)</AssignedToArt.stages.1.label>
+	                           <!-- EN: I really hate art. -->
+	<AssignedToArt.stages.1.description>Я действительно ненавижу искусство.</AssignedToArt.stages.1.description>
+	                     <!-- EN: was assigned to art (Angry) -->
+	<AssignedToArt.stages.2.label>поручена работа: искусство (гнев)</AssignedToArt.stages.2.label>
+	                           <!-- EN: I really, really hate art! -->
+	<AssignedToArt.stages.2.description>Я просто ненавижу искусство!</AssignedToArt.stages.2.description>
+	                     <!-- EN: was assigned to art (Furious) -->
+	<AssignedToArt.stages.3.label>поручена работа: искусство (ярость)</AssignedToArt.stages.3.label>
+	                           <!-- EN: I can't believe I had to do art this entire time! -->
+	<AssignedToArt.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься искусством!</AssignedToArt.stages.3.description>
+	                     <!-- EN: was assigned to art (Mad) -->
+	<AssignedToArt.stages.4.label>поручена работа: искусство (безумие)</AssignedToArt.stages.4.label>
+	                           <!-- EN: If I have to do art for one more minute, I swear I'm going to lose it! -->
+	<AssignedToArt.stages.4.description>Если мне придётся заниматься искусством хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToArt.stages.4.description>
+	
+	                          <!-- EN: was assigned to cleaning -->
+	<AssignedToCleaning.stages.0.label>поручена работа: уборка</AssignedToCleaning.stages.0.label>
+	                                <!-- EN: I hate cleaning. -->
+	<AssignedToCleaning.stages.0.description>Я ненавижу уборку.</AssignedToCleaning.stages.0.description>
+	
+	                              <!-- EN: was assigned to construction -->
+	<AssignedToConstruction.stages.0.label>поручена работа: строительство</AssignedToConstruction.stages.0.label>
+	                                    <!-- EN: I hate construction. -->
+	<AssignedToConstruction.stages.0.description>Я ненавижу строительство.</AssignedToConstruction.stages.0.description>
+	                              <!-- EN: was assigned to construction (Annoyed) -->
+	<AssignedToConstruction.stages.1.label>поручена работа: строительство (раздражение)</AssignedToConstruction.stages.1.label>
+	                                    <!-- EN: I really hate construction. -->
+	<AssignedToConstruction.stages.1.description>Я действительно ненавижу строительство.</AssignedToConstruction.stages.1.description>
+	                              <!-- EN: was assigned to construction (Angry) -->
+	<AssignedToConstruction.stages.2.label>поручена работа: строительство (гнев)</AssignedToConstruction.stages.2.label>
+	                                    <!-- EN: I really, really hate construction! -->
+	<AssignedToConstruction.stages.2.description>Я просто ненавижу строительство!</AssignedToConstruction.stages.2.description>
+	                              <!-- EN: was assigned to construction (Furious) -->
+	<AssignedToConstruction.stages.3.label>поручена работа: строительство (ярость)</AssignedToConstruction.stages.3.label>
+	                                    <!-- EN: I can't believe I had to do construction this entire time! -->
+	<AssignedToConstruction.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься строительством!</AssignedToConstruction.stages.3.description>
+	                              <!-- EN: was assigned to construction (Mad) -->
+	<AssignedToConstruction.stages.4.label>поручена работа: строительство (безумие)</AssignedToConstruction.stages.4.label>
+	                                    <!-- EN: If I have to do construction for one more minute, I swear I'm going to lose it! -->
+	<AssignedToConstruction.stages.4.description>Если мне придётся заниматься строительством хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToConstruction.stages.4.description>
+	
+	                         <!-- EN: was assigned to cooking -->
+	<AssignedToCooking.stages.0.label>поручена работа: кулинария</AssignedToCooking.stages.0.label>
+	                               <!-- EN: I hate cooking. -->
+	<AssignedToCooking.stages.0.description>Я ненавижу готовить.</AssignedToCooking.stages.0.description>
+	                         <!-- EN: was assigned to cooking (Annoyed) -->
+	<AssignedToCooking.stages.1.label>поручена работа: кулинария (раздражение)</AssignedToCooking.stages.1.label>
+	                               <!-- EN: I really hate cooking. -->
+	<AssignedToCooking.stages.1.description>Я действительно ненавижу готовить.</AssignedToCooking.stages.1.description>
+	                         <!-- EN: was assigned to cooking (Angry) -->
+	<AssignedToCooking.stages.2.label>поручена работа: кулинария (гнев)</AssignedToCooking.stages.2.label>
+	                               <!-- EN: I really, really hate cooking! -->
+	<AssignedToCooking.stages.2.description>Я просто ненавижу готовить!</AssignedToCooking.stages.2.description>
+	                         <!-- EN: was assigned to cooking (Furious) -->
+	<AssignedToCooking.stages.3.label>поручена работа: кулинария (ярость)</AssignedToCooking.stages.3.label>
+	                               <!-- EN: I can't believe I had to do cooking this entire time! -->
+	<AssignedToCooking.stages.3.description>Поверить не могу, что мне всё это время приходилось готовить!</AssignedToCooking.stages.3.description>
+	                         <!-- EN: was assigned to cooking (Mad) -->
+	<AssignedToCooking.stages.4.label>поручена работа: кулинария (безумие)</AssignedToCooking.stages.4.label>
+	                               <!-- EN: If I have to do cooking for one more minute, I swear I'm going to lose it! -->
+	<AssignedToCooking.stages.4.description>Если мне придётся готовить хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToCooking.stages.4.description>
+	
+	                          <!-- EN: was assigned to crafting -->
+	<AssignedToCrafting.stages.0.label>поручена работа: ремесло</AssignedToCrafting.stages.0.label>
+	                                <!-- EN: I hate crafting. -->
+	<AssignedToCrafting.stages.0.description>Я ненавижу ремесло.</AssignedToCrafting.stages.0.description>
+	                          <!-- EN: was assigned to crafting (Annoyed) -->
+	<AssignedToCrafting.stages.1.label>поручена работа: ремесло (раздражение)</AssignedToCrafting.stages.1.label>
+	                                <!-- EN: I really hate crafting. -->
+	<AssignedToCrafting.stages.1.description>Я действительно ненавижу ремесло.</AssignedToCrafting.stages.1.description>
+	                          <!-- EN: was assigned to crafting (Angry) -->
+	<AssignedToCrafting.stages.2.label>поручена работа: ремесло (гнев)</AssignedToCrafting.stages.2.label>
+	                                <!-- EN: I really, really hate crafting! -->
+	<AssignedToCrafting.stages.2.description>Я просто ненавижу ремесло!</AssignedToCrafting.stages.2.description>
+	                          <!-- EN: was assigned to crafting (Furious) -->
+	<AssignedToCrafting.stages.3.label>поручена работа: ремесло (ярость)</AssignedToCrafting.stages.3.label>
+	                                <!-- EN: I can't believe I had to do crafting this entire time! -->
+	<AssignedToCrafting.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься ремеслом!</AssignedToCrafting.stages.3.description>
+	                          <!-- EN: was assigned to crafting (Mad) -->
+	<AssignedToCrafting.stages.4.label>поручена работа: ремесло (безумие)</AssignedToCrafting.stages.4.label>
+	                                <!-- EN: If I have to do crafting for one more minute, I swear I'm going to lose it! -->
+	<AssignedToCrafting.stages.4.description>Если мне придётся заниматься ремеслом хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToCrafting.stages.4.description>
+	
+	                        <!-- EN: was assigned to doctor -->
+	<AssignedToDoctor.stages.0.label>поручена работа: доктор</AssignedToDoctor.stages.0.label>
+	                              <!-- EN: I hate playing doctor. -->
+	<AssignedToDoctor.stages.0.description>Я ненавижу работать врачом.</AssignedToDoctor.stages.0.description>
+	                        <!-- EN: was assigned to doctor (Annoyed) -->
+	<AssignedToDoctor.stages.1.label>поручена работа: доктор (раздражение)</AssignedToDoctor.stages.1.label>
+	                              <!-- EN: I really hate playing doctor. -->
+	<AssignedToDoctor.stages.1.description>Я действительно ненавижу работать врачом.</AssignedToDoctor.stages.1.description>
+	                        <!-- EN: was assigned to doctor (Angry) -->
+	<AssignedToDoctor.stages.2.label>поручена работа: доктор (гнев)</AssignedToDoctor.stages.2.label>
+	                              <!-- EN: I really, really hate playing doctor! -->
+	<AssignedToDoctor.stages.2.description>Я просто ненавижу работать врачом!</AssignedToDoctor.stages.2.description>
+	                        <!-- EN: was assigned to doctor (Furious) -->
+	<AssignedToDoctor.stages.3.label>поручена работа: доктор (ярость)</AssignedToDoctor.stages.3.label>
+	                              <!-- EN: I can't believe I had to play doctor this entire time! -->
+	<AssignedToDoctor.stages.3.description>Поверить не могу, что мне всё это время приходилось работать врачом!</AssignedToDoctor.stages.3.description>
+	                        <!-- EN: was assigned to doctor (Mad) -->
+	<AssignedToDoctor.stages.4.label>поручена работа: доктор (безумие)</AssignedToDoctor.stages.4.label>
+	                              <!-- EN: If I have to play doctor for one more minute, I swear I'm going to lose it! -->
+	<AssignedToDoctor.stages.4.description>Если мне придётся работать врачом хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToDoctor.stages.4.description>
+	
+	                             <!-- EN: was assigned to firefighter -->
+	<AssignedToFirefighter.stages.0.label>поручена работа: тушение пожаров</AssignedToFirefighter.stages.0.label>
+	                                   <!-- EN: I hate firefighting. -->
+	<AssignedToFirefighter.stages.0.description>Я ненавижу тушить пожары.</AssignedToFirefighter.stages.0.description>
+	                             <!-- EN: was assigned to firefighter (Annoyed) -->
+	<AssignedToFirefighter.stages.1.label>поручена работа: тушение пожаров (раздражение)</AssignedToFirefighter.stages.1.label>
+	                                   <!-- EN: I really hate firefighting. -->
+	<AssignedToFirefighter.stages.1.description>Я действительно ненавижу тушить пожары.</AssignedToFirefighter.stages.1.description>
+	                             <!-- EN: was assigned to firefighter (Angry) -->
+	<AssignedToFirefighter.stages.2.label>поручена работа: тушение пожаров (гнев)</AssignedToFirefighter.stages.2.label>
+	                                   <!-- EN: I really, really hate firefighting! -->
+	<AssignedToFirefighter.stages.2.description>Я просто ненавижу тушить пожары!</AssignedToFirefighter.stages.2.description>
+	                             <!-- EN: was assigned to firefighter (Furious) -->
+	<AssignedToFirefighter.stages.3.label>поручена работа: тушение пожаров (ярость)</AssignedToFirefighter.stages.3.label>
+	                                   <!-- EN: I can't believe I had to do firefighting this entire time! -->
+	<AssignedToFirefighter.stages.3.description>Поверить не могу, что мне всё это время приходилось тушить пожары!</AssignedToFirefighter.stages.3.description>
+	                             <!-- EN: was assigned to firefighter (Mad) -->
+	<AssignedToFirefighter.stages.4.label>поручена работа: тушение пожаров (безумие)</AssignedToFirefighter.stages.4.label>
+	                                   <!-- EN: If I have to do firefighting for one more minute, I swear I'm going to lose it! -->
+	<AssignedToFirefighter.stages.4.description>Если мне придётся тушить пожары хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToFirefighter.stages.4.description>
+	
+	                         <!-- EN: was assigned to growing -->
+	<AssignedToGrowing.stages.0.label>поручена работа: растениеводство</AssignedToGrowing.stages.0.label>
+	                               <!-- EN: I hate growing things. -->
+	<AssignedToGrowing.stages.0.description>Я ненавижу выращивать растения.</AssignedToGrowing.stages.0.description>
+	                         <!-- EN: was assigned to growing (Annoyed) -->
+	<AssignedToGrowing.stages.1.label>поручена работа: растениеводство (раздражение)</AssignedToGrowing.stages.1.label>
+	                               <!-- EN: I really hate growing things. -->
+	<AssignedToGrowing.stages.1.description>Я действительно ненавижу выращивать растения.</AssignedToGrowing.stages.1.description>
+	                         <!-- EN: was assigned to growing (Angry) -->
+	<AssignedToGrowing.stages.2.label>поручена работа: растениеводство (гнев)</AssignedToGrowing.stages.2.label>
+	                               <!-- EN: I really, really hate growing things! -->
+	<AssignedToGrowing.stages.2.description>Я просто ненавижу выращивать растения!</AssignedToGrowing.stages.2.description>
+	                         <!-- EN: was assigned to growing (Furious) -->
+	<AssignedToGrowing.stages.3.label>поручена работа: растениеводство (ярость)</AssignedToGrowing.stages.3.label>
+	                               <!-- EN: I can't believe I had to grow things this entire time! -->
+	<AssignedToGrowing.stages.3.description>Поверить не могу, что мне всё это время приходилось выращивать растения!</AssignedToGrowing.stages.3.description>
+	                         <!-- EN: was assigned to growing (Mad) -->
+	<AssignedToGrowing.stages.4.label>поручена работа: растениеводство (безумие)</AssignedToGrowing.stages.4.label>
+	                               <!-- EN: If I have to grow things for one more minute, I swear I'm going to lose it! -->
+	<AssignedToGrowing.stages.4.description>Если мне придётся выращивать растения хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToGrowing.stages.4.description>
+	
+	                          <!-- EN: was assigned to handling -->
+	<AssignedToHandling.stages.0.label>поручена работа: животноводство</AssignedToHandling.stages.0.label>
+	                                <!-- EN: I hate animals. -->
+	<AssignedToHandling.stages.0.description>Я ненавижу животных.</AssignedToHandling.stages.0.description>
+	                          <!-- EN: was assigned to handling (Annoyed) -->
+	<AssignedToHandling.stages.1.label>поручена работа: животноводство (раздражение)</AssignedToHandling.stages.1.label>
+	                                <!-- EN: I really hate animals. -->
+	<AssignedToHandling.stages.1.description>Я действительно ненавижу животных.</AssignedToHandling.stages.1.description>
+	                          <!-- EN: was assigned to handling (Angry) -->
+	<AssignedToHandling.stages.2.label>поручена работа: животноводство (гнев)</AssignedToHandling.stages.2.label>
+	                                <!-- EN: I really, really hate animals! -->
+	<AssignedToHandling.stages.2.description>Я просто ненавижу животных!</AssignedToHandling.stages.2.description>
+	                          <!-- EN: was assigned to handling (Furious) -->
+	<AssignedToHandling.stages.3.label>поручена работа: животноводство (ярость)</AssignedToHandling.stages.3.label>
+	                                <!-- EN: I can't believe I had to handle animals this entire time! -->
+	<AssignedToHandling.stages.3.description>Поверить не могу, что мне всё это время приходилось возиться с животными!</AssignedToHandling.stages.3.description>
+	                          <!-- EN: was assigned to handling (Mad) -->
+	<AssignedToHandling.stages.4.label>поручена работа: животноводство (безумие)</AssignedToHandling.stages.4.label>
+	                                <!-- EN: If I have to handle animals for one more minute, I swear I'm going to lose it! -->
+	<AssignedToHandling.stages.4.description>Если мне придётся возиться с животными хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToHandling.stages.4.description>
+	
+	                         <!-- EN: was assigned to hauling -->
+	<AssignedToHauling.stages.0.label>поручена работа: переноска</AssignedToHauling.stages.0.label>
+	                               <!-- EN: I hate hauling. -->
+	<AssignedToHauling.stages.0.description>Я ненавижу таскать вещи.</AssignedToHauling.stages.0.description>
+	
+	                         <!-- EN: was assigned to hunting -->
+	<AssignedToHunting.stages.0.label>поручена работа: охота</AssignedToHunting.stages.0.label>
+	                               <!-- EN: I hate hunting. -->
+	<AssignedToHunting.stages.0.description>Я ненавижу охоту.</AssignedToHunting.stages.0.description>
+	                         <!-- EN: was assigned to hunting (Annoyed) -->
+	<AssignedToHunting.stages.1.label>поручена работа: охота (раздражение)</AssignedToHunting.stages.1.label>
+	                               <!-- EN: I really hate hunting. -->
+	<AssignedToHunting.stages.1.description>Я действительно ненавижу охоту.</AssignedToHunting.stages.1.description>
+	                         <!-- EN: was assigned to hunting (Angry) -->
+	<AssignedToHunting.stages.2.label>поручена работа: охота (гнев)</AssignedToHunting.stages.2.label>
+	                               <!-- EN: I really, really hate hunting! -->
+	<AssignedToHunting.stages.2.description>Я просто ненавижу охоту!</AssignedToHunting.stages.2.description>
+	                         <!-- EN: was assigned to hunting (Furious) -->
+	<AssignedToHunting.stages.3.label>поручена работа: охота (ярость)</AssignedToHunting.stages.3.label>
+	                               <!-- EN: I can't believe I had to do hunting this entire time! -->
+	<AssignedToHunting.stages.3.description>Поверить не могу, что мне всё это время приходилось охотиться!</AssignedToHunting.stages.3.description>
+	                         <!-- EN: was assigned to hunting (Mad) -->
+	<AssignedToHunting.stages.4.label>поручена работа: охота (безумие)</AssignedToHunting.stages.4.label>
+	                               <!-- EN: If I have to do hunting for one more minute, I swear I'm going to lose it! -->
+	<AssignedToHunting.stages.4.description>Если мне придётся охотиться хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToHunting.stages.4.description>
+	
+	                        <!-- EN: was assigned to mining -->
+	<AssignedToMining.stages.0.label>поручена работа: горное дело</AssignedToMining.stages.0.label>
+	                              <!-- EN: I hate mining. -->
+	<AssignedToMining.stages.0.description>Я ненавижу горное дело.</AssignedToMining.stages.0.description>
+	                        <!-- EN: was assigned to mining (Annoyed) -->
+	<AssignedToMining.stages.1.label>поручена работа: горное дело (раздражение)</AssignedToMining.stages.1.label>
+	                              <!-- EN: I really hate mining. -->
+	<AssignedToMining.stages.1.description>Я действительно ненавижу горное дело.</AssignedToMining.stages.1.description>
+	                        <!-- EN: was assigned to mining (Angry) -->
+	<AssignedToMining.stages.2.label>поручена работа: горное дело (гнев)</AssignedToMining.stages.2.label>
+	                              <!-- EN: I really, really hate mining! -->
+	<AssignedToMining.stages.2.description>Я просто ненавижу горное дело!</AssignedToMining.stages.2.description>
+	                        <!-- EN: was assigned to mining (Furious) -->
+	<AssignedToMining.stages.3.label>поручена работа: горное дело (ярость)</AssignedToMining.stages.3.label>
+	                              <!-- EN: I can't believe I had to do mining this entire time! -->
+	<AssignedToMining.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься горным делом!</AssignedToMining.stages.3.description>
+	                        <!-- EN: was assigned to mining (Mad) -->
+	<AssignedToMining.stages.4.label>поручена работа: горное дело (безумие)</AssignedToMining.stages.4.label>
+	                              <!-- EN: If I have to do mining for one more minute, I swear I'm going to lose it! -->
+	<AssignedToMining.stages.4.description>Если мне придётся заниматься горным делом хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToMining.stages.4.description>
+	
+	                              <!-- EN: was assigned to plant cutting -->
+	<AssignedToPlantCutting.stages.0.label>поручена работа: стрижка растений</AssignedToPlantCutting.stages.0.label>
+	                                    <!-- EN: I hate plant cutting. -->
+	<AssignedToPlantCutting.stages.0.description>Я ненавижу стричь растения.</AssignedToPlantCutting.stages.0.description>
+	
+	                          <!-- EN: was assigned to research -->
+	<AssignedToResearch.stages.0.label>поручена работа: исследования</AssignedToResearch.stages.0.label>
+	                                <!-- EN: I hate research. -->
+	<AssignedToResearch.stages.0.description>Я ненавижу исследования.</AssignedToResearch.stages.0.description>
+	                          <!-- EN: was assigned to research (Annoyed) -->
+	<AssignedToResearch.stages.1.label>поручена работа: исследования (раздражение)</AssignedToResearch.stages.1.label>
+	                                <!-- EN: I really hate research. -->
+	<AssignedToResearch.stages.1.description>Я действительно ненавижу исследования.</AssignedToResearch.stages.1.description>
+	                          <!-- EN: was assigned to research (Angry) -->
+	<AssignedToResearch.stages.2.label>поручена работа: исследования (гнев)</AssignedToResearch.stages.2.label>
+	                                <!-- EN: I really, really hate research! -->
+	<AssignedToResearch.stages.2.description>Я просто ненавижу исследования!</AssignedToResearch.stages.2.description>
+	                          <!-- EN: was assigned to research (Furious) -->
+	<AssignedToResearch.stages.3.label>поручена работа: исследования (ярость)</AssignedToResearch.stages.3.label>
+	                                <!-- EN: I can't believe I had to do research this entire time! -->
+	<AssignedToResearch.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься исследованиями!</AssignedToResearch.stages.3.description>
+	                          <!-- EN: was assigned to research (Mad) -->
+	<AssignedToResearch.stages.4.label>поручена работа: исследования (безумие)</AssignedToResearch.stages.4.label>
+	                                <!-- EN: If I have to do research for one more minute, I swear I'm going to lose it! -->
+	<AssignedToResearch.stages.4.description>Если мне придётся заниматься исследованиями хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToResearch.stages.4.description>
+	
+	                           <!-- EN: was assigned to dark study -->
+	<AssignedToDarkStudy.stages.0.label>поручена работа: тёмные исследования</AssignedToDarkStudy.stages.0.label>
+	                                 <!-- EN: I hate dark study. -->
+	<AssignedToDarkStudy.stages.0.description>Я ненавижу тёмные исследования.</AssignedToDarkStudy.stages.0.description>
+	                           <!-- EN: was assigned to dark study (Annoyed) -->
+	<AssignedToDarkStudy.stages.1.label>поручена работа: тёмные исследования (раздражение)</AssignedToDarkStudy.stages.1.label>
+	                                 <!-- EN: I really hate dark study. -->
+	<AssignedToDarkStudy.stages.1.description>Я действительно ненавижу тёмные исследования.</AssignedToDarkStudy.stages.1.description>
+	                           <!-- EN: was assigned to dark study (Angry) -->
+	<AssignedToDarkStudy.stages.2.label>поручена работа: тёмные исследования (гнев)</AssignedToDarkStudy.stages.2.label>
+	                                 <!-- EN: I really, really hate dark study! -->
+	<AssignedToDarkStudy.stages.2.description>Я просто ненавижу тёмные исследования!</AssignedToDarkStudy.stages.2.description>
+	                           <!-- EN: was assigned to dark study (Furious) -->
+	<AssignedToDarkStudy.stages.3.label>поручена работа: тёмные исследования (ярость)</AssignedToDarkStudy.stages.3.label>
+	                                 <!-- EN: I can't believe I had to do dark study this entire time! -->
+	<AssignedToDarkStudy.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься тёмными исследованиями!</AssignedToDarkStudy.stages.3.description>
+	                           <!-- EN: was assigned to dark study (Mad) -->
+	<AssignedToDarkStudy.stages.4.label>поручена работа: тёмные исследования (безумие)</AssignedToDarkStudy.stages.4.label>
+	                                 <!-- EN: If I have to do dark study for one more minute, I swear I'm going to lose it! -->
+	<AssignedToDarkStudy.stages.4.description>Если мне придётся заниматься тёмными исследованиями хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToDarkStudy.stages.4.description>
+	
+	                          <!-- EN: was assigned to smithing -->
+	<AssignedToSmithing.stages.0.label>поручена работа: кузнечное дело</AssignedToSmithing.stages.0.label>
+	                                <!-- EN: I hate smithing. -->
+	<AssignedToSmithing.stages.0.description>Я ненавижу кузнечное дело.</AssignedToSmithing.stages.0.description>
+	                          <!-- EN: was assigned to smithing (Annoyed) -->
+	<AssignedToSmithing.stages.1.label>поручена работа: кузнечное дело (раздражение)</AssignedToSmithing.stages.1.label>
+	                                <!-- EN: I really hate smithing. -->
+	<AssignedToSmithing.stages.1.description>Я действительно ненавижу кузнечное дело.</AssignedToSmithing.stages.1.description>
+	                          <!-- EN: was assigned to smithing (Angry) -->
+	<AssignedToSmithing.stages.2.label>поручена работа: кузнечное дело (гнев)</AssignedToSmithing.stages.2.label>
+	                                <!-- EN: I really, really hate smithing! -->
+	<AssignedToSmithing.stages.2.description>Я просто ненавижу кузнечное дело!</AssignedToSmithing.stages.2.description>
+	                          <!-- EN: was assigned to smithing (Furious) -->
+	<AssignedToSmithing.stages.3.label>поручена работа: кузнечное дело (ярость)</AssignedToSmithing.stages.3.label>
+	                                <!-- EN: I can't believe I had to do smithing this entire time! -->
+	<AssignedToSmithing.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься кузнечным делом!</AssignedToSmithing.stages.3.description>
+	                          <!-- EN: was assigned to smithing (Mad) -->
+	<AssignedToSmithing.stages.4.label>поручена работа: кузнечное дело (безумие)</AssignedToSmithing.stages.4.label>
+	                                <!-- EN: If I have to do smithing for one more minute, I swear I'm going to lose it! -->
+	<AssignedToSmithing.stages.4.description>Если мне придётся заниматься кузнечным делом хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToSmithing.stages.4.description>
+	
+	                           <!-- EN: was assigned to tailoring -->
+	<AssignedToTailoring.stages.0.label>поручена работа: портняжное дело</AssignedToTailoring.stages.0.label>
+	                                 <!-- EN: I hate tailoring. -->
+	<AssignedToTailoring.stages.0.description>Я ненавижу портняжное дело.</AssignedToTailoring.stages.0.description>
+	                           <!-- EN: was assigned to tailoring (Annoyed) -->
+	<AssignedToTailoring.stages.1.label>поручена работа: портняжное дело (раздражение)</AssignedToTailoring.stages.1.label>
+	                                 <!-- EN: I really hate tailoring. -->
+	<AssignedToTailoring.stages.1.description>Я действительно ненавижу портняжное дело.</AssignedToTailoring.stages.1.description>
+	                           <!-- EN: was assigned to tailoring (Angry) -->
+	<AssignedToTailoring.stages.2.label>поручена работа: портняжное дело (гнев)</AssignedToTailoring.stages.2.label>
+	                                 <!-- EN: I really, really hate tailoring! -->
+	<AssignedToTailoring.stages.2.description>Я просто ненавижу портняжное дело!</AssignedToTailoring.stages.2.description>
+	                           <!-- EN: was assigned to tailoring (Furious) -->
+	<AssignedToTailoring.stages.3.label>поручена работа: портняжное дело (ярость)</AssignedToTailoring.stages.3.label>
+	                                 <!-- EN: I can't believe I had to do tailoring this entire time! -->
+	<AssignedToTailoring.stages.3.description>Поверить не могу, что мне всё это время приходилось заниматься портняжным делом!</AssignedToTailoring.stages.3.description>
+	                           <!-- EN: was assigned to tailoring (Mad) -->
+	<AssignedToTailoring.stages.4.label>поручена работа: портняжное дело (безумие)</AssignedToTailoring.stages.4.label>
+	                                 <!-- EN: If I have to do tailoring for one more minute, I swear I'm going to lose it! -->
+	<AssignedToTailoring.stages.4.description>Если мне придётся заниматься портняжным делом хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToTailoring.stages.4.description>
+	
+	                        <!-- EN: was assigned to warden -->
+	<AssignedToWarden.stages.0.label>поручена работа: надзор</AssignedToWarden.stages.0.label>
+	                              <!-- EN: I hate playing warden. -->
+	<AssignedToWarden.stages.0.description>Я ненавижу работу надзирателя.</AssignedToWarden.stages.0.description>
+	                        <!-- EN: was assigned to warden (Annoyed) -->
+	<AssignedToWarden.stages.1.label>поручена работа: надзор (раздражение)</AssignedToWarden.stages.1.label>
+	                              <!-- EN: I really hate playing warden. -->
+	<AssignedToWarden.stages.1.description>Я действительно ненавижу работу надзирателя.</AssignedToWarden.stages.1.description>
+	                        <!-- EN: was assigned to warden (Angry) -->
+	<AssignedToWarden.stages.2.label>поручена работа: надзор (гнев)</AssignedToWarden.stages.2.label>
+	                              <!-- EN: I really, really hate playing warden! -->
+	<AssignedToWarden.stages.2.description>Я просто ненавижу работу надзирателя!</AssignedToWarden.stages.2.description>
+	                        <!-- EN: was assigned to warden (Furious) -->
+	<AssignedToWarden.stages.3.label>поручена работа: надзор (ярость)</AssignedToWarden.stages.3.label>
+	                              <!-- EN: I can't believe I had to play warden this entire time! -->
+	<AssignedToWarden.stages.3.description>Поверить не могу, что мне всё это время приходилось работать надзирателем!</AssignedToWarden.stages.3.description>
+	                        <!-- EN: was assigned to warden (Mad) -->
+	<AssignedToWarden.stages.4.label>поручена работа: надзор (безумие)</AssignedToWarden.stages.4.label>
+	                              <!-- EN: If I have to play warden for one more minute, I swear I'm going to lose it! -->
+	<AssignedToWarden.stages.4.description>Если мне придётся работать надзирателем хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToWarden.stages.4.description>
+	
+	                           <!-- EN: was assigned to childcare -->
+	<AssignedToChildcare.stages.0.label>поручена работа: уход за детьми</AssignedToChildcare.stages.0.label>
+	                                 <!-- EN: I hate caring for children. -->
+	<AssignedToChildcare.stages.0.description>Я ненавижу ухаживать за детьми.</AssignedToChildcare.stages.0.description>
+	                           <!-- EN: was assigned to childcare (Annoyed) -->
+	<AssignedToChildcare.stages.1.label>поручена работа: уход за детьми (раздражение)</AssignedToChildcare.stages.1.label>
+	                                 <!-- EN: I really hate caring for children. -->
+	<AssignedToChildcare.stages.1.description>Я действительно ненавижу ухаживать за детьми.</AssignedToChildcare.stages.1.description>
+	                           <!-- EN: was assigned to childcare (Angry) -->
+	<AssignedToChildcare.stages.2.label>поручена работа: уход за детьми (гнев)</AssignedToChildcare.stages.2.label>
+	                                 <!-- EN: I really, really hate caring for children! -->
+	<AssignedToChildcare.stages.2.description>Я просто ненавижу ухаживать за детьми!</AssignedToChildcare.stages.2.description>
+	                           <!-- EN: was assigned to childcare (Furious) -->
+	<AssignedToChildcare.stages.3.label>поручена работа: уход за детьми (ярость)</AssignedToChildcare.stages.3.label>
+	                                 <!-- EN: I can't believe I had to care for children this entire time! -->
+	<AssignedToChildcare.stages.3.description>Поверить не могу, что мне всё это время приходилось ухаживать за детьми!</AssignedToChildcare.stages.3.description>
+	                           <!-- EN: was assigned to childcare (Mad) -->
+	<AssignedToChildcare.stages.4.label>поручена работа: уход за детьми (безумие)</AssignedToChildcare.stages.4.label>
+	                                 <!-- EN: If I have to care for children for one more minute, I swear I'm going to lose it! -->
+	<AssignedToChildcare.stages.4.description>Если мне придётся ухаживать за детьми хоть ещё минуту, клянусь, я за себя не ручаюсь!</AssignedToChildcare.stages.4.description>
+	
+	                       <!-- EN: was assigned a weapon -->
+	<AssignedAWeapon.stages.0.label>выдано оружие</AssignedAWeapon.stages.0.label>
+	                             <!-- EN: I hate carrying a weapon. -->
+	<AssignedAWeapon.stages.0.description>Я ненавижу носить оружие.</AssignedAWeapon.stages.0.description>
+	                       <!-- EN: was assigned a weapon (Annoyed) -->
+	<AssignedAWeapon.stages.1.label>выдано оружие (раздражение)</AssignedAWeapon.stages.1.label>
+	                             <!-- EN: I really hate carrying a weapon. -->
+	<AssignedAWeapon.stages.1.description>Я действительно ненавижу носить оружие.</AssignedAWeapon.stages.1.description>
+	                       <!-- EN: was assigned a weapon (Angry) -->
+	<AssignedAWeapon.stages.2.label>выдано оружие (гнев)</AssignedAWeapon.stages.2.label>
+	                             <!-- EN: I really, really hate carrying a weapon! -->
+	<AssignedAWeapon.stages.2.description>Я просто ненавижу носить оружие!</AssignedAWeapon.stages.2.description>
+	                       <!-- EN: was assigned a weapon (Furious) -->
+	<AssignedAWeapon.stages.3.label>выдано оружие (ярость)</AssignedAWeapon.stages.3.label>
+	                             <!-- EN: I can't believe I had to carry a weapon this entire time! -->
+	<AssignedAWeapon.stages.3.description>Поверить не могу, что мне всё это время приходилось носить оружие!</AssignedAWeapon.stages.3.description>
+	                       <!-- EN: was assigned a weapon (Mad) -->
+	<AssignedAWeapon.stages.4.label>выдано оружие (безумие)</AssignedAWeapon.stages.4.label>
+	                             <!-- EN: If I have to carry a weapon for one more minute, I swear I'm going to lose it! (Ironic, but I don't care!) -->
+	<AssignedAWeapon.stages.4.description>Если мне придётся носить оружие хоть ещё минуту, клянусь, я за себя не ручаюсь! (Иронично, но мне плевать!)</AssignedAWeapon.stages.4.description>
+</LanguageData>

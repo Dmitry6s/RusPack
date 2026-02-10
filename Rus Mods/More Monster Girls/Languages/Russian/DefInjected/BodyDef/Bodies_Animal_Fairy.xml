@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Fairy.label>Фея</Fairy.label>
+
+	<Fairy.corepart.parts.6.customlabel>left lung</Fairy.corepart.parts.6.customlabel>
+
+	<Fairy.corepart.parts.7.customlabel>right lung</Fairy.corepart.parts.7.customlabel>
+
+	<Fairy.corepart.parts.8.customlabel>left kidney</Fairy.corepart.parts.8.customlabel>
+
+	<Fairy.corepart.parts.9.customlabel>right kidney</Fairy.corepart.parts.9.customlabel>
+
+	<Fairy.corepart.parts.11.parts.0.parts.1.customlabel>left eye</Fairy.corepart.parts.11.parts.0.parts.1.customlabel>
+
+	<Fairy.corepart.parts.11.parts.0.parts.2.customlabel>right eye</Fairy.corepart.parts.11.parts.0.parts.2.customlabel>
+
+	<Fairy.corepart.parts.11.parts.0.parts.3.customlabel>left ear</Fairy.corepart.parts.11.parts.0.parts.3.customlabel>
+
+	<Fairy.corepart.parts.11.parts.0.parts.4.customlabel>right ear</Fairy.corepart.parts.11.parts.0.parts.4.customlabel>
+
+	<Fairy.corepart.parts.12.customlabel>left shoulder</Fairy.corepart.parts.12.customlabel>
+
+	<Fairy.corepart.parts.12.parts.0.customlabel>left clavicle</Fairy.corepart.parts.12.parts.0.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.customlabel>left arm</Fairy.corepart.parts.12.parts.1.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.0.customlabel>left humerus</Fairy.corepart.parts.12.parts.1.parts.0.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.1.customlabel>left radius</Fairy.corepart.parts.12.parts.1.parts.1.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.2.customlabel>left hand</Fairy.corepart.parts.12.parts.1.parts.2.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.2.parts.0.customlabel>left pinky</Fairy.corepart.parts.12.parts.1.parts.2.parts.0.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.2.parts.1.customlabel>left ring finger</Fairy.corepart.parts.12.parts.1.parts.2.parts.1.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.2.parts.2.customlabel>left middle finger</Fairy.corepart.parts.12.parts.1.parts.2.parts.2.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.2.parts.3.customlabel>left index finger</Fairy.corepart.parts.12.parts.1.parts.2.parts.3.customlabel>
+
+	<Fairy.corepart.parts.12.parts.1.parts.2.parts.4.customlabel>left thumb</Fairy.corepart.parts.12.parts.1.parts.2.parts.4.customlabel>
+
+	<Fairy.corepart.parts.13.customlabel>right shoulder</Fairy.corepart.parts.13.customlabel>
+
+	<Fairy.corepart.parts.13.parts.0.customlabel>right clavicle</Fairy.corepart.parts.13.parts.0.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.customlabel>right arm</Fairy.corepart.parts.13.parts.1.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.0.customlabel>right humerus</Fairy.corepart.parts.13.parts.1.parts.0.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.1.customlabel>right radius</Fairy.corepart.parts.13.parts.1.parts.1.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.2.customlabel>right hand</Fairy.corepart.parts.13.parts.1.parts.2.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>right pinky</Fairy.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>right ring finger</Fairy.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>right middle finger</Fairy.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>right index finger</Fairy.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+
+	<Fairy.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>right thumb</Fairy.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+
+	<Fairy.corepart.parts.15.customlabel>left leg</Fairy.corepart.parts.15.customlabel>
+
+	<Fairy.corepart.parts.15.parts.0.customlabel>left femur</Fairy.corepart.parts.15.parts.0.customlabel>
+
+	<Fairy.corepart.parts.15.parts.1.customlabel>left tibia</Fairy.corepart.parts.15.parts.1.customlabel>
+
+	<Fairy.corepart.parts.15.parts.2.customlabel>left foot</Fairy.corepart.parts.15.parts.2.customlabel>
+
+	<Fairy.corepart.parts.15.parts.2.parts.0.customlabel>left little toe</Fairy.corepart.parts.15.parts.2.parts.0.customlabel>
+
+	<Fairy.corepart.parts.15.parts.2.parts.1.customlabel>left fourth toe</Fairy.corepart.parts.15.parts.2.parts.1.customlabel>
+
+	<Fairy.corepart.parts.15.parts.2.parts.2.customlabel>left middle toe</Fairy.corepart.parts.15.parts.2.parts.2.customlabel>
+
+	<Fairy.corepart.parts.15.parts.2.parts.3.customlabel>left second toe</Fairy.corepart.parts.15.parts.2.parts.3.customlabel>
+
+	<Fairy.corepart.parts.15.parts.2.parts.4.customlabel>left big toe</Fairy.corepart.parts.15.parts.2.parts.4.customlabel>
+
+	<Fairy.corepart.parts.16.customlabel>right leg</Fairy.corepart.parts.16.customlabel>
+
+	<Fairy.corepart.parts.16.parts.0.customlabel>right femur</Fairy.corepart.parts.16.parts.0.customlabel>
+
+	<Fairy.corepart.parts.16.parts.1.customlabel>right tibia</Fairy.corepart.parts.16.parts.1.customlabel>
+
+	<Fairy.corepart.parts.16.parts.2.customlabel>right foot</Fairy.corepart.parts.16.parts.2.customlabel>
+
+	<Fairy.corepart.parts.16.parts.2.parts.0.customlabel>right little toe</Fairy.corepart.parts.16.parts.2.parts.0.customlabel>
+
+	<Fairy.corepart.parts.16.parts.2.parts.1.customlabel>right fourth toe</Fairy.corepart.parts.16.parts.2.parts.1.customlabel>
+
+	<Fairy.corepart.parts.16.parts.2.parts.2.customlabel>right middle toe</Fairy.corepart.parts.16.parts.2.parts.2.customlabel>
+
+	<Fairy.corepart.parts.16.parts.2.parts.3.customlabel>right second toe</Fairy.corepart.parts.16.parts.2.parts.3.customlabel>
+
+	<Fairy.corepart.parts.16.parts.2.parts.4.customlabel>right big toe</Fairy.corepart.parts.16.parts.2.parts.4.customlabel>
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Make_SmallBackpackMC.label>Сделать маленький рюкзак</Make_SmallBackpackMC.label>
+  <Make_SmallBackpackMC.description>Сделать маленький рюкзак.</Make_SmallBackpackMC.description>
+  <Make_SmallBackpackMC.jobString>Делает маленький рюкзак.</Make_SmallBackpackMC.jobString>
+
+  <SmallBackpackNaturalMC.label>Сделать маленький цветной рюкзак</SmallBackpackNaturalMC.label>
+  <SmallBackpackNaturalMC.description>Сделать маленький цветной рюкзак.</SmallBackpackNaturalMC.description>
+  <SmallBackpackNaturalMC.jobString>Делает маленький цветной рюкзак.</SmallBackpackNaturalMC.jobString>
+
+  <Make_LargeBackpackMC.label>Сделать большой рюкзак</Make_LargeBackpackMC.label>
+  <Make_LargeBackpackMC.description>Сделать большой рюкзак.</Make_LargeBackpackMC.description>
+  <Make_LargeBackpackMC.jobString>Делает большой рюкзак.</Make_LargeBackpackMC.jobString>
+
+  <LargeBackpackNaturalMC.label>Сделать большой цветной рюкзак</LargeBackpackNaturalMC.label>
+  <LargeBackpackNaturalMC.description>Сделать большой цветной рюкзак.</LargeBackpackNaturalMC.description>
+  <LargeBackpackNaturalMC.jobString>Делает большой цветной рюкзак.</LargeBackpackNaturalMC.jobString>
+
+  <Make_NanoSuitMC.label>Сделать нанокостюм</Make_NanoSuitMC.label>
+  <Make_NanoSuitMC.description>Сделать нанокостюм.</Make_NanoSuitMC.description>
+  <Make_NanoSuitMC.jobString>Делает нанокостюм.</Make_NanoSuitMC.jobString>
+
+
+</LanguageData>

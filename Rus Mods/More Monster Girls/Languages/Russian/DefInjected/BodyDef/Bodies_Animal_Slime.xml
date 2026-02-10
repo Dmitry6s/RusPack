@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Slime.label>Слизь</Slime.label>
+
+	<Slime.corepart.parts.2.customlabel>left lung</Slime.corepart.parts.2.customlabel>
+
+	<Slime.corepart.parts.3.customlabel>right lung</Slime.corepart.parts.3.customlabel>
+
+	<Slime.corepart.parts.4.customlabel>left kidney</Slime.corepart.parts.4.customlabel>
+
+	<Slime.corepart.parts.5.customlabel>right kidney</Slime.corepart.parts.5.customlabel>
+
+	<Slime.corepart.parts.7.parts.0.parts.1.customlabel>left eye</Slime.corepart.parts.7.parts.0.parts.1.customlabel>
+
+	<Slime.corepart.parts.7.parts.0.parts.2.customlabel>right eye</Slime.corepart.parts.7.parts.0.parts.2.customlabel>
+
+	<Slime.corepart.parts.7.parts.0.parts.3.customlabel>left ear</Slime.corepart.parts.7.parts.0.parts.3.customlabel>
+
+	<Slime.corepart.parts.7.parts.0.parts.4.customlabel>right ear</Slime.corepart.parts.7.parts.0.parts.4.customlabel>
+
+</LanguageData>

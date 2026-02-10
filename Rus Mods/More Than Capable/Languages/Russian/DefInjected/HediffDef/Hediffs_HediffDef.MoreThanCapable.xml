@@ -1,0 +1,272 @@
+<LanguageData>
+	<!-- 1.6\Defs\Hediffs.xml -->
+	                     <!-- EN: Uneasy -->
+	<AssignedToArt.stages.0.label>Беспокойство</AssignedToArt.stages.0.label>
+	                     <!-- EN: Annoyed -->
+	<AssignedToArt.stages.1.label>Раздражение</AssignedToArt.stages.1.label>
+	                     <!-- EN: Angry -->
+	<AssignedToArt.stages.2.label>Гнев</AssignedToArt.stages.2.label>
+	                     <!-- EN: Furious -->
+	<AssignedToArt.stages.3.label>Ярость</AssignedToArt.stages.3.label>
+	                     <!-- EN: Mad -->
+	<AssignedToArt.stages.4.label>Безумие</AssignedToArt.stages.4.label>
+	            <!-- EN: had to do art -->
+	<AssignedToArt.label>заставили заниматься искусством</AssignedToArt.label>
+	                  <!-- EN: Colonist has been assigned to a hated activity (art). -->
+	<AssignedToArt.description>Поселенцу была поручена ненавистная ему работа (искусство).</AssignedToArt.description>
+	
+	                 <!-- EN: had to clean -->
+	<AssignedToCleaning.label>заставили заниматься уборкой</AssignedToCleaning.label>
+	                       <!-- EN: Colonist has been assigned to a hated activity (cleaning). -->
+	<AssignedToCleaning.description>Поселенцу была поручена ненавистная ему работа (уборка).</AssignedToCleaning.description>
+	
+	                              <!-- EN: Uneasy -->
+	<AssignedToConstruction.stages.0.label>Беспокойство</AssignedToConstruction.stages.0.label>
+	                              <!-- EN: Annoyed -->
+	<AssignedToConstruction.stages.1.label>Раздражение</AssignedToConstruction.stages.1.label>
+	                              <!-- EN: Angry -->
+	<AssignedToConstruction.stages.2.label>Гнев</AssignedToConstruction.stages.2.label>
+	                              <!-- EN: Furious -->
+	<AssignedToConstruction.stages.3.label>Ярость</AssignedToConstruction.stages.3.label>
+	                              <!-- EN: Mad -->
+	<AssignedToConstruction.stages.4.label>Безумие</AssignedToConstruction.stages.4.label>
+	                     <!-- EN: had to construct -->
+	<AssignedToConstruction.label>заставили заниматься строительством</AssignedToConstruction.label>
+	                           <!-- EN: Colonist has been assigned to a hated activity (construction). -->
+	<AssignedToConstruction.description>Поселенцу была поручена ненавистная ему работа (строительство).</AssignedToConstruction.description>
+	
+	                         <!-- EN: Uneasy -->
+	<AssignedToCooking.stages.0.label>Беспокойство</AssignedToCooking.stages.0.label>
+	                         <!-- EN: Annoyed -->
+	<AssignedToCooking.stages.1.label>Раздражение</AssignedToCooking.stages.1.label>
+	                         <!-- EN: Angry -->
+	<AssignedToCooking.stages.2.label>Гнев</AssignedToCooking.stages.2.label>
+	                         <!-- EN: Furious -->
+	<AssignedToCooking.stages.3.label>Ярость</AssignedToCooking.stages.3.label>
+	                         <!-- EN: Mad -->
+	<AssignedToCooking.stages.4.label>Безумие</AssignedToCooking.stages.4.label>
+	                <!-- EN: had to cook -->
+	<AssignedToCooking.label>заставили готовить еду</AssignedToCooking.label>
+	                      <!-- EN: Colonist has been assigned to a hated activity (cooking). -->
+	<AssignedToCooking.description>Поселенцу была поручена ненавистная ему работа (кулинария).</AssignedToCooking.description>
+	
+	                          <!-- EN: Uneasy -->
+	<AssignedToCrafting.stages.0.label>Беспокойство</AssignedToCrafting.stages.0.label>
+	                          <!-- EN: Annoyed -->
+	<AssignedToCrafting.stages.1.label>Раздражение</AssignedToCrafting.stages.1.label>
+	                          <!-- EN: Angry -->
+	<AssignedToCrafting.stages.2.label>Гнев</AssignedToCrafting.stages.2.label>
+	                          <!-- EN: Furious -->
+	<AssignedToCrafting.stages.3.label>Ярость</AssignedToCrafting.stages.3.label>
+	                          <!-- EN: Mad -->
+	<AssignedToCrafting.stages.4.label>Безумие</AssignedToCrafting.stages.4.label>
+	                 <!-- EN: had to craft -->
+	<AssignedToCrafting.label>заставили заниматься ремеслом</AssignedToCrafting.label>
+	                       <!-- EN: Colonist has been assigned to a hated activity (crafting). -->
+	<AssignedToCrafting.description>Поселенцу была поручена ненавистная ему работа (ремесло).</AssignedToCrafting.description>
+	
+	                        <!-- EN: Uneasy -->
+	<AssignedToDoctor.stages.0.label>Беспокойство</AssignedToDoctor.stages.0.label>
+	                        <!-- EN: Annoyed -->
+	<AssignedToDoctor.stages.1.label>Раздражение</AssignedToDoctor.stages.1.label>
+	                        <!-- EN: Angry -->
+	<AssignedToDoctor.stages.2.label>Гнев</AssignedToDoctor.stages.2.label>
+	                        <!-- EN: Furious -->
+	<AssignedToDoctor.stages.3.label>Ярость</AssignedToDoctor.stages.3.label>
+	                        <!-- EN: Mad -->
+	<AssignedToDoctor.stages.4.label>Безумие</AssignedToDoctor.stages.4.label>
+	               <!-- EN: had to doctor -->
+	<AssignedToDoctor.label>заставили работать врачом</AssignedToDoctor.label>
+	                     <!-- EN: Colonist has been assigned to a hated activity (doctoring). -->
+	<AssignedToDoctor.description>Поселенцу была поручена ненавистная ему работа (уход за больными).</AssignedToDoctor.description>
+	
+	                             <!-- EN: Uneasy -->
+	<AssignedToFirefighter.stages.0.label>Беспокойство</AssignedToFirefighter.stages.0.label>
+	                             <!-- EN: Annoyed -->
+	<AssignedToFirefighter.stages.1.label>Раздражение</AssignedToFirefighter.stages.1.label>
+	                             <!-- EN: Angry -->
+	<AssignedToFirefighter.stages.2.label>Гнев</AssignedToFirefighter.stages.2.label>
+	                             <!-- EN: Furious -->
+	<AssignedToFirefighter.stages.3.label>Ярость</AssignedToFirefighter.stages.3.label>
+	                             <!-- EN: Mad -->
+	<AssignedToFirefighter.stages.4.label>Безумие</AssignedToFirefighter.stages.4.label>
+	                    <!-- EN: had to fight fires -->
+	<AssignedToFirefighter.label>заставили тушить пожары</AssignedToFirefighter.label>
+	                          <!-- EN: Colonist has been assigned to a hated activity (firefighting). -->
+	<AssignedToFirefighter.description>Поселенцу была поручена ненавистная ему работа (тушение пожаров).</AssignedToFirefighter.description>
+	
+	                         <!-- EN: Uneasy -->
+	<AssignedToGrowing.stages.0.label>Беспокойство</AssignedToGrowing.stages.0.label>
+	                         <!-- EN: Annoyed -->
+	<AssignedToGrowing.stages.1.label>Раздражение</AssignedToGrowing.stages.1.label>
+	                         <!-- EN: Angry -->
+	<AssignedToGrowing.stages.2.label>Гнев</AssignedToGrowing.stages.2.label>
+	                         <!-- EN: Furious -->
+	<AssignedToGrowing.stages.3.label>Ярость</AssignedToGrowing.stages.3.label>
+	                         <!-- EN: Mad -->
+	<AssignedToGrowing.stages.4.label>Безумие</AssignedToGrowing.stages.4.label>
+	                <!-- EN: had to grow plants -->
+	<AssignedToGrowing.label>заставили выращивать растения</AssignedToGrowing.label>
+	                      <!-- EN: Colonist has been assigned to a hated activity (growing). -->
+	<AssignedToGrowing.description>Поселенцу была поручена ненавистная ему работа (растениеводство).</AssignedToGrowing.description>
+	
+	                          <!-- EN: Uneasy -->
+	<AssignedToHandling.stages.0.label>Беспокойство</AssignedToHandling.stages.0.label>
+	                          <!-- EN: Annoyed -->
+	<AssignedToHandling.stages.1.label>Раздражение</AssignedToHandling.stages.1.label>
+	                          <!-- EN: Angry -->
+	<AssignedToHandling.stages.2.label>Гнев</AssignedToHandling.stages.2.label>
+	                          <!-- EN: Furious -->
+	<AssignedToHandling.stages.3.label>Ярость</AssignedToHandling.stages.3.label>
+	                          <!-- EN: Mad -->
+	<AssignedToHandling.stages.4.label>Безумие</AssignedToHandling.stages.4.label>
+	                 <!-- EN: had to handle animals -->
+	<AssignedToHandling.label>заставили работать с животными</AssignedToHandling.label>
+	                       <!-- EN: Colonist has been assigned to a hated activity (handling). -->
+	<AssignedToHandling.description>Поселенцу была поручена ненавистная ему работа (животноводство).</AssignedToHandling.description>
+	
+	                <!-- EN: had to haul -->
+	<AssignedToHauling.label>заставили переносить грузы</AssignedToHauling.label>
+	                      <!-- EN: Colonist has been assigned to a hated activity (hauling). -->
+	<AssignedToHauling.description>Поселенцу была поручена ненавистная ему работа (переноска).</AssignedToHauling.description>
+	
+	                         <!-- EN: Uneasy -->
+	<AssignedToHunting.stages.0.label>Беспокойство</AssignedToHunting.stages.0.label>
+	                         <!-- EN: Annoyed -->
+	<AssignedToHunting.stages.1.label>Раздражение</AssignedToHunting.stages.1.label>
+	                         <!-- EN: Angry -->
+	<AssignedToHunting.stages.2.label>Гнев</AssignedToHunting.stages.2.label>
+	                         <!-- EN: Furious -->
+	<AssignedToHunting.stages.3.label>Ярость</AssignedToHunting.stages.3.label>
+	                         <!-- EN: Mad -->
+	<AssignedToHunting.stages.4.label>Безумие</AssignedToHunting.stages.4.label>
+	                <!-- EN: had to hunt -->
+	<AssignedToHunting.label>заставили охотиться</AssignedToHunting.label>
+	                      <!-- EN: Colonist has been assigned to a hated activity (hunting). -->
+	<AssignedToHunting.description>Поселенцу была поручена ненавистная ему работа (охота).</AssignedToHunting.description>
+	
+	                        <!-- EN: Uneasy -->
+	<AssignedToMining.stages.0.label>Беспокойство</AssignedToMining.stages.0.label>
+	                        <!-- EN: Annoyed -->
+	<AssignedToMining.stages.1.label>Раздражение</AssignedToMining.stages.1.label>
+	                        <!-- EN: Angry -->
+	<AssignedToMining.stages.2.label>Гнев</AssignedToMining.stages.2.label>
+	                        <!-- EN: Furious -->
+	<AssignedToMining.stages.3.label>Ярость</AssignedToMining.stages.3.label>
+	                        <!-- EN: Mad -->
+	<AssignedToMining.stages.4.label>Безумие</AssignedToMining.stages.4.label>
+	               <!-- EN: had to mine -->
+	<AssignedToMining.label>заставили добывать ресурсы</AssignedToMining.label>
+	                     <!-- EN: Colonist has been assigned to a hated activity (mining). -->
+	<AssignedToMining.description>Поселенцу была поручена ненавистная ему работа (горное дело).</AssignedToMining.description>
+	
+	                     <!-- EN: had to cut plants -->
+	<AssignedToPlantCutting.label>заставили стричь растения</AssignedToPlantCutting.label>
+	                           <!-- EN: Colonist has been assigned to a hated activity (plant cutting). -->
+	<AssignedToPlantCutting.description>Поселенцу была поручена ненавистная ему работа (стрижка растений).</AssignedToPlantCutting.description>
+	
+	                          <!-- EN: Uneasy -->
+	<AssignedToResearch.stages.0.label>Беспокойство</AssignedToResearch.stages.0.label>
+	                          <!-- EN: Annoyed -->
+	<AssignedToResearch.stages.1.label>Раздражение</AssignedToResearch.stages.1.label>
+	                          <!-- EN: Angry -->
+	<AssignedToResearch.stages.2.label>Гнев</AssignedToResearch.stages.2.label>
+	                          <!-- EN: Furious -->
+	<AssignedToResearch.stages.3.label>Ярость</AssignedToResearch.stages.3.label>
+	                          <!-- EN: Mad -->
+	<AssignedToResearch.stages.4.label>Безумие</AssignedToResearch.stages.4.label>
+	                 <!-- EN: had to research -->
+	<AssignedToResearch.label>заставили заниматься исследованиями</AssignedToResearch.label>
+	                       <!-- EN: Colonist has been assigned to a hated activity (research). -->
+	<AssignedToResearch.description>Поселенцу была поручена ненавистная ему работа (исследования).</AssignedToResearch.description>
+	
+	                           <!-- EN: Uneasy -->
+	<AssignedToDarkStudy.stages.0.label>Беспокойство</AssignedToDarkStudy.stages.0.label>
+	                           <!-- EN: Annoyed -->
+	<AssignedToDarkStudy.stages.1.label>Раздражение</AssignedToDarkStudy.stages.1.label>
+	                           <!-- EN: Angry -->
+	<AssignedToDarkStudy.stages.2.label>Гнев</AssignedToDarkStudy.stages.2.label>
+	                           <!-- EN: Furious -->
+	<AssignedToDarkStudy.stages.3.label>Ярость</AssignedToDarkStudy.stages.3.label>
+	                           <!-- EN: Mad -->
+	<AssignedToDarkStudy.stages.4.label>Безумие</AssignedToDarkStudy.stages.4.label>
+	                  <!-- EN: had to dark study -->
+	<AssignedToDarkStudy.label>заставили проводить тёмные исследования</AssignedToDarkStudy.label>
+	                        <!-- EN: Colonist has been assigned to a hated activity (dark study). -->
+	<AssignedToDarkStudy.description>Поселенцу была поручена ненавистная ему работа (тёмные исследования).</AssignedToDarkStudy.description>
+	
+	                          <!-- EN: Uneasy -->
+	<AssignedToSmithing.stages.0.label>Беспокойство</AssignedToSmithing.stages.0.label>
+	                          <!-- EN: Annoyed -->
+	<AssignedToSmithing.stages.1.label>Раздражение</AssignedToSmithing.stages.1.label>
+	                          <!-- EN: Angry -->
+	<AssignedToSmithing.stages.2.label>Гнев</AssignedToSmithing.stages.2.label>
+	                          <!-- EN: Furious -->
+	<AssignedToSmithing.stages.3.label>Ярость</AssignedToSmithing.stages.3.label>
+	                          <!-- EN: Mad -->
+	<AssignedToSmithing.stages.4.label>Безумие</AssignedToSmithing.stages.4.label>
+	                 <!-- EN: had to smith -->
+	<AssignedToSmithing.label>заставили ковать изделия</AssignedToSmithing.label>
+	                       <!-- EN: Colonist has been assigned to a hated activity (smithing). -->
+	<AssignedToSmithing.description>Поселенцу была поручена ненавистная ему работа (кузнечное дело).</AssignedToSmithing.description>
+	
+	                           <!-- EN: Uneasy -->
+	<AssignedToTailoring.stages.0.label>Беспокойство</AssignedToTailoring.stages.0.label>
+	                           <!-- EN: Annoyed -->
+	<AssignedToTailoring.stages.1.label>Раздражение</AssignedToTailoring.stages.1.label>
+	                           <!-- EN: Angry -->
+	<AssignedToTailoring.stages.2.label>Гнев</AssignedToTailoring.stages.2.label>
+	                           <!-- EN: Furious -->
+	<AssignedToTailoring.stages.3.label>Ярость</AssignedToTailoring.stages.3.label>
+	                           <!-- EN: Mad -->
+	<AssignedToTailoring.stages.4.label>Безумие</AssignedToTailoring.stages.4.label>
+	                  <!-- EN: had to tailor -->
+	<AssignedToTailoring.label>заставили шить одежду</AssignedToTailoring.label>
+	                        <!-- EN: Colonist has been assigned to a hated activity (tailoring). -->
+	<AssignedToTailoring.description>Поселенцу была поручена ненавистная ему работа (портняжное дело).</AssignedToTailoring.description>
+	
+	                        <!-- EN: Uneasy -->
+	<AssignedToWarden.stages.0.label>Беспокойство</AssignedToWarden.stages.0.label>
+	                        <!-- EN: Annoyed -->
+	<AssignedToWarden.stages.1.label>Раздражение</AssignedToWarden.stages.1.label>
+	                        <!-- EN: Angry -->
+	<AssignedToWarden.stages.2.label>Гнев</AssignedToWarden.stages.2.label>
+	                        <!-- EN: Furious -->
+	<AssignedToWarden.stages.3.label>Ярость</AssignedToWarden.stages.3.label>
+	                        <!-- EN: Mad -->
+	<AssignedToWarden.stages.4.label>Безумие</AssignedToWarden.stages.4.label>
+	               <!-- EN: had to be a warden -->
+	<AssignedToWarden.label>заставили надзирать</AssignedToWarden.label>
+	                     <!-- EN: Colonist has been assigned to a hated activity (warden). -->
+	<AssignedToWarden.description>Поселенцу была поручена ненавистная ему работа (надзор).</AssignedToWarden.description>
+	
+	                           <!-- EN: Uneasy -->
+	<AssignedToChildcare.stages.0.label>Беспокойство</AssignedToChildcare.stages.0.label>
+	                           <!-- EN: Annoyed -->
+	<AssignedToChildcare.stages.1.label>Раздражение</AssignedToChildcare.stages.1.label>
+	                           <!-- EN: Angry -->
+	<AssignedToChildcare.stages.2.label>Гнев</AssignedToChildcare.stages.2.label>
+	                           <!-- EN: Furious -->
+	<AssignedToChildcare.stages.3.label>Ярость</AssignedToChildcare.stages.3.label>
+	                           <!-- EN: Mad -->
+	<AssignedToChildcare.stages.4.label>Безумие</AssignedToChildcare.stages.4.label>
+	                  <!-- EN: had to care for children -->
+	<AssignedToChildcare.label>заставили ухаживать за детьми</AssignedToChildcare.label>
+	                        <!-- EN: Colonist has been assigned to a hated activity (childcare). -->
+	<AssignedToChildcare.description>Поселенцу была поручена ненавистная ему работа (уход за детьми).</AssignedToChildcare.description>
+	
+	                       <!-- EN: Uneasy -->
+	<AssignedAWeapon.stages.0.label>Беспокойство</AssignedAWeapon.stages.0.label>
+	                       <!-- EN: Annoyed -->
+	<AssignedAWeapon.stages.1.label>Раздражение</AssignedAWeapon.stages.1.label>
+	                       <!-- EN: Angry -->
+	<AssignedAWeapon.stages.2.label>Гнев</AssignedAWeapon.stages.2.label>
+	                       <!-- EN: Furious -->
+	<AssignedAWeapon.stages.3.label>Ярость</AssignedAWeapon.stages.3.label>
+	                       <!-- EN: Mad -->
+	<AssignedAWeapon.stages.4.label>Безумие</AssignedAWeapon.stages.4.label>
+	              <!-- EN: had to carry a weapon -->
+	<AssignedAWeapon.label>заставили носить оружие</AssignedAWeapon.label>
+	                    <!-- EN: Colonist has been assigned to carry a hated weapon. -->
+	<AssignedAWeapon.description>Поселенцу поручили носить ненавистное ему оружие.</AssignedAWeapon.description>
+</LanguageData>

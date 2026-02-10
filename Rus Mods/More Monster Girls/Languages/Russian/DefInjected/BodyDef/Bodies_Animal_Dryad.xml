@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Dryad.label>Дриада</Dryad.label>
+
+	<Dryad.corepart.parts.7.customlabel>left lung</Dryad.corepart.parts.7.customlabel>
+
+	<Dryad.corepart.parts.8.customlabel>right lung</Dryad.corepart.parts.8.customlabel>
+
+	<Dryad.corepart.parts.9.customlabel>left kidney</Dryad.corepart.parts.9.customlabel>
+
+	<Dryad.corepart.parts.10.customlabel>right kidney</Dryad.corepart.parts.10.customlabel>
+
+	<Dryad.corepart.parts.12.parts.0.parts.1.customlabel>left eye</Dryad.corepart.parts.12.parts.0.parts.1.customlabel>
+
+	<Dryad.corepart.parts.12.parts.0.parts.2.customlabel>right eye</Dryad.corepart.parts.12.parts.0.parts.2.customlabel>
+
+	<Dryad.corepart.parts.12.parts.0.parts.3.customlabel>left ear</Dryad.corepart.parts.12.parts.0.parts.3.customlabel>
+
+	<Dryad.corepart.parts.12.parts.0.parts.4.customlabel>right ear</Dryad.corepart.parts.12.parts.0.parts.4.customlabel>
+
+	<Dryad.corepart.parts.13.customlabel>left shoulder</Dryad.corepart.parts.13.customlabel>
+
+	<Dryad.corepart.parts.13.parts.0.customlabel>left clavicle</Dryad.corepart.parts.13.parts.0.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.customlabel>left arm</Dryad.corepart.parts.13.parts.1.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.0.customlabel>left humerus</Dryad.corepart.parts.13.parts.1.parts.0.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.1.customlabel>left radius</Dryad.corepart.parts.13.parts.1.parts.1.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.2.customlabel>left hand</Dryad.corepart.parts.13.parts.1.parts.2.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>left pinky</Dryad.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>left ring finger</Dryad.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>left middle finger</Dryad.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>left index finger</Dryad.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+
+	<Dryad.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>left thumb</Dryad.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+
+	<Dryad.corepart.parts.14.customlabel>right shoulder</Dryad.corepart.parts.14.customlabel>
+
+	<Dryad.corepart.parts.14.parts.0.customlabel>right clavicle</Dryad.corepart.parts.14.parts.0.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.customlabel>right arm</Dryad.corepart.parts.14.parts.1.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.0.customlabel>right humerus</Dryad.corepart.parts.14.parts.1.parts.0.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.1.customlabel>right radius</Dryad.corepart.parts.14.parts.1.parts.1.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.2.customlabel>right hand</Dryad.corepart.parts.14.parts.1.parts.2.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>right pinky</Dryad.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>right ring finger</Dryad.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>right middle finger</Dryad.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>right index finger</Dryad.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>
+
+	<Dryad.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>right thumb</Dryad.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>
+
+	<Dryad.corepart.parts.15.customlabel>front left leg</Dryad.corepart.parts.15.customlabel>
+
+	<Dryad.corepart.parts.15.parts.0.customlabel>front left hoof</Dryad.corepart.parts.15.parts.0.customlabel>
+
+	<Dryad.corepart.parts.16.customlabel>front right leg</Dryad.corepart.parts.16.customlabel>
+
+	<Dryad.corepart.parts.16.parts.0.customlabel>front right hoof</Dryad.corepart.parts.16.parts.0.customlabel>
+
+	<Dryad.corepart.parts.17.customlabel>rear left leg</Dryad.corepart.parts.17.customlabel>
+
+	<Dryad.corepart.parts.17.parts.0.customlabel>rear left hoof</Dryad.corepart.parts.17.parts.0.customlabel>
+
+	<Dryad.corepart.parts.18.customlabel>rear right leg</Dryad.corepart.parts.18.customlabel>
+
+	<Dryad.corepart.parts.18.parts.0.customlabel>rear right hoof</Dryad.corepart.parts.18.parts.0.customlabel>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Foxgirl.label>Антро-лиса</Foxgirl.label>
+	<Foxgirl.description>Хитрый и коварный зверь. Чаще всего антро-лис можно встретить охотящимися в лесах и на лугах.</Foxgirl.description>
+
+	<Foxgirl.tools.0.label>левые когти</Foxgirl.tools.0.label>
+	<Foxgirl.tools.1.label>правые когти</Foxgirl.tools.1.label>
+	<Foxgirl.tools.2.label>челюсть</Foxgirl.tools.2.label>
+	<Foxgirl.tools.3.label>голова</Foxgirl.tools.3.label>
+
+</LanguageData>

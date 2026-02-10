@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Foxgirl.label>Лисодева</Foxgirl.label>
+
+	<Foxgirl.lifestages.0.label>Щенок лисицы</Foxgirl.lifestages.0.label>
+
+	<Foxgirl.lifestages.1.label>Антро-лисы</Foxgirl.lifestages.1.label>
+	<Foxgirl.lifestages.1.labelmale>Юный лисоморф</Foxgirl.lifestages.1.labelmale>
+	<Foxgirl.lifestages.1.labelfemale>Юная лисодева</Foxgirl.lifestages.1.labelfemale>
+
+	<Foxgirl.lifestages.2.label>Антро-лисы</Foxgirl.lifestages.2.label>
+	<Foxgirl.lifestages.2.labelmale>Лисоморф</Foxgirl.lifestages.2.labelmale>
+	<Foxgirl.lifestages.2.labelfemale>Лисодева</Foxgirl.lifestages.2.labelfemale>
+
+</LanguageData>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<ThrumbomorphHorn.label>Рог трумбодевы</ThrumbomorphHorn.label>
+	<ThrumbomorphHorn.description>Рог трумбодевы. Он не такой большой и не такой ценный, как рог трумбо, но такой же смертоносный.</ThrumbomorphHorn.description>
+	<ThrumbomorphHorn.tools.0.label>остриё</ThrumbomorphHorn.tools.0.label>
+	<ThrumbomorphHorn.tools.1.label>основа</ThrumbomorphHorn.tools.1.label>
+    
+    <FairyDust.label>Пыльца феи</FairyDust.label>
+	<FairyDust.description>Странная пыльца, которую производят феи, двигая крыльями. Поскольку крылья есть только у фей-женщин, только они производят пыльцу.</FairyDust.description>
+	<FairyDust.ingestible.ingestcommandstring>Вдохнуть {0}</FairyDust.ingestible.ingestcommandstring>
+	<FairyDust.ingestible.ingestreportstring>Вдыхает {0}.</FairyDust.ingestible.ingestreportstring>
+    
+    <HairDryad.label>шерсть дриады</HairDryad.label>
+	<HairDryad.description>Мягкая, легкая и обеспечивает очень хорошую теплоизоляцию. Одежда из шерсти дриады способна поддерживать комфортную температуру тела даже в экстремальных условиях.</HairDryad.description>
+
+	<WoolThrumbomorph.label>шерсть трумбодевы</WoolThrumbomorph.label>
+	<WoolThrumbomorph.description>Мягкая, легкая и обеспечивает очень хорошую теплоизоляцию.  Шерсть трумбодевы является ценной, а одежда из нее обеспечивает хорошую всестороннюю защиту.</WoolThrumbomorph.description>
+
+	<HairCentaur.label>шерсть кентавриды</HairCentaur.label>
+	<HairCentaur.description>Мягкая, легкая и обеспечивает очень хорошую изоляцию. Одежда из шерсти кентавриды способна поддерживать комфортную температуру тела даже в экстремальных условиях.</HairCentaur.description>
+
+	<DragongirlScales.label>чешуя драконодевы</DragongirlScales.label>
+	<DragongirlScales.description>Чешуя, снятая с драконодевы. Снаряжение, изготовленное из этих чешуек, обеспечивает отличную защиту и защиту от жары.</DragongirlScales.description>
+
+	<HarpyFeathers.label>перья гарпии</HarpyFeathers.label>
+	<HarpyFeathers.description>Мягкая, легкая и обеспечивает очень хорошую теплоизоляцию. Одежда из перьев гарпии может поддерживать комфортную температуру тела в очень жарких условиях.</HarpyFeathers.description>
+
+	<BlackHarpyFeathers.label>Перья чёрной гарпии</BlackHarpyFeathers.label>
+	<BlackHarpyFeathers.description>Мягкая, легкая и обеспечивает очень хорошую теплоизоляцию. Одежда из перьев чёрной гарпии может согреть тело в холодных условиях.</BlackHarpyFeathers.description>
+
+    <GooSlimeRed.label>Красная слизь</GooSlimeRed.label>
+	<GooSlimeRed.description>Красная слизь, которая стекает со слизнедевы. Она может служить примитивным лекарством.</GooSlimeRed.description>
+    
+    <FoxgirlMilk.label>Молоко лисодевы</FoxgirlMilk.label>
+	<FoxgirlMilk.description>Молоко от счастливой лисички. Ценится за легкий бодрящий вкус.</FoxgirlMilk.description>
+
+	<EggBlackHarpyFertilized.label>Яйцо чёрной гарпии (опл.)</EggBlackHarpyFertilized.label>
+	<EggBlackHarpyFertilized.description>Оплодотворенное яйцо чёрной гарпии. Требуется теплое место для вылупления. Если всё пройдет хорошо, из него должен вылупиться птенец чёрной гарпии.</EggBlackHarpyFertilized.description>
+
+	<CentaurMilk.label>Молоко кентавриды</CentaurMilk.label>
+	<CentaurMilk.description>Молоко счастливой кентавриды.  Ценится за легкий землистый вкус.</CentaurMilk.description>
+
+	<EggHarpyFertilized.label>Яйцо гарпии (опл.)</EggHarpyFertilized.label>
+	<EggHarpyFertilized.description>Оплодотворенное яйцо гарпии. Требуется теплое место для вылупления. Если всё пройдет хорошо, из него должен вылупиться птенец гарпии.</EggHarpyFertilized.description>
+
+	<CowgirlMilk.label>Молоко бурёнки</CowgirlMilk.label>
+	<CowgirlMilk.description>Молоко от счастливой бурёнки. Очень вкусно.</CowgirlMilk.description>
+
+	<EggBlackHarpyUnfertilized.label>Яйцо чёрной гарпии (неопл.)</EggBlackHarpyUnfertilized.label>
+	<EggBlackHarpyUnfertilized.description>Неоплодотворенное яйцо чёрной гарпии. Его можно есть сырым, но оно гораздо вкуснее в варёном виде.</EggBlackHarpyUnfertilized.description>
+
+	<ImpmotherMilk.label>Молоко суккуба</ImpmotherMilk.label>
+	<ImpmotherMilk.description>Молоко от соблазнительного суккуба. Имеет таинственный вкус.</ImpmotherMilk.description>
+
+	<DragonMilk.label>Молоко драконодевы</DragonMilk.label>
+	<DragonMilk.description>Молоко от вздорной драконодевы. Имеет пикантный вкус, который высоко ценится.</DragonMilk.description>
+
+	<ThrumbogirlMilk.label>Молоко трумбодевы</ThrumbogirlMilk.label>
+	<ThrumbogirlMilk.description>Молоко от счастливой трумбодевы. Прохладное и освежающее.</ThrumbogirlMilk.description>
+
+	<EggHarpyUnfertilized.label>Яйцо гарпии (неопл.)</EggHarpyUnfertilized.label>
+	<EggHarpyUnfertilized.description>Неоплодотворенное яйцо гарпии. Его можно есть сырым, но оно гораздо вкуснее в варёном виде.</EggHarpyUnfertilized.description>
+
+	<DryadMilk.label>Молоко дриады</DryadMilk.label>
+	<DryadMilk.description>Молоко послушной дриады.  Имеет легкий фруктовый вкус.</DryadMilk.description>
+    
+    <Leather_Dragon.label>кожа драконодевы</Leather_Dragon.label>
+	<Leather_Dragon.description>Дублёная, высушенная, очищенная кожа драконодевы. Обеспечивает некоторую защиту от повреждений и тепла.</Leather_Dragon.description>
+
+	<Leather_Cowgirl.label>кожа бурёнки</Leather_Cowgirl.label>
+	<Leather_Cowgirl.description>Дублёная, высушенная, очищенная кожа бурёнки. Ты сделал это, не так ли? Ты убил милую, невинную бурёнку ради этого.  Ты монстр!</Leather_Cowgirl.description>
+
+	<Leather_Centaur.label>кожа кентавра</Leather_Centaur.label>
+	<Leather_Centaur.description>Дублёная, высушенная, очищенная кожа кентавра. Достаточно прочная и хорошо изолирует от тепла.</Leather_Centaur.description>
+
+	<Leather_Harpy.label>кожа гарпии</Leather_Harpy.label>
+	<Leather_Harpy.description>Дублёная, высушенная, очищенная кожа гарпии. Обеспечивает некоторую защиту от тепла и в некоторой степени изолирует от ударов.</Leather_Harpy.description>
+
+	<Leather_Imp.label>кожа суккуба</Leather_Imp.label>
+	<Leather_Imp.description>Дублёная, высушенная, очищенная кожа суккуба. Обеспечивает некоторую защиту от повреждений и тепла.</Leather_Imp.description>
+
+	<Leather_Slime.label>мембрана слизи</Leather_Slime.label>
+	<Leather_Slime.description>Тщательно очищенная внешняя мембрана мертвой слизи. Довольно хороший изолятор и поглотитель повреждений.</Leather_Slime.description>
+
+	<Leather_FairyForest.label>кожа лесной феи</Leather_FairyForest.label>
+	<Leather_FairyForest.description>Дублёная, высушенная, очищенная кожа деликатной и беззащитной лесной феи... Совершенно средняя по показателям. Надеюсь, ты сможешь жить с этим... Ты монстр!</Leather_FairyForest.description>
+
+	<Leather_Foxgirl.label>кожа лисодевы</Leather_Foxgirl.label>
+	<Leather_Foxgirl.description>Дублёная, высушенная, очищенная кожа лисодевы. Ты сделал это, не так ли?  Ты убил милую, невинную лисодеву ради этого. Ты монстр!</Leather_Foxgirl.description>
+
+	<Leather_Dryad.label>кожа дриады</Leather_Dryad.label>
+	<Leather_Dryad.description>Дублёная, высушенная, очищенная кожа дриады. На ощупь мягкая и теплая, как и существо, которое вы зарезали, чтобы получить эту кожу.</Leather_Dryad.description>
+
+	<Leather_FairyIce.label>кожа снежной феи</Leather_FairyIce.label>
+	<Leather_FairyIce.description>Дублёная, высушенная, очищенная кожа деликатной и беззащитной снежной феи... Очень высокая изоляция от холода. Надеюсь, ты сможешь жить с этим... Ты монстр!</Leather_FairyIce.description>
+
+	<Leather_BlackHarpy.label>кожа чёрной гарпии</Leather_BlackHarpy.label>
+	<Leather_BlackHarpy.description>Дублёная, высушенная, очищенная кожа чёрной гарпии. Обеспечивает некоторую защиту от холода и в некоторой степени изолирует от ударов.</Leather_BlackHarpy.description>
+
+	<Leather_Thrumbomorph.label>кожа трумбодевы</Leather_Thrumbomorph.label>
+	<Leather_Thrumbomorph.description>Дублёная, высушенная, очищенная кожа трумбодевы. Хороший универсальный изолятор и поглотитель повреждений.</Leather_Thrumbomorph.description>
+
+</LanguageData>

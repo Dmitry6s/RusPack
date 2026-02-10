@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Dryad.label>Дриада</Dryad.label>
+	<Dryad.description>Живущая в лесах двоюродная сестра кентавра. Дриады меньше и послушнее, но быстро отращивают длинные шелковистые волосы, которые можно использовать в качестве шерсти.</Dryad.description>
+
+    <Dryad.tools.0.label>зубы</Dryad.tools.0.label>
+	<Dryad.tools.1.label>голова</Dryad.tools.1.label>
+	<Dryad.tools.2.label>левый кулак</Dryad.tools.2.label>
+	<Dryad.tools.3.label>правый кулак</Dryad.tools.3.label>
+	<Dryad.tools.4.label>левое копыто</Dryad.tools.4.label>
+	<Dryad.tools.5.label>правое копыто</Dryad.tools.5.label>
+
+</LanguageData>

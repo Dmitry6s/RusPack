@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Thrumbomorph.label>Трумбодева</Thrumbomorph.label>
+
+	<Thrumbomorph.lifestages.0.label>Дети трумбодевы</Thrumbomorph.lifestages.0.label>
+	<Thrumbomorph.lifestages.0.labelmale>Трумбоморф-младенец</Thrumbomorph.lifestages.0.labelmale>
+	<Thrumbomorph.lifestages.0.labelfemale>Трумбодева-младенец</Thrumbomorph.lifestages.0.labelfemale>
+
+	<Thrumbomorph.lifestages.1.label>Юные трумбоморфы</Thrumbomorph.lifestages.1.label>
+	<Thrumbomorph.lifestages.1.labelmale>Юный трумбоморф</Thrumbomorph.lifestages.1.labelmale>
+	<Thrumbomorph.lifestages.1.labelfemale>Юная трумбодева</Thrumbomorph.lifestages.1.labelfemale>
+
+	<Thrumbomorph.lifestages.2.labelmale>Трумбоморф</Thrumbomorph.lifestages.2.labelmale>
+	<Thrumbomorph.lifestages.2.labelfemale>Трумбодева</Thrumbomorph.lifestages.2.labelfemale>
+
+</LanguageData>

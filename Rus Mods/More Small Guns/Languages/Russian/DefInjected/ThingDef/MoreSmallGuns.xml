@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pocket Pistol -->
+
+  <Bullet_PocketPistol.label>пуля карманного пистолета</Bullet_PocketPistol.label>
+
+  <Pocket_Pistol.label>карманный пистолет</Pocket_Pistol.label>
+  <Pocket_Pistol.description>Пистолет достаточно мал, и легко помещается в ладони взрослого человека. Он предназначен для самообороны и не подходит для полномасштабной перестрелки.</Pocket_Pistol.description>
+  <Pocket_Pistol.tools.0.label>рукоять</Pocket_Pistol.tools.0.label>
+  <Pocket_Pistol.tools.1.label>ствол</Pocket_Pistol.tools.1.label>
+
+
+  <!-- Short Revolver -->
+
+  <Bullet_ShortRevolver.label>пуля короткого револьвера</Bullet_ShortRevolver.label>
+
+  <Short_Revolver.label>короткий револьвер</Short_Revolver.label>
+  <Short_Revolver.description>Это револьвер с коротким стволом. Хотя дальность стрельбы меньше, чем у обычного револьвера, перезарядка происходит немного быстрее.</Short_Revolver.description>
+  <Short_Revolver.tools.0.label>рукоять</Short_Revolver.tools.0.label>
+  <Short_Revolver.tools.1.label>ствол</Short_Revolver.tools.1.label>
+
+
+  <!-- Service Pistol -->
+
+  <Bullet_ServicePistol.label>пуля служебного пистолета</Bullet_ServicePistol.label>
+
+  <Service_Pistol.label>служебный пистолет</Service_Pistol.label>
+  <Service_Pistol.description>Это полуавтоматический пистолет военного образца. Поскольку это более старая модель, она менее точна, чем традиционный пистолет.</Service_Pistol.description>
+  <Service_Pistol.tools.0.label>рукоять</Service_Pistol.tools.0.label>
+  <Service_Pistol.tools.1.label>ствол</Service_Pistol.tools.1.label>
+
+
+  <!-- Tactical Pistol -->
+
+  <Bullet_TacticalPistol.label>пуля тактического пистолета</Bullet_TacticalPistol.label>
+
+  <Tactical_Pistol.label>тактический пистолет</Tactical_Pistol.label>
+  <Tactical_Pistol.description>Это полуавтоматический пистолет с точечным и лазерным прицелами. В целом точность улучшилась.</Tactical_Pistol.description>
+  <Tactical_Pistol.tools.0.label>рукоять</Tactical_Pistol.tools.0.label>
+  <Tactical_Pistol.tools.1.label>ствол</Tactical_Pistol.tools.1.label>
+
+
+  <!-- HardShot Pistol -->
+
+  <Bullet_HardShot.label>пуля бронебойного пистолета</Bullet_HardShot.label>
+
+  <HardShot_Pistol.label>бронебойный пистолет</HardShot_Pistol.label>
+  <HardShot_Pistol.description>Это полуавтоматический пистолет, который стреляет бронебойными пулями. Это наносит больше вреда.</HardShot_Pistol.description>
+  <HardShot_Pistol.tools.0.label>рукоять</HardShot_Pistol.tools.0.label>
+  <HardShot_Pistol.tools.1.label>ствол</HardShot_Pistol.tools.1.label>
+
+
+  <!-- Military SMG -->
+
+  <Bullet_MilitarySMG.label>пуля армейского SMG</Bullet_MilitarySMG.label>
+
+  <Military_SMG.label>армейский SMG</Military_SMG.label>
+  <Military_SMG.description>Это небольшой армейский пистолет-пулемет. Он хорош на близких дистанциях.</Military_SMG.description>
+  <Military_SMG.tools.0.label>рукоять</Military_SMG.tools.0.label>
+  <Military_SMG.tools.1.label>ствол</Military_SMG.tools.1.label>
+
+
+  <!-- Civilian SMG -->
+
+  <Bullet_CivilianSMG.label>пуля гражданского SMG</Bullet_CivilianSMG.label>
+
+  <Civilian_SMG.label>гражданский SMG</Civilian_SMG.label>
+  <Civilian_SMG.description>Это гражданский пистолет-пулемет. Его трудно контролировать из-за высокой скорострельности.</Civilian_SMG.description>
+  <Civilian_SMG.tools.0.label>рукоять</Civilian_SMG.tools.0.label>
+  <Civilian_SMG.tools.1.label>ствол</Civilian_SMG.tools.1.label>
+
+
+  <!-- Short Shotgun -->
+
+  <Bullet_ShortShotgun.label>гильза от ружья</Bullet_ShortShotgun.label>
+
+  <Short_Shotgun.label>короткоствольное ружье</Short_Shotgun.label>
+  <Short_Shotgun.description>Это короткоствольное ружье. Хотя у него небольшая дальность стрельбы, он может ошеломить врага своей высокой скоростью стрельбы.</Short_Shotgun.description>
+  <Short_Shotgun.tools.0.label>приклад</Short_Shotgun.tools.0.label>
+  <Short_Shotgun.tools.1.label>ствол</Short_Shotgun.tools.1.label>
+
+
+  <!-- Scoped Revolver -->
+
+  <Bullet_ScopedRevolver.label>пуля револьвера с оптическим прицелом</Bullet_ScopedRevolver.label>
+
+  <Scoped_Revolver.label>револьвер с оптическим прицелом</Scoped_Revolver.label>
+  <Scoped_Revolver.description>Это револьвер с оптическим прицелом. Он позволяет вести стрельбу на большие дистанции, но замедляет интервал стрельбы.</Scoped_Revolver.description>
+  <Scoped_Revolver.tools.0.label>рукоять</Scoped_Revolver.tools.0.label>
+  <Scoped_Revolver.tools.1.label>ствол</Scoped_Revolver.tools.1.label>
+
+
+  <!-- MicroAR -->
+
+  <Bullet_MicroRifle.label>пуля микровинтовки</Bullet_MicroRifle.label>
+
+  <Micro_Rifle.label>микровинтовка</Micro_Rifle.label>
+  <Micro_Rifle.description>Это очень компактная полуавтоматическая винтовка. Он достаточно удобен, но точность слабая, как вы можете себе представить.</Micro_Rifle.description>
+  <Micro_Rifle.tools.0.label>приклад</Micro_Rifle.tools.0.label>
+  <Micro_Rifle.tools.1.label>ствол</Micro_Rifle.tools.1.label>
+
+
+  <!-- Semi-Auto Pocket Pistol -->
+
+  <Bullet_Semi_Auto_PocketPistol.label>пуля полуавтоматического карманного пистолета</Bullet_Semi_Auto_PocketPistol.label>
+
+  <Semi_Auto_Pocket_Pistol.label>полуавтоматический карманный пистолет</Semi_Auto_Pocket_Pistol.label>
+  <Semi_Auto_Pocket_Pistol.description>Это полуавтоматический карманный пистолет. Имеет магазинный тип, и скорость стрельбы была знчительно улучшена.</Semi_Auto_Pocket_Pistol.description>
+  <Semi_Auto_Pocket_Pistol.tools.0.label>рукоять</Semi_Auto_Pocket_Pistol.tools.0.label>
+  <Semi_Auto_Pocket_Pistol.tools.1.label>ствол</Semi_Auto_Pocket_Pistol.tools.1.label>
+
+
+  <!-- SmallCal Revolver -->
+
+  <Bullet_Samll_Caliber_Revolver.label>пуля малокалиберного револьвера</Bullet_Samll_Caliber_Revolver.label>
+
+  <Small_Caliber_Revolver.label>малокалиберный револьвер</Small_Caliber_Revolver.label>
+  <Small_Caliber_Revolver.description>Это малокалиберный револьвер со встроенным курком. Несмотря на малый калибр, скорость пули немного выше, а небольшой размер облегчает владение им.</Small_Caliber_Revolver.description>
+  <Small_Caliber_Revolver.tools.0.label>рукоять</Small_Caliber_Revolver.tools.0.label>
+  <Small_Caliber_Revolver.tools.1.label>ствол</Small_Caliber_Revolver.tools.1.label>
+
+
+  <!-- Tactical SMG -->
+
+  <Bullet_TacticalSMG.label>пуля тактического SMG</Bullet_TacticalSMG.label>
+
+  <Tactical_SMG.label>тактический SMG</Tactical_SMG.label>
+  <Tactical_SMG.description>Это пистолет-пулемет, который выглядит как прекрасный инструмент. Его высокая точность и скорострельность делают его полезным в бою на открытом пространстве.</Tactical_SMG.description>
+  <Tactical_SMG.tools.0.label>рукоять</Tactical_SMG.tools.0.label>
+  <Tactical_SMG.tools.1.label>ствол</Tactical_SMG.tools.1.label>
+
+
+  <!-- Scoped Lever-Action Rifle -->
+
+  <Bullet_ScopedLAR.label>пуля рычажной винтовки с прицелом</Bullet_ScopedLAR.label>
+
+  <Scoped_Lever_Action_Rifle.label>рычажная винтовка с прицелом</Scoped_Lever_Action_Rifle.label>
+  <Scoped_Lever_Action_Rifle.description>Это винтовка рычажного действия с оптическим прицелом. Несмотря на то, что он имеет низкую мощность, он быстрее заряжает пули и более точен на средних и дальних дистанциях.</Scoped_Lever_Action_Rifle.description>
+  <Scoped_Lever_Action_Rifle.tools.0.label>приклад</Scoped_Lever_Action_Rifle.tools.0.label>
+  <Scoped_Lever_Action_Rifle.tools.1.label>ствол</Scoped_Lever_Action_Rifle.tools.1.label>
+
+
+  <!-- Combat Shotgun -->
+
+  <Bullet_CombatShotgun.label>гильза от дробовика</Bullet_CombatShotgun.label>
+
+  <Combat_Shotgun.label>боевой дробовик</Combat_Shotgun.label>
+  <Combat_Shotgun.description>Это помповое двуствольное ружье. Хорошая точность и дальность стрельбы, не дающие врагу ни единого шанса подобраться к вам.</Combat_Shotgun.description>
+  <Combat_Shotgun.tools.0.label>приклад</Combat_Shotgun.tools.0.label>
+  <Combat_Shotgun.tools.1.label>ствол</Combat_Shotgun.tools.1.label>
+
+
+  <!-- Dual Wield Pistol -->
+
+  <Bullet_DualPistol.label>пуля пистолета(двойного)</Bullet_DualPistol.label>
+
+  <DW_Pistol.label>автопистолет(двойной)</DW_Pistol.label>
+  <DW_Pistol.description>Это ДВА пистолета, ага. Поскольку он управляется одной рукой, точность ниже.</DW_Pistol.description>
+  <DW_Pistol.tools.0.label>рукоять</DW_Pistol.tools.0.label>
+  <DW_Pistol.tools.1.label>ствол</DW_Pistol.tools.1.label>
+
+
+  <!-- Dual Wield Revolver -->
+
+  <Bullet_DualRevolver.label>пуля револьвера(двойного)</Bullet_DualRevolver.label>
+
+  <DW_Revolver.label>револьвер(двойной)</DW_Revolver.label>
+  <DW_Revolver.description>Это ДВА револьвера, ага. Поскольку он управляется одной рукой, точность ниже.</DW_Revolver.description>
+  <DW_Revolver.tools.0.label>рукоять</DW_Revolver.tools.0.label>
+  <DW_Revolver.tools.1.label>ствол</DW_Revolver.tools.1.label>
+
+
+  <!-- Longshot Rifle -->
+
+  <Bullet_LongShotRifle.label>пуля дальнобойной винтовки</Bullet_LongShotRifle.label>
+
+  <Longshot_Rifle.label>дальнобойная винтовка</Longshot_Rifle.label>
+  <Longshot_Rifle.description>Это снайперская винтовка более старой модели. Это ружье имеет длинный ствол и тяжелое, поэтому для прицеливания требуется некоторое время.</Longshot_Rifle.description>
+  <Longshot_Rifle.tools.0.label>приклад</Longshot_Rifle.tools.0.label>
+  <Longshot_Rifle.tools.1.label>ствол</Longshot_Rifle.tools.1.label>
+
+
+</LanguageData>

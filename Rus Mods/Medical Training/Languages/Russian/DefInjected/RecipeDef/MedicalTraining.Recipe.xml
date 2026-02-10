@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EN: train medicine -->
+  <IF_MedTable.label>тренироваться медицине</IF_MedTable.label>
+
+  <!-- EN: Doctors hone their skills by testing their techniques on corpses. -->
+  <IF_MedTable.description>Врачи оттачивают свои навыки, тестируя свои методы на трупах.</IF_MedTable.description>
+
+  <!-- EN: Training. -->
+  <IF_MedTable.jobString>Обучение.</IF_MedTable.jobString>
+
+</LanguageData>

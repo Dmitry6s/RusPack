@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: More than Capable -->
+	<MTC.MoreThanCapable>More than Capable</MTC.MoreThanCapable>
+
+	<!-- EN: Allow "Force Do Job" Behavior. -->
+	<MTC.allowFDJ>Разрешить поведение «Принудительно выполнить».</MTC.allowFDJ>
+	<!-- EN: If this is checked, a pawn can be told to do a specific job, even if not assigned to the work type to which the job belongs. If you prefer vanilla behavior, and want to be able to tell a pawn to do a specific job only if they are actually assigned to the relevant work type, then uncheck it. Requires restart to apply. -->
+	<MTC.allowFDJTip>Если этот пункт отмечен, поселенцу можно приказать выполнить конкретную задачу, даже если он не назначен на соответствующий вид работ. Если вы предпочитаете ванильное поведение и хотите отдавать приказы только при условии, что поселенец назначен на данный вид работ, снимите этот флажок. Требуется перезапуск для применения.</MTC.allowFDJTip>
+
+	<!-- EN: Obey Life Stages. -->
+	<MTC.obeyLifeStages>Соблюдать стадии жизни.</MTC.obeyLifeStages>
+	<!-- EN: If this is checked, work types that have age requirements will be obeyed. -->
+	<MTC.obeyLifeStagesTip>Если этот пункт отмечен, виды работ, имеющие возрастные ограничения, будут соблюдаться.</MTC.obeyLifeStagesTip>
+
+	<!-- EN: Obey Guest Exceptions. -->
+	<MTC.obeyGuestExceptions>Соблюдать исключения для гостей.</MTC.obeyGuestExceptions>
+	<!-- EN: If this is checked, work types that forbid guests (slaves) from working will be obeyed. -->
+	<MTC.obeyGuestExceptionsTip>Если этот пункт отмечен, виды работ, запрещённые для гостей (рабов), будут соблюдаться.</MTC.obeyGuestExceptionsTip>
+
+	<!-- EN: Suppress Debug Logs. -->
+	<MTC.suppressDebugLogs>Подавлять отладочные журналы.</MTC.suppressDebugLogs>
+	<!-- EN: If this is checked, non-critical messages related to this mod will not appear in logs. -->
+	<MTC.suppressDebugLogsTip>Если этот пункт отмечен, некритические сообщения, связанные с этим модом, не будут отображаться в журналах.</MTC.suppressDebugLogsTip>
+
+	<!-- EN: Hated work types -->
+	<MTC.IncapableOf>Ненавистные виды работ</MTC.IncapableOf>
+	<!-- EN: {0} hates doing this kind of work. -->
+	<MTC.CannotDoThisWork>{0} ненавидит этот вид работ.</MTC.CannotDoThisWork>
+
+	<!-- EN: Cannot prioritize (non-violent pawn not assigned a weapon) -->
+	<MTC.CannotPrioritizeWorkGiverDisabled>Нельзя приоритезировать (пацифисту не выдано оружие)</MTC.CannotPrioritizeWorkGiverDisabled>
+	<!-- EN: Cannot prioritize (pawn hates and/or is not assigned to {0}) -->
+	<MTC.CannotPrioritizeNotAssignedToWorkType>Нельзя приоритезировать (поселенец ненавидит и/или не назначен на: {0})</MTC.CannotPrioritizeNotAssignedToWorkType>
+	<!-- EN: {0} is non-violent and not assigned a weapon -->
+	<MTC.IsIncapableOfViolenceLower>{0} не склонен к насилию и ему не выдано оружие</MTC.IsIncapableOfViolenceLower>
+
+	<!-- EN: Bad work assignment -->
+	<MTC.BadWorkAssignment.Label>Плохое назначение работы</MTC.BadWorkAssignment.Label>
+	<!-- EN: At least one pawn has been assigned to a hated work type. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness. -->
+	<MTC.BadWorkAssignment.Explanation>По крайней мере одному поселенцу был назначен ненавистный ему вид работ. В краткосрочной перспективе это не проблема, но со временем может привести к крайнему недовольству.</MTC.BadWorkAssignment.Explanation>
+
+	<!-- EN: Non-violent pawn assigned a weapon -->
+	<MTC.AssignedAWeapon.Label>Пацифисту выдано оружие</MTC.AssignedAWeapon.Label>
+	<!-- EN: A pawn who detests violence has been assigned a weapon. In the short term, this probably isn't a problem, but over time, it could lead to extreme unhappiness. -->
+	<MTC.AssignedAWeapon.Explanation>Поселенцу, который презирает насилие, было выдано оружие. В краткосрочной перспективе это не проблема, но со временем может привести к крайнему недовольству.</MTC.AssignedAWeapon.Explanation>
+
+	<!-- EN: Ignored Weapons: -->
+	<MTC.IgnoredWeaponsLabel>Игнорируемое оружие:</MTC.IgnoredWeaponsLabel>
+	<!-- EN: List of weapon DefNames to ignore for non-violent pawn checks. To find a weapon's DefName: enable Debug mode, click Inspect (spyglass icon on top of the screen), then Toggle deep inspection (leftmost button), and hover over the weapon on the ground. -->
+	<MTC.IgnoredWeaponsLabelTip>Список DefNames оружия, которое следует игнорировать при проверке пацифистов. Чтобы найти DefName оружия: включите режим разработчика, выберите инструмент «Просмотр» (иконка лупы вверху экрана), затем нажмите «Углублённый просмотр» (крайняя левая кнопка) и наведите курсор на оружие, лежащее на земле.</MTC.IgnoredWeaponsLabelTip>
+	<!-- EN: Add Weapon: -->
+	<MTC.AddWeaponLabel>Добавить оружие:</MTC.AddWeaponLabel>
+	<!-- EN: Add new weapon -->
+	<MTC.AddButton>Добавить новое оружие</MTC.AddButton>
+	<!-- EN: Remove {0} -->
+	<MTC.RemoveButton>Удалить {0}</MTC.RemoveButton>
+	<!-- EN: (No ignored weapons) -->
+	<MTC.NoIgnoredWeapons>(Нет игнорируемого оружия)</MTC.NoIgnoredWeapons>
+</LanguageData>

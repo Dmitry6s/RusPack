@@ -1,0 +1,13 @@
+<LanguageData>
+	<!-- 1.6\Defs\ResearchProjectDefs\ResearchProjects_Metacores.xml -->
+	
+	<!-- EN: Metacore Analysis -->
+	<MF_MetacoreResearch_T0.label>анализ метаядер</MF_MetacoreResearch_T0.label>
+	<!-- EN: Delve into how metacores work, such as how to tap into the isolated network, power generation, fabrication types, and circuit shielding. Allows you to create a crude, relatively low-tech metacore once completed. -->
+	<MF_MetacoreResearch_T0.description>Изучение принципов работы метаядер: способов подключения к изолированным сетям, генерации энергии, методов производства и экранирования цепей. После завершения позволит вам создавать примитивные, относительно низкотехнологичные метаядра.</MF_MetacoreResearch_T0.description>
+	
+	<!-- EN: Rudimentary Metacores -->
+	<MF_MetacoreResearch_T1.label>базовые метаядра</MF_MetacoreResearch_T1.label>
+	<!-- EN: Learn how to manufacture metacores at a precise level, removing the need for specialized pots.\n\nWARNING! Independent metacores are one-use items, while metacore pots can have their plant freely swapped. Choose wisely! -->
+	<MF_MetacoreResearch_T1.description>Позволяет изготавливать метаядра на более точном уровне, избавляя от необходимости использовать специализированные кадки.\n\nВНИМАНИЕ! Автономные метаядра являются одноразовыми предметами, в то время как в кадках для метаядер можно свободно менять растения. Выбирайте с умом!</MF_MetacoreResearch_T1.description>
+</LanguageData>

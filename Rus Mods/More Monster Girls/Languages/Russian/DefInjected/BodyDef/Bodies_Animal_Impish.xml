@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Impish.label>Бес</Impish.label>
+
+	<Impish.corepart.parts.7.customlabel>left lung</Impish.corepart.parts.7.customlabel>
+
+	<Impish.corepart.parts.8.customlabel>right lung</Impish.corepart.parts.8.customlabel>
+
+	<Impish.corepart.parts.9.customlabel>left kidney</Impish.corepart.parts.9.customlabel>
+
+	<Impish.corepart.parts.10.customlabel>right kidney</Impish.corepart.parts.10.customlabel>
+
+	<Impish.corepart.parts.12.parts.0.parts.1.customlabel>right horn</Impish.corepart.parts.12.parts.0.parts.1.customlabel>
+
+	<Impish.corepart.parts.12.parts.0.parts.2.customlabel>left horn</Impish.corepart.parts.12.parts.0.parts.2.customlabel>
+
+	<Impish.corepart.parts.12.parts.0.parts.3.customlabel>left eye</Impish.corepart.parts.12.parts.0.parts.3.customlabel>
+
+	<Impish.corepart.parts.12.parts.0.parts.4.customlabel>right eye</Impish.corepart.parts.12.parts.0.parts.4.customlabel>
+
+	<Impish.corepart.parts.12.parts.0.parts.5.customlabel>left ear</Impish.corepart.parts.12.parts.0.parts.5.customlabel>
+
+	<Impish.corepart.parts.12.parts.0.parts.6.customlabel>right ear</Impish.corepart.parts.12.parts.0.parts.6.customlabel>
+
+	<Impish.corepart.parts.13.customlabel>left shoulder</Impish.corepart.parts.13.customlabel>
+
+	<Impish.corepart.parts.13.parts.0.customlabel>left clavicle</Impish.corepart.parts.13.parts.0.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.customlabel>left arm</Impish.corepart.parts.13.parts.1.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.0.customlabel>left humerus</Impish.corepart.parts.13.parts.1.parts.0.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.1.customlabel>left radius</Impish.corepart.parts.13.parts.1.parts.1.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.2.customlabel>left hand</Impish.corepart.parts.13.parts.1.parts.2.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>left pinky</Impish.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>left ring finger</Impish.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>left middle finger</Impish.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>left index finger</Impish.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+
+	<Impish.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>left thumb</Impish.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+
+	<Impish.corepart.parts.14.customlabel>right shoulder</Impish.corepart.parts.14.customlabel>
+
+	<Impish.corepart.parts.14.parts.0.customlabel>right clavicle</Impish.corepart.parts.14.parts.0.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.customlabel>right arm</Impish.corepart.parts.14.parts.1.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.0.customlabel>right humerus</Impish.corepart.parts.14.parts.1.parts.0.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.1.customlabel>right radius</Impish.corepart.parts.14.parts.1.parts.1.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.2.customlabel>right hand</Impish.corepart.parts.14.parts.1.parts.2.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>right pinky</Impish.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>right ring finger</Impish.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>right middle finger</Impish.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>right index finger</Impish.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>
+
+	<Impish.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>right thumb</Impish.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>
+
+	<Impish.corepart.parts.16.customlabel>left leg</Impish.corepart.parts.16.customlabel>
+
+	<Impish.corepart.parts.16.parts.0.customlabel>left femur</Impish.corepart.parts.16.parts.0.customlabel>
+
+	<Impish.corepart.parts.16.parts.1.customlabel>left tibia</Impish.corepart.parts.16.parts.1.customlabel>
+
+	<Impish.corepart.parts.16.parts.2.customlabel>left foot</Impish.corepart.parts.16.parts.2.customlabel>
+
+	<Impish.corepart.parts.16.parts.2.parts.0.customlabel>left little toe</Impish.corepart.parts.16.parts.2.parts.0.customlabel>
+
+	<Impish.corepart.parts.16.parts.2.parts.1.customlabel>left fourth toe</Impish.corepart.parts.16.parts.2.parts.1.customlabel>
+
+	<Impish.corepart.parts.16.parts.2.parts.2.customlabel>left middle toe</Impish.corepart.parts.16.parts.2.parts.2.customlabel>
+
+	<Impish.corepart.parts.16.parts.2.parts.3.customlabel>left second toe</Impish.corepart.parts.16.parts.2.parts.3.customlabel>
+
+	<Impish.corepart.parts.16.parts.2.parts.4.customlabel>left big toe</Impish.corepart.parts.16.parts.2.parts.4.customlabel>
+
+	<Impish.corepart.parts.17.customlabel>right leg</Impish.corepart.parts.17.customlabel>
+
+	<Impish.corepart.parts.17.parts.0.customlabel>right femur</Impish.corepart.parts.17.parts.0.customlabel>
+
+	<Impish.corepart.parts.17.parts.1.customlabel>right tibia</Impish.corepart.parts.17.parts.1.customlabel>
+
+	<Impish.corepart.parts.17.parts.2.customlabel>right foot</Impish.corepart.parts.17.parts.2.customlabel>
+
+	<Impish.corepart.parts.17.parts.2.parts.0.customlabel>right little toe</Impish.corepart.parts.17.parts.2.parts.0.customlabel>
+
+	<Impish.corepart.parts.17.parts.2.parts.1.customlabel>right fourth toe</Impish.corepart.parts.17.parts.2.parts.1.customlabel>
+
+	<Impish.corepart.parts.17.parts.2.parts.2.customlabel>right middle toe</Impish.corepart.parts.17.parts.2.parts.2.customlabel>
+
+	<Impish.corepart.parts.17.parts.2.parts.3.customlabel>right second toe</Impish.corepart.parts.17.parts.2.parts.3.customlabel>
+
+	<Impish.corepart.parts.17.parts.2.parts.4.customlabel>right big toe</Impish.corepart.parts.17.parts.2.parts.4.customlabel>
+
+</LanguageData>

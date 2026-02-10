@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Cowgirl.label>Бурёнка</Cowgirl.label>
+    
+	<Cowgirl.lifestages.0.label>Телёнок</Cowgirl.lifestages.0.label>
+    
+	<Cowgirl.lifestages.1.label>Растущий телёнок</Cowgirl.lifestages.1.label>
+	<Cowgirl.lifestages.1.labelmale>Маленький бычок</Cowgirl.lifestages.1.labelmale>
+	<Cowgirl.lifestages.1.labelfemale>Маленькая бурёнка</Cowgirl.lifestages.1.labelfemale>
+
+	<Cowgirl.lifestages.2.labelmale>Быкоморф</Cowgirl.lifestages.2.labelmale>
+	<Cowgirl.lifestages.2.labelfemale>Бурёнка</Cowgirl.lifestages.2.labelfemale>
+
+</LanguageData>

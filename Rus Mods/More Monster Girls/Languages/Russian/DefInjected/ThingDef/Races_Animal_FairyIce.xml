@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FairyIce.label>Снежная фея</FairyIce.label>
+
+	<FairyIce.description>Маленькая, неуловимая и долгоживущая травоядная фея. Ледяные феи обитают в холодных регионах. Они способны выживать в чрезвычайно холодных условиях и редко нуждаются в пище. Их ищут за их волшебную пыльцу. Хотя они немного выносливее лесных фей, они избегают сражений из-за их маленького размера.</FairyIce.description>
+
+	<FairyIce.tools.0.label>зубы</FairyIce.tools.0.label>
+	<FairyIce.tools.1.label>голова</FairyIce.tools.1.label>
+	<FairyIce.tools.2.label>левый кулак</FairyIce.tools.2.label>
+	<FairyIce.tools.3.label>правый кулак</FairyIce.tools.3.label>
+
+</LanguageData>

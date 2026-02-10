@@ -1,0 +1,7 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Buildings\Metaplants_HoloBasins.xml -->
+	<!-- EN: metacore pot (MK I) -->
+	<MF_PoweredPlantPot.label>кадка для метаядра (MK I)</MF_PoweredPlantPot.label>
+	<!-- EN: A small pot that is needed for early metacore support, and only supports metacore plants. Despite being a compromise in metaflora research, the extra support this pot provides allows the chosen plant to be freely swapped. -->
+	<MF_PoweredPlantPot.description>Маленькая кадка, необходимая для поддержки ранних метаядер. Подходит только для метарастений. Несмотря на то, что эта модель является компромиссом в исследованиях метафлоры, дополнительная поддержка, которую она обеспечивает, позволяет свободно менять установленное растение.</MF_PoweredPlantPot.description>
+</LanguageData>

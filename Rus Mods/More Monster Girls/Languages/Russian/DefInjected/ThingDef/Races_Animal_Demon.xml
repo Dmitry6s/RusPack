@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Impmother.label>Бес</Impmother.label>
+	<Impmother.description>Демоническое существо. Бесы были созданы более крупными, более разумными демонами, чтобы служить в качестве рабов. У них очень необычная продолжительность жизни, они достигают зрелости только в последние 8 лет своей жизни. Однако взрослый бес-женщина (называемая матерью бесов) очень быстро производит потомство и дает столько молока, что корова покраснеет. У них озорной характер, они любят внимание, но могут сильно привязаться к матери или хозяину. Они предпочитают жаркий климат.</Impmother.description>
+
+	<Impmother.tools.0.label>рог</Impmother.tools.0.label>
+	<Impmother.tools.1.label>голова</Impmother.tools.1.label>
+	<Impmother.tools.2.label>левый кулак</Impmother.tools.2.label>
+	<Impmother.tools.3.label>правый кулак</Impmother.tools.3.label>
+
+</LanguageData>

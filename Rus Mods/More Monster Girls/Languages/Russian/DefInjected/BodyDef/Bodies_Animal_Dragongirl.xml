@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Dragongirl.label>Драконодева</Dragongirl.label>
+
+	<Dragongirl.corepart.parts.8.customlabel>left lung</Dragongirl.corepart.parts.8.customlabel>
+
+	<Dragongirl.corepart.parts.9.customlabel>right lung</Dragongirl.corepart.parts.9.customlabel>
+
+	<Dragongirl.corepart.parts.10.customlabel>left kidney</Dragongirl.corepart.parts.10.customlabel>
+
+	<Dragongirl.corepart.parts.11.customlabel>right kidney</Dragongirl.corepart.parts.11.customlabel>
+
+	<Dragongirl.corepart.parts.13.parts.0.parts.1.customlabel>left eye</Dragongirl.corepart.parts.13.parts.0.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.13.parts.0.parts.2.customlabel>right eye</Dragongirl.corepart.parts.13.parts.0.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.13.parts.0.parts.3.customlabel>left ear</Dragongirl.corepart.parts.13.parts.0.parts.3.customlabel>
+
+	<Dragongirl.corepart.parts.13.parts.0.parts.4.customlabel>right ear</Dragongirl.corepart.parts.13.parts.0.parts.4.customlabel>
+
+	<Dragongirl.corepart.parts.14.customlabel>left shoulder</Dragongirl.corepart.parts.14.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.0.customlabel>left clavicle</Dragongirl.corepart.parts.14.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.customlabel>left arm</Dragongirl.corepart.parts.14.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.0.customlabel>left humerus</Dragongirl.corepart.parts.14.parts.1.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.1.customlabel>left radius</Dragongirl.corepart.parts.14.parts.1.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.2.customlabel>left hand</Dragongirl.corepart.parts.14.parts.1.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>left pinky</Dragongirl.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>left ring finger</Dragongirl.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>left middle finger</Dragongirl.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>left index finger</Dragongirl.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>
+
+	<Dragongirl.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>left thumb</Dragongirl.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>
+
+	<Dragongirl.corepart.parts.15.customlabel>right shoulder</Dragongirl.corepart.parts.15.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.0.customlabel>right clavicle</Dragongirl.corepart.parts.15.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.customlabel>right arm</Dragongirl.corepart.parts.15.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.0.customlabel>right humerus</Dragongirl.corepart.parts.15.parts.1.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.1.customlabel>right radius</Dragongirl.corepart.parts.15.parts.1.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.2.customlabel>right hand</Dragongirl.corepart.parts.15.parts.1.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.2.parts.0.customlabel>right pinky</Dragongirl.corepart.parts.15.parts.1.parts.2.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.2.parts.1.customlabel>right ring finger</Dragongirl.corepart.parts.15.parts.1.parts.2.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.2.parts.2.customlabel>right middle finger</Dragongirl.corepart.parts.15.parts.1.parts.2.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.2.parts.3.customlabel>right index finger</Dragongirl.corepart.parts.15.parts.1.parts.2.parts.3.customlabel>
+
+	<Dragongirl.corepart.parts.15.parts.1.parts.2.parts.4.customlabel>right thumb</Dragongirl.corepart.parts.15.parts.1.parts.2.parts.4.customlabel>
+
+	<Dragongirl.corepart.parts.17.customlabel>left leg</Dragongirl.corepart.parts.17.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.0.customlabel>left femur</Dragongirl.corepart.parts.17.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.1.customlabel>left tibia</Dragongirl.corepart.parts.17.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.2.customlabel>left foot</Dragongirl.corepart.parts.17.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.2.parts.0.customlabel>left little toe</Dragongirl.corepart.parts.17.parts.2.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.2.parts.1.customlabel>left fourth toe</Dragongirl.corepart.parts.17.parts.2.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.2.parts.2.customlabel>left middle toe</Dragongirl.corepart.parts.17.parts.2.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.2.parts.3.customlabel>left second toe</Dragongirl.corepart.parts.17.parts.2.parts.3.customlabel>
+
+	<Dragongirl.corepart.parts.17.parts.2.parts.4.customlabel>left big toe</Dragongirl.corepart.parts.17.parts.2.parts.4.customlabel>
+
+	<Dragongirl.corepart.parts.18.customlabel>right leg</Dragongirl.corepart.parts.18.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.0.customlabel>right femur</Dragongirl.corepart.parts.18.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.1.customlabel>right tibia</Dragongirl.corepart.parts.18.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.2.customlabel>right foot</Dragongirl.corepart.parts.18.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.2.parts.0.customlabel>right little toe</Dragongirl.corepart.parts.18.parts.2.parts.0.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.2.parts.1.customlabel>right fourth toe</Dragongirl.corepart.parts.18.parts.2.parts.1.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.2.parts.2.customlabel>right middle toe</Dragongirl.corepart.parts.18.parts.2.parts.2.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.2.parts.3.customlabel>right second toe</Dragongirl.corepart.parts.18.parts.2.parts.3.customlabel>
+
+	<Dragongirl.corepart.parts.18.parts.2.parts.4.customlabel>right big toe</Dragongirl.corepart.parts.18.parts.2.parts.4.customlabel>
+
+</LanguageData>

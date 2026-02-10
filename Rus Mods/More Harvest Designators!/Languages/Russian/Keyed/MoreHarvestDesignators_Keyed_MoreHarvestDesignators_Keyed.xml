@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+	<!-- EN: Cut blighted plants -->
+	<Designator_PlantCut_Blighted_label>Срезать заражённые растения</Designator_PlantCut_Blighted_label>
+	<!-- EN: Only marks blighted plants to be cut -->
+	<Designator_PlantCut_Blighted_desc>Отмечает для срезки только заражённые растения.</Designator_PlantCut_Blighted_desc>
+	<!-- EN: Must designate blighted plants!	 -->
+	<Designator_PlantCut_Blighted_rejected>Нужно указать заражённые растения!</Designator_PlantCut_Blighted_rejected>
+
+	<!-- EN: Harvest mature plants -->
+	<Designator_PlantsHarvest_Mature_label>Собрать зрелые растения</Designator_PlantsHarvest_Mature_label>
+	<!-- EN: Only marks fully-grown plants for harvest -->
+	<Designator_PlantsHarvest_Mature_desc>Отмечает для сбора только полностью выросшие растения.</Designator_PlantsHarvest_Mature_desc>
+	<!-- EN: Must designate fully grown plants! -->
+	<Designator_PlantsHarvest_Mature_rejected>Нужно указать полностью выросшие растения!</Designator_PlantsHarvest_Mature_rejected>
+
+	<!-- EN:  Chop mature tree -->
+	<Designator_PlantsHarvestWood_Mature_label>Срубить зрелые деревья</Designator_PlantsHarvestWood_Mature_label>
+	<!-- EN: Only marks fully-grown trees for harvest -->
+	<Designator_PlantsHarvestWood_Mature_desc>Отмечает для рубки только полностью выросшие деревья.</Designator_PlantsHarvestWood_Mature_desc>
+	<!-- EN: Must designate fully-grown trees! -->
+	<Designator_PlantsHarvestWood_Mature_Rejected>Нужно указать полностью выросшие деревья!</Designator_PlantsHarvestWood_Mature_Rejected>
+
+	<!-- EN: Cut all but trees -->
+	<Designator_PlantCut_NoTrees_label>Срезать всё, кроме деревьев</Designator_PlantCut_NoTrees_label>
+	<!-- EN: Cuts all plants, except trees -->
+	<Designator_PlantCut_NoTrees_desc>Срезает все растения, за исключением деревьев.</Designator_PlantCut_NoTrees_desc>
+	<!-- EN: Must designate plants! -->
+	<Designator_PlantCut_NoTrees_rejected>Нужно указать растения!</Designator_PlantCut_NoTrees_rejected>
+
+	<!-- EN: Cut all tree stumps -->
+	<Designator_PlantsHarvestStumps_label>Срубить все пни</Designator_PlantsHarvestStumps_label>
+	<!-- EN: Cuts all tree stumps -->
+	<Designator_PlantsHarvestStumps_desc>Отмечает для удаления все пни деревьев.</Designator_PlantsHarvestStumps_desc>
+	<!-- EN: Must designate tree stumps! -->
+	<Designator_PlantsHarvestStump_Rejected>Нужно указать пни деревьев!</Designator_PlantsHarvestStump_Rejected>
+</LanguageData>

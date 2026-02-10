@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Dragongirl.label>Драконодева</Dragongirl.label>
+	<Dragongirl.description>Драконодевы - очень мощные боевые животные. Их тело покрыто толстой защитной чешуей, а зубами и когтями они могут разорвать добычу на части. Они наиболее распространены в засушливых регионах.</Dragongirl.description>
+
+	<Dragongirl.tools.0.label>левые когти</Dragongirl.tools.0.label>
+	<Dragongirl.tools.1.label>правые когти</Dragongirl.tools.1.label>
+	<Dragongirl.tools.3.label>голова</Dragongirl.tools.3.label>
+
+</LanguageData>

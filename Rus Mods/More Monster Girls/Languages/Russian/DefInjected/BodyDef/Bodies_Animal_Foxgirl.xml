@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Foxgirl.label>Лисодева</Foxgirl.label>
+
+	<Foxgirl.corepart.parts.7.customlabel>left lung</Foxgirl.corepart.parts.7.customlabel>
+
+	<Foxgirl.corepart.parts.8.customlabel>right lung</Foxgirl.corepart.parts.8.customlabel>
+
+	<Foxgirl.corepart.parts.9.customlabel>left kidney</Foxgirl.corepart.parts.9.customlabel>
+
+	<Foxgirl.corepart.parts.10.customlabel>right kidney</Foxgirl.corepart.parts.10.customlabel>
+
+	<Foxgirl.corepart.parts.12.parts.0.parts.1.customlabel>left eye</Foxgirl.corepart.parts.12.parts.0.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.12.parts.0.parts.2.customlabel>right eye</Foxgirl.corepart.parts.12.parts.0.parts.2.customlabel>
+
+	<Foxgirl.corepart.parts.12.parts.0.parts.3.customlabel>left ear</Foxgirl.corepart.parts.12.parts.0.parts.3.customlabel>
+
+	<Foxgirl.corepart.parts.12.parts.0.parts.4.customlabel>right ear</Foxgirl.corepart.parts.12.parts.0.parts.4.customlabel>
+
+	<Foxgirl.corepart.parts.13.customlabel>left shoulder</Foxgirl.corepart.parts.13.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.0.customlabel>left clavicle</Foxgirl.corepart.parts.13.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.customlabel>left arm</Foxgirl.corepart.parts.13.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.0.customlabel>left humerus</Foxgirl.corepart.parts.13.parts.1.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.1.customlabel>left radius</Foxgirl.corepart.parts.13.parts.1.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.2.customlabel>left hand-paw</Foxgirl.corepart.parts.13.parts.1.parts.2.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>left pinky</Foxgirl.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>left ring finger</Foxgirl.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>left middle finger</Foxgirl.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>left index finger</Foxgirl.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+
+	<Foxgirl.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>left thumb</Foxgirl.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+
+	<Foxgirl.corepart.parts.14.customlabel>right shoulder</Foxgirl.corepart.parts.14.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.0.customlabel>right clavicle</Foxgirl.corepart.parts.14.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.customlabel>right arm</Foxgirl.corepart.parts.14.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.0.customlabel>right humerus</Foxgirl.corepart.parts.14.parts.1.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.1.customlabel>right radius</Foxgirl.corepart.parts.14.parts.1.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.2.customlabel>right hand-paw</Foxgirl.corepart.parts.14.parts.1.parts.2.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>right pinky</Foxgirl.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>right ring finger</Foxgirl.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>right middle finger</Foxgirl.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>right index finger</Foxgirl.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>
+
+	<Foxgirl.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>right thumb</Foxgirl.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>
+
+	<Foxgirl.corepart.parts.16.customlabel>left leg</Foxgirl.corepart.parts.16.customlabel>
+
+	<Foxgirl.corepart.parts.16.parts.0.customlabel>left femur</Foxgirl.corepart.parts.16.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.16.parts.1.customlabel>left tibia</Foxgirl.corepart.parts.16.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.16.parts.2.customlabel>left foot-paw</Foxgirl.corepart.parts.16.parts.2.customlabel>
+
+	<Foxgirl.corepart.parts.17.customlabel>right leg</Foxgirl.corepart.parts.17.customlabel>
+
+	<Foxgirl.corepart.parts.17.parts.0.customlabel>right femur</Foxgirl.corepart.parts.17.parts.0.customlabel>
+
+	<Foxgirl.corepart.parts.17.parts.1.customlabel>right tibia</Foxgirl.corepart.parts.17.parts.1.customlabel>
+
+	<Foxgirl.corepart.parts.17.parts.2.customlabel>right foot-paw</Foxgirl.corepart.parts.17.parts.2.customlabel>
+
+</LanguageData>

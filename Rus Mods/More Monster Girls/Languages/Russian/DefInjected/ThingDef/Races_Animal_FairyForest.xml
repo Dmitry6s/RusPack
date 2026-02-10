@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<FairyForest.label>Лесная фея</FairyForest.label>
+	<FairyForest.description>Маленькая, неуловимая и долгоживущая травоядная фея. Лесные феи обитают в лесах и джунглях. Их ищут за их магическую пыльцу. Из-за своего маленького размера они избегают боя.</FairyForest.description>
+
+	<FairyForest.tools.0.label>зубы</FairyForest.tools.0.label>
+	<FairyForest.tools.1.label>голова</FairyForest.tools.1.label>
+	<FairyForest.tools.2.label>левый кулак</FairyForest.tools.2.label>
+	<FairyForest.tools.3.label>правый кулак</FairyForest.tools.3.label>
+
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\MilkNet.xml -->
+	<!-- EN: milk pipes -->
+	<MP_MilkPipes.label>молочные трубы</MP_MilkPipes.label>
+	<!-- EN: milk taps -->
+	<MP_MilkTaps.label>краны для молока</MP_MilkTaps.label>
+</LanguageData>

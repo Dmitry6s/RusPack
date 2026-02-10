@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Thrumbomorph.label>Трумбодева</Thrumbomorph.label>
+
+	<Thrumbomorph.corepart.parts.7.customlabel>left lung</Thrumbomorph.corepart.parts.7.customlabel>
+
+	<Thrumbomorph.corepart.parts.8.customlabel>right lung</Thrumbomorph.corepart.parts.8.customlabel>
+
+	<Thrumbomorph.corepart.parts.9.customlabel>left kidney</Thrumbomorph.corepart.parts.9.customlabel>
+
+	<Thrumbomorph.corepart.parts.10.customlabel>right kidney</Thrumbomorph.corepart.parts.10.customlabel>
+
+	<Thrumbomorph.corepart.parts.12.parts.0.parts.2.customlabel>left eye</Thrumbomorph.corepart.parts.12.parts.0.parts.2.customlabel>
+
+	<Thrumbomorph.corepart.parts.12.parts.0.parts.3.customlabel>right eye</Thrumbomorph.corepart.parts.12.parts.0.parts.3.customlabel>
+
+	<Thrumbomorph.corepart.parts.12.parts.0.parts.4.customlabel>left ear</Thrumbomorph.corepart.parts.12.parts.0.parts.4.customlabel>
+
+	<Thrumbomorph.corepart.parts.12.parts.0.parts.5.customlabel>right ear</Thrumbomorph.corepart.parts.12.parts.0.parts.5.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.customlabel>left shoulder</Thrumbomorph.corepart.parts.13.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.0.customlabel>left clavicle</Thrumbomorph.corepart.parts.13.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.customlabel>left arm</Thrumbomorph.corepart.parts.13.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.0.customlabel>left humerus</Thrumbomorph.corepart.parts.13.parts.1.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.1.customlabel>left radius</Thrumbomorph.corepart.parts.13.parts.1.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.2.customlabel>left hand</Thrumbomorph.corepart.parts.13.parts.1.parts.2.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>left pinky</Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>left ring finger</Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>left middle finger</Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.2.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>left index finger</Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.3.customlabel>
+
+	<Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>left thumb</Thrumbomorph.corepart.parts.13.parts.1.parts.2.parts.4.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.customlabel>right shoulder</Thrumbomorph.corepart.parts.14.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.0.customlabel>right clavicle</Thrumbomorph.corepart.parts.14.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.customlabel>right arm</Thrumbomorph.corepart.parts.14.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.0.customlabel>right humerus</Thrumbomorph.corepart.parts.14.parts.1.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.1.customlabel>right radius</Thrumbomorph.corepart.parts.14.parts.1.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.2.customlabel>right hand</Thrumbomorph.corepart.parts.14.parts.1.parts.2.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>right pinky</Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>right ring finger</Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>right middle finger</Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.2.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>right index finger</Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.3.customlabel>
+
+	<Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>right thumb</Thrumbomorph.corepart.parts.14.parts.1.parts.2.parts.4.customlabel>
+
+	<Thrumbomorph.corepart.parts.16.customlabel>left leg</Thrumbomorph.corepart.parts.16.customlabel>
+
+	<Thrumbomorph.corepart.parts.16.parts.0.customlabel>left femur</Thrumbomorph.corepart.parts.16.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.16.parts.1.customlabel>left tibia</Thrumbomorph.corepart.parts.16.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.16.parts.2.customlabel>left hoof</Thrumbomorph.corepart.parts.16.parts.2.customlabel>
+
+	<Thrumbomorph.corepart.parts.17.customlabel>right leg</Thrumbomorph.corepart.parts.17.customlabel>
+
+	<Thrumbomorph.corepart.parts.17.parts.0.customlabel>right femur</Thrumbomorph.corepart.parts.17.parts.0.customlabel>
+
+	<Thrumbomorph.corepart.parts.17.parts.1.customlabel>right tibia</Thrumbomorph.corepart.parts.17.parts.1.customlabel>
+
+	<Thrumbomorph.corepart.parts.17.parts.2.customlabel>right hoof</Thrumbomorph.corepart.parts.17.parts.2.customlabel>
+
+</LanguageData>

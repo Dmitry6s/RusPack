@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Centaur.label>Кентавр</Centaur.label>
+	<Centaur.description>Быстрое, выносливое, умное и независимое животное. Кентавры чаще всего пасутся на засушливых лугах. Кентавры чрезвычайно универсальны и могут хорошо служить в бою, использоваться в качестве вьючных животных, производить молоко и шерсть, а также в качестве компаньонов.</Centaur.description>
+
+	<Centaur.tools.0.label>зубы</Centaur.tools.0.label>
+	<Centaur.tools.1.label>голова</Centaur.tools.1.label>
+	<Centaur.tools.2.label>левый кулак</Centaur.tools.2.label>
+	<Centaur.tools.3.label>правый кулак</Centaur.tools.3.label>
+	<Centaur.tools.4.label>левое копыто</Centaur.tools.4.label>
+	<Centaur.tools.5.label>правое копыто</Centaur.tools.5.label>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Plants\Metaplants_HoloDecorative.xml -->
+	<!-- EN: holoplant: TU-I (blue) -->
+	<MF_HoloTulipA_Blue.label>голорастение: TU-I (синее)</MF_HoloTulipA_Blue.label>
+	<!-- EN: A mechanical flower with tulip-like imitations. -->
+	<MF_HoloTulipA_Blue.description>Механический цветок, имитирующий тюльпан.</MF_HoloTulipA_Blue.description>
+	
+	<!-- EN: holoplant: TU-II (blue) -->
+	<MF_HoloTulipB_Blue.label>голорастение: TU-II (синее)</MF_HoloTulipB_Blue.label>
+	<!-- EN: A mechanical flower with tulip-like imitations. -->
+	<MF_HoloTulipB_Blue.description>Механический цветок, имитирующий тюльпан.</MF_HoloTulipB_Blue.description>
+	
+	<!-- EN: holoplant: TU-III (blue) -->
+	<MF_HoloTulipC_Blue.label>голорастение: TU-III (синее)</MF_HoloTulipC_Blue.label>
+	<!-- EN: A three-headed mechanical flower with tulip-like imitations. -->
+	<MF_HoloTulipC_Blue.description>Трёхглавый механический цветок, имитирующий тюльпан.</MF_HoloTulipC_Blue.description>
+	
+	<!-- EN: holoplant: BE-I (blue) -->
+	<MF_HoloBetelA_Blue.label>голорастение: BE-I (синее)</MF_HoloBetelA_Blue.label>
+	<!-- EN: A mechanical plant with three wide leaves. -->
+	<MF_HoloBetelA_Blue.description>Механическое растение с тремя широкими листьями.</MF_HoloBetelA_Blue.description>
+	
+	<!-- EN: holoplant: BU-I (blue) -->
+	<MF_HoloBulbousA_Blue.label>голорастение: BU-I (синее)</MF_HoloBulbousA_Blue.label>
+	<!-- EN: A mechanical plant, with three bulbous ends. -->
+	<MF_HoloBulbousA_Blue.description>Механическое растение с тремя луковичными наконечниками.</MF_HoloBulbousA_Blue.description>
+	
+	<!-- EN: holoplant: BS-I (blue) -->
+	<MF_HoloSimplexA_Blue.label>голорастение: BS-I (синее)</MF_HoloSimplexA_Blue.label>
+	<!-- EN: A mechanical plant, meant to mimic a small tree fern. -->
+	<MF_HoloSimplexA_Blue.description>Механическое растение, имитирующее небольшой древовидный папоротник.</MF_HoloSimplexA_Blue.description>
+</LanguageData>

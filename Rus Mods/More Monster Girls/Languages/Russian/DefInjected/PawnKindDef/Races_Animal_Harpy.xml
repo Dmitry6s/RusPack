@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Harpy.label>Гарпия</Harpy.label>
+	<Harpy.labelmale>Гарпий</Harpy.labelmale>
+	<Harpy.labelfemale>Гарпия</Harpy.labelfemale>
+
+	<Harpy.lifestages.0.labelmale>Птенец гарпия</Harpy.lifestages.0.labelmale>
+	<Harpy.lifestages.0.labelfemale>Птенец гарпии</Harpy.lifestages.0.labelfemale>
+
+	<Harpy.lifestages.1.labelmale>Юный гарпий</Harpy.lifestages.1.labelmale>
+	<Harpy.lifestages.1.labelfemale>Юная гарпия</Harpy.lifestages.1.labelfemale>
+
+	<Harpy.lifestages.2.labelmale>Гарпий</Harpy.lifestages.2.labelmale>
+	<Harpy.lifestages.2.labelfemale>Гарпия</Harpy.lifestages.2.labelfemale>
+
+</LanguageData>

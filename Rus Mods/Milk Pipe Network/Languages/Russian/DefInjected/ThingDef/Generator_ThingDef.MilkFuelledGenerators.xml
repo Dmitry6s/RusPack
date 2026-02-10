@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\Generator.xml -->
+	<!-- EN: milk powered generator -->
+	<MilkPoweredGenerator.label>молочный генератор</MilkPoweredGenerator.label>
+	<!-- EN: Produces power by consuming milk. Must be periodically refueled by hand. -->
+	<MilkPoweredGenerator.description>Вырабатывает электроэнергию, потребляя молоко. Его необходимо периодически заправлять вручную.</MilkPoweredGenerator.description>
+</LanguageData>

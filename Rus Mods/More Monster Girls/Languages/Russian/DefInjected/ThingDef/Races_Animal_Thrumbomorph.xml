@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Thrumbomorph.label>Трумбоморф</Thrumbomorph.label>
+	<Thrumbomorph.description>Существо, внешне представляющее собой нечто среднее между человеком и трумбо. У них есть острый рог, но он не такой ценный, как у обычного трумбо. Тем не менее, это очень сильный боец. Их редко можно встретить в более холодных регионах, но все же они встречаются чаще, чем трумбо.</Thrumbomorph.description>
+
+	<Thrumbomorph.tools.0.label>зубы</Thrumbomorph.tools.0.label>
+	<Thrumbomorph.tools.1.label>голова</Thrumbomorph.tools.1.label>
+	<Thrumbomorph.tools.2.label>рог</Thrumbomorph.tools.2.label>
+	<Thrumbomorph.tools.3.label>левый кулак</Thrumbomorph.tools.3.label>
+	<Thrumbomorph.tools.4.label>правый кулак</Thrumbomorph.tools.4.label>
+
+</LanguageData>

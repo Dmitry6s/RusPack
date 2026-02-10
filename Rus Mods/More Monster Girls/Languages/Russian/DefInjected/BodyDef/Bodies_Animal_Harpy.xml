@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Harpy.label>Гарпия</Harpy.label>
+
+	<Harpy.corepart.parts.7.customlabel>left lung</Harpy.corepart.parts.7.customlabel>
+
+	<Harpy.corepart.parts.8.customlabel>right lung</Harpy.corepart.parts.8.customlabel>
+
+	<Harpy.corepart.parts.9.customlabel>left kidney</Harpy.corepart.parts.9.customlabel>
+
+	<Harpy.corepart.parts.10.customlabel>right kidney</Harpy.corepart.parts.10.customlabel>
+
+	<Harpy.corepart.parts.12.parts.0.parts.1.customlabel>left eye</Harpy.corepart.parts.12.parts.0.parts.1.customlabel>
+
+	<Harpy.corepart.parts.12.parts.0.parts.2.customlabel>right eye</Harpy.corepart.parts.12.parts.0.parts.2.customlabel>
+
+	<Harpy.corepart.parts.13.customlabel>left shoulder</Harpy.corepart.parts.13.customlabel>
+
+	<Harpy.corepart.parts.13.parts.0.customlabel>left clavicle</Harpy.corepart.parts.13.parts.0.customlabel>
+
+	<Harpy.corepart.parts.13.parts.1.customlabel>left wing</Harpy.corepart.parts.13.parts.1.customlabel>
+
+	<Harpy.corepart.parts.14.customlabel>right shoulder</Harpy.corepart.parts.14.customlabel>
+
+	<Harpy.corepart.parts.14.parts.0.customlabel>right clavicle</Harpy.corepart.parts.14.parts.0.customlabel>
+
+	<Harpy.corepart.parts.14.parts.1.customlabel>right wing</Harpy.corepart.parts.14.parts.1.customlabel>
+
+	<Harpy.corepart.parts.16.customlabel>left leg</Harpy.corepart.parts.16.customlabel>
+
+	<Harpy.corepart.parts.16.parts.0.customlabel>left foot</Harpy.corepart.parts.16.parts.0.customlabel>
+
+	<Harpy.corepart.parts.17.customlabel>right leg</Harpy.corepart.parts.17.customlabel>
+
+	<Harpy.corepart.parts.17.parts.0.customlabel>right foot</Harpy.corepart.parts.17.parts.0.customlabel>
+
+</LanguageData>

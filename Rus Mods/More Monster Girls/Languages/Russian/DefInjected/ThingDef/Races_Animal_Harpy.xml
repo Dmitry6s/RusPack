@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Harpy.label>Гарпия</Harpy.label>
+	<Harpy.description>Всеядное существо, которое выглядит как человеческая женщина с крыльями, когтями и клювом. Гарпии откладывают яйца и живут в засушливых регионах. В бою они хрупки, но быстры и обладают мощными атаками. Они быстро размножаются и могут быть чрезвычайно опасны в больших группах. Их перья могут использоваться для изготовления одежды, подобно шерсти.</Harpy.description>
+
+	<Harpy.tools.0.label>когти</Harpy.tools.0.label>
+	<Harpy.tools.1.label>клюв</Harpy.tools.1.label>
+	<Harpy.tools.2.label>голова</Harpy.tools.2.label>
+
+</LanguageData>

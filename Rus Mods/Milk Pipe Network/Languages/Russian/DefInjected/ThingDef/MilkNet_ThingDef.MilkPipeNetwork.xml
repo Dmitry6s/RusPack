@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	<!-- 1.6\Defs\MilkNet.xml -->
+	<!-- EN: milk pipe -->
+	<MP_MilkPipe.label>молочная труба</MP_MilkPipe.label>
+	<!-- EN: A thin and lightweight pipe used for transporting milk. -->
+	<MP_MilkPipe.description>Тонкая и лёгкая труба, используемая для транспортировки молока.</MP_MilkPipe.description>
+	<!-- EN: underground milk pipe -->
+	<MP_UndergroundMilkPipe.label>подземная молочная труба</MP_UndergroundMilkPipe.label>
+	<!-- EN: A thin and lightweight underground pipe used for transporting milk. -->
+	<MP_UndergroundMilkPipe.description>Тонкая и лёгкая подземная труба, используемая для транспортировки молока.</MP_UndergroundMilkPipe.description>
+	<!-- EN: milk tank -->
+	<MP_MilkTank.label>резервуар для молока</MP_MilkTank.label>
+	<!-- EN: An integrated metal tank with a pump and motor attached. Can hold a maximum of 500 liters of milk. The contents will spoil if the power is cut off. -->
+	<MP_MilkTank.description>Цельный металлический бак с установленным насосом и двигателем. Вмещает до 500 литров молока. Содержимое испортится, если подача электроэнергии будет прекращена.</MP_MilkTank.description>
+	<!-- EN: milk drain -->
+	<MP_MilkDrain.label>слив для молока</MP_MilkDrain.label>
+	<!-- EN: A funnel for pouring milk into the pipes. Connected tanks will be automatically filled. -->
+	<MP_MilkDrain.description>Воронка для заливки молока в систему труб. Подключённые резервуары будут заполняться автоматически.</MP_MilkDrain.description>
+	<!-- EN: milk tap -->
+	<MP_MilkTap.label>кран для молока</MP_MilkTap.label>
+	<!-- EN: A tap for pouring milk from the connected tanks. -->
+	<MP_MilkTap.description>Кран для разлива молока из подключённых резервуаров.</MP_MilkTap.description>
+</LanguageData>

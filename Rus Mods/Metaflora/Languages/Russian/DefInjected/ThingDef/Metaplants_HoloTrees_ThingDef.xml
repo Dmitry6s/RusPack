@@ -1,0 +1,22 @@
+<LanguageData>
+	<!-- 1.6\Defs\ThingDefs_Plants\Metaplants_HoloTrees.xml -->
+	<!-- EN: holotree: mangolia -->
+	<MF_HoloMangoliaA_Blue.label>голодерево: магнолия</MF_HoloMangoliaA_Blue.label>
+	<!-- EN: A mechanical tree meant to imitate mongolia trees, back from Earth. Thanks to an internal, self-sufficient power supply, it can be planted anywhere, and will last indefinitely. However, it is too heavy to move. -->
+	<MF_HoloMangoliaA_Blue.description>Механическое дерево, созданное по образу земных магнолий. Благодаря встроенному автономному источнику питания его можно «посадить» где угодно, и оно будет работать бесконечно долго. Однако оно слишком тяжёлое, чтобы его можно было передвинуть.</MF_HoloMangoliaA_Blue.description>
+	
+	<!-- EN: holotree: palm tree -->
+	<MF_HoloPalmA_Blue.label>голодерево: пальма</MF_HoloPalmA_Blue.label>
+	<!-- EN: A mechanical tree meant to imitate the tropical palm tree, built and powered by a specialized metacore. However, it is too heavy to move. -->
+	<MF_HoloPalmA_Blue.description>Механическое дерево, имитирующее тропическую пальму. Оно функционирует за счёт энергии специализированного метаядра. Однако оно слишком тяжёлое, чтобы его можно было передвинуть.</MF_HoloPalmA_Blue.description>
+	
+	<!-- EN: holotree: palm tree (blue) -->
+	<MF_HoloPalmA_MaskedBlue.label>голодерево: пальма (синяя)</MF_HoloPalmA_MaskedBlue.label>
+	<!-- EN: A mechanical tree meant to imitate the tropical palm tree... -->
+	<MF_HoloPalmA_MaskedBlue.description>Механическое дерево, имитирующее тропическую пальму. Оно функционирует за счёт энергии специализированного метаядра. Однако оно слишком тяжёлое, чтобы его можно было передвинуть.</MF_HoloPalmA_MaskedBlue.description>
+	
+	<!-- EN: holotree: palm tree (red) -->
+	<MF_HoloPalmA_MaskedRed.label>голодерево: пальма (красная)</MF_HoloPalmA_MaskedRed.label>
+	<!-- EN: A mechanical tree meant to imitate the tropical palm tree... -->
+	<MF_HoloPalmA_MaskedRed.description>Механическое дерево, имитирующее тропическую пальму. Оно функционирует за счёт энергии специализированного метаядра. Однако оно слишком тяжёлое, чтобы его можно было передвинуть.</MF_HoloPalmA_MaskedRed.description>
+</LanguageData>
